@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft отворен изходен код на поведение
+Този проект е приела на [Microsoft отворен Източник кодекс на поведение](https://opensource.microsoft.com/codeofconduct/). За повече информация вижте [Кодекс за поведение често задавани въпроси](https://opensource.microsoft.com/codeofconduct/faq/) или се свържете с [opencode@microsoft.com](mailto:opencode@microsoft.com) с допълнителни въпроси или коментари.
