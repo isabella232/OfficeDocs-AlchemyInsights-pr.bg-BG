@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383153"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Изтриване потребители](/AlchemyInsights/deleting-users) | модифицирани |
 | 1/11/2019 | [Разполагане на безшевни еднократна идентификация](/AlchemyInsights/deploy-seamless-single-sign-on) | модифицирани |
 | 1/11/2019 | [Блокирането на достъпа до вайкам](/AlchemyInsights/disable-access-to-yammer) | модифицирани |
+
+
+## <a name="week-of-january-14-2019"></a>Седмица на 14 януари 2019
+
+
+| Публикувано на |Заглавие на темата | Промяна |
+|------|------------|--------|
+| 1/14/2019 | Алхимия контейнер | премахнати |
+| 1/14/2019 | Добави домейн алхимия | премахнати |
+| 1/14/2019 | [Алхимия прозрения дом](/AlchemyInsights/index) | модифицирани |
+| 1/17/2019 | [същото като името на файла е най-добре [правило #-описание]](/AlchemyInsights/1-alchemy-insight-template) | добавено |
