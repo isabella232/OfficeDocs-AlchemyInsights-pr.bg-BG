@@ -13,8 +13,8 @@ ms.openlocfilehash: d777bacb799bbe25c11b8ceaf92e2c3d0262026a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383144"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454167"
 ---
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 достъп отказ, моля опитайте отново по-късно
 

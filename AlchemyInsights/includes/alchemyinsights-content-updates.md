@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383153"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454419"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383153"
 ## <a name="week-of-january-07-2019"></a>Седмица на 07 януари 2019
 
 
-| Публикувано на |Заглавие на темата | Промяна |
+| Публикувано на |Заглавие на темата | „Промяна“. |
 |------|------------|--------|
 | 1/7/2019 | [Променете паролата си](/AlchemyInsights/change-your-password-in-outlook.com) | добавено |
 | 1/7/2019 | [Промяна на разрешенията на пощенска кутия](/AlchemyInsights/changing-permissions-on-a-mailbox) | добавено |
@@ -302,7 +302,7 @@ ms.locfileid: "29383153"
 | 1/10/2019 | [Създаване на сайт за комуникация](/AlchemyInsights/create-a-communication-site) | добавено |
 | 1/10/2019 | [Създаване на поток](/AlchemyInsights/create-a-flow) | добавено |
 | 1/10/2019 | [Създаване на сайт на модерната екип](/AlchemyInsights/create-a-modern-team-site) | добавено |
-| 1/10/2019 | [Създаване на споделена пощенска кутия](/AlchemyInsights/create-a-shared-mailbox) | добавено |
+| 1/10/2019 | Създаване на споделена пощенска кутия  | добавено |
 | 1/10/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | добавено |
 | 1/10/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | добавено |
 | 1/10/2019 | [Създаване и използване на споделена пощенска кутия](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | добавено |
@@ -599,7 +599,7 @@ ms.locfileid: "29383153"
 | 1/11/2019 | [Създаване на сайт за комуникация](/AlchemyInsights/create-a-communication-site) | модифицирани |
 | 1/11/2019 | [Създаване на поток](/AlchemyInsights/create-a-flow) | модифицирани |
 | 1/11/2019 | [Създаване на сайт на модерната екип](/AlchemyInsights/create-a-modern-team-site) | модифицирани |
-| 1/11/2019 | [Създаване на споделена пощенска кутия](/AlchemyInsights/create-a-shared-mailbox) | модифицирани |
+| 1/11/2019 | Създаване на споделена пощенска кутия  | модифицирани |
 | 1/11/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | модифицирани |
 | 1/11/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | модифицирани |
 | 1/11/2019 | [Създаване и използване на споделена пощенска кутия](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | модифицирани |
@@ -637,7 +637,7 @@ ms.locfileid: "29383153"
 ## <a name="week-of-january-14-2019"></a>Седмица на 14 януари 2019
 
 
-| Публикувано на |Заглавие на темата | Промяна |
+| Публикувано на |Заглавие на темата | „Промяна“. |
 |------|------------|--------|
 | 1/14/2019 | Алхимия контейнер | премахнати |
 | 1/14/2019 | Добави домейн алхимия | премахнати |

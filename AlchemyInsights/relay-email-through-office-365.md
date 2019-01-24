@@ -15,8 +15,8 @@ ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383145"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454275"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Настройка на многофункционално устройство или приложение за изпращане на имейл използвате Office 365
 
