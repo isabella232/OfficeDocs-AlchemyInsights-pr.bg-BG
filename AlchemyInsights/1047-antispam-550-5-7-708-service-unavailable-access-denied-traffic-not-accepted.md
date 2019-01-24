@@ -13,13 +13,13 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383146"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454059"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="fe771-103">550 5.7.708 отказан достъп, трафик не се приемат от този ПР</span><span class="sxs-lookup"><span data-stu-id="fe771-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="da3b0-103">550 5.7.708 отказан достъп, трафик не се приемат от този ПР</span><span class="sxs-lookup"><span data-stu-id="da3b0-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="fe771-104">Тази грешка възниква, когато изпращате имейл от познати, ниска репутация IP адреси, които обикновено се използват от нови клиенти.</span><span class="sxs-lookup"><span data-stu-id="fe771-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="da3b0-104">Тази грешка възниква, когато изпращате имейл от познати, ниска репутация IP адреси, които обикновено се използват от нови клиенти.</span><span class="sxs-lookup"><span data-stu-id="da3b0-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
   
-<span data-ttu-id="fe771-105">Ако трябва да изпращате имейл от тези IP адреси, преди да можете да закупите лицензи, се свържете с поддръжката да поискате изключение, докато можете да закупите лицензи.</span><span class="sxs-lookup"><span data-stu-id="fe771-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="da3b0-105">Ако трябва да изпращате имейл от тези IP адреси, преди да можете да закупите лицензи, се свържете с поддръжката да поискате изключение, докато можете да закупите лицензи.</span><span class="sxs-lookup"><span data-stu-id="da3b0-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
   
 
