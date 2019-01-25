@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
 ms.openlocfilehash: 15f6fc741adde2208093b2ff45e5594f5beabbe3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275893"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457999"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="3acb3-102">Сервиз инцидент в ход</span><span class="sxs-lookup"><span data-stu-id="3acb3-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="20b0b-102">Сервиз инцидент в ход</span><span class="sxs-lookup"><span data-stu-id="20b0b-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="3acb3-p101">Можете може да бъдат засегнати от инцидента на услуга или консултативен който в момента се разследва. Можете да проверите последното състояние като отидете на страницата на [Здравни услуги](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="3acb3-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="20b0b-p101">Можете може да бъдат засегнати от инцидента на услуга или консултативен който в момента се разследва. Можете да проверите последното състояние като отидете на страницата на [Здравни услуги](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="20b0b-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="3acb3-105">За ваше удобство можете да намерите обобщение на този инцидент по-долу:</span><span class="sxs-lookup"><span data-stu-id="3acb3-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="20b0b-105">За ваше удобство можете да намерите обобщение на този инцидент по-долу:</span><span class="sxs-lookup"><span data-stu-id="20b0b-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="3acb3-106">**Инцидент номер:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="3acb3-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="20b0b-106">**Инцидент номер:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="20b0b-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
     
-> <span data-ttu-id="3acb3-107">Описание на въздействието: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="3acb3-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="20b0b-107">Описание на въздействието: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="20b0b-107">Impact description: {ImpactDescription}</span></span>
     
 

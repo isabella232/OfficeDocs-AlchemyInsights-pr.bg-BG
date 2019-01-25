@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: 3f9c25022af3c634379705312103ecdb8f5042f1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275932"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458491"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="ae42a-102">Отмяна на абонамента в Office 365?</span><span class="sxs-lookup"><span data-stu-id="ae42a-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="40142-102">Отмяна на абонамента в Office 365?</span><span class="sxs-lookup"><span data-stu-id="40142-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="ae42a-103">Ние сме съжалявам да видя и да отидете!</span><span class="sxs-lookup"><span data-stu-id="ae42a-103">We're sorry to see you go!</span></span> 
+<span data-ttu-id="40142-103">Ние сме съжалявам да видя и да отидете!</span><span class="sxs-lookup"><span data-stu-id="40142-103">We're sorry to see you go!</span></span> 
   
-<span data-ttu-id="ae42a-p101">Въз основа на данните ви организация, вярваме, че всичките си текущи абонаменти имат по-малко от 25 места. За да прекратите абонамента си онлайн, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или отидете до **сметките** \> **абонаменти**, след това изберете **още действия** \> **Отмени абонамент**.</span><span class="sxs-lookup"><span data-stu-id="ae42a-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="40142-p101">Въз основа на данните ви организация, вярваме, че всичките си текущи абонаменти имат по-малко от 25 места. За да прекратите абонамента си онлайн, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или отидете до **сметките** \> **абонаменти**, след това изберете **още действия** \> **Отмени абонамент**.</span><span class="sxs-lookup"><span data-stu-id="40142-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
   
-<span data-ttu-id="ae42a-106">За да научите повече за отменяне на абонамент или за подробни инструкции, вижте тази статия: [Отказ Office 365 за бизнес](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="ae42a-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
+<span data-ttu-id="40142-106">За да научите повече за отменяне на абонамент или за подробни инструкции, вижте тази статия: [Отказ Office 365 за бизнес](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="40142-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
   
 

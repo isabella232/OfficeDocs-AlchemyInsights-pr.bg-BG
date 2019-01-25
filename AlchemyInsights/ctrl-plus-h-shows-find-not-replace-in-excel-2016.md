@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
 ms.openlocfilehash: cbde9df219deb932e4286318e58b95e3edd9040a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275629"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458548"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="d398e-102">CTRL + H показва намирам, не заместват в Excel</span><span class="sxs-lookup"><span data-stu-id="d398e-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="db205-102">CTRL + H показва намирам, не заместват в Excel</span><span class="sxs-lookup"><span data-stu-id="db205-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="d398e-p101">В Excel 2016 натиснете CTRL + H отваря диалоговия прозорец Търсене и заместване и показва раздела търсене, вместо замени раздела щракнете върху замени в раздела Начало прави същото нещо. Този проблем е фиксиран в версия 1708 (8431.2094). За да коригирате това, обновяване до последната версия на Office. Изберете **файл** \> **сметка** \> **актуализация опции** \> **актуализация сега**.</span><span class="sxs-lookup"><span data-stu-id="d398e-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="db205-p101">В Excel 2016 натиснете CTRL + H отваря диалоговия прозорец Търсене и заместване и показва раздела търсене, вместо замени раздела щракнете върху замени в раздела Начало прави същото нещо. Този проблем е фиксиран в версия 1708 (8431.2094). За да коригирате това, обновяване до последната версия на Office. Изберете **файл** \> **сметка** \> **актуализация опции** \> **актуализация сега**.</span><span class="sxs-lookup"><span data-stu-id="db205-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
 ms.openlocfilehash: 0db4413ab1de118e8b8ce50978cb71eeb9ee65d5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275625"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458458"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="ca33b-102">Създаден OneDrive</span><span class="sxs-lookup"><span data-stu-id="ca33b-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="27f37-102">Създаден OneDrive</span><span class="sxs-lookup"><span data-stu-id="27f37-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="ca33b-103">Можете да [синхронизирате вашия OneDrive за бизнес файлове](https://go.microsoft.com/fwlink/?linkid=533375) или [файлове на SharePoint се синхронизира](https://go.microsoft.com/fwlink/?linkid=871666) с клиента за синхронизиране на OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ca33b-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span> 
+<span data-ttu-id="27f37-103">Можете да [синхронизирате вашия OneDrive за бизнес файлове](https://go.microsoft.com/fwlink/?linkid=533375) или [файлове на SharePoint се синхронизира](https://go.microsoft.com/fwlink/?linkid=871666) с клиента за синхронизиране на OneDrive.</span><span class="sxs-lookup"><span data-stu-id="27f37-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span> 
   
 

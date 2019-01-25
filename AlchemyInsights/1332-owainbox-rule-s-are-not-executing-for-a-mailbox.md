@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
 ms.openlocfilehash: f090d0a9d84bc6a4d1a1f4c0af55102d4b0ddfbe
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276468"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458689"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="eb505-102">На правило за "Входящи" не работи както се очаква</span><span class="sxs-lookup"><span data-stu-id="eb505-102">An Inbox rule doesn't work as expected</span></span>
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a><span data-ttu-id="268de-102">На правило за "Входящи" не работи както се очаква</span><span class="sxs-lookup"><span data-stu-id="268de-102">An Inbox rule doesn't work as expected</span></span>
 
-<span data-ttu-id="eb505-103">Проверете следните настройки:</span><span class="sxs-lookup"><span data-stu-id="eb505-103">Verify the following settings:</span></span>
+<span data-ttu-id="268de-103">Проверете следните настройки:</span><span class="sxs-lookup"><span data-stu-id="268de-103">Verify the following settings:</span></span>
   
-- <span data-ttu-id="eb505-p101">Съобщение може да бъдат пренасочени, препращането или отговори автоматично на базата на входящи правила само един път. Пренасочване правило (правило за "Входящи" или поща поток правило, известен също като транспортно правило) може да добавите максимум десет спедиция получатели на съобщение. За повече информация вижте [дневника, транспорт и входящи правило граници](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="eb505-p101">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time. A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message. For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
+- <span data-ttu-id="268de-p101">Съобщение може да бъдат пренасочени, препращането или отговори автоматично на базата на входящи правила само един път. Пренасочване правило (правило за "Входящи" или поща поток правило, известен също като транспортно правило) може да добавите максимум десет спедиция получатели на съобщение. За повече информация вижте [дневника, транспорт и входящи правило граници](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span><span class="sxs-lookup"><span data-stu-id="268de-p101">A message can be redirected, forwarded, or replied to automatically based on Inbox rules only one time. A redirecting rule (an Inbox rule or mail flow rule, also known as a transport rule) can add a maximum of ten forwarding recipients to a message. For more information, see [Journal, Transport, and Inbox rule limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).</span></span>
     
-- <span data-ttu-id="eb505-p102">Правилата за "Входящи" не работят на пощенската кутия на алтернативен journaling. За повече информация за пощенската кутия на алтернативен journaling вижте [заместник journaling пощенска кутия](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="eb505-p102">Inbox rules don't work on the alternate journaling mailbox. For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
+- <span data-ttu-id="268de-p102">Правилата за "Входящи" не работят на пощенската кутия на алтернативен journaling. За повече информация за пощенската кутия на алтернативен journaling вижте [заместник journaling пощенска кутия](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span><span class="sxs-lookup"><span data-stu-id="268de-p102">Inbox rules don't work on the alternate journaling mailbox. For more information about the alternate journaling mailbox, see [Alternate journaling mailbox](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).</span></span>
     
-<span data-ttu-id="eb505-109">За да коригирате тези проблеми, вижте [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="eb505-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
+<span data-ttu-id="268de-109">За да коригирате тези проблеми, вижте [KB 2829319](https://support.microsoft.com/kb/2829319).</span><span class="sxs-lookup"><span data-stu-id="268de-109">To fix these issues, see [KB 2829319](https://support.microsoft.com/kb/2829319).</span></span>
   
-<span data-ttu-id="eb505-110">Ако предишните въпроси не се прилагат, стартирайте отчета входящи диагностични правило преди да ескалира издаването на поддръжката на Microsoft:</span><span class="sxs-lookup"><span data-stu-id="eb505-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
+<span data-ttu-id="268de-110">Ако предишните въпроси не се прилагат, стартирайте отчета входящи диагностични правило преди да ескалира издаването на поддръжката на Microsoft:</span><span class="sxs-lookup"><span data-stu-id="268de-110">If the previous issues don't apply, run the Inbox rule diagnostic report before you escalate the issue to Microsoft Support:</span></span>
   
-1. <span data-ttu-id="eb505-111">Отворете пощенската кутия в Outlook в мрежата и щракнете върху **Настройки на** \> **Опции** \> **Организиране имейл** \> **правила на "Входящи"**.</span><span class="sxs-lookup"><span data-stu-id="eb505-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
+1. <span data-ttu-id="268de-111">Отворете пощенската кутия в Outlook в мрежата и щракнете върху **Настройки на** \> **Опции** \> **Организиране имейл** \> **правила на "Входящи"**.</span><span class="sxs-lookup"><span data-stu-id="268de-111">Open the mailbox in Outlook on the web, and click **Settings** \> **Options** \> **Organize email** \> **Inbox rules**.</span></span>
     
-2. <span data-ttu-id="eb505-112">В дъното на страницата щракнете върху **Ако вашите правила не работят щракнете тук, за да генериране на диагностичен отчет**.</span><span class="sxs-lookup"><span data-stu-id="eb505-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
+2. <span data-ttu-id="268de-112">В дъното на страницата щракнете върху **Ако вашите правила не работят щракнете тук, за да генериране на диагностичен отчет**.</span><span class="sxs-lookup"><span data-stu-id="268de-112">At the bottom of the page, click **If your rules are not working click here to generate a diagnostic report**.</span></span>
     
 
