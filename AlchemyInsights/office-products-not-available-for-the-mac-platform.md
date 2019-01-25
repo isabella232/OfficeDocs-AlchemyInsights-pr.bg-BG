@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.openlocfilehash: 14053099bd66d755c6a2a179170f55878a12aac7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275882"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498975"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="f2258-102">Офис продукти не са налични за Mac платформа</span><span class="sxs-lookup"><span data-stu-id="f2258-102">Office products not available for the Mac platform</span></span>
+# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="7d444-102">Офис продукти не са налични за Mac платформа</span><span class="sxs-lookup"><span data-stu-id="7d444-102">Office products not available for the Mac platform</span></span>
 
-<span data-ttu-id="f2258-103">Visio, проект, издател и достъп не са налични за Mac платформа, обаче, Visio онлайн и онлайн проект са налични и работи на всички платформи.</span><span class="sxs-lookup"><span data-stu-id="f2258-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
+<span data-ttu-id="7d444-103">Visio, проект, издател и достъп не са налични за Mac платформа, обаче, Visio онлайн и онлайн проект са налични и работи на всички платформи.</span><span class="sxs-lookup"><span data-stu-id="7d444-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
   
 
