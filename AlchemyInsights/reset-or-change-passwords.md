@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.openlocfilehash: f8822c17e90476f22832ce823b24930f1e71ce21
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276334"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457864"
 ---
 # <a name="reset-or-change-passwords"></a>Проучване или промяна на пароли
 

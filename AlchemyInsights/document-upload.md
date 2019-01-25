@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: a041d21bcbc77b8069178dc74e92d07df312af7a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28275948"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29457829"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Качване на файлове до OneDrive или SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "28275948"
 3. Изберете файловете и ги плъзнете на място в OneDrive или SharePoint. Забележка: Ако използвате Microsoft ръб, Mozilla FireFox или Google Chrome, можете също да качвате папката и всички файлове в нея.
     
 > [!NOTE]
->  Можете да качвате файлове с размер до 15 ГБ. > Пълния път за файла (включително името на файла) не може да бъде повече от 400 знака. > Ако имате нужда да качвате повече от 100 файлове, [Използвайте OneDrive синхронизиране клиент](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Можете да качвате файлове с размер до 15 ГБ. > пълния път за файла (включително името на файла) не може да бъде повече от 400 знака. >, ако имате нужда да качвате повече от 100 файлове, [Използвайте OneDrive синхронизиране клиент](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

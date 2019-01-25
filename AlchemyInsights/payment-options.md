@@ -1,5 +1,5 @@
 ---
-title: Опции за плащане
+title: „Опции за плащане“.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276692"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458671"
 ---
- **Опции за плащане**
+ „Опции за плащане“.
   
 Кредитна карта, банкова сметка (директен дебит) и фактура (плащат с чек или превод на електронни средства)
   
@@ -32,7 +32,7 @@ ms.locfileid: "28276692"
   
 Ако плащате с фактура за вашия абонамент, вие ще получите имейл, който казва си за плащане изявление е готов за преглед. Този имейл не съдържа копие на Вашето извлечение по сметка. Обаче можете също да изберете да [получи копие от Вашето извлечение по сметка в имейл](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Вашето извлечение по сметка включва подробности за вашите опции за извършване на плащането. Ако въведете номер за поръчка (PO), когато купувате един абонамент, номер се появява на Вашето извлечение по сметка. За информация за достъп до фактури вижте [преглед your сметка или фактура](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Промяна как плащате**
+ „Промяна на начина на плащане“.
   
 Ако искате да промените как плащате за текущия абонамент, следвайте инструкциите [тук](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
