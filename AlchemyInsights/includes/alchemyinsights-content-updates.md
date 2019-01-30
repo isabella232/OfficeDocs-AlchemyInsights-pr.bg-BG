@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454419"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454419"
 ## <a name="week-of-january-07-2019"></a>Седмица на 07 януари 2019
 
 
-| Публикувано на |Заглавие на темата | „Промяна“. |
+| Публикувано на |Заглавие на темата | Промяна |
 |------|------------|--------|
 | 1/7/2019 | [Променете паролата си](/AlchemyInsights/change-your-password-in-outlook.com) | добавено |
 | 1/7/2019 | [Промяна на разрешенията на пощенска кутия](/AlchemyInsights/changing-permissions-on-a-mailbox) | добавено |
@@ -302,7 +294,7 @@ ms.locfileid: "29454419"
 | 1/10/2019 | [Създаване на сайт за комуникация](/AlchemyInsights/create-a-communication-site) | добавено |
 | 1/10/2019 | [Създаване на поток](/AlchemyInsights/create-a-flow) | добавено |
 | 1/10/2019 | [Създаване на сайт на модерната екип](/AlchemyInsights/create-a-modern-team-site) | добавено |
-| 1/10/2019 | Създаване на споделена пощенска кутия  | добавено |
+| 1/10/2019 | [Създаване на споделена пощенска кутия](/AlchemyInsights/create-a-shared-mailbox) | добавено |
 | 1/10/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | добавено |
 | 1/10/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | добавено |
 | 1/10/2019 | [Създаване и използване на споделена пощенска кутия](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | добавено |
@@ -599,7 +591,7 @@ ms.locfileid: "29454419"
 | 1/11/2019 | [Създаване на сайт за комуникация](/AlchemyInsights/create-a-communication-site) | модифицирани |
 | 1/11/2019 | [Създаване на поток](/AlchemyInsights/create-a-flow) | модифицирани |
 | 1/11/2019 | [Създаване на сайт на модерната екип](/AlchemyInsights/create-a-modern-team-site) | модифицирани |
-| 1/11/2019 | Създаване на споделена пощенска кутия  | модифицирани |
+| 1/11/2019 | [Създаване на споделена пощенска кутия](/AlchemyInsights/create-a-shared-mailbox) | модифицирани |
 | 1/11/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | модифицирани |
 | 1/11/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | модифицирани |
 | 1/11/2019 | [Създаване и използване на споделена пощенска кутия](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | модифицирани |
@@ -637,9 +629,25 @@ ms.locfileid: "29454419"
 ## <a name="week-of-january-14-2019"></a>Седмица на 14 януари 2019
 
 
-| Публикувано на |Заглавие на темата | „Промяна“. |
+| Публикувано на |Заглавие на темата | Промяна |
 |------|------------|--------|
 | 1/14/2019 | Алхимия контейнер | премахнати |
 | 1/14/2019 | Добави домейн алхимия | премахнати |
 | 1/14/2019 | [Алхимия прозрения дом](/AlchemyInsights/index) | модифицирани |
 | 1/17/2019 | [същото като името на файла е най-добре [правило #-описание]](/AlchemyInsights/1-alchemy-insight-template) | добавено |
+
+
+## <a name="week-of-january-21-2019"></a>Седмица на 21 януари 2019
+
+
+| Публикувано на |Заглавие на темата | Промяна |
+|------|------------|--------|
+| 1/22/2019 | [1047 антиспам 550 5.7.708 услугата не е налична. Достъпът е отказан, трафик, не се приемат от този ПР](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | модифицирани |
+| 1/22/2019 | [1049 антиспам 4.5.3 твърде много получатели (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | модифицирани |
+| 1/22/2019 | [1050 антиспам 4.7.500 сървърът е зает. Моля, опитайте отново по-късно от [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | модифицирани |
+| 1/22/2019 | [1051 антиспам 4.7.500, достъпът е отказан, моля опитайте отново по-късно](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | модифицирани |
+| 1/22/2019 | [Реле имейл чрез офис 365](/AlchemyInsights/relay-email-through-office-365) | модифицирани |
+| 1/24/2019 | [Създаване на контрола на групи](/AlchemyInsights/control-creation-of-groups) | модифицирани |
+| 1/24/2019 | [Outlook проблеми с Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | добавено |
+| 1/24/2019 | [Възстановяване на Office 365 група използва центъра за администриране на Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | преименуван |
+| 1/24/2019 | [Отстраняване на проблеми с Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | преименуван |
