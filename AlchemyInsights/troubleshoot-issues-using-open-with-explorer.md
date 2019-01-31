@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458723"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661740"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Отстраняване на проблеми при отваряне с Explorer
 
@@ -31,6 +31,6 @@ ms.locfileid: "29458723"
 > [!NOTE]
 > Отваряне на библиотека в File Explorer е удобен, ако искате да копирате или преместите множество файлове и папки, веднъж, но ако искате да редовно работи в библиотеката, ние препоръчваме да го синхронизирате. За да отстраните проблеми с отварянето в File Explorer, вижте [отворен in Изследовател](https://go.microsoft.com/fwlink/?linkid=871665). За информация за настройка на синхронизация вижте [файлове за синхронизиране на SharePoint с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Моля, вижте статията [как да използвате командата "отваряне с Explorer" за отстраняване на проблеми в SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) за повече информация. 
+Моля, вижте статията [как да използвате командата "отваряне с Explorer" за отстраняване на проблеми в SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) за повече информация. 
   
 

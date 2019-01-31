@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458638"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661128"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Как да активирате безшевни див
 
-Позволяват безпроблемно SSO чрез [лазурно АД се свържете](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+Позволяват безпроблемно SSO чрез [лазурно АД се свържете](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Ако ти сте дела пресен инсталация на Azure АД свържете, изберете [по избор инсталация пътека](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На **потребителя вход** страница изберете опцията **Разреши еднократна идентификация** . 
+Ако ти сте дела пресен инсталация на Azure АД свържете, изберете [по избор инсталация пътека](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На **потребителя вход** страница изберете опцията **Разреши еднократна идентификация** . 
   
 За да проверите, че сте активирали безшевни SSO правилно:
   
@@ -32,6 +32,6 @@ ms.locfileid: "29458638"
     
 3. Уверете се, че безшевните еднократна идентификация е **разрешено**.
     
-За да научите повече, вижте [Azure Active Directory безшевни еднократна идентификация: бърз старт](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+За да научите повече, вижте [Azure Active Directory безшевни еднократна идентификация: бърз старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

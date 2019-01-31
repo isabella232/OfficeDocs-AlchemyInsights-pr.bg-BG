@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: b08bf68f44fd696b772a294f7c017f1428d3241f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 29a2fe471f1649e4270877b1de28d71c474bd3ba
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458515"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660552"
 ---
 # <a name="compare-office-365-plans"></a>Сравни Office 365 плановете
 
 Сравнете, превключване или закупите Office 365 плановете
   
-Office 365 плановете са достъпни за [бизнес](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)и [корпоративни бизнес ниво](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans). Освен това Office 365 е достъпна за [академични институции](https://products.office.com/en-us/academic/compare-office-365-education-plans), [правителствени организации](https://products.office.com/en-us/government/compare-office-365-government-plans)и [организации с идеална цел](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Office 365 плановете са достъпни за [бизнес](https://products.office.com/compare-all-microsoft-office-products?tab=2)и [корпоративни бизнес ниво](https://products.office.com/business/compare-more-office-365-for-business-plans). Освен това Office 365 е достъпна за [академични институции](https://products.office.com/academic/compare-office-365-education-plans), [правителствени организации](https://products.office.com/government/compare-office-365-government-plans)и [организации с идеална цел](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   
-Ако вашата организация е заинтересован в сравнение всички планове и ценообразуването, прегледайте [Сравни всички Office 365 плановете](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
+Ако вашата организация е заинтересован в сравнение всички планове и ценообразуването, прегледайте [Сравни всички Office 365 плановете](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 Ако вашата организация вече закупен на Office 365 план и се интересуват от преминаването към друг план можете да толкова от Office 365 администратор център, отидете на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054)или изберете **плащане** \> **абонаменти**. Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични. 
   

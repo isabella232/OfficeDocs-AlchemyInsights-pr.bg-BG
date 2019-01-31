@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c94af74857e34148420c29fafabd48c8af1eca0e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 400b24569f6fa79d1003925c04f22f63ba2dd950
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498759"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662424"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Какви са ролите на администратор и как можете да ги присвоите?
 
 Изглежда, че имате някои въпроси за роли на администратор. Тези членове трябва да отговори на всички ваши въпроси.
   
-- [За Office 365 роли на администратор](https://support.office.com/article/https://support.office.com/en-us/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [За Office 365 роли на администратор](https://support.office.com/article/https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
     
-- [Присвояване на роли на администратор](https://support.office.com/article/https://support.office.com/en-us/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Присвояване на роли на администратор](https://support.office.com/article/https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
     
 Не отговори на въпроса ви? Няма проблеми! Използвайте опцията "Нека ви призовавам" да говори с инженер поддръжка.
   

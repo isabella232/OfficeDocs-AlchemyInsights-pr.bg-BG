@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457951"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657393"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook катастрофа, стъпки за отстраняване на неизправности
 
-Ако имате Outlook работния плот трясък въпроси, започнете със след 3 стъпки по-долу, които са изброени подробно в тази статия: [как да отстранявате проблеми, които причиняват Outlook към трясък или вися кога използван с Office 365.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ако имате Outlook работния плот трясък въпроси, започнете със след 3 стъпки по-долу, които са изброени подробно в тази статия: [как да отстранявате проблеми, които причиняват Outlook към трясък или вися кога използван с Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Стъпка 1: Разследва възможни проблеми с добавки.
   
@@ -28,6 +28,6 @@ ms.locfileid: "29457951"
   
 Стъпка 3: Създайте нов профил в Outlook или да стартирате [Outlook профил инструмент](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатите машина. 
   
-Ако проблемът възникна след актуализация и горните стъпки не работят, трябва да се върнете към предишен строя. Вижте [как да се върнете към предишна версия на Office 2013 или Office 2016 щракване-към-тичам](https://support.microsoft.com/EN-US/help/2770432).
+Ако проблемът възникна след актуализация и горните стъпки не работят, трябва да се върнете към предишен строя. Вижте [как да се върнете към предишна версия на Office 2013 или Office 2016 щракване-към-тичам](https://support.microsoft.com/help/2770432).
   
 

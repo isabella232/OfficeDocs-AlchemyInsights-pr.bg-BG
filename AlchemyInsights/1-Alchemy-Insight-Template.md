@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454203"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662919"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Изисква клиент пред H1, H2 не работи
 Примерен текст блок - следвайте тези инструкции:
 
-1. Файловете в папката **AlchemyInsights** трябва да има правило ИД и името на правилото от [алхимия партньор портал](https://alchemyportal.azurewebsites.net) в грива.
+1. Файловете в папката **AlchemyInsights** трябва да има правило ИД и името на правилото от [алхимия партньор портал](https://alchemyportal.azurewebsites.net) в името на файла.
     1. пример: ***976-How-to-enable-litigation-hold***
 1. Използвайте метаданни в горната част на този файл като вашия шаблон. Нищо друго не се изисква.
 1. В [алхимията партньор портал](https://alchemyportal.azurewebsites.net), Навигирайте до раздела **клиент прозрение заглавие:** и използване, че като отправна точка за H1 заглавието за прозрение. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454203"
     1. Връзки винаги трябва да бъде или **"връзки към уеб" / външен** или **дълбоко-връзки към елементи на потребителския интерфейс**, не вътрешни връзки.
 
 И това наистина вече е малко прекалено дълго. Най-добрата практика е около 400 знака---
+
+След като вашето съдържание е готов, го дръпнете на живо клон. След това отидете на [алхимията партньор портал](https://alchemyportal.azurewebsites.net) и въведете името на файла в полето url. Уверете се, прозрение прегледани и публикува казва "да" и след това щракнете върху правило за актуализиране. (Това ще изглежда по-красива в новата версия на портала - освобождаване скоро.)
+
+![URL поле](media/for-content-team.PNG)
+
