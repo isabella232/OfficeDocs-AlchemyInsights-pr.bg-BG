@@ -2,51 +2,30 @@
 title: Изтриване на сайт на SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458675"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660005"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="ffd92-102">Изтриване на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="ffd92-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="ffd92-103">**Изтриване на сайтове, които принадлежат към Office 365 Група:**</span><span class="sxs-lookup"><span data-stu-id="ffd92-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="614ca-102">Изтриване на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="614ca-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="614ca-103">**Изтриване на сайтове от в новия център за администриране на SharePoint**</span><span class="sxs-lookup"><span data-stu-id="614ca-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="ffd92-p101">Когато потребителите създават нов сайт на екип от SharePoint дом (или създавате нов сайт на екип от нов SharePoint администратор център преглед), съответната група от Office 365 се създава автоматично. Office 365 група свързани екипни сайтове също се създават, когато създавате Office 365 група или екип в екипи на Microsoft. За да изтриете сайт на SharePoint, който принадлежи към група на Office 365, трябва да изтриете група на Office 365, самата.</span><span class="sxs-lookup"><span data-stu-id="ffd92-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="614ca-p101">За да изтриете активен сайт, посетете центъра на текущия администратор на SharePoint, щракнете върху "Опитайте сега" в горния десен ъгъл. Изберете **активни обекти**, изберете сайт и след това изберете **Изтриване**. За да [изглед и възстановяване на изтрити обекти в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)изберете **изтрили сайтове**. За повече информация вижте [управление на сайтове в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="614ca-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="ffd92-107">Отидете на [страницата на групи на центъра за администрация на Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="ffd92-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="614ca-p102">**Важно:** Ако сайтът е част от правилата за съхранение, може да не успеете да я изтриете, докато сайтът се отстранява от [защита &amp; съответствие администратор център](https://protection.office.com/?rfr=AdminCenter#/homepage). Вижте [Преглед на правилата за съхранение](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) за повече информация.</span><span class="sxs-lookup"><span data-stu-id="614ca-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="ffd92-108">Изберете квадратчето за отметка до групата.</span><span class="sxs-lookup"><span data-stu-id="ffd92-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="ffd92-109">Изберете **Изтриване**.</span><span class="sxs-lookup"><span data-stu-id="ffd92-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="ffd92-110">Забележка: Когато изтривате група, може да има забавяне преди сайтът се отстранява от SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ffd92-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="ffd92-111">**Изтриване на съобщение или класически площадки:**</span><span class="sxs-lookup"><span data-stu-id="ffd92-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="ffd92-112">Отидете на сайта.</span><span class="sxs-lookup"><span data-stu-id="ffd92-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="ffd92-113">Щракнете върху \*\* настройки \*\* (иконата на зъбно колело) в горния десен ъгъл.</span><span class="sxs-lookup"><span data-stu-id="ffd92-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="ffd92-p102">Щракнете върху **Настройки на сайта**. Под **Информация за сайта** или **Действия за сайта**щракнете върху **Изтриване на този сайт**и после щракнете върху **Изтрий**.</span><span class="sxs-lookup"><span data-stu-id="ffd92-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="ffd92-116">**Изтриване на колекция от сайтове на SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="ffd92-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="ffd92-117">За да изтриете класически колекция:</span><span class="sxs-lookup"><span data-stu-id="ffd92-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="ffd92-118">В класически SharePoint администратор център, на сайта колекции страница Поставете **отметка в квадратчето** до колекцията със сайтове.</span><span class="sxs-lookup"><span data-stu-id="ffd92-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="ffd92-119">В раздела на колекции от сайтове, изберете **Изтриване.**</span><span class="sxs-lookup"><span data-stu-id="ffd92-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="ffd92-120">**Изтрити сайт случайно?**</span><span class="sxs-lookup"><span data-stu-id="ffd92-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="ffd92-121">Вижте [възстановяване на изтрити колекцията](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="ffd92-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="614ca-110">Съвети:</span><span class="sxs-lookup"><span data-stu-id="614ca-110">Tips:</span></span>
+- <span data-ttu-id="614ca-p103">Глобалните администратори и SharePoint администраторите сега може да изтриете сайтове, които принадлежат към **Office 365 група**. Това ще изтрие групата и всички свои средства, включително пощенската кутия на Outlook и календар и всички отбори канали. За повече информация вижте [Изтриване на сайт на SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="614ca-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="614ca-p104">Можете да възстановите изтрити обекти за 93 дни. Обърнете внимание, че изтритите групи трябва да бъдат възстановени в рамките на 30 дни. За повече информация вижте [Преглед и възстановяване на изтрити обекти](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="614ca-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="614ca-117">За да премахнете напълно сайт с Powershell, вижте [Премахване-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet пример.</span><span class="sxs-lookup"><span data-stu-id="614ca-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 

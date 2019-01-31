@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: f704f4cf41008734da9f0ad8bace8ed1226b5945
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 94f1c6954ff2f1ae7ed1d273fbe1310799a1adea
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458245"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661488"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a><span data-ttu-id="b8ed7-102">Общ проблем за пощенска кутия или календар в Outlook за Mac?</span><span class="sxs-lookup"><span data-stu-id="b8ed7-102">Shared mailbox or calendar issue in Outlook for Mac?</span></span>
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a><span data-ttu-id="d4857-102">Общ проблем за пощенска кутия или календар в Outlook за Mac?</span><span class="sxs-lookup"><span data-stu-id="d4857-102">Shared mailbox or calendar issue in Outlook for Mac?</span></span>
 
-<span data-ttu-id="b8ed7-p101">Можем да ви помогнем по-бързо, ако се свържете с нас директно от приложението. **Моля, отидете на променения потребител Mac, отворете Outlook и щракнете върху помощ \> контакт за поддръжка**.</span><span class="sxs-lookup"><span data-stu-id="b8ed7-p101">We can help you faster if you contact us directly from the application. **Please go to the affected user's Mac, open Outlook, and click on Help \> Contact Support**.</span></span> 
+<span data-ttu-id="d4857-p101">Можем да ви помогнем по-бързо, ако се свържете с нас директно от приложението. **Моля, отидете на променения потребител Mac, отворете Outlook и щракнете върху помощ \> контакт за поддръжка**.</span><span class="sxs-lookup"><span data-stu-id="d4857-p101">We can help you faster if you contact us directly from the application. **Please go to the affected user's Mac, open Outlook, and click on Help \> Contact Support**.</span></span> 
   
-<span data-ttu-id="b8ed7-105">За да научите повече за използването на Outlook за Mac в app поддръжка, вижте тази статия: [нов контакт подкрепа функция в перспектива 2016 за Mac](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="b8ed7-105">To learn more about using Outlook for Mac in-app support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://support.office.com/article/https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="d4857-105">За да научите повече за използването на Outlook за Mac в app поддръжка, вижте тази статия: [нов контакт подкрепа функция в перспектива 2016 за Mac](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="d4857-105">To learn more about using Outlook for Mac in-app support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://support.office.com/article/https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 
