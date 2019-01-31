@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: d00f10688ec775c22d60a9089e291c265ada46f1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 027782bb2a6b892df6201f3c3bf55151ef7b9db7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458258"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657960"
 ---
 # <a name="upn-sync-disabled"></a>UPN синхронизация с увреждания
 
@@ -26,6 +26,6 @@ ms.locfileid: "29458258"
   
 UPN мек мач е включено автоматично за организации, които започнали syncing към лазурните реклама на или след 30 март 2016 г.
   
-За да научите повече за активирането на мек мач на UPN и други функции за синхронизиране, моля вижте [Azure АД свържете синхронизация услуга функции](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+За да научите повече за активирането на мек мач на UPN и други функции за синхронизиране, моля вижте [Azure АД свържете синхронизация услуга функции](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

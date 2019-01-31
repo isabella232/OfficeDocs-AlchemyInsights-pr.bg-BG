@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458240"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655656"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Папката е пълна
 
@@ -36,7 +36,7 @@ ms.locfileid: "29458240"
     
 - [Търсене-пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-За пощенски кутии, които са задържани администраторите трябва да премахнете трюма, преди те да могат изтритите елементи от папката "Възстановими елементи". За повече информация вижте [Изтриване на елементи в Възстановими елементи папка на облака на задръжте](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+За пощенски кутии, които са задържани администраторите трябва да премахнете трюма, преди те да могат изтритите елементи от папката "Възстановими елементи". За повече информация вижте [Изтриване на елементи в Възстановими елементи папка на облака на задръжте](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 За да предотвратите запълненият от стават пълна, администраторите могат да увеличат ограничението за съхранение на Възстановими елементи папка за пощенски кутии на задръжте и създаване на пощенска кутия правило, което премества елементи от папката "Възстановими елементи" на потребителя Архив пощенска кутия. Вижте [увеличи запълненият квота за пощенски кутии на задръжте](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   
