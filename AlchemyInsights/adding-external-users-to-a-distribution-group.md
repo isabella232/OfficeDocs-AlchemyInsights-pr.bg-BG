@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458661"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758081"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>Добавяне на външни потребители до група за разпространение?
 
@@ -21,7 +21,7 @@ ms.locfileid: "29458661"
   
 1. Създаване на контакт за поща за външен потребител:
     
-1. Щракнете [тук](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) за да отидете на страницата за редактиране на контакт в администраторския портал на. 
+1. Щракнете [тук](https://admin.microsoft.com/adminportal/home#/Contact) за да отидете на страницата за редактиране на контакт в администраторския портал на. 
     
 2. Щракнете върху **Добавяне на контакт**.
     
@@ -29,7 +29,7 @@ ms.locfileid: "29458661"
     
 2. Добавете контакт за поща към вашия ГД:
     
-1. Щракнете [тук](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) за да отидете на страницата на групи. 
+1. Щракнете [тук](https://admin.microsoft.com/adminportal/home#/groups) за да отидете на страницата на групи. 
     
 2. Намерете ГД, който искате да добавите външен потребител и кликнете върху него, за да отворите диалоговия прозорец за редактиране.
     
@@ -39,8 +39,8 @@ ms.locfileid: "29458661"
     
 5. Изберете контакт за поща, създадохте в предишната стъпка и щракнете върху **Запиши**.
     
-Ако дори след последователи тези стъпвам вашите външни потребители не могат да изпращат имейли до ГД или не получавате имейли от него, тя може да бъде, че ГД е маркиран, за да позволяват само имейли от вътрешни потребители. Можете да проверите тази конфигурация и прикрепвам то следвате указанията [тук](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Ако дори след последователи тези стъпвам вашите външни потребители не могат да изпращат имейли до ГД или не получавате имейли от него, тя може да бъде, че ГД е маркиран, за да позволяват само имейли от вътрешни потребители. Можете да проверите тази конфигурация и прикрепвам то следвате указанията [тук](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
   
- **Забележка:** Тези указания не се прилагат, ако типът на вашата група е "Office 365 група" а "Група за разпространение." Ако случаят е такъв, можете да добавите външен потребител директно към групата от Outlook или Outlook в мрежата. Подробно обяснение на O365 групи увреждания, както и инструкции за добавяне на външни увреждания могат да бъдат намерени в [тази статия](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Забележка:** Тези указания не се прилагат, ако типът на вашата група е "Office 365 група" а "Група за разпространение." Ако случаят е такъв, можете да добавите външен потребител директно към групата от Outlook или Outlook в мрежата. Подробно обяснение на O365 групи увреждания, както и инструкции за добавяне на външни увреждания могат да бъдат намерени в [тази статия](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
 

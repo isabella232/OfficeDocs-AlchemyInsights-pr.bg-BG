@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
-ms.openlocfilehash: 15f6fc741adde2208093b2ff45e5594f5beabbe3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 279afd104d442bfd99a56ea1d17168a9b2a5cfea
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457999"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759629"
 ---
 # <a name="service-incident-in-progress"></a>Сервиз инцидент в ход
 
-Можете може да бъдат засегнати от инцидента на услуга или консултативен който в момента се разследва. Можете да проверите последното състояние като отидете на страницата на [Здравни услуги](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) . 
+Можете може да бъдат засегнати от инцидента на услуга или консултативен който в момента се разследва. Можете да проверите последното състояние като отидете на страницата на [Здравни услуги](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
   
 За ваше удобство можете да намерите обобщение на този инцидент по-долу:
   
-> **Инцидент номер:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Инцидент номер:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Описание на въздействието: {ImpactDescription}
     
