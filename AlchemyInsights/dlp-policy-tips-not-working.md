@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657746"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786723"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP политика съвет въпроси
+
 Когато използвате **DLP политиките**, потребителите могат да бъдат уведомени за нарушение на правилата с **политика съвети**. Администраторите могат да конфигурират политика съвети да се покаже при тестването им DLP политика или когато политиката е в режим на пълен изпълнение. 
   
 За да конфигурирате политика съвети за вашата DLP политика в центъра на защита и съответствие в режим на пълен изпълнение направете следното:
