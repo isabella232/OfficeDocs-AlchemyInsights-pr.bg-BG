@@ -1,21 +1,21 @@
 ---
-title: Активиране на архивна пощенска кутия
+title: Активирате архивна пощенска кутия
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458015"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927817"
 ---
-# <a name="enable-an-archive-mailbox"></a>Активиране на архивна пощенска кутия
+# <a name="enable-an-archive-mailbox"></a>Активирате архивна пощенска кутия
 
 Архивни пощенски кутии в Office 365 (наричан също *Онлайн Архив* ) предоставят на потребителите с допълнителни имейл съхранение. Потребителите могат да преместите или копирате елементи в техните архивна пощенска кутия, и администраторите могат да създават правила за архивиране, който автоматично премества елементи за архивни пощенски кутии. 
   
