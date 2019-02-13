@@ -7,23 +7,23 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5ec81b41e5a381366eb050458669435b7213f72f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66bbb2f0d2b1de1b8d07c0b24b7baf1139c710cb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458021"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914425"
 ---
-# <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-items"></a><span data-ttu-id="e3ea7-102">Как да намерите и възстановите липсващи или изтрити имейл, календар или контакти елементи</span><span class="sxs-lookup"><span data-stu-id="e3ea7-102">How to find and recover missing or deleted email, calendar or contacts items</span></span>
+# <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-items"></a><span data-ttu-id="6bfc9-102">Как да намерите и възстановите липсващи или изтрити имейл, календар или контакти елементи</span><span class="sxs-lookup"><span data-stu-id="6bfc9-102">How to find and recover missing or deleted email, calendar or contacts items</span></span>
 
-<span data-ttu-id="e3ea7-p101">В Outlook.com можете да използвате лентата за търсене в горната част на страницата за търсене на имейл съобщения или контакти. Прочетете повече за как да се [Търсене на поща и хората в Outlook.com](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7).</span><span class="sxs-lookup"><span data-stu-id="e3ea7-p101">In Outlook.com, you can use the search bar at the top of the page to search for email messages or contacts. Read more about how to [Search Mail and People in Outlook.com](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7).</span></span>
+<span data-ttu-id="6bfc9-p101">В Outlook.com можете да използвате лентата за търсене в горната част на страницата за търсене на имейл съобщения или контакти. Прочетете повече за как да се [Търсене на поща и хората в Outlook.com](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7).</span><span class="sxs-lookup"><span data-stu-id="6bfc9-p101">In Outlook.com, you can use the search bar at the top of the page to search for email messages or contacts. Read more about how to [Search Mail and People in Outlook.com](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7).</span></span>
   
-<span data-ttu-id="e3ea7-p102">Когато преглеждате календара, можете да търсите елемент с помощта на дадена дума, име на лице или фраза. Търсенето ще провери за термините за търсене навсякъде в този календар. Ако имате повече от един календар отвори, търсенето ще се съсредоточи върху календара, който е в момента избрано. Научете повече как да [търсите вашия календар в Outlook.com](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a).</span><span class="sxs-lookup"><span data-stu-id="e3ea7-p102">When you're viewing a calendar, you can search for an item by using a word, a person's name, or a phrase. The search will check for your search terms anywhere in that calendar. If you have more than one calendar open, search will focus on the calendar that's currently selected. Learn more about how to [Search your Calendar in Outlook.com](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a).</span></span>
+<span data-ttu-id="6bfc9-p102">Когато преглеждате календара, можете да търсите елемент с помощта на дадена дума, име на лице или фраза. Търсенето ще провери за термините за търсене навсякъде в този календар. Ако имате повече от един календар отвори, търсенето ще се съсредоточи върху календара, който е в момента избрано. Научете повече как да [търсите вашия календар в Outlook.com](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a).</span><span class="sxs-lookup"><span data-stu-id="6bfc9-p102">When you're viewing a calendar, you can search for an item by using a word, a person's name, or a phrase. The search will check for your search terms anywhere in that calendar. If you have more than one calendar open, search will focus on the calendar that's currently selected. Learn more about how to [Search your Calendar in Outlook.com](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a).</span></span>
   
-<span data-ttu-id="e3ea7-p103">Ако случайно изтриете имейл съобщение от имейла Outlook.com, можете да възстановите тези елементи, ако те са все още в папката Изтрити елементи или нежелана поща и в някои случаи, дори можете да възстановите елементи, след като се изпразни папката Изтрити елементи. Прочетете повече за как да [възстановяване на изтрити имейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="e3ea7-p103">If you accidentally delete an email message from your Outlook.com email, you can recover those items if they're still in your Deleted Items or Junk Email folder, and in some cases you can even recover items after the Deleted Items folder is emptied. Read more about how to [Restore deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
+<span data-ttu-id="6bfc9-p103">Ако случайно изтриете имейл съобщение от имейла Outlook.com, можете да възстановите тези елементи, ако те са все още в папката Изтрити елементи или нежелана поща и в някои случаи, дори можете да възстановите елементи, след като се изпразни папката Изтрити елементи. Прочетете повече за как да [възстановяване на изтрити имейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="6bfc9-p103">If you accidentally delete an email message from your Outlook.com email, you can recover those items if they're still in your Deleted Items or Junk Email folder, and in some cases you can even recover items after the Deleted Items folder is emptied. Read more about how to [Restore deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
   
 
