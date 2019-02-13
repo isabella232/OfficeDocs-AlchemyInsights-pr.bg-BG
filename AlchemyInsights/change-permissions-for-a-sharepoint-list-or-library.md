@@ -7,25 +7,25 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 87f4b9ee252d3a7786a52b53b3fc5b40db38ef2a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03e3802c325bdf07b79329e1247ee9fd4a6b75e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458457"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905461"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="a79a7-102">Промяна на разрешенията за списък на SharePoint или библиотека</span><span class="sxs-lookup"><span data-stu-id="a79a7-102">Change permissions for a SharePoint list or library</span></span>
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="2f4cb-102">Промяна на разрешенията за списък на SharePoint или библиотека</span><span class="sxs-lookup"><span data-stu-id="2f4cb-102">Change permissions for a SharePoint list or library</span></span>
 
-1. <span data-ttu-id="a79a7-103">Отидете на сайта на SharePoint в уеб браузър и Отворете списъка или библиотеката.</span><span class="sxs-lookup"><span data-stu-id="a79a7-103">Go to the SharePoint site in a web browser and open the list or library.</span></span>
+1. <span data-ttu-id="2f4cb-103">Отидете на сайта на SharePoint в уеб браузър и Отворете списъка или библиотеката.</span><span class="sxs-lookup"><span data-stu-id="2f4cb-103">Go to the SharePoint site in a web browser and open the list or library.</span></span>
     
-2. <span data-ttu-id="a79a7-p101">Щракнете върху иконата на настройки в горния десен ъгъл и след това щракнете върху **Настройки на библиотека** или **списък настройки**. (Ако не виждате командата, изберете раздела **библиотека** или **списък** , за да отворите лентата а след това щракнете върху **Настройки на библиотека** или **Списък на настройки** на лентата).</span><span class="sxs-lookup"><span data-stu-id="a79a7-p101">Click the Settings icon in the upper right, and then click **Library settings** or **List settings**. (If you don't see the command, choose the **Library** or **List** tab to open the ribbon, and then click **Library Settings** or **List Settings** on the ribbon.)</span></span> 
+2. <span data-ttu-id="2f4cb-p101">Щракнете върху иконата на настройки в горния десен ъгъл и след това щракнете върху **Настройки на библиотека** или **списък настройки**. (Ако не виждате командата, изберете раздела **библиотека** или **списък** , за да отворите лентата а след това щракнете върху **Настройки на библиотека** или **Списък на настройки** на лентата).</span><span class="sxs-lookup"><span data-stu-id="2f4cb-p101">Click the Settings icon in the upper right, and then click **Library settings** or **List settings**. (If you don't see the command, choose the **Library** or **List** tab to open the ribbon, and then click **Library Settings** or **List Settings** on the ribbon.)</span></span> 
     
-3. <span data-ttu-id="a79a7-106">Под **разрешения и управление**щракнете върху **разрешения за този списък** или **разрешения за тази библиотека с документи**.</span><span class="sxs-lookup"><span data-stu-id="a79a7-106">Under **Permissions and Management**, click **Permissions for this list** or **Permissions for this document library**.</span></span>
+3. <span data-ttu-id="2f4cb-106">Под **разрешения и управление**щракнете върху **разрешения за този списък** или **разрешения за тази библиотека с документи**.</span><span class="sxs-lookup"><span data-stu-id="2f4cb-106">Under **Permissions and Management**, click **Permissions for this list** or **Permissions for this document library**.</span></span>
     
-<span data-ttu-id="a79a7-p102">Имайте предвид, че по подразбиране SharePoint списъците и библиотеките наследяват разрешенията си от сайта. Ако нарушите наследяване на разрешения, настоящите разрешения ще бъдат копирани към списъка или библиотеката и всичко вътре в нея. Ако по-късно са променени разрешения за сайта, промените няма да бъдат приложени към списъка или библиотеката и елементите в нея.</span><span class="sxs-lookup"><span data-stu-id="a79a7-p102">Note that by default, SharePoint lists and libraries inherit their permissions from the site. If you break permissions inheritance, the current permissions will be copied to the list or library and everything within it. If the permissions for the site are later changed, the changes won't be applied to the list or library and the items within it.</span></span>
+<span data-ttu-id="2f4cb-p102">Имайте предвид, че по подразбиране SharePoint списъците и библиотеките наследяват разрешенията си от сайта. Ако нарушите наследяване на разрешения, настоящите разрешения ще бъдат копирани към списъка или библиотеката и всичко вътре в нея. Ако по-късно са променени разрешения за сайта, промените няма да бъдат приложени към списъка или библиотеката и елементите в нея.</span><span class="sxs-lookup"><span data-stu-id="2f4cb-p102">Note that by default, SharePoint lists and libraries inherit their permissions from the site. If you break permissions inheritance, the current permissions will be copied to the list or library and everything within it. If the permissions for the site are later changed, the changes won't be applied to the list or library and the items within it.</span></span>
   
 
