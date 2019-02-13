@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: dba20a24df6e70d51fd06d929373dd3c0b2b6d92
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ad9631d31e106a949aad544982f173ee646bc5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457787"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917953"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент
 
@@ -29,7 +29,7 @@ ms.locfileid: "29457787"
     > [!NOTE]
     > Ако тази опция не се появи, вашата организация е вече настроена да използва клиентската OneDrive синхронизиране за синхронизиране на SharePoint файлове. 
   
-4. Щракнете върху OK.
+4. Щракнете върху **OK**.
     
 За повече информация вижте [дават възможност на потребителите за синхронизиране на SharePoint файлове с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866433). За инструкции да се даде на вашите потребители вижте [файлове за синхронизиране на SharePoint с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866427).
   
