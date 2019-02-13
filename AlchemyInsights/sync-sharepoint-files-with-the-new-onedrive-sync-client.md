@@ -7,30 +7,30 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: dba20a24df6e70d51fd06d929373dd3c0b2b6d92
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ad9631d31e106a949aad544982f173ee646bc5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29457787"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917953"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="bd1f4-102">Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент</span><span class="sxs-lookup"><span data-stu-id="bd1f4-102">Sync SharePoint files with the new OneDrive sync client</span></span>
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="03b71-102">Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент</span><span class="sxs-lookup"><span data-stu-id="03b71-102">Sync SharePoint files with the new OneDrive sync client</span></span>
 
-1. <span data-ttu-id="bd1f4-103">В центъра на класически SharePoint администратор изберете **Настройки**.</span><span class="sxs-lookup"><span data-stu-id="bd1f4-103">In the classic SharePoint admin center, select **settings**.</span></span>
+1. <span data-ttu-id="03b71-103">В центъра на класически SharePoint администратор изберете **Настройки**.</span><span class="sxs-lookup"><span data-stu-id="03b71-103">In the classic SharePoint admin center, select **settings**.</span></span>
     
-2. <span data-ttu-id="bd1f4-104">Уверете се, че "OneDrive синхронизация бутон" е настроен на "Покажи бутона синхронизиране."</span><span class="sxs-lookup"><span data-stu-id="bd1f4-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
+2. <span data-ttu-id="03b71-104">Уверете се, че "OneDrive синхронизация бутон" е настроен на "Покажи бутона синхронизиране."</span><span class="sxs-lookup"><span data-stu-id="03b71-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
     
-3. <span data-ttu-id="bd1f4-105">За "Синхронизиране клиент за SharePoint," изберете **започнете нов клиент**.</span><span class="sxs-lookup"><span data-stu-id="bd1f4-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
+3. <span data-ttu-id="03b71-105">За "Синхронизиране клиент за SharePoint," изберете **започнете нов клиент**.</span><span class="sxs-lookup"><span data-stu-id="03b71-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="bd1f4-106">Ако тази опция не се появи, вашата организация е вече настроена да използва клиентската OneDrive синхронизиране за синхронизиране на SharePoint файлове.</span><span class="sxs-lookup"><span data-stu-id="bd1f4-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
+    > <span data-ttu-id="03b71-106">Ако тази опция не се появи, вашата организация е вече настроена да използва клиентската OneDrive синхронизиране за синхронизиране на SharePoint файлове.</span><span class="sxs-lookup"><span data-stu-id="03b71-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
   
-4. <span data-ttu-id="bd1f4-107">Щракнете върху OK.</span><span class="sxs-lookup"><span data-stu-id="bd1f4-107">Click **OK**.</span></span>
+4. <span data-ttu-id="03b71-107">Щракнете върху **OK**.</span><span class="sxs-lookup"><span data-stu-id="03b71-107">Click **OK**.</span></span>
     
-<span data-ttu-id="bd1f4-p101">За повече информация вижте [дават възможност на потребителите за синхронизиране на SharePoint файлове с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866433). За инструкции да се даде на вашите потребители вижте [файлове за синхронизиране на SharePoint с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="bd1f4-p101">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433). For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
+<span data-ttu-id="03b71-p101">За повече информация вижте [дават възможност на потребителите за синхронизиране на SharePoint файлове с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866433). За инструкции да се даде на вашите потребители вижте [файлове за синхронизиране на SharePoint с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="03b71-p101">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433). For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
   
 

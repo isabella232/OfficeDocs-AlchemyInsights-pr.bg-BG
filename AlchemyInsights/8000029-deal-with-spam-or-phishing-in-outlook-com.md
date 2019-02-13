@@ -7,27 +7,27 @@ ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: adb11e5bba4dc31c228b9a68919283fa370db768
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458467"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920113"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a><span data-ttu-id="e80f8-102">Справят със спам и фишинг измами във вашата входяща поща</span><span class="sxs-lookup"><span data-stu-id="e80f8-102">Deal with spam or phishing scams in your inbox</span></span>
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a><span data-ttu-id="c3ee2-102">Справят със спам и фишинг измами във вашата входяща поща</span><span class="sxs-lookup"><span data-stu-id="c3ee2-102">Deal with spam or phishing scams in your inbox</span></span>
 
-<span data-ttu-id="e80f8-103">Ако получите имейл, който изглежда като спам или фишинг измама, можете да го доклад с десния бутон на съобщението и изберете **Маркирай като нежелана поща**.</span><span class="sxs-lookup"><span data-stu-id="e80f8-103">If you get an email that looks like spam or a phishing scam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
+<span data-ttu-id="c3ee2-103">Ако получите имейл, който изглежда като спам или фишинг измама, можете да го доклад с десния бутон на съобщението и изберете **Маркирай като нежелана поща**.</span><span class="sxs-lookup"><span data-stu-id="c3ee2-103">If you get an email that looks like spam or a phishing scam, you can report it by right-clicking the message and select **Mark as junk**.</span></span> 
   
-<span data-ttu-id="e80f8-p101">Филтри за нежелана поща в Outlook.com подобри, когато маркирате съобщение като нежелана поща. Можете също да го отчитат като фишинг измама или да блокирате имейл адреси и домейни, които не искате да получавате съобщения от.</span><span class="sxs-lookup"><span data-stu-id="e80f8-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also report it as a phishing scam or block the email addresses and domains you don't want to receive messages from.</span></span>
+<span data-ttu-id="c3ee2-p101">Филтри за нежелана поща в Outlook.com подобри, когато маркирате съобщение като нежелана поща. Можете също да го отчитат като фишинг измама или да блокирате имейл адреси и домейни, които не искате да получавате съобщения от.</span><span class="sxs-lookup"><span data-stu-id="c3ee2-p101">The junk email filters in Outlook.com improve when you mark a message as junk. You can also report it as a phishing scam or block the email addresses and domains you don't want to receive messages from.</span></span>
   
-<span data-ttu-id="e80f8-p102">Ако смятате, че сте получили фишинг измама или фишинг, маркирайте имейл като нежелана поща, отидете в папката с нежелана поща и изберете **не спам** \> **фишинг** да го маркирате като фишинг измама. Научете повече за това как да се [справим със злоупотреба, фишинг или измама](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="e80f8-p102">If you believe you've received a phishing or spoofing scam, mark the email as junk, go to your Junk Email folder, and select **Not spam** \> **Phishing** to mark it as a phishing scam. Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
+<span data-ttu-id="c3ee2-p102">Ако смятате, че сте получили фишинг измама или фишинг, маркирайте имейл като нежелана поща, отидете в папката с нежелана поща и изберете **не спам** \> **фишинг** да го маркирате като фишинг измама. Научете повече за това как да се [справим със злоупотреба, фишинг или измама](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="c3ee2-p102">If you believe you've received a phishing or spoofing scam, mark the email as junk, go to your Junk Email folder, and select **Not spam** \> **Phishing** to mark it as a phishing scam. Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
   
-<span data-ttu-id="e80f8-p103">За да блокирате имейл адреси, отидете в **Настройки**![настройки](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Опции** \> **блокирани податели**. За да добавите адреси или домейни към вашия списък с безопасни податели, изберете **безопасни податели**.</span><span class="sxs-lookup"><span data-stu-id="e80f8-p103">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="c3ee2-p103">За да блокирате имейл адреси, отидете в **Настройки**![настройки](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Опции** \> **блокирани податели**. За да добавите адреси или домейни към вашия списък с безопасни податели, изберете **безопасни податели**.</span><span class="sxs-lookup"><span data-stu-id="c3ee2-p103">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
-<span data-ttu-id="e80f8-110">Ако виждате увеличение на спам, прочетете как да [поддържате спам и нежелана поща от папката "Входящи"](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="e80f8-110">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="c3ee2-110">Ако виждате увеличение на спам, прочетете как да [поддържате спам и нежелана поща от папката "Входящи"](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="c3ee2-110">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
 
