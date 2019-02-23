@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920005"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207962"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Как да закупите лицензи за вашия абонамент за бизнес на Office 365
 
 Когато присвоявате Office 365 лицензи вашите потребители, можете да откриете, имате нужда да закупите допълнителни лицензи. За да направите това:
   
-- В центъра на Office 365 администратор, отидете на страницата на [абонаменти]( https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.
+- В центъра на Microsoft 365 администратор, отидете на страницата на [абонаменти]( https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.
     
 - На страницата на **абонаменти** изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.
     

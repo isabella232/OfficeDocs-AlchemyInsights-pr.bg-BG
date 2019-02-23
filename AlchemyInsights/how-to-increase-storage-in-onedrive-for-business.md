@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906397"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207746"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Как да увеличите съхранение в OneDrive за бизнес
 
@@ -27,7 +27,7 @@ ms.locfileid: "29906397"
   
 За да увеличите вашия съхранение в OneDrive за бизнес, изберете Office 365 план, който включва **OneDrive за бизнес план 2** или **Office 365 предприятие E3**. 
   
-За да промените плановете, в центъра за администрация на Office 365 отидете на **Фактуриране** \> **абонаменти**и след това изберете **Превключване планове.**
+За да промените плановете, в центъра за администрация на Microsoft 365 отидете на **Фактуриране** \> **абонаменти**и след това изберете **Превключване планове.**
   
 За повече информация относно превключването планове и OneDrive за бизнес за съхранение на багаж вижте [Превключване към различен Office 365 за бизнес план](https://go.microsoft.com/fwlink/?LinkId=2031117) и [OneDrive за бизнес услуга описание](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900853"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207674"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Отстраняване на проблеми, споделяне на съдържание в SharePoint с външни потребители
 
 Уверете се, че външни е включено споделяне за вашата организация:
   
-1. Отидете на [услуги &amp; добавки страница в центъра за администрация на Office 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), щракнете върху **сайтове**.
+1. Отидете на [услуги &amp; добавки страница в центъра за администрация на Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), щракнете върху **сайтове**.
     
-2. Уверете се, че настройката е се обърна към "За." Ако е отметнато "Само съществуващи външни потребители", се уверете, че външните потребител е включен в центъра за администрация на Office 365.
+2. Уверете се, че настройката е се обърна към "За." Ако е отметнато "Само съществуващи външни потребители", се уверете, че външните потребител е включен в центъра за администрация на Microsoft 365.
     
 Уверете се, външно споделяне, включено за сайта. За класически колекция:
   

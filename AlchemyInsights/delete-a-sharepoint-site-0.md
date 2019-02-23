@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926269"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210014"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Изтриване на сайтове, които принадлежат към Office 365 Група:
 
 Когато потребителите създават нов сайт на екип от SharePoint дом (или създавате нов сайт на екип от нов SharePoint администратор център преглед), съответната група от Office 365 се създава автоматично. Office 365 група свързани екипни сайтове също се създават, когато създавате Office 365 група или екип в екипи на Microsoft. За да изтриете сайт на SharePoint, който принадлежи към група на Office 365, трябва да изтриете група на Office 365, самата. 
   
-1. Отидете на [страницата на групи на центъра за администрация на Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Отидете на [страницата на групи на центъра за администрация на Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Изберете квадратчето за отметка до групата.
     
