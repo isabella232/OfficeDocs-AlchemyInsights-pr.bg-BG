@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928645"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244246"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Променете името си имейл в Outlook.com
 
@@ -32,7 +32,7 @@ ms.locfileid: "29928645"
   
 1. В Outlook.com съставите ново съобщение или отговор към съобщение.
     
-2. В прозореца ново съобщение, изберете ![по-икона група действия. ](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **Покажи от** да видите реда от. 
+2. В прозореца ново съобщение изберете "..." \> **Покажи от** да видите реда от. 
     
 3. Изберете **от** и кой имейл адрес, който искате да използвате. 
     

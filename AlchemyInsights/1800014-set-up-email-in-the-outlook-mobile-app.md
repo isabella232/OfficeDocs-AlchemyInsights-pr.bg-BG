@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925513"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244354"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Настройване на имейл в Outlook mobile app
 
-1. Изберете, **Да започнете** , ако това е вашият първи път настройвате имейл в подвижен app. в противен случай, натиснете **меню**![меню бутона](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) и после натиснете **Настройки** \> **Добавяне на акаунт** \> **Добавяне на имейл акаунт**. 
+1. Изберете **Да започнете** , ако това е вашето първо време, настройване на имейл в подвижен app. в противен случай, натиснете **меню** и след това натиснете **Настройки** \> **Добавяне на акаунт** \> **Добавяне на имейл акаунт**. 
     
 2. Въведете вашия пълен имейл адрес и натиснете **продължи** или **Добавяне на акаунт**.
     
