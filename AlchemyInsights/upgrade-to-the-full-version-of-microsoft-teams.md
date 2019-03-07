@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904849"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468976"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="810bb-102">Ъпгрейд към пълната версия на екипи на Microsoft</span><span class="sxs-lookup"><span data-stu-id="810bb-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="0658e-102">Ъпгрейд към пълната версия на екипи на Microsoft</span><span class="sxs-lookup"><span data-stu-id="0658e-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="810bb-103">Можете да надстроите от екипи на Microsoft (безплатно) към пълната версия на екипи на Microsoft, когато сте готови.</span><span class="sxs-lookup"><span data-stu-id="810bb-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="810bb-104">Най-добрият начин да започнете процеса на надстройване е да щракнете върху **Позволете ни да ви призовавам** по-долу.</span><span class="sxs-lookup"><span data-stu-id="810bb-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="810bb-105">Агент ще се свържем с вас и ви помогне изберете план за Office 365, въведете вашата информация за контакт и плащане, изберете вашия орг домейн и надстроите вашия член списък.</span><span class="sxs-lookup"><span data-stu-id="810bb-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="0658e-103">Трябва да обновите безплатно на пълната версия на екипи на Microsoft?</span><span class="sxs-lookup"><span data-stu-id="0658e-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="0658e-104">Вижте [Ъпгрейд Microsoft екипи свободен Office 365 абонамент версия](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="0658e-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="0658e-105">Ще трябва да отговарят на следните изисквания:</span><span class="sxs-lookup"><span data-stu-id="0658e-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="0658e-106">Вие сте човек, който е подписал за текущата безплатната версия на отбора.</span><span class="sxs-lookup"><span data-stu-id="0658e-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="0658e-107">Ако имате собствен домейн, той вече не може да бъде свързан с Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="0658e-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="0658e-108">За да прехвърлите данни, когато извършвате надстройка, трябва да се абонирате по време на процеса на надстройване.</span><span class="sxs-lookup"><span data-stu-id="0658e-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="0658e-109">Ако сте закупили Office 365 извън процеса на надстройване, не можете да прехвърляте данни.</span><span class="sxs-lookup"><span data-stu-id="0658e-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
