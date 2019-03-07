@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941569"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468472"
 ---
 # <a name="microsoft-teams---guest-access"></a>Екипи на Microsoft - достъп на гост
 
+Трябва ли да включите и настройване на функцията за достъп на гост в екипи на Microsoft?
 
-Ако искате да разрешите или конфигурирате роля за достъп на гости в екипи на Microsoft, ние трябва стъпка по стъпка Инструкция ръководство за вас: [Контролен списък за достъп на гост](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Може да се наложи да изчакате до 24 часа за промени в конфигурацията екипи да влязат в сила.
-  
+Ето какво трябва да направите:
+
+1. Разреши достъп на гост.
+1. Добавяне на гост потребители към вашия екип.
+1. Настройване гости потребителски разрешения.
+
+За повече информация, включително как да видеоклипове вижте [достъп на гост в екипи на Microsoft](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
