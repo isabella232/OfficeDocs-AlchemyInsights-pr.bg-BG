@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939267"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634493"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Изисква алхимия заглавие H1, H2 на не работят.
 Най-добрите практики и насоки за алхимията авторство:
 
 1. **Не гнездо алхимия прозрения в папки**- това ще наруши структурата на URL адреса. Ние търсим в това определяне.
 1. Файловете в папката **AlchemyInsights** трябва да има правило ИД и името на правилото от [алхимия партньор портал](https://alchemyportal.azurewebsites.net) в името на файла.
-    1. пример: ***976-How-to-enable-litigation-hold***
+    1. ех. ***976-how-to-Enable-Litigation-Hold***
 1. Използвайте метаданни в горната част на този файл като вашия шаблон. Нищо друго не се изисква.
 1. В [алхимията партньор портал](https://alchemyportal.azurewebsites.net), Навигирайте до раздела **клиент прозрение заглавие:** и използване, че като отправна точка за H1 заглавието за прозрение. 
     > [!NOTE]
