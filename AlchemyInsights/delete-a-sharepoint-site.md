@@ -9,23 +9,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: f6ee16a20f2280ba4d8d28ab3fdb4672cd9963b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d958f0a7587eb1eb2c91004e34a7cc36fc93abfa
+ms.sourcegitcommit: cecbf70b171a9de32ffa067372be1c017e8dd5ac
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927565"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30664410"
 ---
 # <a name="delete-a-sharepoint-site"></a>Изтриване на сайт на SharePoint
  **Изтриване на сайтове от в новия център за администриране на SharePoint**
   
-За да изтриете активен сайт, посетете центъра на текущия администратор на SharePoint, щракнете върху "Опитайте сега" в горния десен ъгъл. Изберете **активни обекти**, изберете сайт и след това изберете **Изтриване**. За да [изглед и възстановяване на изтрити обекти в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)изберете **изтрили сайтове**. За повече информация вижте [управление на сайтове в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+С помощта на центъра за администрация на нови SharePoint, можете да изтриете класически и модерни сайтове. Изберете **активни обекти**, изберете сайт и след това изберете **Изтриване**. За да [изглед и възстановяване на изтрити обекти в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)изберете **изтрили сайтове**. За повече информация вижте [Изтриване на сайт в центъра за администрация на нови SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
   
-**Важно:** Ако сайтът е част от правилата за съхранение, може да не успеете да я изтриете, докато сайтът се отстранява от [защита &amp; съответствие администратор център](https://protection.office.com/?rfr=AdminCenter#/homepage). Вижте [Преглед на правилата за съхранение](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) за повече информация. 
+**Важно:** Ако сайтът е част от правилата за съхранение, може да не успеете да я изтриете, докато сайтът се отстранява от [сигурност &amp; център за администриране на съответствието политика](https://protection.office.com/?rfr=AdminCenter#/homepage). Вижте [Преглед на правилата за съхранение](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) за повече информация. 
   
 Съвети:
-- Глобалните администратори и SharePoint администраторите сега може да изтриете сайтове, които принадлежат към **Office 365 група**. Това ще изтрие групата и всички свои средства, включително пощенската кутия на Outlook и календар и всички отбори канали. За повече информация вижте [Изтриване на сайт на SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- SharePoint администраторите сега може да изтриете сайтове, които принадлежат към **Office 365 групи**. Това ще изтрие групата и всички свои средства, включително пощенската кутия на Outlook и календар и всички отбори канали. За повече информация вижте [Изтриване на сайт на SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Можете да възстановите изтрити обекти за 93 дни. Обърнете внимание, че изтритите групи трябва да бъдат възстановени в рамките на 30 дни. За повече информация вижте [Преглед и възстановяване на изтрити обекти](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- За да премахнете напълно сайт с Powershell, вижте [Премахване-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet пример. 
+- За да премахнете окончателно сайт, вижте [Окончателно изтриване на сайт](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#permanently-delete-a-site). Тази стъпка ще се изисква, ако планирате да използвате URL. 
+- За да премахнете подсайт, вижте [Изтриване на сайт или подсайт quicksteps](https://support.office.com/en-us/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
   
-
