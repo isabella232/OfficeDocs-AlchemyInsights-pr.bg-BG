@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: a8cdcfbb753243669ce07b758731056aa55c739b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5a6d34c5dc5cca307cd085011a88cf7171d207ad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911725"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761442"
 ---
-# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="7c9a0-102">Как да активирате безшевни див</span><span class="sxs-lookup"><span data-stu-id="7c9a0-102">How to enable Seamless SSO</span></span>
+# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="ef513-102">Как да активирате безшевни див</span><span class="sxs-lookup"><span data-stu-id="ef513-102">How to enable Seamless SSO</span></span>
 
-<span data-ttu-id="7c9a0-103">Позволяват безпроблемно SSO чрез [лазурно АД се свържете](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="7c9a0-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
+<span data-ttu-id="ef513-103">Позволяват безпроблемно SSO чрез [лазурно АД се свържете](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="ef513-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
   
-<span data-ttu-id="7c9a0-p101">Ако ти сте дела пресен инсталация на Azure АД свържете, изберете [по избор инсталация пътека](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На **потребителя вход** страница изберете опцията **Разреши еднократна идентификация** .</span><span class="sxs-lookup"><span data-stu-id="7c9a0-p101">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span> 
+<span data-ttu-id="ef513-104">Ако ти сте дела пресен инсталация на Azure АД свържете, изберете [по избор инсталация пътека](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span><span class="sxs-lookup"><span data-stu-id="ef513-104">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span></span> <span data-ttu-id="ef513-105">На **потребителя вход** страница изберете опцията **Разреши еднократна идентификация** .</span><span class="sxs-lookup"><span data-stu-id="ef513-105">At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span> 
   
-<span data-ttu-id="7c9a0-106">За да проверите, че сте активирали безшевни SSO правилно:</span><span class="sxs-lookup"><span data-stu-id="7c9a0-106">To verify that you have enabled Seamless SSO correctly:</span></span>
+<span data-ttu-id="ef513-106">За да проверите, че сте активирали безшевни SSO правилно:</span><span class="sxs-lookup"><span data-stu-id="ef513-106">To verify that you have enabled Seamless SSO correctly:</span></span>
   
-1. <span data-ttu-id="7c9a0-107">Влезте в [Azure Active Directory административен център](https://aad.portal.azure.com) като глобален администратор.</span><span class="sxs-lookup"><span data-stu-id="7c9a0-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span> 
+1. <span data-ttu-id="ef513-107">Влезте в [Azure Active Directory административен център](https://aad.portal.azure.com) като глобален администратор.</span><span class="sxs-lookup"><span data-stu-id="ef513-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span> 
     
-2. <span data-ttu-id="7c9a0-108">Изберете **Azure Active Directory** в левия прозорец.</span><span class="sxs-lookup"><span data-stu-id="7c9a0-108">Select **Azure Active Directory** in the left pane.</span></span> 
+2. <span data-ttu-id="ef513-108">Изберете **Azure Active Directory** в левия прозорец.</span><span class="sxs-lookup"><span data-stu-id="ef513-108">Select **Azure Active Directory** in the left pane.</span></span> 
     
-3. <span data-ttu-id="7c9a0-109">Уверете се, че безшевните еднократна идентификация е **разрешено**.</span><span class="sxs-lookup"><span data-stu-id="7c9a0-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
+3. <span data-ttu-id="ef513-109">Уверете се, че безшевните еднократна идентификация е **разрешено**.</span><span class="sxs-lookup"><span data-stu-id="ef513-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
     
-<span data-ttu-id="7c9a0-110">За да научите повече, вижте [Azure Active Directory безшевни еднократна идентификация: бърз старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="7c9a0-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
+<span data-ttu-id="ef513-110">За да научите повече, вижте [Azure Active Directory безшевни еднократна идентификация: бърз старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="ef513-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
   
 
