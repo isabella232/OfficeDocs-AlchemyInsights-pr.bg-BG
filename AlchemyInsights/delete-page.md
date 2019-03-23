@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
-ms.openlocfilehash: 43624ba1dfd46905502129de9e093efd56046ce4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2bb3d677cc35040363f6806d95cbe0c41b25f6cc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911941"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765473"
 ---
-# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="7e9c6-102">Изтриване на SharePoint страница</span><span class="sxs-lookup"><span data-stu-id="7e9c6-102">Delete a SharePoint page</span></span>
+# <a name="delete-a-sharepoint-page"></a><span data-ttu-id="49e7e-102">Изтриване на SharePoint страница</span><span class="sxs-lookup"><span data-stu-id="49e7e-102">Delete a SharePoint page</span></span>
 
-1. <span data-ttu-id="7e9c6-103">Отидете на сайта, където е страницата.</span><span class="sxs-lookup"><span data-stu-id="7e9c6-103">Go to the site where the page is.</span></span>
+1. <span data-ttu-id="49e7e-103">Отидете на сайта, където е страницата.</span><span class="sxs-lookup"><span data-stu-id="49e7e-103">Go to the site where the page is.</span></span>
     
-2. <span data-ttu-id="7e9c6-104">В лявата страна щракнете върху **Съдържанието на сайта**.</span><span class="sxs-lookup"><span data-stu-id="7e9c6-104">On the left side, click **Site Contents**.</span></span>
+2. <span data-ttu-id="49e7e-104">В лявата страна щракнете върху **Съдържанието на сайта**.</span><span class="sxs-lookup"><span data-stu-id="49e7e-104">On the left side, click **Site Contents**.</span></span>
     
-3. <span data-ttu-id="7e9c6-105">В лявата страна на сайта съдържанието на страницата щракнете върху **страници**.</span><span class="sxs-lookup"><span data-stu-id="7e9c6-105">On the left side of the Site Contents page, click **Pages**.</span></span>
+3. <span data-ttu-id="49e7e-105">В лявата страна на сайта съдържанието на страницата щракнете върху **страници**.</span><span class="sxs-lookup"><span data-stu-id="49e7e-105">On the left side of the Site Contents page, click **Pages**.</span></span>
     
-4. <span data-ttu-id="7e9c6-106">Изберете страницата и след това щракнете върху елипси (...) отдясно на страницата.</span><span class="sxs-lookup"><span data-stu-id="7e9c6-106">Select the page, and then click the ellipses (...) to the right of the page.</span></span>
+4. <span data-ttu-id="49e7e-106">Изберете страницата и след това щракнете върху елипси (...) отдясно на страницата.</span><span class="sxs-lookup"><span data-stu-id="49e7e-106">Select the page, and then click the ellipses (...) to the right of the page.</span></span>
     
-5. <span data-ttu-id="7e9c6-107">Щракнете върху **Изтриване**.</span><span class="sxs-lookup"><span data-stu-id="7e9c6-107">Click **Delete**.</span></span>
+5. <span data-ttu-id="49e7e-107">Щракнете върху **Изтриване**.</span><span class="sxs-lookup"><span data-stu-id="49e7e-107">Click **Delete**.</span></span>
     
 
