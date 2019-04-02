@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-perform-eDiscovery-and-Content-searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | преименуван |
 
 
-## <a name="week-of-february-18-2019"></a>Седмица на 18 февруари 2019
+## <a name="week-of-march-25-2019"></a>Седмица на 25 март 2019
 
 
 | Публикувано на |Заглавие на темата | Промяна |
 |------|------------|--------|
-| 2/19/2019 | [Имам "Параметър не може да бъде намерен" грешка?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | модифицирани |
-| 2/19/2019 | [Премести електронна поща в Office 365](/AlchemyInsights/move-email-to-office-365) | модифицирани |
-| 2/19/2019 | [Възстановяване на изтрита пощенска кутия](/AlchemyInsights/restore-deleted-mailbox) | модифицирани |
-| 2/21/2019 | [Как да инсталирате Mac Канцелария от портала](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | преименуван |
-| 2/22/2019 | [1048 5.7.750 услугата не е налична. Клиент, блокирани от изпращане от нерегистрирани домейни](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | модифицирани |
-| 2/22/2019 | [125 получаване болен позволително грешка в Outlook в мрежата?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | модифицирани |
-| 2/22/2019 | [126, получаване на пощенска кутия не може да бъде намерена грешка в OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | модифицирани |
-| 2/22/2019 | [127 getting TenantAccessBlockedException грешка при достъп до имейл?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | модифицирани |
-| 2/22/2019 | [128 getting TenantAccessBlockedException грешка при достъп до имейл?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | модифицирани |
-| 2/22/2019 | [711, създаване на списък за разпространение или група](/AlchemyInsights/711-creating-a-distribution-list-or-group) | модифицирани |
-| 2/22/2019 | [912 конфигуриране фокусирани Входящи за всеки във вашата организация](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | модифицирани |
-| 2/22/2019 | [Премахване на домейн](/AlchemyInsights/remove-domain) | модифицирани |
-| 2/22/2019 | [Добавяне на група към SharePoint сайт](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | модифицирани |
-| 2/22/2019 | [Добавяне на друг имейл псевдоним](/AlchemyInsights/add-another-email-alias) | модифицирани |
-| 2/22/2019 | [Добавяне на контакти към O365 група](/AlchemyInsights/add-contacts-to-o365-group) | модифицирани |
-| 2/22/2019 | [Промяна UPN](/AlchemyInsights/change-upn) | модифицирани |
-| 2/22/2019 | [Промяна на разрешенията за публични папки](/AlchemyInsights/changing-public-folder-permissions) | модифицирани |
-| 2/22/2019 | [Промяна на споделена пощенска кутия изпрати като поведение](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | модифицирани |
-| 2/22/2019 | [Проверите състоянието на синхронизирането на ЗСУ идентичност](/AlchemyInsights/check-aad-identity-sync-status) | модифицирани |
-| 2/22/2019 | [Сравни Office 365 плановете](/AlchemyInsights/compare-office-365-plans) | модифицирани |
-| 2/22/2019 | [Създаване на класически сайт](/AlchemyInsights/create-a-classic-site) | модифицирани |
-| 2/22/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | модифицирани |
-| 2/22/2019 | [Създаване на публични папки](/AlchemyInsights/creating-public-folders) | модифицирани |
-| 2/22/2019 | [Изтриване на сайт на SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | модифицирани |
-| 2/22/2019 | [Дават на потребителите достъп до SharePoint и OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | модифицирани |
-| 2/22/2019 | [Имам "Параметър не може да бъде намерен" грешка?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | модифицирани |
-| 2/22/2019 | [Като имейл доставка проблеми?](/AlchemyInsights/having-email-delivery-issues-0) | модифицирани |
-| 2/22/2019 | [Като имейл доставка проблеми?](/AlchemyInsights/having-email-delivery-issues) | модифицирани |
-| 2/22/2019 | [Като проблеми с получаване на Outlook за свързване?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | модифицирани |
-| 2/22/2019 | [Като проблеми с получаване на Outlook за свързване?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | модифицирани |
-| 2/22/2019 | [Как да присвоите лицензи на Office за Mac потребителите](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | модифицирани |
-| 2/22/2019 | [Как да закупите лицензи за вашия абонамент за бизнес на Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | модифицирани |
-| 2/22/2019 | [Как да увеличите съхранение в OneDrive за бизнес](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | модифицирани |
-| 2/22/2019 | [Как да активирате отново на абонамент](/AlchemyInsights/how-to-reactivate-a-subscription) | модифицирани |
-| 2/22/2019 | [Увеличаване на размера на пощенската кутия за предприятието ие](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | модифицирани |
-| 2/22/2019 | [Увеличаване на размера на пощенската кутия за SMB ие](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | модифицирани |
-| 2/22/2019 | [Увеличаване на размера на пощенската кутия](/AlchemyInsights/increase-mailbox-size) | модифицирани |
-| 2/22/2019 | [Проблем със Skype за бизнес?](/AlchemyInsights/issue-with-skype-for-business) | модифицирани |
-| 2/22/2019 | [Управление на синхронизирани потребителски акаунти](/AlchemyInsights/manage-synchronized-user-accounts) | модифицирани |
-| 2/22/2019 | [След използване на OneDrive и SharePoint и дейност](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | модифицирани |
-| 2/22/2019 | [Повторно активиране на абонамент](/AlchemyInsights/reactivate-a-subscription) | модифицирани |
-| 2/22/2019 | [Възстановяване на изтрити OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | модифицирани |
-| 2/22/2019 | [Възстановяване на Office 365 група използва центъра за администриране на Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | модифицирани |
-| 2/22/2019 | [Настройване на абонамента си O365 бизнес Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | модифицирани |
-| 2/22/2019 | [Споделяне с външните потребители не работи](/AlchemyInsights/sharing-with-external-users-isn-t-working) | модифицирани |
-| 2/22/2019 | [Се опитва да намери съдебен процес?](/AlchemyInsights/trying-to-find-a-trial) | модифицирани |
-| 2/22/2019 | [Включване външното споделяне или изключване за SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | модифицирани |
-| 2/22/2019 | [Включване външното споделяне или изключване за SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | модифицирани |
-| 2/22/2019 | [Потребителски разрешения](/AlchemyInsights/user-permissions) | модифицирани |
-| 2/22/2019 | [Когато се генерира изявлението на фактуриране?](/AlchemyInsights/when-is-the-billing-statement-generated) | модифицирани |
-| 2/22/2019 | [Как да проверите вашия домейн с Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | модифицирани |
+| 3/25/2019 | [Outlook.com промяна език](/AlchemyInsights/outlook-com-change-language) | модифицирани |
+| 3/27/2019 | [Изтриване на сайт на SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | модифицирани |
+| 3/28/2019 | Ограничаване на SharePoint Online до класически режим | добавено |
+| 3/28/2019 | [Не може да добави по подразбиране работният поток за одобрение на 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | модифицирани |
+| 3/28/2019 | [Ограничаване на SharePoint Online до класически режим](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | преименуван |
 
 
 ## <a name="week-of-february-25-2019"></a>Седмица на 25 февруари 2019
