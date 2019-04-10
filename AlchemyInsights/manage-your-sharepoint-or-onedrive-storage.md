@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761190"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747299"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление на вашия SharePoint или OneDrive съхранение
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761190"
   
 За повечето организации хранилището на SharePoint се управлява автоматично, така че не е нужно да се определят граници на колекцията от сайтове. За да проверите колко хранилището на SharePoint, имате:
   
-- В класически SharePoint администратор център, в горния десен ъгъл на сайта колекции страница Потърсете си разположение и общо съхранение.
+- В новия център за администратор на SharePoint в горния десен ъгъл на страницата на сайтове Потърсете си разположение и общо съхранение.
     
 За информация за как се изчислява вашия лимит вижте [Онлайн граници на SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). За да закупите допълнително място за съхранение, вижте [Промяна съхранение пространство за вашия абонамент](https://go.microsoft.com/fwlink/?linkid=866428).
   

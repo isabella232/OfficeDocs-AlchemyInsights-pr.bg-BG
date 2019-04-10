@@ -484,55 +484,23 @@
 | 3/28/2019 | [Ограничаване на SharePoint Online до класически режим](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | преименуван |
 
 
-## <a name="week-of-february-25-2019"></a>Седмица на 25 февруари 2019
+## <a name="week-of-april-01-2019"></a>Седмица на 01 април 2019
 
 
 | Публикувано на |Заглавие на темата | Промяна |
 |------|------------|--------|
-| 2/25/2019 | [1800014 се в app подкрепа за Outlook mobile app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | модифицирани |
-| 2/25/2019 | [1800014 настройка на имейл в Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | модифицирани |
-| 2/25/2019 | [8000001 да изключите фокусирани входящи](/AlchemyInsights/8000001-turn-off-focused-inbox) | модифицирани |
-| 2/25/2019 | [8000009 създадете папка в Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000012 изтриване на контакт в Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000013 шрифта промяна в Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000014 как да сменя езика в Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000015 блокиране или деблокиране на податели](/AlchemyInsights/8000015-block-or-unblock-senders) | модифицирани |
-| 2/25/2019 | [8000015 получаване на имейл от блокирани податели в Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000029 се занимава с фишинг в Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000029 се справят със спам в Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000029 се справят със спам и фишинг в Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000033 как да отговорите или да прехвърляте съобщения в Outlook.com бета](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | модифицирани |
-| 2/25/2019 | [8000034 на разписки за прочитане в Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000036 промени името си имейл в Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000046 печат имейл и календари в Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000047 как да създадете имейл подпис в Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000052 Прикачи файлове в Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | модифицирани |
-| 2/25/2019 | [8000059 как да се промени темата действие (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | модифицирани |
-| 2/25/2019 | [Препоръчителни стъпки да предприеме, ако е компрометирана сметка](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | модифицирани |
-| 2/26/2019 | [Възстановяване на изтрити Office 365 група](/AlchemyInsights/restore-a-deleted-office-365-group) | модифицирани |
-| 2/26/2019 | [9000215 Outlook.com абонаменти](/AlchemyInsights/9000215-outlook-com-subscriptions) | добавено |
-| 2/27/2019 | [9000199 PST файлове в Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | добавено |
-| 2/27/2019 | [9000202 Outlook.com опции](/AlchemyInsights/9000202-outlook-com-options) | добавено |
-| 2/27/2019 | [9000203 Outlook.com филтри](/AlchemyInsights/9000203-outlook-com-filters) | добавено |
-| 2/28/2019 | [8000036 промяна профил снимка/име в Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | добавено |
-| 2/28/2019 | [8000049 Skype икона отсъствуващ в Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | добавено |
-| 2/28/2019 | [8000088 освен имейл в Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | добавено |
-| 2/28/2019 | [9000071 не напишете символа на Mac @](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | добавено |
-| 2/28/2019 | [9000193 отмените преместване или изтриване в Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | добавено |
-| 2/28/2019 | [9000198 Outlook.com календар бета](/AlchemyInsights/9000198-outlook-com-calendar-beta) | добавено |
-| 3/1/2019 | [8000035 поиска да победим от Outlook.com бета за класически Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | добавено |
-| 3/1/2019 | [8000035 как да се направи нов Outlook.com изглежда като старата](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | добавено |
-| 3/1/2019 | [8000043 POP, IMAP и SMTP настройки за Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | добавено |
-| 3/1/2019 | [8000090 Outlook.com Избери всички](/AlchemyInsights/8000090-outlook-com-select-all) | добавено |
-| 3/1/2019 | [8000091 Outlook.com реагират поп](/AlchemyInsights/8000091-outlook-com-react-pop-up) | добавено |
-| 3/1/2019 | [8000092 Outlook.com изглед съобщение източник](/AlchemyInsights/8000092-outlook-com-view-message-source) | добавено |
-| 3/1/2019 | [8000093 Outlook.com свързан акаунт разрешения](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | добавено |
-| 3/1/2019 | [1800009Outlook за Mac в app поддръжка](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | модифицирани |
-| 3/1/2019 | [8000057 безопасно връзки в Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | модифицирани |
-| 3/1/2019 | [9000232 Outlook.com адресна книга](/AlchemyInsights/9000232-outlook-com-address-book) | добавено |
-| 3/1/2019 | [9000233 Outlook.com ПИН](/AlchemyInsights/9000233-outlook-com-pin) | добавено |
-| 3/1/2019 | [9000234 Outlook.com вътрешна грешка в сървър](/AlchemyInsights/9000234-outlook-com-internal-server-error) | добавено |
-| 3/1/2019 | [9000236 Outlook.com добавяне акаунт](/AlchemyInsights/9000236-outlook-com-add-account) | добавено |
-| 3/1/2019 | [9000238 Outlook.com добави псевдоним](/AlchemyInsights/9000238-outlook-com-add-alias) | добавено |
-| 3/1/2019 | [9000239 Outlook.com препращане](/AlchemyInsights/9000239-outlook-com-forwarding) | добавено |
-| 3/1/2019 | [9000240 Outlook.com отговори](/AlchemyInsights/9000240-outlook-com-replies) | добавено |
+| 4/1/2019 | [Разрешаване на Office 365 АТФ за SharePoint, OneDrive и екипи на Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | добавено |
+| 4/1/2019 | [Разширени заплаха защита (ATP) инсталиране на Office 365](/AlchemyInsights/office-365-atp-setup) | добавено |
+| 4/1/2019 | [9000071 не напишете символа на Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | преименуван |
+| 4/1/2019 | [Възстановяване на Office 365 група използва центъра за администриране на Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | модифицирани |
+| 4/1/2019 | [Отстраняване на проблеми с Office 365 разширени заплаха защита (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | добавено |
+| 4/2/2019 | Класификация на етикети в Office 365 | добавено |
+| 4/2/2019 | Данни загуба предотвратяване (DLP) преглед | добавено |
+| 4/2/2019 | Работния плот ап за SharePoint | добавено |
+| 4/2/2019 | Концентраторът сайт граници и ограничения | добавено |
+| 4/2/2019 | OneDrive: Липсващи файлове или папки | добавено |
+| 4/2/2019 | Записване на сайт или списък като шаблон | добавено |
+| 4/2/2019 | SharePoint концентратор сайтове преглед | добавено |
+| 4/2/2019 | Сайт и структура на съдържанието премахнати | добавено |
+| 4/2/2019 | Отстраняване на грешка 404, файлът не е намерен | добавено |
+| 4/3/2019 | [Код на грешка 550 5.7.705 достъпът е отказан, наематели е надхвърлил Прага](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | модифицирани |
