@@ -10,25 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f44ed42906b85e63f1f694813f54710906969904
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772431"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859129"
 ---
 # <a name="winsock-error-10061"></a>Winsock грешка 10061
 
 Този код на грешка означава, че Office 365 не можа да установи TCP сокет (връзка) с хост. Най-вероятната причина за тази грешка е проблем с конфигурацията на защитната стена. За да коригирате проблема, проверете следните настройки:
-  
-- Проверете вашата защитна стена конфигурация с информацията в [Office 365 URL и IP адреси](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
-    
-- Ако грешката е специфичен за Exchange онлайн защита (EOP), вие трябва да са били оповестени до промяна на [Exchange онлайн защита IP адреси](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
-    
-- Уверете се, че вашият интернет доставчик (ISP) не блокира пристанището.
-    
-- Проверете смарт хоста и целевия сървър настройките във вашата конектори.
-    
-Обърнете внимание, че Office 365 не блокира *входящите* връзки по този начин. 
-  
 
+- Проверете вашата защитна стена конфигурация с информацията в [Office 365 URL и IP адреси](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+
+- Ако грешката е специфичен за Exchange онлайн защита (EOP), вие трябва да са били оповестени до промяна на [Exchange онлайн защита IP адреси](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+
+- Уверете се, че вашият интернет доставчик (ISP) не блокира пристанището.
+
+- Проверете смарт хоста и целевия сървър настройките във вашата конектори.
+
+Обърнете внимание, че Office 365 не блокира *входящите* връзки по този начин.
