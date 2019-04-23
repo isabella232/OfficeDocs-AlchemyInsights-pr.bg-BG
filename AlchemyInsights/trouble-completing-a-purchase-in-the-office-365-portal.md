@@ -1,5 +1,5 @@
 ---
-title: Проблеми с попълването на покупка в портала на Office 365
+title: Проблем със завършването на покупка в портала на Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405132"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754747"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Проблеми с попълването на покупка в портала на Office 365
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Проблем със завършването на покупка в портала на Office 365
 
-Когато се опитвате да направите покупка, ако ти сте суфльор няколко пъти за да влезете в портала на Office 365, или получавате съобщение, че проблем е намерен, най-първата стъпка е да се опитате да използвате вашия браузър режим inprivate/инкогнито. След като отворите прозореца inprivate/инкогнито, отидете на [portal.office.com](https://portal.office.com) сайт и влезте с вашите идентификационни данни на администратор. След това продължете да завършите покупката си. 
+Когато се опитвате да направите покупката, ако сте били подканени многократно да влезете в портала на Office 365 или получавате съобщение за наличието на проблем, най-добре е първо да опитате да използвате режима насаме/инкогнито във вашия браузъра. След като отворите прозореца насаме/инкогнито, отидете на сайта [portal.office.com](https://portal.office.com) и влезте със своите идентификационни данни на администратор. След това продължете, за да завършите покупката си. 
   
 

@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405312"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754675"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Актуализиране на nameservers вашия домейн към Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Актуализирайте вашият домейн за сървъри за имена към Office 365
 
-Забележка: Nameserver промени понякога може да отнеме до 48 часа да пропагандира.
+Забележка: За разпространението на промените в сървърите за имена понякога може да са необходими до 48 часа.
   
-За да настроите домейна си в Office 365, nameservers в вашия регистратор трябва да бъдат актуализирани. Създаване или редактиране на вашите nameserver записи в регистратора на домейна.
+За да настроите своя домейн в Office 365, сървърите за имена във вашия регистратор трябва да бъдат актуализирани. Създайте или редактирайте своите записи на сървърите за имена при вашия регистратор на домейни.
   
-1. Отидете на вашия регистратор на домейн уебсайт и намерете област, където можете да редактирате nameservers.
+1. Отидете в уеб сайта на регистратора на домейни и намерете областта, където можете да редактирате сървърите за имена.
     
-2. Създаване или редактиране на две nameserver записи да съответстват на следните стойности:
+2. Създайте или редактирайте два записа на сървърите за имена със следните стойности:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - NS2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
-3. Запиши промените.
+3. Запишете промените.
     
-Можете да намерите подробни инструкции в тази статия: [Промяна nameservers да настроите Office 365 с всеки регистратор на домейн](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Можете също да намерите подробни инструкции в тази статия. [Промяна на сървърите за имена за настройване на Office 365 с произволен регистратор на домейни](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

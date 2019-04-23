@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404772"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753451"
 ---
 # <a name="add-a-user-to-office-365"></a>Добавяне на потребител към Office 365
 
 Използвайте тези стъпки, за да добавите потребител към Office 365:
   
-1. Отидете на [Активни потребители](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (или, на левия nav изберете **потребителите** \> **активни потребители**).
+1. Отидете на [Активни потребители](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (или в левия навигационен екран изберете **Потребители** \> **Активни потребители**).
     
-2. Щракнете върху **Добави потребителя**.
+2. Щракнете върху **Добавяне на потребител**.
     
-3. Попълнете информацията за потребителя. Изберете **Добави** , когато сте готови. 
+3. Попълнете информацията за потребителя. Изберете **Добави**, когато сте готови. 
     
 [Прочетете повече...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   

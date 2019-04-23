@@ -1,5 +1,5 @@
 ---
-title: Реле имейл чрез офис 365
+title: Препращане на имейл чрез Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468580"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752803"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Настройка на многофункционално устройство или приложение за изпращане на имейл използвате Office 365
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Настройване на многофункционално устройство или приложение за изпращане на имейл с помощта на Office 365
 
-За да научите за опциите си и стъпките, вижте [как да настроите на многофункционално устройство или приложение за изпращане на имейл използвате Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
+За да научите вашите възможности и стъпките, вижте [Как се настройва многофункционално устройство или приложение за изпращане на имейл с помощта на Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *Забележка:* ** ако имате устройство или приложение, което спря да работи, моля [Бележка наскоро сме направили подобрения](https://support.microsoft.com/help/4458479/) , които може да са засегнати. Ние сега **запишете съобщения в папката изпратени** на пощенската кутия, която може да **доведе до съобщения за отхвърлени ако тази пощенска кутия е пълна**. Освен това ние сега се изисква съобщенията се форматира на спецификациите на SMTP. За пример предявяващите устройството трябва да включва ъглови скоби около имейл адрес, както и в *christine@contoso.com* . 
-  
+**Забележка:** ако имате устройство или приложение, което наскоро е спряло да работи, моля, имайте предвид, че наскоро сме започнали [забранявайки шифъра 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) както е планирано.  **Windows Server 2003 IIS SMTP няма да работи повече – по-новата версия на Windows е задължителна.** 
 
+Често срещаните грешки може да са подобни на: Неуспех/грешка при удостоверяване на автентичност, TLS неуспех/грешка, грешка в алгоритъма на шифъра, несъответствие в алгоритъма или прекъсната връзка.  Моля, консултирайте се с доставчика на вашето приложение или устройство, за да проверите дали се поддържа модерен шифър или, дали е налична актуализация.

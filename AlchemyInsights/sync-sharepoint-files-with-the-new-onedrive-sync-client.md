@@ -1,5 +1,5 @@
 ---
-title: Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент
+title: Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469012"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747335"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive
 
-1. В центъра на класически SharePoint администратор изберете **Настройки**.
+1. В новия център за администриране на SharePoint изберете **настройки**.
     
-2. Уверете се, че "OneDrive синхронизация бутон" е настроен на "Покажи бутона синхронизиране."
+2. Уверете се, че за "Бутон за синхронизиране на OneDrive" е зададено "Показване на бутона за синхронизиране". 
     
-3. За "Синхронизиране клиент за SharePoint," изберете **започнете нов клиент**.
+3. За "Синхронизиране клиент за SharePoint" изберете **Старт на новия клиент**.
     
     > [!NOTE]
-    > Ако тази опция не се появи, вашата организация е вече настроена да използва клиентската OneDrive синхронизиране за синхронизиране на SharePoint файлове. 
+    > Ако тази опция не се показва, вашата организация, вече е готова да използва новия клиент за синхронизиране на OneDrive за синхронизиране на файлове на SharePoint. 
   
 4. Щракнете върху **OK**.
     
-За повече информация вижте [дават възможност на потребителите за синхронизиране на SharePoint файлове с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866433). За инструкции да се даде на вашите потребители вижте [файлове за синхронизиране на SharePoint с новия клиент, OneDrive синхронизиране](https://go.microsoft.com/fwlink/?linkid=866427).
+За повече информация вижте [Разрешаване на потребителите да синхронизират файлове в SharePoint с новия клиент за синхронизиране на OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). За инструкциите, които да дадете на вашите потребители, вижте [Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

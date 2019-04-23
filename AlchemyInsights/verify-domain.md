@@ -1,5 +1,5 @@
 ---
-title: Проверка на домейн
+title: Потвърждаване на домейн
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404844"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760399"
 ---
-# <a name="trying-to-verify-your-domain"></a>Опитвате се да проверите вашия домейн?
+# <a name="trying-to-verify-your-domain"></a>Опит за потвърждаване на вашия домейн?
 
-Вие трябва да добавите TXT запис на вашия регистратор на домейн за да проверите дали притежавате домейна си. Изпълнете съветника за добавяне на домейн като щракнете върху **Настройки** \> **домейн**а след това **Добави домейн**. 
+Трябва да добавите TXT запис към вашия регистратор на домейни, за да потвърдите, че сте собственик на домейна. Следвайте съветника „Добавяне на домейн“, като щракнете върху **Настройки** \> **Домейн**и след това **Добавяне на домейн**. 
   
-Следвайте инструкциите в статията по-долу за добавяне на TXT запис за проверка на вашия домейн. Изберете вашия регистратор на домейн за конкретни инструкции за вашия домейн.
+Следвайте инструкциите в статията по-долу за добавяне на TXT запис, за да потвърдите вашия домейн. Изберете вашия регистратор на домейн за конкретни инструкции за вашия домейн.
   
 [Създаване на DNS записи за Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
