@@ -10,22 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000052
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 1663d471655e080a692be9562cbb1451f13e3f74
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ea64b9d4a8153867e9752b57c3d3a35836772053
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780481"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903689"
 ---
 # <a name="how-to-attach-files"></a>Как да прикачвате файлове
 
-За да прикачите файлове в класически Outlook.com:
-  
-1. Съставяне на ново съобщение или отговор към съобщение.
-    
-2. В горната част на прозореца за ново съобщение изберете **Прикачи**. 
-    
-За да прикачите файлове в Outlook.com бета:
   
 1. Съставяне на ново съобщение или отговор към съобщение.
     

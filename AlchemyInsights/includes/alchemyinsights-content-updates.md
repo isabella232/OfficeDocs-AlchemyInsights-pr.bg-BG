@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Седмица на 04 март 2019
-
-
-| Публикувано на |Заглавие на темата | Промяна |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com възстановяване на изтрити Email | добавено |
-| 3/4/2019 | [8000034 на разписки за прочитане в Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | модифицирани |
-| 3/4/2019 | [8000047 как да създадете имейл подпис в Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | модифицирани |
-| 3/4/2019 | [8000086 Outlook.com Поставете изображението](/AlchemyInsights/80000860-outlook-com-insert-image) | добавено |
-| 3/4/2019 | [8000087 Outlook.com клавишни комбинации](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | добавено |
-| 3/4/2019 | [8000088 освен имейл в Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | модифицирани |
-| 3/4/2019 | [8000089 Outlook.com безопасни податели](/AlchemyInsights/8000089-outlook-com-safe-senders) | добавено |
-| 3/4/2019 | 8000011 Outlook.com възстановяване на изтрити Email | премахнати |
-| 3/4/2019 | 1575-PowerApps и Microsoft поток план за разширение | добавено |
-| 3/4/2019 | [Промяна на домейн за Office 365 група](/AlchemyInsights/change-domain-for-group) | преименуван |
-| 3/4/2019 | [1575-PowerApps и Microsoft поток план за разширение](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | преименуван |
-| 3/4/2019 | [Разреши Multifactor удостоверяване](/AlchemyInsights/enable-multifactor-authentication) | модифицирани |
-| 3/4/2019 | [8000054 Outlook.com съхранение граница превишавам](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | добавено |
-| 3/4/2019 | [423 Org сигурност - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | модифицирани |
-| 3/4/2019 | [8000029 се справят със спам и фишинг в Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | модифицирани |
-| 3/4/2019 | [Премахване на домейн](/AlchemyInsights/remove-domain) | модифицирани |
-| 3/4/2019 | [Добавяне на потребители към Office 365](/AlchemyInsights/add-users-to-office-365) | модифицирани |
-| 3/4/2019 | [Получавате ли прекалено много спам или phish във вашата пощенска кутия?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | модифицирани |
-| 3/4/2019 | [Промяна на NameServers](/AlchemyInsights/change-nameservers) | модифицирани |
-| 3/4/2019 | [Създаване на приложения в PowerApps](/AlchemyInsights/create-apps-in-powerapps) | модифицирани |
-| 3/4/2019 | [Тотална миграция на Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | модифицирани |
-| 3/4/2019 | [Като имейл доставка проблеми?](/AlchemyInsights/having-email-delivery-issues-0) | модифицирани |
-| 3/4/2019 | [Като имейл доставка проблеми?](/AlchemyInsights/having-email-delivery-issues) | модифицирани |
-| 3/4/2019 | [Как да добавя кредитна карта?](/AlchemyInsights/how-do-i-add-a-credit-card) | модифицирани |
-| 3/4/2019 | [Как да актуализирам информацията за кредитната карта?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | модифицирани |
-| 3/4/2019 | [Как да инсталирате Office](/AlchemyInsights/how-to-install-office) | модифицирани |
-| 3/4/2019 | [Мигриране на имейл от IMAP](/AlchemyInsights/migrate-email-from-imap) | модифицирани |
-| 3/4/2019 | [Опции за плащане](/AlchemyInsights/payment-options) | модифицирани |
-| 3/4/2019 | [Препоръчителни стъпки да предприеме, ако е компрометирана сметка](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | модифицирани |
-| 3/4/2019 | [Блокиран за изпращане на твърде много спам подател](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | модифицирани |
-| 3/4/2019 | [Подаване на заявки за поддръжка на Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | модифицирани |
-| 3/4/2019 | [Този домейн е вече в употреба](/AlchemyInsights/the-domain-is-already-in-use) | модифицирани |
-| 3/4/2019 | [Проблеми с попълването на покупка в портала на Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | модифицирани |
-| 3/4/2019 | [Актуализиране на DNS записи](/AlchemyInsights/update-dns-records-0) | модифицирани |
-| 3/4/2019 | [Актуализиране на DNS записи](/AlchemyInsights/update-dns-records) | модифицирани |
-| 3/4/2019 | [Актуализиране на данни за плащане](/AlchemyInsights/update-payment-details) | модифицирани |
-| 3/4/2019 | [Проверка на домейн](/AlchemyInsights/verify-domain) | модифицирани |
-| 3/4/2019 | [Настройване на препращане към няколко имейл адреса](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | модифицирани |
-| 3/4/2019 | [Решаване на "Не е приет домейн" грешка](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | модифицирани |
-| 3/6/2019 | [1581 отваряне и използване на споделена пощенска кутия в Outlook в мрежата](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | модифицирани |
-| 3/6/2019 | [Смени отбора](/AlchemyInsights/1686-teams-shifts) | добавено |
-| 3/6/2019 | [1703 трябва информация за отборите и Polycom телефони](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | добавено |
-| 3/6/2019 | [Отбори PS модул инсталиране и препратка](/AlchemyInsights/1787-teams-ps-module-install-ref) | добавено |
-| 3/6/2019 | [615 типове на споделяне и как да ги настроите.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | модифицирани |
-| 3/6/2019 | [Отбори Freemium](/AlchemyInsights/997-teams-freemium) | добавено |
-| 3/6/2019 | [Имате ли легитимни съобщения, отбелязване като спам?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | модифицирани |
-| 3/6/2019 | [Давам възможност на екипи на Microsoft](/AlchemyInsights/enable-microsoft-teams) | модифицирани |
-| 3/6/2019 | [Разрешили сте екипи за вашите ученици?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | модифицирани |
-| 3/6/2019 | [Как да активирате отново на абонамент](/AlchemyInsights/how-to-reactivate-a-subscription) | модифицирани |
-| 3/6/2019 | InTune ап разполагане - правило номер 991 | премахнати |
-| 3/6/2019 | [Проблем със Skype за бизнес?](/AlchemyInsights/issue-with-skype-for-business) | модифицирани |
-| 3/6/2019 | [Екипи на Microsoft - достъп на гост](/AlchemyInsights/microsoft-teamsguest-access) | модифицирани |
-| 3/6/2019 | [Екипи на Microsoft - възстановяване на изтрити екип сайт](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | модифицирани |
-| 3/6/2019 | [Реле имейл чрез офис 365](/AlchemyInsights/relay-email-through-office-365) | модифицирани |
-| 3/6/2019 | [Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | модифицирани |
-| 3/6/2019 | [Ъпгрейд към пълната версия на екипи на Microsoft](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | модифицирани |
-| 3/7/2019 | [8000064 Outlook.com имейл не може да синхронизира - испански](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | добавено |
-| 3/7/2019 | [8000065 Outlook.com нежелана спам - испански](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | добавено |
-| 3/7/2019 | [8000066 - правило 1 - Outlook.com опростен - испански](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | добавено |
-| 3/7/2019 | [8000066 - правило 2 - Outlook.com опростен - испански](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | добавено |
-| 3/7/2019 | [8000067 - Outlook.com Закрий акаунта - испански](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | добавено |
-| 3/7/2019 | [8000068 - Outlook.com добавяне акаунт - испански](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | добавено |
-| 3/7/2019 | [8000069 - Outlook.com блокиране подател - испански](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | добавено |
-| 3/7/2019 | [8000070 - Outlook.com не може да влезете в - испански](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | добавено |
-| 3/7/2019 | [Възстановяване на изтрити потребител](/AlchemyInsights/restore-deleted-user) | модифицирани |
-| 3/8/2019 | 8000043 POP, IMAP и SMTP настройки за Outlook.com | премахнати |
-| 3/8/2019 | [8000043 POP, IMAP и SMTP настройки за Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | преименуван |
-| 3/8/2019 | [8000071 Outlook.com прикрепвам имейл синхронизиране - френски](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | добавено |
-| 3/8/2019 | [8000072 Outlook.com нежелана поща - френски](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | добавено |
-| 3/8/2019 | [8000073 Outlook.com сметка рязка рана - френски](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | добавено |
-| 3/8/2019 | [8000074 Outlook.com Закрий акаунта - френски](/AlchemyInsights/8000074-outlook-com-close-account-french) | добавено |
-| 3/8/2019 | [8000075 Outlook.com промяна парола - френски](/AlchemyInsights/8000075-outlook-com-change-password-french) | добавено |
-| 3/8/2019 | [8000076 Outlook.com блокиране подател - френски](/AlchemyInsights/8000076-outlook-com-block-sender-french) | добавено |
-
-
 ## <a name="week-of-march-11-2019"></a>Седмица на 11 март 2019
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 Outlook.com входящи не товарене | добавено |
 | 3/12/2019 | [8000078 Outlook.com входящи не товарене](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | преименуван |
 | 3/12/2019 | [8000078 Outlook.com входящи не товарене](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | модифицирани |
-| 3/13/2019 | [Реле имейл чрез офис 365](/AlchemyInsights/relay-email-through-office-365) | модифицирани |
+| 3/13/2019 | [Препращане на имейл чрез Office 365](/AlchemyInsights/relay-email-through-office-365) | модифицирани |
 | 3/14/2019 | [същото като името на файла е най-добре [правило #-описание]](/AlchemyInsights/1-alchemy-insight-template) | модифицирани |
 | 3/14/2019 | [Увеличаване на размера на пощенската кутия](/AlchemyInsights/increase-mailbox-size) | модифицирани |
 | 3/15/2019 | [Outlook работния плот оттегляне или заместване имейл съобщение](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | добавено |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 промяна на паролата в Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | преименуван |
 | 3/22/2019 | [8000036 промените името на профила ви в Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | преименуван |
 | 3/22/2019 | [Промени в външни потребителски достъп](/AlchemyInsights/changes-to-external-user-access) | модифицирани |
-| 3/22/2019 | [8000026 промени в Outlook.com](/AlchemyInsights/changes-to-outlook-com) | преименуван |
+| 3/22/2019 | [8000026 Промени в Outlook.com](/AlchemyInsights/changes-to-outlook-com) | преименуван |
 | 3/22/2019 | [Промяна на разрешенията за публични папки](/AlchemyInsights/changing-public-folder-permissions) | модифицирани |
 | 3/22/2019 | [Промяна на споделена пощенска кутия изпрати като поведение](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | модифицирани |
 | 3/22/2019 | [Проверите състоянието на синхронизирането на ЗСУ идентичност](/AlchemyInsights/check-aad-identity-sync-status) | модифицирани |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H показва намирам, не заместват в Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | модифицирани |
 | 3/22/2019 | [8000029 се занимава с фишинг в Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | преименуван |
 | 3/22/2019 | [8000029 се справят със спам в Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | преименуван |
-| 3/22/2019 | [8000029 се справят със спам и фишинг в Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | преименуван |
+| 3/22/2019 | [8000029 Справяне с нежелана поща или фишинг в Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | преименуван |
 | 3/22/2019 | [Отхвърлено кредитна карта](/AlchemyInsights/declined-credit-card) | модифицирани |
 | 3/22/2019 | [8000012 изтриване на контакт в Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | преименуван |
 | 3/22/2019 | [8000016 изтриване на папка в Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | преименуван |
@@ -302,7 +222,7 @@
 | 3/22/2019 | [Как да добавя кредитна карта?](/AlchemyInsights/how-do-i-add-a-credit-card) | модифицирани |
 | 3/22/2019 | [Как да променя от плащания с кредитна карта за фактуриране?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | модифицирани |
 | 3/22/2019 | [Как да премахна информацията за кредитната карта?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | модифицирани |
-| 3/22/2019 | [Как да актуализирам информацията за кредитната карта?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | модифицирани |
+| 3/22/2019 | [Как да актуализирам информацията за кредитната си карта?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | модифицирани |
 | 3/22/2019 | [8000056 как да ползвате Outlook.com докато пътувате](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | преименуван |
 | 3/22/2019 | [Как да се добавят или намаляват лицензи](/AlchemyInsights/how-to-add-or-reduce-licenses) | модифицирани |
 | 3/22/2019 | [Как да присвоите даден лиценз към потребител](/AlchemyInsights/how-to-assign-a-license-to-a-user) | модифицирани |
@@ -329,7 +249,7 @@
 | 3/22/2019 | [Как да закупите Office 365 за не-печалбите](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | модифицирани |
 | 3/22/2019 | [Как да закупите Office 365 за не-печалбите](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | модифицирани |
 | 3/22/2019 | [Как да закупите Office 365 за не-печалбите](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | модифицирани |
-| 3/22/2019 | [Как да активирате отново на абонамент](/AlchemyInsights/how-to-reactivate-a-subscription) | модифицирани |
+| 3/22/2019 | [Как да активирате абонамента си отново](/AlchemyInsights/how-to-reactivate-a-subscription) | модифицирани |
 | 3/22/2019 | [Как да активирате и управлявате подновяване](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | модифицирани |
 | 3/22/2019 | [8000033 как да отговорите или да прехвърляте съобщения в Outlook.com бета](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | преименуван |
 | 3/22/2019 | [8000063 как да щракнете с десния бутон върху Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | преименуван |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Преместване на елементи в библиотеката с документи на SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | модифицирани |
 | 3/22/2019 | [8000062, преместване в папка в Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | преименуван |
 | 3/22/2019 | [Множество опити да зареждате онлайн платежни инструменти](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | модифицирани |
-| 3/22/2019 | [1703 трябва информация за отборите и Polycom телефони](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | преименуван |
+| 3/22/2019 | [1703 трябва информация за Teams и Polycom телефони](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | преименуван |
 | 3/22/2019 | [122 трябва да създадете подпис в Outlook в мрежата?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | преименуван |
 | 3/22/2019 | [8000037, които не получават имейл в Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | преименуван |
 | 3/22/2019 | [Office 365 за бизнес планове и ценообразуването](/AlchemyInsights/office-365-for-business-plans-and-pricing) | модифицирани |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Един от вашите сертификати за услуга на локалния федерация е expiring](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | модифицирани |
 | 3/22/2019 | [OneDrive за съхранение на багаж](/AlchemyInsights/onedrive-storage) | модифицирани |
 | 3/22/2019 | [Отворете библиотеката на SharePoint в File Explorer](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | модифицирани |
-| 3/22/2019 | [1581 отваряне и използване на споделена пощенска кутия в Outlook в мрежата](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | преименуван |
+| 3/22/2019 | [1581 отваряне и използване на споделена пощенска кутия в Outlook в интернет](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | преименуван |
 | 3/22/2019 | [Отваряне с Explorer бутон е забранен](/AlchemyInsights/open-with-explorer-button-is-disabled) | модифицирани |
 | 3/22/2019 | [Отваряне с Explorer бутон липсва](/AlchemyInsights/open-with-explorer-button-missing) | модифицирани |
 | 3/22/2019 | [Отваряне с Explorer не работи](/AlchemyInsights/open-with-explorer-doesn-t-work) | модифицирани |
-| 3/22/2019 | [423 Org сигурност - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | преименуван |
+| 3/22/2019 | [423 Защита на организацията – EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | преименуван |
 | 3/22/2019 | [424 Org сигурност - спам фалшиви положителни](/AlchemyInsights/org-securityspam-false-positive) | преименуван |
 | 3/22/2019 | [8000073 Outlook.com сметка рязка рана - френски](/AlchemyInsights/outlook-com-account-hacked-french) | преименуван |
 | 3/22/2019 | [8000039 Outlook.com сметка рязка рана](/AlchemyInsights/outlook-com-account-hacked) | преименуван |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Сайт и структура на съдържанието премахнати | добавено |
 | 4/2/2019 | Отстраняване на грешка 404, файлът не е намерен | добавено |
 | 4/3/2019 | [Код на грешка 550 5.7.705 достъпът е отказан, наематели е надхвърлил Прага](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | модифицирани |
+
+
+## <a name="week-of-april-08-2019"></a>Седмица на 08 април 2019
+
+
+| Публикувано на |Заглавие на темата | Промяна |
+|------|------------|--------|
+| 4/9/2019 | [Преместване на имейл съобщения в архивната пощенска кутия](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | модифицирани |
+| 4/9/2019 | [Анонимен споделяне](/AlchemyInsights/anonymous-sharing) | модифицирани |
+| 4/9/2019 | [Проверете в няколко файла наведнъж](/AlchemyInsights/check-in-several-files-at-once) | модифицирани |
+| 4/9/2019 | [Свържете сайт на класически SharePoint екип към група](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | модифицирани |
+| 4/9/2019 | [Създаване на сайт в SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | модифицирани |
+| 4/9/2019 | [Създаване на сайт](/AlchemyInsights/create-a-site) | преименуван |
+| 4/9/2019 | [Изтриване на сайт на SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | модифицирани |
+| 4/9/2019 | [Изтриване на сайт](/AlchemyInsights/delete-site-collection) | модифицирани |
+| 4/9/2019 | [Съобщение за грешка при споделяне на файлове](/AlchemyInsights/error-message-when-sharing-files) | модифицирани |
+| 4/9/2019 | [Външно споделяне със сайт на екип](/AlchemyInsights/external-sharing-with-a-team-site) | модифицирани |
+| 4/9/2019 | [Как да използвате SharePoint онлайн хранилището](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | модифицирани |
+| 4/9/2019 | [Управление на търсене речници в SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | модифицирани |
+| 4/9/2019 | [Управление на вашия SharePoint или OneDrive съхранение](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | модифицирани |
+| 4/9/2019 | [Възстановяване на изтрити сайт](/AlchemyInsights/restore-a-deleted-site-collection) | модифицирани |
+| 4/9/2019 | [Възстановяване на изтрит подсайт](/AlchemyInsights/restore-a-deleted-subsite) | модифицирани |
+| 4/9/2019 | [Споделяне на файл или папка в SharePoint или OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | модифицирани |
+| 4/9/2019 | [SharePoint за съхранение на багаж](/AlchemyInsights/sharepoint-storage) | модифицирани |
+| 4/9/2019 | [Споделяне с външните потребители не работи](/AlchemyInsights/sharing-with-external-users-isn-t-working) | модифицирани |
+| 4/9/2019 | [Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | модифицирани |
+| 4/9/2019 | [Включване външното споделяне или изключване за сайт](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | модифицирани |
+| 4/9/2019 | [Включване външното споделяне или изключване за SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | модифицирани |
+| 4/9/2019 | [Включване външното споделяне или изключване за SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | модифицирани |
+| 4/9/2019 | Отстраняване на грешка 404, файлът не е намерен | модифицирани |
+| 4/9/2019 | [Отказан достъп до сайт на проект Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | добавено |
+| 4/9/2019 | [Проект за Online е в състояние на само за четене](/AlchemyInsights/project-online-is-in-a-read-only-state) | добавено |
+| 4/9/2019 | [Проект Web App липсва от колекция от сайтове на SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | добавено |
+| 4/12/2019 | [1048 5.7.750 услугата не е налична. Клиент, блокирани от изпращане от нерегистрирани домейни](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | модифицирани |
+| 4/12/2019 | [713, Добавяне на допълнителен имейл адрес на списък за разпространение](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | модифицирани |
+| 4/12/2019 | [718 добавяне външни контакти / хора извън организацията на списък за разпространение](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | модифицирани |
+| 4/12/2019 | [714 позволява външни податели на имейл списъци за разпространение](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | модифицирани |
+| 4/12/2019 | [717 позволява потребителите да изпращат имейл като списък за разпространение](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | модифицирани |
+| 4/12/2019 | [1049 антиспам 4.5.3 твърде много получатели (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | модифицирани |
+| 4/12/2019 | [1051 антиспам 4.7.500, достъпът е отказан, моля опитайте отново по-късно](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | модифицирани |
+| 4/12/2019 | [1050 антиспам 4.7.500 сървърът е зает. Моля, опитайте отново по-късно от [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | модифицирани |
+| 4/12/2019 | [1047 антиспам 550 5.7.708 услугата не е налична. Достъпът е отказан, трафик, не се приемат от този ПР](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | модифицирани |
+| 4/12/2019 | [500 ап пароли](/AlchemyInsights/app-passwords) | модифицирани |
+| 4/12/2019 | [726 блокиране имейл препращане](/AlchemyInsights/blocking-email-forwarding) | модифицирани |
+| 4/12/2019 | [763 блокиране на онлайн борса PowerShell достъп за потребителите](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | модифицирани |
+| 4/12/2019 | [608 календарна информация за хибридни настройки](/AlchemyInsights/calendar-information-on-hybrid-setups) | модифицирани |
+| 4/12/2019 | [613 календар публикуване на информация](/AlchemyInsights/calendar-publishing-information) | модифицирани |
+| 4/12/2019 | [618 календар правило за споделяне](/AlchemyInsights/calendar-sharing-policy) | модифицирани |
+| 4/12/2019 | [398 календар - резервация](/AlchemyInsights/calendarbooking) | модифицирани |
+| 4/12/2019 | [399 календар - делегат](/AlchemyInsights/calendardelegate) | модифицирани |
+| 4/12/2019 | [400 календар - FreeBusy](/AlchemyInsights/calendarfreebusy) | модифицирани |
+| 4/12/2019 | [402 календар - O365Groups](/AlchemyInsights/calendaro365groups) | модифицирани |
+| 4/12/2019 | [1081 календар - прихващач RBA](/AlchemyInsights/calendarrba-catchall) | модифицирани |
+| 4/12/2019 | [912 конфигуриране фокусирани Входящи за всеки във вашата организация](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | модифицирани |
+| 4/12/2019 | [761 свързване към Exchange Online PowerShell когато МВНР е разрешено](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | модифицирани |
+| 4/12/2019 | [760 свързване да обменят онлайн PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | модифицирани |
+| 4/12/2019 | [712, конвертиране на списък за разпространение към Office 365 група](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | модифицирани |
+| 4/12/2019 | [711, създаване на списък за разпространение или група](/AlchemyInsights/creating-a-distribution-list-or-group) | модифицирани |
+| 4/12/2019 | [744 създават потребителите, когато организация е в режим на хибридни](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | модифицирани |
+| 4/12/2019 | [743 създаване потребители без лиценз](/AlchemyInsights/creating-users-without-a-license) | модифицирани |
+| 4/12/2019 | [1065 осъждане на EOP изходящи IP адрес rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | модифицирани |
+| 4/12/2019 | [1314 дублиране на обекта отстраняване](/AlchemyInsights/duplicate-object-remediation) | модифицирани |
+| 4/12/2019 | [934 разрешаване на POP и IMAP акаунти](/AlchemyInsights/enable-pop-and-imap-accounts) | модифицирани |
+| 4/12/2019 | [Код на грешка 550 5.7.501 отказан достъп, злоупотреба със спам открити](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | модифицирани |
+| 4/12/2019 | [Код на грешка 550 5.7.705 достъпът е отказан, наематели е надхвърлил Прага](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | модифицирани |
+| 4/12/2019 | [126, получаване на пощенска кутия не може да бъде намерена грешка в OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | модифицирани |
+| 4/12/2019 | [127 getting TenantAccessBlockedException грешка при достъп до имейл?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | модифицирани |
+| 4/12/2019 | [646 как да конфигурирате AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | модифицирани |
+| 4/12/2019 | [955 как да конфигурирате МВНР](/AlchemyInsights/how-to-configure-mfa) | модифицирани |
+| 4/12/2019 | [614 как да създавате и управлявате пощенски кутии за зали](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | модифицирани |
+| 4/12/2019 | [401 хибрид - FreeBusy](/AlchemyInsights/hybridfreebusy) | модифицирани |
+| 4/12/2019 | [929 входящи правила, за да deflectTransport правила](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | модифицирани |
+| 4/12/2019 | [922 входящи правила](/AlchemyInsights/inbox-rules) | модифицирани |
+| 4/12/2019 | [Увеличи EWS дроселиране ограничения за мигрирането на поща](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | добавено |
+| 4/12/2019 | [1264 IP блокирано за изпращане на твърде много спам (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | модифицирани |
+| 4/12/2019 | [322 проблеми, когато даден потребител е като проблеми с изпращането](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | модифицирани |
+| 4/12/2019 | [321 проблеми, когато даден потребител не е получаване на електронна поща](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | модифицирани |
+| 4/12/2019 | [323 проблеми със закъснения в имейл](/AlchemyInsights/issues-with-delays-in-email) | модифицирани |
+| 4/12/2019 | [324 проблеми с email(s) ще погрешно дестинация](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | модифицирани |
+| 4/12/2019 | [898 Научете повече за външните опции за споделяне на календар](/AlchemyInsights/learn-about-external-calendar-sharing-options) | модифицирани |
+| 4/12/2019 | [617 Научете повече за външно споделяне Опции](/AlchemyInsights/learn-about-external-sharing-options) | модифицирани |
+| 4/12/2019 | [610 Научете повече за Office 365 групи](/AlchemyInsights/learn-about-office-365-groups) | модифицирани |
+| 4/12/2019 | [612 научите как за календари и публични папки](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | модифицирани |
+| 4/12/2019 | [603 Научете как да промените настройките на дневен ред](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | модифицирани |
+| 4/12/2019 | [723 вземане имейл псевдоним основен имейл за потребителя](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | модифицирани |
+| 4/12/2019 | [597 Microsoft резервации ап](/AlchemyInsights/microsoft-bookings-app) | модифицирани |
+| 4/12/2019 | [973 миграция StalledDueTo * правило](/AlchemyInsights/migration-stalleddueto-rule) | модифицирани |
+| 4/12/2019 | [1581 отваряне и използване на споделена пощенска кутия в Outlook в интернет](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | модифицирани |
+| 4/12/2019 | [423 Защита на организацията – EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | модифицирани |
+| 4/12/2019 | [424 Org сигурност - спам фалшиви положителни](/AlchemyInsights/org-securityspam-false-positive) | модифицирани |
+| 4/12/2019 | [1332 OWA - входящи правило(а) са не изпълнение за пощенска кутия](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | модифицирани |
+| 4/12/2019 | [182 изпълнете Сара да се диагностицира &amp; разрешаване на Outlook удостоверяване въпроси](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | модифицирани |
+| 4/12/2019 | [412 политика грешка при споделяне на календар](/AlchemyInsights/policy-error-when-sharing-calendar) | модифицирани |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | модифицирани |
+| 4/12/2019 | [1336 RecoverableItems папка е пълна](/AlchemyInsights/recoverableitems-folder-is-full) | модифицирани |
+| 4/12/2019 | [1374 разрешаване две кутии howto](/AlchemyInsights/resolve-two-mailboxes-howto) | модифицирани |
+| 4/12/2019 | [924 правило граници](/AlchemyInsights/rule-limits) | модифицирани |
+| 4/12/2019 | [414 търсене опит актуализира](/AlchemyInsights/search-experience-updated) | модифицирани |
+| 4/12/2019 | [902 (синхронизиране грешки поради дублиращи обекти)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | модифицирани |
+| 4/12/2019 | [Пробен Office 365 наемател, блокирани от Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | модифицирани |
+| 4/12/2019 | [911 изключване фокусирани входящи в клиента](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | модифицирани |
+| 4/12/2019 | [615 видове споделяне и как да ги настроите.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | модифицирани |
+| 4/12/2019 | [413 разбиране програма поща](/AlchemyInsights/understanding-agenda-mail) | модифицирани |
+| 4/12/2019 | [932 надстройка AADConnect](/AlchemyInsights/upgrading-aadconnect) | модифицирани |
+| 4/12/2019 | [725 използване имейл псевдоним на мобилно устройство](/AlchemyInsights/using-email-alias-on-mobile-device) | модифицирани |
+| 4/12/2019 | [1554 Winsock грешка 10061](/AlchemyInsights/winsock-error-10061) | модифицирани |
