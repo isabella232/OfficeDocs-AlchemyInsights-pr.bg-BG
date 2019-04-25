@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
 ms.openlocfilehash: da21e1a463c4d1fdf0160519f79ff99b7be3ca74
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753559"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398103"
 ---
-# <a name="creating-email-signatures"></a><span data-ttu-id="1451f-102">Създаване на имейл подписи</span><span class="sxs-lookup"><span data-stu-id="1451f-102">Creating email signatures</span></span>
+# <a name="creating-email-signatures"></a><span data-ttu-id="1f6aa-102">Създаване на имейл подписи</span><span class="sxs-lookup"><span data-stu-id="1f6aa-102">Creating email signatures</span></span>
 
-<span data-ttu-id="1451f-103">Тези статии да ви помогне да създадете имейл подписи, който търсите.</span><span class="sxs-lookup"><span data-stu-id="1451f-103">These articles should help you create the email signatures you're looking for.</span></span>
+<span data-ttu-id="1f6aa-103">Тези статии да ви помогне да създадете имейл подписи, който търсите.</span><span class="sxs-lookup"><span data-stu-id="1f6aa-103">These articles should help you create the email signatures you're looking for.</span></span>
   
-- <span data-ttu-id="1451f-104">Аз искам да създадете имейл подпис с помощта на Outlook за Windows: [Създаване и добавяне на подпис към съобщения](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="1451f-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
+- <span data-ttu-id="1f6aa-104">Аз искам да създадете имейл подпис с помощта на Outlook за Windows: [Създаване и добавяне на подпис към съобщения](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="1f6aa-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
     
-- <span data-ttu-id="1451f-105">Аз искам да създадете имейл подпис с помощта на Outlook в интернет: [Създаване и добавяне на подпис на имейл в Outlook на web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="1451f-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
+- <span data-ttu-id="1f6aa-105">Аз искам да създадете имейл подпис с помощта на Outlook в интернет: [Създаване и добавяне на подпис на имейл в Outlook на web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="1f6aa-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
     
-- <span data-ttu-id="1451f-106">Искам да създадете имейл подпис, използвайки Outlook.com: [Създаване и добавяне на имейл подпис в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="1451f-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
+- <span data-ttu-id="1f6aa-106">Искам да създадете имейл подпис, използвайки Outlook.com: [Създаване и добавяне на имейл подпис в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="1f6aa-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
     
-- <span data-ttu-id="1451f-107">Искам да се създаде глобален имейл подпис за всички имейли, изпратени от моята фирма: [Създаване организационно подписи и са в Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="1451f-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
+- <span data-ttu-id="1f6aa-107">Искам да се създаде глобален имейл подпис за всички имейли, изпратени от моята фирма: [Създаване организационно подписи и са в Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="1f6aa-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
     
- <span data-ttu-id="1451f-108">**Съвет:** Организационно подписи са посочени като "условия за ползване."</span><span class="sxs-lookup"><span data-stu-id="1451f-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
+ <span data-ttu-id="1f6aa-108">**Съвет:** Организационно подписи са посочени като "условия за ползване."</span><span class="sxs-lookup"><span data-stu-id="1f6aa-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
   
 

@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
 ms.openlocfilehash: 276ae2ea1f610a996a6a2fba3bdaba630823cc08
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928141"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389981"
 ---
-# <a name="office-365-education-for-free"></a><span data-ttu-id="a20ec-102">Office 365 образование за свободен</span><span class="sxs-lookup"><span data-stu-id="a20ec-102">Office 365 Education for free</span></span>
+# <a name="office-365-education-for-free"></a><span data-ttu-id="c142f-102">Office 365 образование за свободен</span><span class="sxs-lookup"><span data-stu-id="c142f-102">Office 365 Education for free</span></span>
 
-[<span data-ttu-id="a20ec-103">Office 365 образование за свободен</span><span class="sxs-lookup"><span data-stu-id="a20ec-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[<span data-ttu-id="c142f-103">Office 365 образование за свободен</span><span class="sxs-lookup"><span data-stu-id="c142f-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="a20ec-p101">Това не е съдебен процес! Ученици и учители са допустими за Office 365 образование, което включва Word, Excel, PowerPoint, OneNote и сега Microsoft екипи, плюс допълнителни класна стая инструменти.</span><span class="sxs-lookup"><span data-stu-id="a20ec-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="c142f-104">Това не е съдебен процес!</span><span class="sxs-lookup"><span data-stu-id="c142f-104">It's not a trial!</span></span> <span data-ttu-id="c142f-105">Ученици и учители са допустими за Office 365 образование, което включва Word, Excel, PowerPoint, OneNote и сега Microsoft екипи, плюс допълнителни класна стая инструменти.</span><span class="sxs-lookup"><span data-stu-id="c142f-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
   
 
