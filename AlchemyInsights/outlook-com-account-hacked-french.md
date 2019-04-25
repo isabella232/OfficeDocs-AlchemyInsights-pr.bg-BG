@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000073
 ms.openlocfilehash: b9fce263137148f1083069ea5bf6e864bac9a84a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772571"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419465"
 ---
-# <a name="mon-compte-outlookcom-a-t-pirat"></a><span data-ttu-id="ed74c-102">Mon compte Outlook.com интегрирана piraté</span><span class="sxs-lookup"><span data-stu-id="ed74c-102">Mon compte Outlook.com a été piraté</span></span>
+# <a name="mon-compte-outlookcom-a-t-pirat"></a><span data-ttu-id="778bf-102">Mon compte Outlook.com интегрирана piraté</span><span class="sxs-lookup"><span data-stu-id="778bf-102">Mon compte Outlook.com a été piraté</span></span>
 
-<span data-ttu-id="ed74c-103">Si votre compte интегрирана piraté, села signifie que ако s'est procuré votre mot де остарял et qu'il peut utiliser votre compte Изсипете accéder à Вос информации personnelles ou envoyer des куриери indésirables.</span><span class="sxs-lookup"><span data-stu-id="ed74c-103">Si votre compte a été piraté, cela signifie que quelqu’un s’est procuré votre mot de passe et qu’il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.</span></span>
+<span data-ttu-id="778bf-103">Si votre compte интегрирана piraté, села signifie que ако s'est procuré votre mot де остарял et qu'il peut utiliser votre compte Изсипете accéder à Вос информации personnelles ou envoyer des куриери indésirables.</span><span class="sxs-lookup"><span data-stu-id="778bf-103">Si votre compte a été piraté, cela signifie que quelqu’un s’est procuré votre mot de passe et qu’il peut utiliser votre compte pour accéder à vos informations personnelles ou envoyer des courriers indésirables.</span></span>
 
-<span data-ttu-id="ed74c-104">Изсипете récupérer votre compte, [suivez les инструкции](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR).</span><span class="sxs-lookup"><span data-stu-id="ed74c-104">Pour récupérer votre compte, [suivez les instructions](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR).</span></span>
+<span data-ttu-id="778bf-104">Изсипете récupérer votre compte, [suivez les инструкции](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR).</span><span class="sxs-lookup"><span data-stu-id="778bf-104">Pour récupérer votre compte, [suivez les instructions](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR).</span></span>
