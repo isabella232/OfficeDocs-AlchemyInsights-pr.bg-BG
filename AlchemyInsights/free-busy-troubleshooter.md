@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 607
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
 ms.openlocfilehash: 59ebad4c8b5f26c6e75103f1a611f360af62f091
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786536"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401029"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Въпроси, виждайки календар свободен/зает информация
 
-Ако не можете да видите информацията свободно/заето от календара в други календари, или ако други хора не могат да виждат информацията за свободно/заето от календара, използвайте [Microsoft поддръжка и възстановяване помощник за Office 365](https://diagnostics.office.com/).
+Ако не можете да видите календарната си информация свободен/зает в други календари, или ако други хора не могат да виждат информацията свободен/зает във вашия календара, използвайте [Microsoft помощник за поддръжка и възстановяване за Office 365](https://diagnostics.office.com/).
   
 
