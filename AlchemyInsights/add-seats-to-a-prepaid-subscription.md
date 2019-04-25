@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763493"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398735"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="8c49e-102">Добавяне на седалки на предплатен абонамент</span><span class="sxs-lookup"><span data-stu-id="8c49e-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="153be-102">Добавяне на седалки на предплатен абонамент</span><span class="sxs-lookup"><span data-stu-id="153be-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="8c49e-103">В центъра на администратор, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="8c49e-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="153be-103">В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="153be-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="8c49e-104">Изберете предплатен абонамент, който искате да добавите потребители.</span><span class="sxs-lookup"><span data-stu-id="8c49e-104">Choose the prepaid subscription you would like to add users.</span></span>
+2. <span data-ttu-id="153be-104">Изберете предплатен абонамент, който искате да добавите потребители.</span><span class="sxs-lookup"><span data-stu-id="153be-104">Choose the prepaid subscription you would like to add users.</span></span>
     
-3. <span data-ttu-id="8c49e-105">В менюто " **още действия** ", изберете **поднови или добавяне на лиценз с маркер**.</span><span class="sxs-lookup"><span data-stu-id="8c49e-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+3. <span data-ttu-id="153be-105">В менюто " **още действия** ", изберете **поднови или добавяне на лиценз с маркер**.</span><span class="sxs-lookup"><span data-stu-id="153be-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
     
-4. <span data-ttu-id="8c49e-106">Изберете опцията **нови и неизползвани продуктов ключ** .</span><span class="sxs-lookup"><span data-stu-id="8c49e-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="8c49e-107">(Ако този абонамент е създаден с продуктов ключ, закупени на място, продажба на дребно, може да имате възможност за добавяне на потребители с други методи за плащане.)</span><span class="sxs-lookup"><span data-stu-id="8c49e-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
+4. <span data-ttu-id="153be-106">Изберете опцията **нови и неизползвани продуктов ключ** .</span><span class="sxs-lookup"><span data-stu-id="153be-106">Select the **new and unused product key** option.</span></span> <span data-ttu-id="153be-107">(Ако този абонамент е създаден с продуктов ключ, закупени на място, продажба на дребно, може да имате възможност за добавяне на потребители с други методи за плащане.)</span><span class="sxs-lookup"><span data-stu-id="153be-107">(If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
     
-5. <span data-ttu-id="8c49e-108">Изберете **Следващ**.</span><span class="sxs-lookup"><span data-stu-id="8c49e-108">Choose **Next**.</span></span>
+5. <span data-ttu-id="153be-108">Изберете **Следващ**.</span><span class="sxs-lookup"><span data-stu-id="153be-108">Choose **Next**.</span></span>
     
-6. <span data-ttu-id="8c49e-109">Въведете продуктовия ключ, след това изберете **напред**.</span><span class="sxs-lookup"><span data-stu-id="8c49e-109">Enter the product key, then choose **Next**.</span></span>
+6. <span data-ttu-id="153be-109">Въведете продуктовия ключ, след това изберете **напред**.</span><span class="sxs-lookup"><span data-stu-id="153be-109">Enter the product key, then choose **Next**.</span></span>
     
-7. <span data-ttu-id="8c49e-110">Изберете опцията, за да добавите още потребители, изберете **напред**, след което изберете **осребряване**.</span><span class="sxs-lookup"><span data-stu-id="8c49e-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+7. <span data-ttu-id="153be-110">Изберете опцията, за да добавите още потребители, изберете **напред**, след което изберете **осребряване**.</span><span class="sxs-lookup"><span data-stu-id="153be-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
     
 
