@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
 ms.openlocfilehash: 9dfd0a4c72a279970bc883aee1e999e2bf63cc61
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747263"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366932"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Включване външното споделяне или изключване за сайт на SharePoint
 
