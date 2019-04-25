@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
 ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968550"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410363"
 ---
 # <a name="install-and-configure-onedrive"></a>Инсталиране и конфигуриране на OneDrive
 
@@ -23,6 +23,6 @@ OneDrive синхронизиране клиентът е предварител
   
 - [Задаване на компютъра да синхронизира вашите OneDrive за бизнес файлове в Office 365](https://go.microsoft.com/fwlink/?linkid=533375)
     
-- [Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиент](https://go.microsoft.com/fwlink/?linkid=871666)
+- [Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)
     
 
