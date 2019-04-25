@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000066
 ms.openlocfilehash: c48f936ab8ce1a643118040af85a336c4bd94b2f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781776"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419006"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="66c02-102">Хан pirateado mi cuenta де Outlook.com</span><span class="sxs-lookup"><span data-stu-id="66c02-102">Han pirateado mi cuenta de Outlook.com</span></span>
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="b59c5-102">Хан pirateado mi cuenta де Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b59c5-102">Han pirateado mi cuenta de Outlook.com</span></span>
 
-<span data-ttu-id="66c02-103">Si Су cuenta se ха pirateado запек significa que alguien robó ла contraseña y es posible que Цветан usando ла cuenta Ал obtener acceso Су información лични o завиден correo не deseado.</span><span class="sxs-lookup"><span data-stu-id="66c02-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
+<span data-ttu-id="b59c5-103">Si Су cuenta se ха pirateado запек significa que alguien robó ла contraseña y es posible que Цветан usando ла cuenta Ал obtener acceso Су información лични o завиден correo не deseado.</span><span class="sxs-lookup"><span data-stu-id="b59c5-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
 
-[<span data-ttu-id="66c02-104">SIgA Лас instrucciones Ал recuperar Су cuenta.</span><span class="sxs-lookup"><span data-stu-id="66c02-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
+[<span data-ttu-id="b59c5-104">SIgA Лас instrucciones Ал recuperar Су cuenta.</span><span class="sxs-lookup"><span data-stu-id="b59c5-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES)
 
-<span data-ttu-id="66c02-105">Ал restablecer la cuenta Hotel mediante Ел teléfono на u otro equipo, вая [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span><span class="sxs-lookup"><span data-stu-id="66c02-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>
+<span data-ttu-id="b59c5-105">Ал restablecer la cuenta Hotel mediante Ел teléfono на u otro equipo, вая [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span><span class="sxs-lookup"><span data-stu-id="b59c5-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>

@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 8000034
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
 ms.openlocfilehash: 4a6c9e7da22b1e08c5bcc4673e4ff2dd19ee4302
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778311"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371648"
 ---
-# <a name="read-receipts-in-outlookcom"></a><span data-ttu-id="5cd36-102">Разписките за прочитане в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="5cd36-102">Read receipts in Outlook.com</span></span>
+# <a name="read-receipts-in-outlookcom"></a><span data-ttu-id="cf0c7-102">Разписките за прочитане в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="cf0c7-102">Read receipts in Outlook.com</span></span>
 
-<span data-ttu-id="5cd36-103">Не може да поискате разписка за прочитане в Outlook.com, но можете да поискате разписки за прочитане за Outlook.com съобщения, изпратени чрез Outlook за Windows.</span><span class="sxs-lookup"><span data-stu-id="5cd36-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="5cd36-104">За да научите как, вижте [Добавяне и искане за прочитане и съобщенията за доставка](https://go.microsoft.com/fwlink/p/?linkid=874355).</span><span class="sxs-lookup"><span data-stu-id="5cd36-104">To learn how, see [Add and request read receipts and delivery notifications](https://go.microsoft.com/fwlink/p/?linkid=874355).</span></span>
+<span data-ttu-id="cf0c7-103">Не може да поискате разписка за прочитане в Outlook.com, но можете да поискате разписки за прочитане за Outlook.com съобщения, изпратени чрез Outlook за Windows.</span><span class="sxs-lookup"><span data-stu-id="cf0c7-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="cf0c7-104">За да научите как, вижте [Добавяне и искане за прочитане и съобщенията за доставка](https://go.microsoft.com/fwlink/p/?linkid=874355).</span><span class="sxs-lookup"><span data-stu-id="cf0c7-104">To learn how, see [Add and request read receipts and delivery notifications](https://go.microsoft.com/fwlink/p/?linkid=874355).</span></span>
   
-<span data-ttu-id="5cd36-105">За да изберете как Outlook.com отговаря на четене получаване искания, отидете на [съобщение за обработка настройки](https://go.microsoft.com/fwlink/?linkid=2080838) (**Настройки** > **видите всички Outlook настройки** > **обработка на съобщенията**).</span><span class="sxs-lookup"><span data-stu-id="5cd36-105">To choose how Outlook.com responds to read receipt requests, go to [Message handling settings](https://go.microsoft.com/fwlink/?linkid=2080838) (**Settings** > **View all Outlook settings** > **Message handling**).</span></span>
+<span data-ttu-id="cf0c7-105">За да изберете как Outlook.com отговаря на четене получаване искания, отидете на [съобщение за обработка настройки](https://go.microsoft.com/fwlink/?linkid=2080838) (**Настройки** > **видите всички Outlook настройки** > **обработка на съобщенията**).</span><span class="sxs-lookup"><span data-stu-id="cf0c7-105">To choose how Outlook.com responds to read receipt requests, go to [Message handling settings](https://go.microsoft.com/fwlink/?linkid=2080838) (**Settings** > **View all Outlook settings** > **Message handling**).</span></span>
