@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
 ms.openlocfilehash: 8730d04eed344fb244e6ba0f287cd37ec6351749
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902338"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418242"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="1e43a-102">Офис 2013 вече не се поддържат в Office 365 абонаменти</span><span class="sxs-lookup"><span data-stu-id="1e43a-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="79063-102">Офис 2013 вече не се поддържат в Office 365 абонаменти</span><span class="sxs-lookup"><span data-stu-id="79063-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
 
-<span data-ttu-id="1e43a-103">От 28 февруари 2017 г. офис 2013 вече не се поддържа в Office 365 абонаменти.</span><span class="sxs-lookup"><span data-stu-id="1e43a-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="79063-103">От 28 февруари 2017 г. офис 2013 вече не се поддържа в Office 365 абонаменти.</span><span class="sxs-lookup"><span data-stu-id="79063-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
   
-<span data-ttu-id="1e43a-p101">За гарантиране на сигурността на вашия офис пакет и да получите всички от най-новите функции, инсталирайте последната версия на Office безплатно като част от вашия абонамент за Office 365. Вижте [надстройка вашите потребители до последния клиент на Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="1e43a-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="79063-104">За гарантиране на сигурността на вашия офис пакет и да получите всички от най-новите функции, инсталирайте последната версия на Office безплатно като част от вашия абонамент за Office 365.</span><span class="sxs-lookup"><span data-stu-id="79063-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription.</span></span> <span data-ttu-id="79063-105">Вижте [надстройка вашите потребители до последния клиент на Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="79063-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
 
