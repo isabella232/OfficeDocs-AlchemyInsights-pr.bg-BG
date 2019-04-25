@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906721"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374312"
 ---
 Можете да преобразувате само потребителска пощенска кутия към споделена пощенска кутия, ако потребителят има лиценз за обмен. След като пощенската кутия се конвертира, тя ще продължи да се появи в списъка на активните потребители, защото този списък включва споделени пощенски кутии. Обаче преобразувания пощенската кутия ще се появи в списъка на споделена пощенска кутия. 
   
