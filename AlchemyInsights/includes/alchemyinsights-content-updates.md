@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Седмица на 11 март 2019
-
-
-| Публикувано на |Заглавие на темата | Промяна |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com входящи не товарене | добавено |
-| 3/12/2019 | [8000078 Outlook.com входящи не товарене](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | преименуван |
-| 3/12/2019 | [8000078 Outlook.com входящи не товарене](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | модифицирани |
-| 3/13/2019 | [Препращане на имейл чрез Office 365](/AlchemyInsights/relay-email-through-office-365) | модифицирани |
-| 3/14/2019 | [същото като името на файла е най-добре [правило #-описание]](/AlchemyInsights/1-alchemy-insight-template) | модифицирани |
-| 3/14/2019 | [Увеличаване на размера на пощенската кутия](/AlchemyInsights/increase-mailbox-size) | модифицирани |
-| 3/15/2019 | [Outlook работния плот оттегляне или заместване имейл съобщение](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | добавено |
-
-
 ## <a name="week-of-march-18-2019"></a>Седмица на 18 март 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 надстройка AADConnect](/AlchemyInsights/upgrading-aadconnect) | модифицирани |
 | 4/12/2019 | [725 използване имейл псевдоним на мобилно устройство](/AlchemyInsights/using-email-alias-on-mobile-device) | модифицирани |
 | 4/12/2019 | [1554 Winsock грешка 10061](/AlchemyInsights/winsock-error-10061) | модифицирани |
+
+
+## <a name="week-of-april-15-2019"></a>Седмица на 15 април 2019
+
+
+| Публикувано на |Заглавие на темата | Промяна |
+|------|------------|--------|
+| 4/15/2019 | [Алхимия - диагностика и разрешаване на проблеми на връзката с Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | модифицирани |
+| 4/15/2019 | [Алхимия - повторно създаване Вашият профил на Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | модифицирани |
+| 4/15/2019 | [DLP p.t. от may нужда от потребителски тип](/AlchemyInsights/dlp-might-need-custom-type) | добавено |
+| 4/15/2019 | [DLP, не работи както се очаква](/AlchemyInsights/dlp-not-working-as-expected) | модифицирани |
+| 4/15/2019 | [DLP политика съвети не работи](/AlchemyInsights/dlp-policy-tips-not-working) | модифицирани |
+| 4/15/2019 | [Outlook.com грешка 550](/AlchemyInsights/outlook-com-error-550) | добавено |
+| 4/15/2019 | [Outlook.com над квотата](/AlchemyInsights/outlook-com-over-quota) | добавено |
+| 4/15/2019 | [Outlook.com Премествам Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | добавено |
+| 4/15/2019 | [Outlook.com Премествам Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | добавено |
+| 4/15/2019 | [182 изпълнете Сара да се диагностицира &amp; разрешаване на Outlook удостоверяване въпроси](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | модифицирани |
+| 4/16/2019 | [9000233 Outlook.com ПИН](/AlchemyInsights/outlook-com-pin) | модифицирани |
+| 4/16/2019 | [Outlook.com Премествам Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | модифицирани |
+| 4/16/2019 | [8000088 освен имейл в Outlook.com](/AlchemyInsights/outlook-com-save-emails) | модифицирани |
+| 4/16/2019 | [8000052 Прикачи файлове в Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | модифицирани |
+| 4/16/2019 | [8000015 блокиране или деблокиране на податели](/AlchemyInsights/block-or-unblock-senders) | модифицирани |
+| 4/16/2019 | [8000014 как да сменя езика в Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | модифицирани |
+| 4/16/2019 | [8000059 как да се промени оформлението](/AlchemyInsights/how-to-change-your-layout) | модифицирани |
+| 4/16/2019 | [8000033 как да отговорите или да прехвърляте съобщения в Outlook.com бета](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | модифицирани |
+| 4/16/2019 | [8000055 как да влезете в, до или извън Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | модифицирани |
+| 4/16/2019 | [8000062, преместване в папка в Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | модифицирани |
+| 4/16/2019 | [Авто-прилага чувствителност етикети](/AlchemyInsights/auto-apply-sensitivity-labels) | добавено |
+| 4/16/2019 | [Чувствителност етикети не са включени](/AlchemyInsights/sensitivity-labels-not-appearing) | добавено |
+| 4/16/2019 | [Нови етикети на задържане, създаден автоматично](/AlchemyInsights/new-retention-labels-created-automatically) | добавено |
+| 4/16/2019 | [SharePoint и OneDrive регистрационните](/AlchemyInsights/classic-sharepoint-audit-log-reports) | добавено |
+| 4/16/2019 | [Идентифицират Изтрий съобщението събития в регистрационните файлове от одита](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | добавено |
+| 4/16/2019 | [Идентифицира външни имейл изпращане на пощенски кутии в регистрационните файлове от одита](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | добавено |
+| 4/16/2019 | [Идентифициране на входящи правило дейност в регистрационните файлове от одита](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | добавено |
+| 4/16/2019 | [Идентифициране на IP адрес и клиент в регистрационните файлове от одита](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | добавено |
+| 4/16/2019 | [Ремонт .pst файл преди импортиране](/AlchemyInsights/repair-pst-before-importing) | добавено |
+| 4/16/2019 | [Класически SharePoint одит регистрационни файлове с отчети](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | добавено |
+| 4/16/2019 | [Класически SharePoint одит регистрационни файлове с отчети](/AlchemyInsights/classic-sharepoint-audit-log-reports) | модифицирани |
+| 4/16/2019 | [Идентифицира външни имейл изпращане на пощенски кутии в регистрационните файлове от одита](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | модифицирани |
+| 4/16/2019 | [Идентифициране на входящи правило дейност в регистрационните файлове от одита](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | модифицирани |
+| 4/16/2019 | [Класически SharePoint одит регистрационни файлове с отчети](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | модифицирани |
+| 4/17/2019 | [Прикрепвам проблеми с имейл доставка с активирана поща публични папки](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | добавено |
+| 4/17/2019 | [Смени отбора](/AlchemyInsights/teams-shifts) | модифицирани |
+| 4/18/2019 | [8000011 възстановяване на изтрити email в Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | модифицирани |
