@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
 ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762305"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423496"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="c70b7-102">Актуализиране на DNS записите</span><span class="sxs-lookup"><span data-stu-id="c70b7-102">Update DNS Records</span></span>
-<span data-ttu-id="c70b7-103">Важно е да настроите DNS записите, за да може абонамента ви за Office 365 да работи с името на вашия домейн по избор.</span><span class="sxs-lookup"><span data-stu-id="c70b7-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="c70b7-104">Използвайте връзките по-долу, за да добавите или да актуализирате DNS записите.</span><span class="sxs-lookup"><span data-stu-id="c70b7-104">Use the links below to add or update your DNS records.</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="92d07-102">Актуализиране на DNS записи</span><span class="sxs-lookup"><span data-stu-id="92d07-102">Update DNS Records</span></span>
+<span data-ttu-id="92d07-103">Важно е да настроите DNS записите, за да може абонамента ви за Office 365 да работи с името на вашия домейн по избор.</span><span class="sxs-lookup"><span data-stu-id="92d07-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="92d07-104">Използвайте връзките по-долу, за да добавите или да актуализирате DNS записите.</span><span class="sxs-lookup"><span data-stu-id="92d07-104">Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="c70b7-105">Създаване на DNS записи при доставчик на DNS хостинг за Office 365</span><span class="sxs-lookup"><span data-stu-id="c70b7-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [<span data-ttu-id="c70b7-106">Добавяне или редактиране на DNS записи по избор</span><span class="sxs-lookup"><span data-stu-id="c70b7-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [<span data-ttu-id="92d07-105">Създаване на DNS записи при доставчик на DNS хостинг за Office 365</span><span class="sxs-lookup"><span data-stu-id="92d07-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [<span data-ttu-id="92d07-106">Добавяне или редактиране на DNS записи по избор</span><span class="sxs-lookup"><span data-stu-id="92d07-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)

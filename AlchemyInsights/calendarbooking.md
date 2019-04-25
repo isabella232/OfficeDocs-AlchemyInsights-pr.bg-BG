@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 398
 ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
 ms.openlocfilehash: 7bf3891186e5d5f5a56011bafad2c907fc048562
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857941"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396315"
 ---
-# <a name="issues-with-microsoft-bookings"></a><span data-ttu-id="ce9bd-102">Проблеми с Microsoft резервации</span><span class="sxs-lookup"><span data-stu-id="ce9bd-102">Issues with Microsoft Bookings</span></span>
+# <a name="issues-with-microsoft-bookings"></a><span data-ttu-id="3ac2d-102">Проблеми с Microsoft резервации</span><span class="sxs-lookup"><span data-stu-id="3ac2d-102">Issues with Microsoft Bookings</span></span>
 
-<span data-ttu-id="ce9bd-103">За да отстраните проблеми с новата функция за Microsoft резервации, вижте [резервации статии](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span><span class="sxs-lookup"><span data-stu-id="ce9bd-103">To troubleshoot issues with the new Microsoft Bookings feature, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span></span>
+<span data-ttu-id="3ac2d-103">За да отстраните проблеми с новата функция за Microsoft резервации, вижте [резервации статии](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span><span class="sxs-lookup"><span data-stu-id="3ac2d-103">To troubleshoot issues with the new Microsoft Bookings feature, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).</span></span>
