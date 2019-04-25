@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754315"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401970"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Разшири своя опит за Office 365 за бизнес
 
 Ако вашият опит абонамент е в рамките на 15 дни изтича и съдебния процес не е бил удължен преди, можете да разширите вашия пробен период за друг 30-дневен период. Можете да направите само този път.
   
-1. В центъра на администратор, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.
+1. В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.
     
 2. Изберете пробен абонамент, който искате да разширите.
     
