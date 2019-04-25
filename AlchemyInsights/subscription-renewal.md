@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
 ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767561"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370063"
 ---
 # <a name="subscription-recurring-billing"></a>Абонамент повтарящи фактуриране
 
 Ако искате да знаете, когато вашият месечен или годишен абонамент ще бъде фактурирана (ако **периодичен фактуриране** е включен) или изтекат (ако **периодичен фактуриране** е изключен): 
   
-1. В центъра на администратор, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.
+1. В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.
     
 2. Изберете абонамент, който искате да знаете повече за това.
     
