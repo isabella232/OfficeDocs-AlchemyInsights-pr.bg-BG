@@ -1,5 +1,5 @@
 ---
-title: Опции за плащане
+title: Възможности за плащане
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,36 +11,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404736"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372621"
 ---
-# <a name="payment-options"></a>Опции за плащане
+# <a name="payment-options"></a>Възможности за плащане
 
  **Опции за плащане**
   
-Кредитна карта, банкова сметка (директен дебит) и фактура (плащат с чек или превод на електронни средства)
+Кредитна карта, банкова сметка (директен дебит) и фактура (плащане с чек или електронен превод на средства)
   
- **Плащат с кредитна карта и банкова сметка**
+ **Плащане с кредитна карта и банкова сметка**
   
-Когато плащате с кредитна карта или банкова сметка, вие автоматично ще бъдете таксувани за вашия абонамент в деня след датата на фактурата, до края на срока на абонамента. Можете да [актуализирате вашата кредитна карта или банкова сметка информация](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) всеки път, когато имате нужда да. Можете също да изберете да [получи копие от Вашето извлечение по сметка в имейл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+Когато плащате с кредитна карта или банкова сметка, таксата за абонамента ви ще се удържа автоматично в деня след датата на фактурата, до края на абонаментния период. Можете да [актуализирате данните за вашата кредитна карта или банкова сметка](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide), когато се наложи. Можете също да изберете да [Получавате копие на своя отчет за фактуриране по имейл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Ако вашата кредитна карта е било отхвърлено или са просрочените баланс можете да изберете опцията **Плати сега** на **Фактуриране** \> [абонамент](https://portal.office.com/adminportal/home#/subscriptions) страница. 
+Ако кредитната ви карта е отхвърлена или имате просрочен баланс, можете да изберете опцията **Плащане сега** на страницата **Фактуриране** \> [Абонаменти](https://portal.office.com/adminportal/home#/subscriptions). 
   
- **Извършено плащане по фактура (чек или електронен трансфер на средства)**
+ **Плащане чрез фактура (с чек или електронен превод на средства)**
   
-Ако абонаментът ви струва над определена сума пари (тази сума варира в зависимост от местоположението на услугата), ще имате възможност да платите с фактура с помощта на чек или EFT. Кредитна проверка може да се изисква за големи фактура плащания. Ако кредитна проверка е необходима, вие ще бъдете уведомени, когато сте закупили вашия абонамент. И, ако сте съгласни да се свържат, ще получите имейл, който съдържа повече информация за кандидатстване за одобрение за кредит. Кредитни проверки обикновено са завършени в рамките на два работни дни.
+Ако вашият абонамент струва над определена сума (тази сума варира в зависимост от местоположението на услугата), ще имате възможността да платите чрез фактура с чек или банков превод (EFT). За по-големи плащания чрез фактура може да е необходима проверка на кредита. Ако се изисква проверка на кредита, ще бъдете уведомени при закупуването на абонамента. И ако сте съгласни да се свържат с вас, ще получите имейл, който съдържа повече информация относно кандидатстването за одобрение на кредита. Кредитните проверки обикновено приключват в рамките на два работни дни.
   
-Ако плащате с фактура за вашия абонамент, вие ще получите имейл, който казва си за плащане изявление е готов за преглед. Този имейл не съдържа копие на Вашето извлечение по сметка. Обаче можете също да изберете да [получи копие от Вашето извлечение по сметка в имейл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Вашето извлечение по сметка включва подробности за вашите опции за извършване на плащането. Ако въведете номер за поръчка (PO), когато купувате един абонамент, номер се появява на Вашето извлечение по сметка. За информация за достъп до фактури вижте [преглед your сметка или фактура](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Ако плащате абонамента си чрез фактура, ще получите имейл, че отчетът за фактурирането е готов за преглед. Този имейл не съдържа копие на отчета за фактуриране. Можете обаче да изберете и да [Получавате копие на своя отчет за фактуриране по имейл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). В отчета за фактуриране са включени подробности за възможностите за плащане, които имате. Ако въведете номер на поръчката (PO), когато купувате абонамент, номерът се показва в отчета за фактуриране. За информация за достъпа до отчети за фактуриране вижте [Преглед на вашата сметка или фактура](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Промяна как плащате**
+ **Промяна на начина на плащане**
   
-Ако искате да промените как плащате за текущия абонамент, следвайте инструкциите [тук](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Ако искате да промените начина на плащане за настоящ абонамент, следвайте инструкциите [тук](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Допълнителна информация**
   
-[Плащат за вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Плащане за абонамент за Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
