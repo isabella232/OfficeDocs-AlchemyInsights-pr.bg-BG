@@ -1,5 +1,5 @@
 ---
-title: Препоръчителни стъпки да предприеме, ако е компрометирана сметка
+title: Препоръчителни стъпки, които да предприемете, ако акаунт бъде компрометиран
 ms.author: pebaum
 author: pebaum
 ms.date: 10/2/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
 ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404991"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388964"
 ---
-# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a><span data-ttu-id="be3d8-102">Препоръчителни стъпки да предприеме, ако е компрометирана сметка</span><span class="sxs-lookup"><span data-stu-id="be3d8-102">Recommended steps to take if an account is compromised</span></span>
+# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a><span data-ttu-id="d1f40-102">Препоръчителни стъпки, които да предприемете, ако акаунт бъде компрометиран</span><span class="sxs-lookup"><span data-stu-id="d1f40-102">Recommended steps to take if an account is compromised</span></span>
 
-[<span data-ttu-id="be3d8-103">ВИДЕО: Фиксиране компрометирана сметка на Office 365</span><span class="sxs-lookup"><span data-stu-id="be3d8-103">VIDEO: Fixing a compromised Office 365 account</span></span>](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[<span data-ttu-id="d1f40-103">ВИДЕО: Отстраняване на проблем с компрометиран акаунт на Office 365</span><span class="sxs-lookup"><span data-stu-id="d1f40-103">VIDEO: Fixing a compromised Office 365 account</span></span>](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. <span data-ttu-id="be3d8-p101">[Възстановите паролата на потребителя](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) веднага. Не съобщят нова парола чрез имейл до крайния потребител.</span><span class="sxs-lookup"><span data-stu-id="be3d8-p101">[Reset the user's password](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) immediately. Do not communicate the new password through email to the end user.</span></span> 
+1. <span data-ttu-id="d1f40-104">Веднага [Нулирайте паролата на потребителя](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c).</span><span class="sxs-lookup"><span data-stu-id="d1f40-104">[Reset the user's password](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) immediately.</span></span> <span data-ttu-id="d1f40-105">Не съобщавайте новата парола по имейл на крайния потребител.</span><span class="sxs-lookup"><span data-stu-id="d1f40-105">Do not communicate the new password through email to the end user.</span></span> 
     
-2. <span data-ttu-id="be3d8-106">Премахнете всички подозрителни [предаване адреси](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) определен на нивото на пощенската кутия.</span><span class="sxs-lookup"><span data-stu-id="be3d8-106">Remove any suspicious [forwarding addresses](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) set at the mailbox level.</span></span> 
+2. <span data-ttu-id="d1f40-106">Премахнете всички подозрителни [адреси за препращане](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74), задени на ниво пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="d1f40-106">Remove any suspicious [forwarding addresses](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) set at the mailbox level.</span></span> 
     
-3. <span data-ttu-id="be3d8-107">Премахнете всички подозрителни [правила за входяща поща](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) , в пощенската кутия.</span><span class="sxs-lookup"><span data-stu-id="be3d8-107">Remove any suspicious [inbox rules](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) set within the mailbox.</span></span> 
+3. <span data-ttu-id="d1f40-107">Премахнете всички подозрителни [правила за папка "Входящи"](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), зададени в пощенската кутия.</span><span class="sxs-lookup"><span data-stu-id="d1f40-107">Remove any suspicious [inbox rules](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) set within the mailbox.</span></span> 
     
-4. <span data-ttu-id="be3d8-p102">Ако потребителят е блокиран от изпращане на електронна поща, [отидете на ограничени потребители да деблокира акаунта](https://protection.office.com/?hash=/restrictedusers). След като направи, потребителят трябва да бъде в състояние да възобнови изпращането на съобщения в рамките на 1 час.</span><span class="sxs-lookup"><span data-stu-id="be3d8-p102">If the user is blocked from sending email, [go to the Restricted Users to unblock the account](https://protection.office.com/?hash=/restrictedusers). Once done, the user should be able to resume sending messages within 1 hour.</span></span>
+4. <span data-ttu-id="d1f40-108">Ако изпращането на имейл от потребителя е блокирано, [отидете на ограничени потребители, за да деблокирате акаунта](https://protection.office.com/?hash=/restrictedusers).</span><span class="sxs-lookup"><span data-stu-id="d1f40-108">If the user is blocked from sending email, [go to the Restricted Users to unblock the account](https://protection.office.com/?hash=/restrictedusers).</span></span> <span data-ttu-id="d1f40-109">След като го направите, потребителят би трябвало да може да възобнови изпращането на съобщения в рамките на 1 час.</span><span class="sxs-lookup"><span data-stu-id="d1f40-109">Once done, you should be able to resume sending messages  within 1 hour  .</span></span>
     
-5. <span data-ttu-id="be3d8-110">Премахнете потребителския акаунт от всички [административни ролеви групи](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) , докато не сте сигурни, че сметката вече не е изложена на риск.</span><span class="sxs-lookup"><span data-stu-id="be3d8-110">Remove the user account from any [administrative role groups](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) until you are confident that the account is no longer compromised.</span></span> 
+5. <span data-ttu-id="d1f40-110">Премахнете потребителския акаунт от всички [административни ролеви групи](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), докато не се уверите, че акаунтът вече не е компрометиран.</span><span class="sxs-lookup"><span data-stu-id="d1f40-110">Remove the user account from any [administrative role groups](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) until you are confident that the account is no longer compromised.</span></span> 
     
-<span data-ttu-id="be3d8-111">За да намалите възможността данни нарушение или компрометирана сметка в бъдеще, ние препоръчваме четене на нашите [най-добри практики статия Office 365 сигурност](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).</span><span class="sxs-lookup"><span data-stu-id="be3d8-111">To minimize the potential of a data breach or a compromised account in the future, we recommend reading our [Office 365 Security best practices article](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).</span></span>
+<span data-ttu-id="d1f40-111">За да намалите възможността за пробив на данни или компрометиране на акаунт в бъдеще, ви препоръчваме да прочетете статията ни [Най-добри практики за защита на Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).</span><span class="sxs-lookup"><span data-stu-id="d1f40-111">To minimize the potential of a data breach or a compromised account in the future, we recommend reading our [Office 365 Security best practices article](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).</span></span>
   
 
