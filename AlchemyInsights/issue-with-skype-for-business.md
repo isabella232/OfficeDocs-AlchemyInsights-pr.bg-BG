@@ -23,7 +23,7 @@ ms.locfileid: "32409895"
   
 NS, CNAME или SRV записите в настройките на домейна (DNS) не са конфигурирани правилно за Skype за бизнеса. Можете да прегледате [Актуализиране на DNS записи в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) за подробни инструкции. 
   
-За да го коригирате, отидете на [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) страница в Центъра за администриране на Microsoft 365 и ние ще ви помогнем. 
+За да го коригирате, отидете на страницата [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) в Центъра за администриране на Microsoft 365, и ние ще ви помогнем. 
   
 Ако имате проблеми с комуникацията с потребители, които са външни за вашата организация, можете да прегледате [Настройване на външни комуникации в Skype за бизнеса онлайн](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) за подробни инструкции. 
   
