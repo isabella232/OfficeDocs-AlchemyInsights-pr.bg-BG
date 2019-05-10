@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401173"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867927"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Определят търсене проблеми с възстановяването на вашия каталог на незабавно търсене
+# <a name="troubleshoot-search-issues"></a>Отстраняване на проблеми с търсенето
 
-1. Затворете Outlook и отворете **Контролния панел**.
-    
-    > [!NOTE]
-    > В зависимост от версията на Office, която използвате трябва да щракнете върху бутона **Старт** а в менюто **Старт** щракнете върху **Контролен панел**. 
-  
-2. Направете едно от следните неща:
-    
-  - Изберете **Опции за индексиране**.
-    
-  - В полето за **търсене** въведете *индексиране* и след това изберете **Опции за индексиране**.
-    
-3. В диалоговия прозорец **Индексираните местоположения** под **промени избраните местоположения**Поставете отметка в квадратчето за местоположението, което искате да промените и след това щракнете върху **OK**.
-    
-4. В диалоговия прозорец **Разширени опции** , в раздела **Настройки за индексиране** , при **отстраняване на неизправности**щракнете върху **възстанови**.
-    
-    > [!NOTE]
-    > **Отпор показалец** диалогов отваря предупреждение, че "индекс може да отнеме много време да завърши." Изберете **OK** , за да започне възстановяването на индекса. 
-  
-За повече информация вижте познат проблем [никакви резултати за POP/IMAP сметки](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Ако срещате проблеми при търсене, моля, вижте линковете по-долу за помощ за отстраняване на неизправности.
 
+Те са най-често срещаните проблеми и са добро място да започнете:
+- [Outlook търсене връща никакви резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook търсене връща непълни резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Търсене на Outlook не може да намери по-стари имейли](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Възможни решения за по-малко общи проблеми могат да бъдат намерени тук:
+- [Перспектива 2016 само: Търся Петличка е сив вън](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Споделената пощенска кутия: Проблеми с резултатите от търсенето](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Грешка: Търсене резултати ще бъдат засегнати поради проблем с конфигурацията на Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Папките за търсене показват неочаквани PersonMetadata елементи с без тема](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
