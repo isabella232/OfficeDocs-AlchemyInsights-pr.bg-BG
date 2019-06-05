@@ -1,0 +1,21 @@
+---
+title: Редактиране на файл само за четене
+ms.author: kirks
+author: Techwriter40
+ms.date: 9/10/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
+ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34718946"
+---
+# <a name="edit-a-read-only-file"></a>Редактиране на файл само за четене
+
+<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Можете да откриете, че когато отваряте файлове, те отвори само за четене. В някои случаи това е за допълнителна сигурност, като например, когато отваряте файлове от интернет, както и други пъти, тя може да бъде поради настройка, която може да бъде променена. В статията на &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">защо моя файл, отвори в Четохте само</span></a> &rdquo; описваме някои сценарии, където файлът се отваря само за четене и някои стъпки можете да предприемете, за да промени това.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Тук&rsquo;s, как да се отвори office файлове за редактиране.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Вместо да щракнете върху заглавието на документа, щракнете върху <strong>Отвори менюто</strong> (три точки) и след това щракнете върху <strong>Редактиране</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Бележки:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ако сте&rsquo;d по-скоро имат документи, отворени за редактиране в Office Online, когато щракнете върху заглавието, можете да настроите библиотеката да направи това (толкова дълго, колкото имате разрешение да променяте настройките на библиотеката):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ако имате библиотеки с <strong style="box-sizing: border-box;">касата</strong>, <strong style="box-sizing: border-box;">изисква </strong>колони/метаданни,&nbsp;или когато <strong style="box-sizing: border-box;">Защита на елемент чернова</strong> е настроена или&nbsp;<strong style="box-sizing: border-box;">само потребители, които може да редактирате</strong> или&nbsp;<strong style="box-sizing: border-box;">само потребители, които могат да одобряват елементи</strong> във версия Настройки на SharePoint документ библиотека, тези елементи ще бъдат синхронизирани като <strong style="mso-bidi-font-weight: normal;">само за четене.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Документ на Office се отваря в защитен изглед, макар и да разрешите настройката за правилата на "Open Office документи като четене/запис докато разглеждате". За повече информация се обърнете към този <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">статия.</span></a></span></li> </ul>
+
