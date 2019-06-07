@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ccf0ebf52112f0932d3a41000c6d6e76fce4180d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 10f7f26af6e208872c25c2ff22e925408f9d42c1
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736007"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758825"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Сайт и страница навигация в сайтове на SharePoint
 
@@ -23,14 +23,14 @@ ms.locfileid: "34736007"
 
  За повече информация относно опциите за навигация моля посетете линка по-долу.
 
- - [Планиране навигация за съвременните опит в SharePoint](https://docs.microsoft.com/en-us/sharepoint/plan-navigation-modern-experience)
+ - [Планиране навигация за съвременните опит в SharePoint](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Персонализиране на навигацията на вашия сайт на SharePoint](https://support.office.com/en-us/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Персонализиране на навигацията на вашия сайт на SharePoint](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [Опции за навигация за SharePoint Online](https://docs.microsoft.com/en-us/office365/enterprise/navigation-options-for-sharepoint-online)
+- [Опции за навигация за SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
 - [Организиране на вашите сайтове на SharePoint с megamenu навигация](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Управлявани метаданни и навигация в SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Управлявани метаданни и навигация в SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 
