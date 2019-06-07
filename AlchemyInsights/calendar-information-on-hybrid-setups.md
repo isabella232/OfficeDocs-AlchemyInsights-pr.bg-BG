@@ -2,7 +2,7 @@
 title: 608 календарна информация за хибридни настройки
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "608"
 - "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0a187115b7e78750459e5fadd8687b58dc9c489f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396441"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756444"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="b7897-102">Календар свободно/заето проблеми в хибридна среда</span><span class="sxs-lookup"><span data-stu-id="b7897-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="52184-102">Календар свободно/заето проблеми в хибридна среда</span><span class="sxs-lookup"><span data-stu-id="52184-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="b7897-103">Ако потребителите имат проблеми виждат календар свободен/зает информация в хибридна среда, изпълнете отново съветника за конфигуриране на хибридни.</span><span class="sxs-lookup"><span data-stu-id="b7897-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="b7897-104">За повече информация за съветника за конфигуриране на хибридни вижте [Съветник за конфигуриране на хибридни](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="b7897-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="52184-103">Ако потребителите имат проблеми виждат календар свободен/зает информация в хибридна среда, изпълнете отново съветника за конфигуриране на хибридни.</span><span class="sxs-lookup"><span data-stu-id="52184-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="52184-104">За повече информация за съветника за конфигуриране на хибридни вижте [Съветник за конфигуриране на хибридни](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="52184-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="b7897-105">За отстраняване на неизправности стъпки в хибридна среда, вижте [отстраняване на хибридно разполагане](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="b7897-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="52184-105">За отстраняване на неизправности стъпки в хибридна среда, вижте [отстраняване на хибридно разполагане](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="52184-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
