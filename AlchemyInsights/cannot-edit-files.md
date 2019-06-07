@@ -8,13 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 875abf0c820c480f4dbf905f19d75cc4c299f9fb
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718001"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756332"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Защо може да не успеете да редактирате файлове?
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; ">Ако документ, работен лист или презентация е заключена за редактиране и може да&rsquo;т се отвори, тя може да бъде, че файлът вече се редактира от някой друг, или имат файла извлечен. Нека вземем един бърз поглед на някои от причините, <a href="https://support.office.com/en-us/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b"><span style="color: blue;">защо може да не успеете да редактирате файла</span></a>.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Забележка:</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Библиотеки с касата, изисква колони/метаданни, или когато защита на елемент чернова е настроен да или само потребителите, които може да редактирате или само потребителите, които могат да одобряват елементи във версия настройки на библиотеката</span></p> <ul style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">За OneDrive библиотеки OneDrive ще покаже икона за заключване до състоянието на синхронизиране и потребителят няма да може да синхронизира библиотеката, докато настройки са били отстранени.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">За повече информация относно заключени файлове за Word/Excel моля позоваване статии по-долу.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.office.com/en-us/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3"> <span style="color: blue;">Excel файл е заключен за редактиране от друг потребител</span></a></span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when"> <span style="color: blue;">Word файл е заключен за редактиране от друг потребител</span></a></span></p>
+Ако документ, работен лист или презентация е заключена за редактиране и не може да бъде отворен, то може да бъде, че файлът вече се редактира от някой друг, или имат файла извлечен. Нека вземем един бърз поглед на някои от причините, [защо може да не успеете да редактирате файла](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+
+Забележка: Библиотеки с касата, изисква колони/метаданни, или когато защита на елемент чернова е настроен да или само потребителите, които може да редактирате или само потребителите, които могат да одобряват елементи във версия настройки на библиотеката.
+
+За OneDrive библиотеки OneDrive ще покаже икона за заключване до състоянието на синхронизиране и потребителят няма да може да синхронизира библиотеката, докато настройки са били отстранени.
+
+За повече информация относно заключени файлове за Word/Excel моля позоваване статии по-долу.
+
+- [Excel файл е заключен за редактиране от друг потребител](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+
+- [Word файл е заключен за редактиране от друг потребител](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
