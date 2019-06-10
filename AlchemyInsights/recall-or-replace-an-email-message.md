@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096422"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770798"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Върнете или замените имейл съобщение
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096422"
 
 ***Търсене и изтриване на имейл съобщения във вашата организация*** За търсене и изтриете имейл съобщенията от вашата организация, тя е най-лесно, ако сте глобален администратор. Ако не сте един глобален администратор, вашата сметка трябва да се добавят към ролевата група за мениджър на eDiscovery, или на съответствието търсене управление роля. За да изтриете съобщения, трябва да се присъединят към ролевата група на управление на организацията или търсене и чистка управленска роля. Разрешения за тези роли са присвоени в [съответствие център за защита &](https://protection.office.com/).
 
-1. [Създаване на съдържание за търсене](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) да намерите съобщението за изтриване.
-2. [Свързване към сигурност & съответствие център PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Създаване на съдържание за търсене](https://docs.microsoft.com/office365/securitycompliance/content-search) да намерите съобщението за изтриване.
+2. [Свързване към сигурност & съответствие център PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ако използвате МВНР, вижте [Свързване към Office 365 сигурност & съответствие център PowerShell използва удостоверяване](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ако използвате МВНР, вижте [Свързване към Office 365 сигурност & съответствие център PowerShell използва удостоверяване](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408708"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769532"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Авто-прилага чувствителност етикети
 
@@ -25,7 +25,7 @@ ms.locfileid: "32408708"
 За да приложите етикети автоматично, се изисква:
 
 - Лазурно информация защита Р2 абонамент
-- [Изтеглете и инсталирайте унифициран клиент за етикетиране Azure информация защита](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Изтеглете и инсталирайте унифициран клиент за етикетиране Azure информация защита](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Ние работим върху роден поддръжка, които няма да изискват унифициран клиент за етикетиране Azure информация защита в бъдеще.
 
@@ -33,5 +33,5 @@ ms.locfileid: "32408708"
 
 За повече информация за чувствителност етикети и прилагането им автоматично на съдържанието вижте:
 
-- [Преглед на чувствителност етикети](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Приложи етикет на чувствителност към съдържание автоматично](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Преглед на чувствителност етикети](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Приложи етикет на чувствителност към съдържание автоматично](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

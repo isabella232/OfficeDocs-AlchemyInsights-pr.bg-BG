@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418101"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771189"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Нови етикети на задържане, създаден автоматично
 
-Може да видите [три нови етикети на задържане](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) създава автоматично във вашата организация под **задържане етикети** в центъра за администрация на сигурността или спазване. Имената на етикети са:
+Може да видите [три нови етикети на задържане](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) създава автоматично във вашата организация под **задържане етикети** в центъра за администрация на сигурността или спазване. Имената на етикети са:
 
 - Оперативна процедура
 - Бизнес общи
@@ -30,4 +30,4 @@ ms.locfileid: "32418101"
 
 1. Изберете етикетите на задържане, които искате да премахнете > **Изтрий етикета** > **да** да изтриете етикета.
 
-С файл план ръководител можете да управлявате задържане етикети и политики във вашата организация - за повече информация, вижте [Преглед на диспечера за плана на файла](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+С файл план ръководител можете да управлявате задържане етикети и политики във вашата организация - за повече информация, вижте [Преглед на диспечера за плана на файла](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

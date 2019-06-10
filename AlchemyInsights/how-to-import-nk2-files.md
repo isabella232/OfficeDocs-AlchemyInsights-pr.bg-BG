@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630005"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770236"
 ---
 # <a name="how-to-import-nk2-files"></a>Как да импортирате файлове с член .nk2 
 
@@ -37,4 +37,4 @@ ms.locfileid: "33630005"
 
 **Забележка**: член .nk2 файлът е преименуван с разширение .old следващия път, когато стартирате Outlook 2013, перспектива 2016, Outlook 2019 или Outlook за Office 365. Ако искате да импортирате отново определителен член .nk2 пила, премествам .old разширение на файловото име пръв.
 
-За повече информация вижте [Импортиране или копирате списъка автоматично довършване на друг компютър](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+За повече информация вижте [Импортиране или копирате списъка автоматично довършване на друг компютър](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
