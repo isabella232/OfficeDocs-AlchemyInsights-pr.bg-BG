@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389876"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883580"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Достъпът е отказан при разглеждане на работен поток
 
@@ -21,12 +21,11 @@ SharePoint 2013 работни потоци, които се опитват да
   
  **За да разрешите този проблем, направете следните стъпки:**
   
- 1. Позволи всички да видите членовете на групата на SharePoint. 
+ 1. Позволи всички да видите членовете на групата на SharePoint.
   
- 2. Премахнете групата на SharePoint от полето до или Як на писмото. 
+ 2. Премахнете групата на SharePoint от полето до или Як на писмото.
   
- 3. Изрично да добавите потребители към полето до или Як линия ако видимостта на членство не може да бъде променено за SharePoint група. 
+ 3. Изрично да добавите потребители към полето до или Як линия ако видимостта на членство не може да бъде променено за SharePoint група.
   
-За да видите повече подробности моля вижте [HTTP неразрешените до /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+За да видите повече подробности моля вижте [HTTP неразрешените до /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
