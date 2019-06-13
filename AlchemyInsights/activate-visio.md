@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764839"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883150"
 ---
 # <a name="activate-visio"></a>Активиране на Visio
 
-Администратор трябва да присвоите [Visio лиценз](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) на потребител преди работния плот Visio компютъра ап, включени с Visio онлайн план 2 може да бъде инсталирана и активирана. (Visio онлайн план 1 не включва десктоп версията на Visio).
+Преди потребителят може да инсталирате и активирате работния плот Visio работния плот ап включени техните Visio онлайн план 2, потребителят трябва да са били възложени на [Visio лиценз](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**Забележка** Visio онлайн план 1 не включва десктоп версия на Visio.
+
+За да активирате Visio:
 
 1. [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) ако тя вече не е инсталиран.
-2. Когато инсталирането приключи, отворете ап. В много случаи банките ще се активира автоматично и потребителят може да започнете да използвате Visio веднага.
-    Ако получите подкана да влезете в, потребителят трябва да влезете с една и съща работа или училище акаунт, който е назначен на Visio лиценз. 
+2. Когато инсталирането приключи, отворете Visio. В много случаи ап активира автоматично и можете да започнете да използвате Visio веднага. Ако получите подкана да влезете, не забравяйте да влезете в една и съща работа или училище акаунт, който е бил присвоен Visio лиценз. 
+
+За активиране проблеми тичам [активиране неизправности](https://aka.ms/SARA-OfficeActivation-Alchemy) на засегнатите компютър.
 
 За подробна информация вижте:<br>
 [Активирате Office на компютър](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
