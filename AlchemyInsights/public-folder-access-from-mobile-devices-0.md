@@ -9,19 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 6b9bc9b7d49105d88050a14ea8af2e7cbe5fea7d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4268eb271b37717922ffd12678e983044e8397b5
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388168"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34885950"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Публичната папка достъп от мобилни устройства
 
 Публичните папки не са достъпни от мобилни устройства.
   
-Ако искате да са подобни на публични папки функционалност и достъп от мобилни устройства, вижте [Научете за Office 365 групи](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) за по-добра алтернатива. 
+Ако искате да са подобни на публични папки функционалност и достъп от мобилни устройства, вижте [Научете за Office 365 групи](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) за по-добра алтернатива.
   
-
