@@ -1,5 +1,5 @@
 ---
-title: Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive
+title: Отстраняване на неизправности при "Отваряне с Explorer" в SharePoint Online
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757789"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223629"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Отстраняване на неизправности при "Отваряне с Explorer" в SharePoint Online
 
-Командата Отваряне с Explorer отваря локален екземпляр на Windows Explorer, който показва структурата на папките на сървъра, който хоства сайта на SharePoint. По този начин, препоръчваме [синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, който предоставя [Файлове при поискване](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), защото предоставя локален достъп до вашите файлове и предлага най-добро представяне.
+Командата "Отваряне с Explorer" отваря локален екземпляр на Windows Explorer, който показва структурата на папките на сървъра, хостващ сайта на SharePoint. По този начин, препоръчваме [синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, който предоставя [Файлове при поискване](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), защото предоставя локален достъп до вашите файлове и предлага най-добро представяне.
 
 
 Ако сте избрали да използвате изглед на Explorer, вместо да използвате новия клиент за синхронизиране, погрижете се да следвате стъпките и най-добрите практики в статиите по-долу.
