@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760647"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223809"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Активирате външно споделяне в SharePoint Online
 
@@ -20,25 +20,25 @@ ms.locfileid: "34760647"
 
 За повече информация за външно споделяне (гости), моля посетете линка по-долу.
 
-[Какво е външен потребител?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Какво е външен потребител?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Какво се случва при споделяне на сайт или документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Какво се случва при споделяне на сайт или документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[Включване външното споделяне или изключване за SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Включване външното споделяне или изключване за SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Включване външното споделяне или изключване за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Включване външното споделяне или изключване за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Управление на гости достъп в Office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Управление на гости достъп в Office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[Използвайте Sharepoint Online като бизнес-към-бизнес (B2B) екстранет разтвор](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Използвайте Sharepoint Online като бизнес-към-бизнес (B2B) екстранет разтвор](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Споделяне на файлове на SharePoint или папка](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Споделяне на файлове на SharePoint или папка](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Спри споделянето OneDrive или SharePoint файлове или папки, или промяна на разрешения](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Спри споделянето OneDrive или SharePoint файлове или папки, или промяна на разрешения](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Изтриване на външен потребител](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Изтриване на външен потребител](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-Получаване на грешка с външен потребител (гост)?
+**Получаване на грешка с външен потребител (гост)?**
 
 Проверете връзките по-долу. 
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119748"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222729"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Следват или ООН-следвайте сайт на SharePoint
 
@@ -23,4 +23,4 @@ ms.locfileid: "35119748"
 
 Ако не можете да следват или ООН-следвайте сайт и се чувстват резултатите не са това, което се очаква, вижте дали проблемът е свързан с един потребител или всички потребители във вашата организация. Ако въпроса е срещани от всички потребители, може да има проблем при временна услуга. 
 
-Проверете [Услуги здравето таблото](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)за да видите дали вашата организация е ударена.
+Проверете [Услуги здравето таблото](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) за да видите дали вашата организация е ударена.

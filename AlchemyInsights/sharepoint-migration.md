@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: e36f5fe58a181d1bfdb6f97f6b00fc85718674a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fbf08f446233fc582f4651a60dfa9a31dda270a8
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760015"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223485"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Опции за да мигрират към SharePoint Online
 
@@ -20,15 +20,15 @@ ms.locfileid: "34760015"
 
 За повече информация за миграция на съдържание моля посетете линка по-долу.
 
-[Инструмента за миграция на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Инструмента за миграция на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-[SharePoint онлайн и ODB миграция скорост](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [SharePoint онлайн и ODB миграция скорост](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-[Миграция на данни и SPO сервиз дроселиране](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
+- [Миграция на данни и SPO сервиз дроселиране](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
 
 
-[Предотвратите появата на ограничени или блокирани в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Предотвратите появата на ограничени или блокирани в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-[Инструмент за оценка на миграцията на SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [Инструмент за оценка на миграцията на SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**Забележка**: в момента на инструмента за миграция на Sharepoint поддържат само миграции от Sharepoint 2010 г. и 2013 г. 2016 версия не се поддържа в този момент.
+**Забележка**: в момента на инструмента за миграция на SharePoint поддържат само миграции от SharePoint 2010 г. и 2013 г. Версия 2016 или 2019 не се поддържат в този момент.

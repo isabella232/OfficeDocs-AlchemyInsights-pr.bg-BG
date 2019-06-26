@@ -1,5 +1,5 @@
 ---
-title: Дават на потребителите достъп до SharePoint и OneDrive
+title: Отстраняване на неизправности при достъп отказан съобщения до OneDrive за бизнес сайтове
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759245"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223413"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Дават на потребителите достъп до SharePoint и OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Отстраняване на неизправности при достъп отказан съобщения до OneDrive за бизнес сайтове
 
 Този проблем най-често се случва, когато даден потребител е изтрита и създадена отново със същото основно име на потребителя (UPN). Новият акаунт е създаден с помощта на различни PUID (паспорт уникален ИД) стойност. Когато потребителят се опитва да получи достъп до колекция от сайтове или техните OneDrive, потребителят има неправилен PUID. Вторият сценарий включва директория синхронизация с Active Directory организационни единици (OU). Ако потребителите са вече влезли в SharePoint, след това се премества в различни OU и resynced с SharePoint, те могат да срещнат този проблем.
 

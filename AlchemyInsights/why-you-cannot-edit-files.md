@@ -1,5 +1,5 @@
 ---
-title: Файлът се отваря само за четене
+title: Файловете са заключени за редактиране
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757066"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222657"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Защо може да не успеете да редактирате файлове?
 
@@ -24,9 +24,9 @@ ms.locfileid: "34757066"
 
 За OneDrive библиотеки OneDrive ще покаже икона за заключване до състоянието на синхронизиране и потребителят няма да може да синхронизира библиотеката, докато настройки са били отстранени.
 
-За повече информация относно заключени файлове за Word/Excel моля позоваване статии по-долу.
+За повече информация относно заключени файлове за Word или Excel моля позоваване статии по-долу.
 
-[Excel файл е заключен за редактиране от друг потребител](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel файл е заключен за редактиране от друг потребител](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Word файл е заключен за редактиране от друг потребител](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word файл е заключен за редактиране от друг потребител](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
