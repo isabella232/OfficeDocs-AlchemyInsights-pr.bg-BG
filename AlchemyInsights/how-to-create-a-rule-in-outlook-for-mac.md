@@ -7,27 +7,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800021
+ms.custom:
+- "923"
+- "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 7ece22f1aa12dc76188edd0ef08136dd65eb3eaa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d73034b3e2e609c9047f64b04f72cd0afd7970c1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399597"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385174"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="e0310-102">Как да създадете правило в Outlook за Mac</span><span class="sxs-lookup"><span data-stu-id="e0310-102">How to create a rule in Outlook for Mac</span></span>
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="18621-102">Как да създадете правило в Outlook за Mac</span><span class="sxs-lookup"><span data-stu-id="18621-102">How to create a rule in Outlook for Mac</span></span>
 
-1. <span data-ttu-id="e0310-103">За да създадете папка, за да държат имейл съобщенията, изпратени от правилото, изберете главната пощенска кутия, в раздела **Организиране** , щракнете върху **Нова папка**, въведете името на папката и натиснете клавиша Enter.</span><span class="sxs-lookup"><span data-stu-id="e0310-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
-    
-    <span data-ttu-id="e0310-104">Ако ви</span><span class="sxs-lookup"><span data-stu-id="e0310-104">If you</span></span> 
-    
-2. <span data-ttu-id="e0310-105">В списъка със съобщения щракнете върху имейл съобщение, за което искате о създаде правило.</span><span class="sxs-lookup"><span data-stu-id="e0310-105">In the message list, click an email message for which you want o create a rule.</span></span>
-    
-3. <span data-ttu-id="e0310-106">В раздела **Начало** щракнете върху **правила**и след това щракнете върху **Създаване на правило**.</span><span class="sxs-lookup"><span data-stu-id="e0310-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
-    
-4. <span data-ttu-id="e0310-107">Под **когато пристигне ново съобщение** редактиране на критериите да отговарят на вашите нужди.</span><span class="sxs-lookup"><span data-stu-id="e0310-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
-    
-<span data-ttu-id="e0310-108">За подробни инструкции за създаване на потребителски правила вижте [Създаване на правилата в Outlook за Mac](https://aka.ms/AA1uy0v)</span><span class="sxs-lookup"><span data-stu-id="e0310-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
+1. <span data-ttu-id="18621-103">За да създадете папка, за да държат имейл съобщенията, изпратени от правилото, изберете главната пощенска кутия, в раздела **Организиране** , щракнете върху **Нова папка**, въведете името на папката и натиснете клавиша Enter.</span><span class="sxs-lookup"><span data-stu-id="18621-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
+
+    <span data-ttu-id="18621-104">Ако ви</span><span class="sxs-lookup"><span data-stu-id="18621-104">If you</span></span> 
+
+2. <span data-ttu-id="18621-105">В списъка със съобщения щракнете върху имейл съобщение, за което искате о създаде правило.</span><span class="sxs-lookup"><span data-stu-id="18621-105">In the message list, click an email message for which you want o create a rule.</span></span>
+
+3. <span data-ttu-id="18621-106">В раздела **Начало** щракнете върху **правила**и след това щракнете върху **Създаване на правило**.</span><span class="sxs-lookup"><span data-stu-id="18621-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
+
+4. <span data-ttu-id="18621-107">Под **когато пристигне ново съобщение** редактиране на критериите да отговарят на вашите нужди.</span><span class="sxs-lookup"><span data-stu-id="18621-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
+
+<span data-ttu-id="18621-108">За подробни инструкции за създаване на потребителски правила вижте [Създаване на правилата в Outlook за Mac](https://aka.ms/AA1uy0v)</span><span class="sxs-lookup"><span data-stu-id="18621-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
   
-
