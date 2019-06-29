@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510110"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373798"
 ---
 # <a name="account-locked"></a>Акаунтът е заключен
 
@@ -22,3 +24,5 @@ ms.locfileid: "33510110"
 
 1. Отидете на [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) и влезте профила си заключена.За да отключите акаунта си, трябва да въведете кода за защита, предвидени в текстово съобщение от Microsoft. За да получите текстово съобщение, трябва да имате телефон, който поддържа текстови съобщения. Ако телефонът ви не поддържа текстови съобщения, можете да помолите приятел или член на семейството да използват телефона си. Microsoft не запишете този телефонен номер, така че на телефонния номер, можете да използвате за да получите това съобщение за текст не трябва да бъдат свързани с вашия акаунт.
 2. Ако видите съобщението "Отнасяне граница превишавам", отидете на [Акаунт възстановяване](https://go.microsoft.com/fwlink/?linkid=2090483) и един от нашите агенти ще прегледа вашия акаунт.
+
+За да научите повече, прочетете [деблокиране ми Outlook.com сметка](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
