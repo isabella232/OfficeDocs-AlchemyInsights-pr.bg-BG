@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392345"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372538"
 ---
 # <a name="replying-in-outlookcom"></a>Отговор в Outlook.com
 
 Да отговори на едно съобщение в даден момент:
 
-1. В списъка със съобщения изберете съобщението, което искате да препратите.
+1. В списъка със съобщения изберете съобщението, което искате да отговорите.
 2. В горния десен ъгъл на прозореца на съобщението, изберете **отговор** стрелка или **отговори на всички** стрелки.
 3. Въведете вашето съобщение и изберете **Изпрати**.
 
 За автоматично отговаряне на всички съобщения:
 
-1. Отворете [настройките за автоматични отговори](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Отидете в **Настройки** > **видите всички Outlook настройки** > **Mail** > **автоматични отговори** за да отворите [настройките за автоматични отговори](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Изберете **включване на автоматични отговори** превключване.
 3. Отмятането на квадратчето **Изпращай отговори само през период от време** дава възможност да:
     - Само изпращане на отговори, когато избирате. Ако не зададете период от време, вашия автоматичен отговор остава на, докато го изключите.

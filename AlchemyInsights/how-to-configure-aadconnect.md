@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752550"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385318"
 ---
 # <a name="configure-sync-features"></a>Конфигуриране на функции в синхронизиране
 
@@ -23,7 +25,7 @@ ms.locfileid: "34752550"
 
 - [Филтрирането](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) граници обектите се синхронизират в лазурно АД. По подразбиране, всички потребители, контакти, групи и Windows 10 Компютърни акаунти са синхронизирани. Можете да включват или изключват обекти, базирани на домейни, OU или други атрибути.
 
-- [Парола кълцам цикличният](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронизирам определителен член парола кълцам от локалната Active Directory към лазурните реклама. Това позволява управление на парола в едно място, но използването на една и съща парола в двете локални и облак среди. Тъй като Active Directory е достоверният източник, можете да използвате своя собствена парола политика.
+- [Парола кълцам синхронизиране](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронизира парола кълцам от локалната Active Directory към лазурните реклама. Това позволява управление на парола в едно място, но използването на една и съща парола в двете локални и облак среди. Тъй като Active Directory е достоверният източник, можете да използвате своя собствена парола политика.
 
 - [Самообслужване парола проучване (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) позволява на потребителите да сменят паролите си собствени в облака, докато все още се прилага вашата локалната парола политика.
 

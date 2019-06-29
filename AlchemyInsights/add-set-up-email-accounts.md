@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800018
+ms.custom:
+- "935"
+- "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 04d92a3d3fc349e3bd7e68eb75dd181b28ce0665
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1b4c864ef0ad579593032b30581123b0e27ee2ab
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398699"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358458"
 ---
 # <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Проблеми за създаване на имейл акаунт на Exchange в Outlook
 
-Ако срещате проблеми при създаване на акаунт на Exchange в Outlook, можете да стартирате [Outlook сметка Setup оръдие](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатите машина. Той ще изпълнява различни проверки и предоставят възможни решения на проблема за настройка ви акаунт. 
+Ако срещате проблеми при създаване на акаунт на Exchange в Outlook, можете да стартирате [Outlook сметка Setup оръдие](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатите машина. Той ще изпълнява различни проверки и предоставят възможни решения на проблема за настройка ви акаунт.
   
 Ако все още срещате проблеми, вижте [Outlook не може да създаде нов профил с помощта на Exchange автоматично откриване за пощенска кутия в Exchange Online в Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
   
-

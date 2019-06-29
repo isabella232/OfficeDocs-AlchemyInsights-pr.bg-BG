@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 606
+ms.custom:
+- "606"
+- "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410767"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382438"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Отстраняване на делегация в Outlook и Outlook в мрежата
 
@@ -28,7 +30,7 @@ ms.locfileid: "32410767"
 1. Добавете имейл адреса на променения потребител
 1. Изберете "Аз съм като проблеми с делегат разрешения"
 1. В следващия ред ако сте лицето, което дава разрешения, въведете имейл адреса на вашия представител. Ако сте получили разрешения и сте делегата, въведете имейл адреса на лицето, което ви е дал разрешения.
-1. В следващото меню изберете опцията, която отговаря на вашия сценарий. 
+1. В следващото меню изберете опцията, която отговаря на вашия сценарий.
 1. В следващото меню изберете ниво на разрешение.
 1. На този етап Сара инструмент ще извършва автоматизираните проверки и ще ви осигури с възможен решителност или алтернативно ще осигури диагностичен регистрационен файл, който може да се използва за по-нататъшни проблеми.
 1. Можете да намерите регистрационните файлове в папката на Сара резултати, разположени в C:\Users\Username\AppData\Local\SaraResults
