@@ -1,26 +1,34 @@
 ---
-title: Outlook.com спиране съобщения от съществуващ към смет папка
+title: Спиране съобщения от съществуващ към папката за нежелана поща в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373233"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371782"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a><span data-ttu-id="14cde-102">Спиране съобщения, отидете в папката с нежелана поща</span><span class="sxs-lookup"><span data-stu-id="14cde-102">Stop messages going to your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="bc130-102">Спиране съобщения от съществуващ към вашата папка "нежелана поща"</span><span class="sxs-lookup"><span data-stu-id="bc130-102">Stop messages from going to your Junk Email folder</span></span>
 
-<span data-ttu-id="14cde-103">Ако откриете, че имейл съобщение във вашата папка за нежелана поща не е спам или нежелана поща:</span><span class="sxs-lookup"><span data-stu-id="14cde-103">If you discover that an email message in your Junk Email folder was not spam or junk:</span></span>
+<span data-ttu-id="bc130-103">Ако откриете, че имейл съобщение във вашата папка за нежелана поща не е нежелана поща:</span><span class="sxs-lookup"><span data-stu-id="bc130-103">If you discover that an email message in your Junk Email folder isn't junk:</span></span>
 
-1. <span data-ttu-id="14cde-104">Отворете вашата [папка "нежелана поща"](https://outlook.live.com/mail/junkemail) и изберете съответното съобщение.</span><span class="sxs-lookup"><span data-stu-id="14cde-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select the message.</span></span> <span data-ttu-id="14cde-105">(Елементите във вашата папка за нежелана поща се изтриват след 30 дни.)</span><span class="sxs-lookup"><span data-stu-id="14cde-105">(Items in your Junk Email folder are deleted after 30 days.)</span></span>
-1. <span data-ttu-id="14cde-106">Над списъка със съобщения изберете **не нежелана** > **не е нежелана поща**.</span><span class="sxs-lookup"><span data-stu-id="14cde-106">Above the message list, select **Not junk** > **Not junk**.</span></span>
-1. <span data-ttu-id="14cde-107">Отворете вашите [Настройки за нежелана поща](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="14cde-107">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-1. <span data-ttu-id="14cde-108">Под **"безопасни податели"** въведете имейл адрес или домейн, който искате да добавите и изберете **Добави**.</span><span class="sxs-lookup"><span data-stu-id="14cde-108">Under **Safe senders**, enter the email address or domain you want to add, and select **Add**.</span></span> <span data-ttu-id="14cde-109">Имейл адреси или домейни на безопасни податели, списъка не се преместват в папката Нежелана поща.</span><span class="sxs-lookup"><span data-stu-id="14cde-109">Email from addresses or domains on the safe senders list don't get moved to your Junk Email folder.</span></span>
+1. <span data-ttu-id="bc130-104">Отворете вашата [папка "нежелана поща"](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="bc130-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
+1. <span data-ttu-id="bc130-105">Изберете съобщението.</span><span class="sxs-lookup"><span data-stu-id="bc130-105">Select the message.</span></span> <span data-ttu-id="bc130-106">(*Забележка:* елементи във вашата папка за нежелана поща се изтриват след 30 дни.)</span><span class="sxs-lookup"><span data-stu-id="bc130-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="bc130-107">Над списъка със съобщения изберете **не нежелана** > **не е нежелана поща**.</span><span class="sxs-lookup"><span data-stu-id="bc130-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
+
+<span data-ttu-id="bc130-108">Ако искате да попречите на всички съобщения от даден подател да отивате в папката Нежелана поща, Добави подателя към списъка с безопасни податели:</span><span class="sxs-lookup"><span data-stu-id="bc130-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
+
+1. <span data-ttu-id="bc130-109">Отворете вашите [Настройки за нежелана поща](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="bc130-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+1. <span data-ttu-id="bc130-110">Под **безопасни податели и домейни**изберете **Добави**, въведете имейл адрес или домейн, който искате да добавите и изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="bc130-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
+
+<span data-ttu-id="bc130-111">За да научите повече, прочетете [маркира имейл като нежелана или блок податели в Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="bc130-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
