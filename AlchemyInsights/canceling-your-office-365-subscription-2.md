@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "87"
+- "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 411dc6f93c605e87f1b76c880a05ad4256ddedea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399195"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361554"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Отмяна на абонамента в Office 365?
 
@@ -28,4 +30,3 @@ ms.locfileid: "32399195"
   
 За да научите повече за отменяне на абонамент или за подробни инструкции, вижте тази статия: [Отказ Office 365 за бизнес](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-
