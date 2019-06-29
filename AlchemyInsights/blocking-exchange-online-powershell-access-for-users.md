@@ -9,19 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 763
+ms.custom:
+- "763"
+- "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 3c4e9ebc8aaa99350544ca3e5fa0d058a95ad16b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e1f56de26e6ccebce49770224138256ad6794664
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756369"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359538"
 ---
-<span data-ttu-id="b83ea-102">Като администратор Вие имате способността да блокира достъпа до Exchange Online PowerShell за вашите потребители.</span><span class="sxs-lookup"><span data-stu-id="b83ea-102">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="b83ea-103">За повече информация вижте следните теми:</span><span class="sxs-lookup"><span data-stu-id="b83ea-103">For more information, see these topics:</span></span>
+# <a name="blocking-exchange-online-powershell-access-for-users"></a><span data-ttu-id="41631-102">Блокиране на Exchange Online PowerShell достъп за потребителите</span><span class="sxs-lookup"><span data-stu-id="41631-102">Blocking Exchange Online PowerShell access for users</span></span>
+<span data-ttu-id="41631-103">Като администратор Вие имате способността да блокира достъпа до Exchange Online PowerShell за вашите потребители.</span><span class="sxs-lookup"><span data-stu-id="41631-103">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="41631-104">За повече информация вижте следните теми:</span><span class="sxs-lookup"><span data-stu-id="41631-104">For more information, see these topics:</span></span>
 
-- [<span data-ttu-id="b83ea-104">Разрешаване или забраняване на достъп до Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="b83ea-104">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [<span data-ttu-id="41631-105">Разрешаване или забраняване на достъп до Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="41631-105">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- <span data-ttu-id="b83ea-105">[Достъп на клиента в замяна правила онлайн](https://technet.microsoft.com/library/mt842508.aspx) (вижте **RemotePowerShell** Протокола)</span><span class="sxs-lookup"><span data-stu-id="b83ea-105">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
+- <span data-ttu-id="41631-106">[Достъп на клиента в замяна правила онлайн](https://technet.microsoft.com/library/mt842508.aspx) (вижте **RemotePowerShell** Протокола)</span><span class="sxs-lookup"><span data-stu-id="41631-106">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
 
-<span data-ttu-id="b83ea-106">**Забележка**: както е описано в темата, внимавайте да не блокира достъпа до Exchange Online PowerShell за администратори.</span><span class="sxs-lookup"><span data-stu-id="b83ea-106">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
+<span data-ttu-id="41631-107">**Забележка**: както е описано в темата, внимавайте да не блокира достъпа до Exchange Online PowerShell за администратори.</span><span class="sxs-lookup"><span data-stu-id="41631-107">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
