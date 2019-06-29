@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408241"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362202"
 ---
 # <a name="compare-office-365-plans"></a>Сравни Office 365 плановете
 
@@ -26,8 +28,7 @@ Office 365 плановете са достъпни за [бизнес](https://
   
 Ако вашата организация е заинтересован в сравнение всички планове и ценообразуването, прегледайте [Сравни всички Office 365 плановете](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Ако вашата организация вече закупен на Office 365 план и се интересуват от преминаването към друг план можете да толкова от центъра на Microsoft 365 администратор, отидете на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054)или изберете **плащане** \> **абонаменти**. Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични. 
+Ако вашата организация вече закупен на Office 365 план и се интересуват от преминаването към друг план можете да толкова от центъра на Microsoft 365 администратор, отидете на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054)или изберете **плащане** \> **абонаменти**. Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични.
   
 Вашата организация може също да микс и мач Office 365 плановете да отговори на нуждите и функция изисквания на потребителите. От Office 365 администратор, отидете на страницата на [Покупка услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) , или изберете **плащане** \> **Покупка услуги**.
   
-

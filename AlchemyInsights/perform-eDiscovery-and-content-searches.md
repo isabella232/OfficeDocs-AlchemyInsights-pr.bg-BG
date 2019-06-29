@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373305"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371422"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как да извършите съдържание търсения и eDiscovery търсения
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373305"
 2. Щракнете върху **търсене & разследване > съдържание търсене**.
 3. Щракнете върху **ново търсене** , за да създадете ново търсене.
 4. Въведете необходимата търсене условия, включително ключови думи и съдържание места.  
-5. Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите. 
- 
+5. Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите.
+
 За детайлни инструкции относно създаването на търсене и експортиране на резултати вижте [тази статия](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **eDiscovery търсения**
