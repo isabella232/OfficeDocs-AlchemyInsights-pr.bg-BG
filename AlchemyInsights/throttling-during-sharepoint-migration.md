@@ -6,17 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1987"
+- "9000353"
 ms.assetid: ''
-ms.openlocfilehash: 0bb18c268e76629c0a63db4f2175d6c9e2d585f6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c42f9a274edf3a5617ca8d05aa7a4ea3ef18a8db
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757774"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353922"
 ---
 # <a name="sharepoint-throttling"></a>SharePoint дроселиране
 
-SharePoint Online използва дроселиране да поддържа оптимална производителност и надеждност на услугата на SharePoint Online. Дроселиране граници броят на потребителските действия или едновременни повиквания (чрез скрипт или код) за предотвратяване на прекомерната употреба на ресурси. 
+SharePoint Online използва дроселиране да поддържа оптимална производителност и надеждност на услугата на SharePoint Online. Дроселиране граници броят на потребителските действия или едновременни повиквания (чрез скрипт или код) за предотвратяване на прекомерната употреба на ресурси.
 
 За повече информация моля посетете линка по-долу:
 

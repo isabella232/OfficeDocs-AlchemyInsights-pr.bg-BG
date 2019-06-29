@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883116"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357558"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook катастрофа, стъпки за отстраняване на неизправности
 
@@ -25,10 +27,9 @@ ms.locfileid: "33883116"
   
 Стъпка 1: Разследва възможни проблеми с добавки.
   
-Стъпка 2: Ремонт на Outlook и тичам на [поддръжка и възстановяване помощник инструмент за отстраняване на грешки за стартиране на Outlook](https://aka.ms/SaRA-OutlookWontStart) на засегнатите машина. 
+Стъпка 2: Ремонт на Outlook и тичам на [поддръжка и възстановяване помощник инструмент за отстраняване на грешки за стартиране на Outlook](https://aka.ms/SaRA-OutlookWontStart) на засегнатите машина.
   
-Стъпка 3: Създайте нов профил в Outlook или да стартирате [Outlook профил инструмент](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатите машина. 
+Стъпка 3: Създайте нов профил в Outlook или да стартирате [Outlook профил инструмент](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатите машина.
   
 Ако проблемът възникна след актуализация и горните стъпки не работят, трябва да се върнете към предишен строя. Вижте [как да се върнете към предишна версия на Office 2013 или Office 2016 щракване-към-тичам](https://support.microsoft.com/help/2770432).
   
-

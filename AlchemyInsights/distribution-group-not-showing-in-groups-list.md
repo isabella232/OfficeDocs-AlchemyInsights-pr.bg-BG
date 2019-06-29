@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "13"
+- "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 46885b31ba73e23ab10e8ba794b9b3823cc7a394
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f6b22fcd5d1a75a2769c146e7c38a021c220b94c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404554"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389746"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>Група за разпространение, не се показва в списъка с групи
 
@@ -24,4 +26,3 @@ ms.locfileid: "32404554"
   
 Ако искате да добавите членове или да правите други промени в момента, моля използвайте функцията на групите в [Центъра за администриране на Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
   
-

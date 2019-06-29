@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769426"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359326"
 ---
 # <a name="access-services-retirement"></a>Достъп до услуги за пенсиониране
 
@@ -24,7 +27,7 @@ ms.locfileid: "34769426"
 
 **Какво трябва да направя, за да се подготвят за тази промяна?**
 
-Препоръчваме ви да създадете план на преход за уеб бази данни Access за вашата организация. Администраторите могат да използват [SharePoint достъп ап скенер](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) да получи опис на достъп до приложения, които използват сайтове. 
+Препоръчваме ви да създадете план на преход за уеб бази данни Access за вашата организация. Администраторите могат да използват [SharePoint достъп ап скенер](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) да получи опис на достъп до приложения, които използват сайтове.
 
 Има няколко начина за мигриране на данни от Access уеб бази данни:
 

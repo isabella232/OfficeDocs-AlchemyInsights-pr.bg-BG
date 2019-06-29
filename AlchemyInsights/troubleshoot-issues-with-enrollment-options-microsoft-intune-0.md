@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 03677ad3e2b9183796890fe993a305476521eae8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "786"
+- "6200002"
+ms.openlocfilehash: e25f544b9f94eaa6a9d090c4d21a37add5b4bdc5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420401"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353418"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Отстраняване на проблеми с опциите за записване Microsoft Intune
 
-Преглед на ресурси, изброени по-долу да решим вашия проблем сега. 
+Преглед на ресурси, изброени по-долу да решим вашия проблем сега.
   
 - [Преглед Intune TechNet да намерите отговори и решения на общи проблеми](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
-    
-- Използвате [Intune портала за отстраняване на неизправности](https://aka.ms/intunetroubleshooting) за диагностика и разрешаване на общи записване неизправности. Преглед на [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности. 
-    
-- Преглед на [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък на често срещани грешки, които пречат записване и резолюции на всеки. 
-    
-- [Научете за опциите за записване в Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
-    
 
+- Използвате [Intune портала за отстраняване на неизправности](https://aka.ms/intunetroubleshooting) за диагностика и разрешаване на общи записване неизправности. Преглед на [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
+
+- Преглед на [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък на често срещани грешки, които пречат записване и резолюции на всеки.
+
+- [Научете за опциите за записване в Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
