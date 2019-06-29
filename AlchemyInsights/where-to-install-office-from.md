@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422740"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365154"
 ---
 # <a name="install-office"></a>Инсталиране на Office
 
@@ -23,12 +26,11 @@ ms.locfileid: "32422740"
 Офис след това може да бъде инсталиран следвате стъпките по-долу:
   
 1. Отидете на [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-    
+
 2. В началната страница на Office изберете желания език и след това изберете Разширени, за да изберете между 64-късче или 32-битова версия
-    
+
 3. Изберете **Инсталиране на Office**.
-    
+
 За повече подробности вижте [изтеглите и инсталирате или преинсталирате Office на компютър или Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
 За специфични инструкции за Visio или проект вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) или [проект](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
-
