@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA доказателства
+title: Outlook.com MSA доказателства
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392324"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373870"
 ---
-# <a name="security-info-and-security-codes"></a><span data-ttu-id="a19f1-102">Информация за защита и сигурност кодове</span><span class="sxs-lookup"><span data-stu-id="a19f1-102">Security info and security codes</span></span>
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="ddad2-102">Информация за защита и сигурност кодове</span><span class="sxs-lookup"><span data-stu-id="ddad2-102">Security info and security codes</span></span>
 
-1. <span data-ttu-id="a19f1-103">Влезте в страницата си [Основи на защитата](https://account.microsoft.com/security) с вашия акаунт в Microsoft.</span><span class="sxs-lookup"><span data-stu-id="a19f1-103">Sign in to your [Security basics](https://account.microsoft.com/security) page with your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="a19f1-104">Изберете **Актуализирай информацията**.</span><span class="sxs-lookup"><span data-stu-id="a19f1-104">Select **Update info**.</span></span> 
-    
-3. <span data-ttu-id="a19f1-105">Вие може да бъдете помолени да въведете код за сигурност да продължи.</span><span class="sxs-lookup"><span data-stu-id="a19f1-105">You may be asked to enter a security code to continue.</span></span> <span data-ttu-id="a19f1-106">Ако нямате достъп до вашия алтернативен имейл или телефонен номер, изберете **не трябва някоя от тези** и следвайте инструкциите, за да заместите вашата информация за защита.</span><span class="sxs-lookup"><span data-stu-id="a19f1-106">If you don't have access to your alternate email or phone number, choose **I don't have any of these** and follow the instructions to replace your security info.</span></span> 
-    
-4. <span data-ttu-id="a19f1-107">Изберете **Добави сигурност информация** след това следвайте инструкциите, за да въведете нов имейл или телефонен номер.</span><span class="sxs-lookup"><span data-stu-id="a19f1-107">Select **Add security info** then follow the instructions to enter a new email or phone number.</span></span> 
-    
-5. <span data-ttu-id="a19f1-108">Ние ще изпратим код за сигурност за тази нова поща или телефонен номер.</span><span class="sxs-lookup"><span data-stu-id="a19f1-108">We'll send a security code to that new email or phone number.</span></span> <span data-ttu-id="a19f1-109">Въведете този код за сигурност и изберете **напред**.</span><span class="sxs-lookup"><span data-stu-id="a19f1-109">Enter that security code, and select **Next**.</span></span> <span data-ttu-id="a19f1-110">Вашият нов сигурност информация ще се появи във вашия списък.</span><span class="sxs-lookup"><span data-stu-id="a19f1-110">Your new security info will appear in your list.</span></span> 
-    
-6. <span data-ttu-id="a19f1-111">Изберете **Премахване на** някой който искате да премахнете.</span><span class="sxs-lookup"><span data-stu-id="a19f1-111">Choose **Remove** for any you want to remove.</span></span> 
-    
-7. <span data-ttu-id="a19f1-112">Ако искате да актуализирате коя информация за защита, ние ще изпратим предупреждения, изберете **Предупреждение опции за промяна** и премахнете отметката от квадратчето за този, който вече не искате да получавате предупреждения, освен ако те са критични.</span><span class="sxs-lookup"><span data-stu-id="a19f1-112">If you want to update which security info we'll send alerts to, select **Change alert options** and deselect the checkbox for the one you no longer want to receive alerts for, unless they're critical.</span></span> 
-    
-<span data-ttu-id="a19f1-113">Прочетете повече за [сигурност уведомявам и кодовете за сигурност](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="a19f1-113">Read more about [Security info and security codes](https://support.microsoft.com/help/12428/).</span></span>
-  
+<span data-ttu-id="ddad2-103">За да добавите информация за защита към акаунта:</span><span class="sxs-lookup"><span data-stu-id="ddad2-103">To add security info to your account:</span></span>
 
+1. <span data-ttu-id="ddad2-104">Влезте в [Основи на защитата](https://account.microsoft.com/security) с вашия акаунт в Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ddad2-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
+1. <span data-ttu-id="ddad2-105">Изберете **сигурността информация за контакт**.</span><span class="sxs-lookup"><span data-stu-id="ddad2-105">Select **Security contact info**.</span></span>
+1. <span data-ttu-id="ddad2-106">Изберете **Добави сигурност информация** и следвайте инструкциите, за да въведете телефонен номер или имейл адрес.</span><span class="sxs-lookup"><span data-stu-id="ddad2-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
+1. <span data-ttu-id="ddad2-107">Ще получите код за сигурност този телефонен номер или имейл адрес.</span><span class="sxs-lookup"><span data-stu-id="ddad2-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="ddad2-108">Въведете кода за защита, сте получили в прозореца **информация за добавяне защита** и изберете **напред**.</span><span class="sxs-lookup"><span data-stu-id="ddad2-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
+
+<span data-ttu-id="ddad2-109">Ако искате да премахнете телефонен номер или имейл адрес, изберете **Премахни** до него.</span><span class="sxs-lookup"><span data-stu-id="ddad2-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
+
+<span data-ttu-id="ddad2-110">Ако искате да промените кой телефонен номер или имейл адрес получава предупреждения за защита, изберете **Промяна на опциите за известяване**.</span><span class="sxs-lookup"><span data-stu-id="ddad2-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
+
+<span data-ttu-id="ddad2-111">За да научите повече, прочетете [Microsoft сметка сигурността информация и проверка на кодове](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="ddad2-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>

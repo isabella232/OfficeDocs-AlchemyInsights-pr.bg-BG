@@ -8,25 +8,25 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "915"
+- "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: 2a1b3be28e2069562c1253ccd30123b1e871a71a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b43cd025777c40fd137fe21d897b5c013af5a053
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421121"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354714"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a><span data-ttu-id="acec5-102">Стъпки за да решите грешка за активиране на Office 0x80072EFD</span><span class="sxs-lookup"><span data-stu-id="acec5-102">Steps to resolve Office activation error 0x80072EFD</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a><span data-ttu-id="9c59b-102">Стъпки за да решите грешка за активиране на Office 0x80072EFD</span><span class="sxs-lookup"><span data-stu-id="9c59b-102">Steps to resolve Office activation error 0x80072EFD</span></span>
 
-
-<span data-ttu-id="acec5-103">Опитайте тези решения да се поправи грешка за активиране на Office:</span><span class="sxs-lookup"><span data-stu-id="acec5-103">Try these solutions to fix the Office activation error:</span></span>
+<span data-ttu-id="9c59b-103">Опитайте тези решения да се поправи грешка за активиране на Office:</span><span class="sxs-lookup"><span data-stu-id="9c59b-103">Try these solutions to fix the Office activation error:</span></span>
   
-1. <span data-ttu-id="acec5-104">Проверете вашата [защитна стена](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span><span class="sxs-lookup"><span data-stu-id="acec5-104">Check your [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span></span>
-    
-2. <span data-ttu-id="acec5-105">Проверете вашия [антивирусен софтуер](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span><span class="sxs-lookup"><span data-stu-id="acec5-105">Check your [antivirus software](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span></span>
-    
-3. <span data-ttu-id="acec5-106">Проверете вашите [Настройки за прокси сървър](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span><span class="sxs-lookup"><span data-stu-id="acec5-106">Check your [proxy settings](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span></span>
-    
-4. <span data-ttu-id="acec5-107">Изтегляне и инсталиране на [поддръжка и възстановяване помощник](https://aka.ms/SARA-OfficeActivation-Alchemy) и тичам **Активиране неизправности**.</span><span class="sxs-lookup"><span data-stu-id="acec5-107">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
-    
+1. <span data-ttu-id="9c59b-104">Проверете вашата [защитна стена](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span><span class="sxs-lookup"><span data-stu-id="9c59b-104">Check your [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span></span>
 
+2. <span data-ttu-id="9c59b-105">Проверете вашия [антивирусен софтуер](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span><span class="sxs-lookup"><span data-stu-id="9c59b-105">Check your [antivirus software](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span></span>
+
+3. <span data-ttu-id="9c59b-106">Проверете вашите [Настройки за прокси сървър](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span><span class="sxs-lookup"><span data-stu-id="9c59b-106">Check your [proxy settings](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span></span>
+
+4. <span data-ttu-id="9c59b-107">Изтегляне и инсталиране на [поддръжка и възстановяване помощник](https://aka.ms/SARA-OfficeActivation-Alchemy) и тичам **Активиране неизправности**.</span><span class="sxs-lookup"><span data-stu-id="9c59b-107">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
