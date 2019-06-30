@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914096"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381862"
 ---
 # <a name="install-visio"></a>Инсталиране на Visio
 
 Visio се продава като самостоятелно приложение така че ако не разполагате с го още, [купи или опитайте Visio](https://products.office.com/visio). 
 
-Ако имате абонамент за Visio онлайн план 2, потребителите няма да видите опция за инсталиране на Visio от **ми инсталира** в [моя акаунт портал](https://portal.office.com/account#installs) , освен ако не сте [ги присвоен лиценз](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Забележка**: Visio онлайн план 1 не включва десктоп версията на Visio, така никакъв инсталация е възможно.
 
-За специфични инструкции за изтегляне и инсталиране на Visio вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Ако имате абонамент за Visio онлайн план 2, трябва да [присвоите даден лиценз](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) към потребител или те няма да имат възможност да инсталирате Visio от **ми инсталира** в [моя акаунт портал](https://portal.office.com/account#installs). 
 
-Ако имате валиден абонамент/лиценз и се изпълняват в проблемите по време на инсталирането, опитайте да инсталирате Visio с помощта на [поддръжка и възстановяване помощник](https://aka.ms/SaRA-VisioSetupScenario).
+Non том позволително версии на Visio стандарт или Visio Professional са свързани с Microsoft сметки и не могат да бъдат управлявани в центъра за администрация на. За да инсталирате тези версии, потребителите трябва да влезете в [account.microsoft.com](https://account.microsoft.com) с акаунта в Microsoft, свързани с тази версия на Visio.
+
+За по-подробна помощна вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) и следвайте стъпките за вашата версия на Visio.
 
 За повече информация вижте:<br>
 [Ръководство за разполагане за Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1245
+ms.custom:
+- "1245"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 01801612a1e2edee53e58005ee86afe304e1e85c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389447"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359217"
 ---
-# <a name="office-365-import-service"></a>Внос услугата на Office 365 
+# <a name="office-365-import-service"></a>Внос услугата на Office 365
 
-Импортиране на Office 365 услугата ви позволява да насипно състояние-внос няколко PST файлове за пощенски кутии в Exchange Online. 
+Импортиране на Office 365 услугата ви позволява да насипно състояние-внос няколко PST файлове за пощенски кутии в Exchange Online.
 
 За достъп до услугата на импортиране и започне процесът на импортиране:
 
@@ -28,10 +30,10 @@ ms.locfileid: "32389447"
 
 2. В левия прозорец на **сигурност & съответствие център**щракнете върху **данни управление > внос**.
 
-3. **Импортиране на** страница щракнете върху **нова задача за импортиране**. 
+3. **Импортиране на** страница щракнете върху **нова задача за импортиране**.
 
 4. За да завършите стъпките в съветника, моля следвайте тези [стъпка по стъпка инструкции](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Важно**: за достъп до страницата на **внос** в защита & съответствие център, да зададете [подходящите разрешения](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin). 
+**Важно**: за достъп до страницата на **внос** в защита & съответствие център, да зададете [подходящите разрешения](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
 Ако просто искате да импортирате PST на вашата пощенска кутия, вижте [тази статия](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

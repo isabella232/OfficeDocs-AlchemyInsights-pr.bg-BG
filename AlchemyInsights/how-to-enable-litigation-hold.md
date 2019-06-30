@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 976
+ms.custom:
+- "976"
+- "3100023"
 ms.assetid: ''
-ms.openlocfilehash: bf450ed6e619c46b7fc4d867284fe5b18854e769
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408672"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384742"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Място пощенска кутия на правно задържане
 
@@ -25,4 +27,3 @@ ms.locfileid: "32408672"
 - За да разрешите задържане за отделен потребител, [следвайте тези стъпки](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Когато е активирано задържане поради конфликт, цялото съдържание в пощенската кутия е запазена.
 
 - За да поставите на задържане на всички пощенски кутии във вашата организация, можете да използвате Office 365 задържане политика като [следвате тези стъпки](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Обърнете внимание, че за задържане от общоорганизационни политики, нови потребители ще бъдат автоматично присвоявани на политика.
-
