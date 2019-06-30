@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "322"
+- "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a13f24e9f9a984eb6c45a84e6f46176413f08f5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409801"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381538"
 ---
-# <a name="ios-provisioning-profiles"></a><span data-ttu-id="d268e-102">iOS провизии профили</span><span class="sxs-lookup"><span data-stu-id="d268e-102">iOS Provisioning Profiles</span></span>
+# <a name="ios-provisioning-profiles"></a><span data-ttu-id="d3adb-102">iOS провизии профили</span><span class="sxs-lookup"><span data-stu-id="d3adb-102">iOS Provisioning Profiles</span></span>
 
-<span data-ttu-id="d268e-103">Apple iOS линия-на-бизнес използва концепцията за осигуряващ профил, който се използва за проверка на целостта на прилагане и прилагане на политиките, заложени в профила.</span><span class="sxs-lookup"><span data-stu-id="d268e-103">Apple iOS line-of-business uses the concept of a provisioning profile which is used to validate the integrity of the application and enforce policies defined in the profile.</span></span> <span data-ttu-id="d268e-104">Тези провизии профили изтичат след 12 месеца и така нов профил трябва да бъде свързан с разгърнати app in ред за определителен член apps да продължи да се изпълнява.</span><span class="sxs-lookup"><span data-stu-id="d268e-104">These provisioning profiles expire after 12 months and so a new profile must be associated with the deployed app in order for the apps to continue to to run.</span></span>
+<span data-ttu-id="d3adb-103">Apple iOS линия-на-бизнес използва концепцията за осигуряващ профил, който се използва за проверка на целостта на прилагане и прилагане на политиките, заложени в профила.</span><span class="sxs-lookup"><span data-stu-id="d3adb-103">Apple iOS line-of-business uses the concept of a provisioning profile which is used to validate the integrity of the application and enforce policies defined in the profile.</span></span> <span data-ttu-id="d3adb-104">Тези провизии профили изтичат след 12 месеца и така нов профил трябва да бъде свързан с разгърнати app in ред за определителен член apps да продължи да се изпълнява.</span><span class="sxs-lookup"><span data-stu-id="d3adb-104">These provisioning profiles expire after 12 months and so a new profile must be associated with the deployed app in order for the apps to continue to to run.</span></span>
   
-<span data-ttu-id="d268e-105">Следните статия описва как да създадете сътрудник, осигуряване на нов профил с iOS LOB ап разположени чрез Intune: [употреба iOS app осигуряващия профили за предотвратяване на вашата apps от изтичащ](https://docs.microsoft.com/intune/app-provisioning-profile-ios)</span><span class="sxs-lookup"><span data-stu-id="d268e-105">The following article describes how to create associate a new provisioning profile with an iOS LOB app deployed through Intune: [Use iOS app provisioning profiles to prevent your apps from expiring](https://docs.microsoft.com/intune/app-provisioning-profile-ios)</span></span>
+<span data-ttu-id="d3adb-105">Следните статия описва как да създадете сътрудник, осигуряване на нов профил с iOS LOB ап разположени чрез Intune: [употреба iOS app осигуряващия профили за предотвратяване на вашата apps от изтичащ](https://docs.microsoft.com/intune/app-provisioning-profile-ios)</span><span class="sxs-lookup"><span data-stu-id="d3adb-105">The following article describes how to create associate a new provisioning profile with an iOS LOB app deployed through Intune: [Use iOS app provisioning profiles to prevent your apps from expiring](https://docs.microsoft.com/intune/app-provisioning-profile-ios)</span></span>
   
-
