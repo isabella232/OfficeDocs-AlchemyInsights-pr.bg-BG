@@ -12,17 +12,35 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2f575c71f23aff781f3126ccac2ba066cfd87a5e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80625a2d3a10c1316dc369db344bb077aeb548b0
+ms.sourcegitcommit: 23f4af808f08643cc7d356dd4abc1d079c28e6dc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368898"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411837"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint и OneDrive регистрационни файлове за проверка
 
-- Няма допълнителни конфигурация е необходимо в рамките на SharePoint или OneDrive да се позволи влизането за проверка.
+**SharePoint и OneDrive модерна унифицирана одит трупи от спазване**
 
-- SharePoint и OneDrive подкрепя следните одитираните дейности: [файл и страница дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [папка дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [споделяне и достъп поиска дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [дейности по синхронизиране](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)и [администриране на сайта дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).
+- [Включване/изключване на унифицирани одит сеч](https://docs.microsoft.com/en-us/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
+Няма допълнителни конфигурация е необходимо в рамките на SharePoint или OneDrive.
+
+- Използвайте търсене на влизане за проверка за проверка на активността на файлове, папки, потребител(и), разрешения:
+
+    - [Файл и страница дейности](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Папка дейности](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Споделяне и достъп до дейности по заявка](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Синхронизация дейности](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Сайт административни дейности](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 - За повече информация как да изтеглите тези събития вижте [регистрационния файл за проверка за търсене](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+
+**SharePoint класически одит трупи**
+
+- [Преглед и разрешите класически SharePoint регистрационните](https://support.office.com/en-us/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+
+Одит трябва да се даде възможност на всяка колекция от сайтове. 
+
+**Забележка**: препоръчваме да използвате модерна унифицирана одит трупи за по-добри и усъвършенствани одит опции от тези класически регистрационните.
+
