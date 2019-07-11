@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: c5bbaf6068c7a3f54982ee5de556888a2f2377ae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 47798351cec9a4ef1296052fac1ae76d40966916
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374734"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614038"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Препращане на пощата в Outlook.com
 
@@ -31,4 +31,4 @@ ms.locfileid: "35374734"
 1. Отворете си [спедиция настройки](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
 2. Изберете **Разреши спедиция**, въведете изпращане имейл адрес и изберете **Запиши**.
 
-Научете повече за [автоматичното препращане в Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad).
+Научете повече за [автоматичното препращане в Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).

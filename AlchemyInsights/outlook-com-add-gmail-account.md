@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377614"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614159"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Прибавям your Gmail сметка към Outlook.com
 
@@ -30,4 +30,4 @@ ms.locfileid: "35377614"
 
 Можете да изпратите имейл в Outlook.com от вашия свързан акаунт в Gmail. Когато съставяте имейл, изберете **от** и вашия Gmail адрес, или [актуализиране по подразбиране от адрес](https://go.microsoft.com/fwlink/?linkid=875264).
 
-За повече информация вижте [Добавяне на други имейл акаунти в Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+За повече информация вижте [Добавяне на други имейл акаунти в Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
