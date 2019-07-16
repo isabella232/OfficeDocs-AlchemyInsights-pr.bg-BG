@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 59b4845833a8d4a50772d54852f500e2b8c8e2f6
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375670"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697000"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Организиране на вашата пощенска кутия на Outlook.com
 
@@ -27,4 +27,4 @@ ms.locfileid: "35375670"
 1. Въведете име за списъка и след това добавите имена или имейл адреси.
 1. Изберете **Създаване**.
 
-Научете повече за това как да [създавате, показвате и редактирате контакти и списъци в Outlook.com с контакти](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Научете повече за това как да [създавате, показвате и редактирате контакти и списъци в Outlook.com с контакти](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).

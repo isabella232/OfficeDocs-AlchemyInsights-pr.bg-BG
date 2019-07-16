@@ -12,13 +12,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 56a0df203b091d2e8addd01a9fcd297fe726ac84
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7d7429f145f81af7ba80dfd15c63712545391c4a
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385894"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35703865"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Как към достъп Outlook.com докато пътувате
 
-За достъп до Outlook.com докато пътувате, уверете се, че вашата Microsoft сметка сигурността информация - алтернативен имейл адрес или телефонен номер на мястото, където можете да получите сигурност кодове - да е актуална. За да научите повече, вижте [как да получите достъп до Outlook.com, когато пътувате](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e).
+За достъп до Outlook.com докато пътувате, уверете се, че вашата Microsoft сметка сигурността информация - алтернативен имейл адрес или телефонен номер на мястото, където можете да получите сигурност кодове - да е актуална. За да научите повече, вижте [как да получите достъп до Outlook.com, когато пътувате](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).

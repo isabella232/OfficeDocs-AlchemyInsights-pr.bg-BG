@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360978"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701312"
 ---
 # <a name="see-your-own-email-address"></a>Вижте вашия собствен имейл адрес
 
@@ -28,4 +28,4 @@ ms.locfileid: "35360978"
 1. Изберете трите точки в дъното на прозореца за ново съобщение и изберете **Покажи от** да видите реда от.
 2. Над реда до изберете **от** и да изберете кой имейл адрес, който искате да използвате.
 
-Научете повече за [Изпращане на имейл от адрес, различен в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Научете повече за [Изпращане на имейл от адрес, различен в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

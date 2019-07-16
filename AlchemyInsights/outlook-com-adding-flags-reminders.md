@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377398"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697036"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Добавяне на флагове и напомняния в Outlook.com
 
@@ -32,4 +32,4 @@ ms.locfileid: "35377398"
 1. В списъка със съобщения, задръжте над съобщението, за да видите опцията флаг.
 1. Изберете иконата на флаг, за да маркирате съобщението. За да видите всички ваши маркирани с флаг съобщения, изберете отметката в долния ляв ъгъл на страницата, за да отидете на задачи.
  
-За да научите повече, прочетете [флаг или ПИН съобщение в Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).
+За да научите повече, прочетете [флаг или ПИН съобщение в Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
