@@ -12,12 +12,12 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: c7ec38f1743596aea877e5d720ac15457447d51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cf9b4821161ef03503acafcc17f04899b11d8e
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376282"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35746362"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Чейнджър votre mot де остарял ДАНС Outlook.com
 
@@ -29,4 +29,4 @@ Votre mot де остарял Outlook.com est le même que votre mot де ост
 
 Si vous avez oublié votre mot де остарял, accédez à la [страница де réinitialisation де mot де остарял де compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les кани.
 
-Si vous pensez que votre Outlook.com интегрирана piraté voir [Mon compte Outlook.com ООН piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).
+Si vous pensez que votre Outlook.com интегрирана piraté voir [Mon compte Outlook.com ООН piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
