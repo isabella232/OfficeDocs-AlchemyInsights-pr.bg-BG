@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366320"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786402"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Изисква алхимия заглавие H1, H2 на не работят.
 Най-добрите практики и насоки за алхимията авторство:
@@ -37,4 +37,6 @@ ms.locfileid: "32366320"
 
 И това наистина вече е малко прекалено дълго. Най-добрата практика е около 400 знака---
 
-След като вашето съдържание е готов, го дръпнете на живо клон. След това отидете на [алхимията партньор портал](https://alchemyportal.azurewebsites.net) и въведете името на файла в полето url. М
+След като вашето съдържание е готов, го дръпнете на живо клон. След това отидете на [алхимията партньор портал](https://alchemyportal.azurewebsites.net) и въведете името на файла в полето url. 
+
+
