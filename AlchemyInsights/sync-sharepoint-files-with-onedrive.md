@@ -11,28 +11,29 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223629"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803027"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Отстраняване на неизправности при "Отваряне с Explorer" в SharePoint Online
 
 Командата "Отваряне с Explorer" отваря локален екземпляр на Windows Explorer, който показва структурата на папките на сървъра, хостващ сайта на SharePoint. По този начин, препоръчваме [синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, който предоставя [Файлове при поискване](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), защото предоставя локален достъп до вашите файлове и предлага най-добро представяне.
 
 
-Ако сте избрали да използвате изглед на Explorer, вместо да използвате новия клиент за синхронизиране, погрижете се да следвате стъпките и най-добрите практики в статиите по-долу.
+Ако сте избрали да използвате изглед на Explorer, вместо да използвате новия клиент за синхронизиране на OneDrive, погрижете се да следвате стъпките и най-добрите практики в следните статии:
 
 - [Как да използвате командата "Отваряне с Explorer" за отстраняване на неизправности в SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
 
-- [Копиране или преместване на файлове в библиотеката чрез опцията Отваряне с Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
+- [Копиране или преместване на файлове в библиотеката чрез опцията "Отваряне с Explorer"](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
-Забележка: Бутонът Отвори с Explorer не се появява в новия изглед на библиотеката. Щракнете върху падащия списък Изглед в горния десен ъгъл (името на падащия списък се променя в зависимост от вашия текущ изглед), след което щракнете върху Изглед във File Explorer.
+> [!Note]  
+> Бутонът **Отваряне с Explorer** не се появява в новия изглед на библиотеката. Изберете падащия списък **Изглед** в горния десен ъгъл (името на падащия списък се променя в зависимост от вашия текущ изглед), след което изберете **Изглед** във File Explorer.
 
- SharePoint Отвори с Explorer използва ActiveX контроли, така че се поддържа само в Internet Explorer 10 или 11. Отвори с Explorer не работи в Windows с Microsoft Edge, Google Chrome, Mozilla Firefox или платформата Mac. Поради тази причина опцията за изглед на Explorer може да е в сив цвят.
+ >SharePoint Отвори с Explorer използва ActiveX контроли, така че се поддържа само в Internet Explorer 10 или 11. Отвори с Explorer не работи в Windows с Microsoft Edge, Google Chrome, Mozilla Firefox или платформата Mac. Поради тази причина опцията за изглед на Explorer може да е в сив цвят.
 
-- [Защо бутоните на лентата на SharePoint са недостъпни или в сив цвят.](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
+> - [Защо бутоните на лентата на SharePoint са недостъпни или в сив цвят.](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 
