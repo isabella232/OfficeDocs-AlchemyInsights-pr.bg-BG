@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 58046f0eda55c28ffc8b321a6859efc086de3dd1
-ms.sourcegitcommit: 7120202ae6d2bca8f2c2ce79f41d3205fa80ef74
+ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33571075"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595085"
 ---
 # <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>Моите персонализирани имейл адрес не е изпращане или получаване
 
@@ -24,4 +24,4 @@ ms.locfileid: "33571075"
 
 Ако "Персонализирани имейл адрес" в раздела лента на червен състоянието, вашият домейн може да е изтекъл.
 
-Прочетете повече стъпки за отстраняване на [персонализирани имейл адреси в Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b).
+Прочетете повече стъпки за отстраняване на [персонализирани имейл адреси в Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

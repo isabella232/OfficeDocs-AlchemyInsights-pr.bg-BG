@@ -1,25 +1,24 @@
 ---
-title: Нови етикети на задържане, създаден автоматично
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Повече информация за правилата за задържане
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222981"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448824"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Нови етикети на задържане, създаден автоматично
+# <a name="more-info-about-retention-policies"></a>Повече информация за правилата за задържане
 
 За повечето организации, обема и сложността на техните данни се увеличава ежедневно - електронна поща, документи, незабавни съобщения и др.
-
-Ефективно управление или регулиращи тази информация е важна, правилата за съхранение могат да ви помогнат да постигнете тези цели. За повече информация за правилата за задържане моля посетете линка по-долу.
+Ефективно управление или регулиращи тази информация е важна, и правилата за съхранение могат да ви помогнат да постигнете тези цели. За повече информация за правилата за задържане моля посетете тези връзки:
 
 - [Преглед на правила за задържане](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
