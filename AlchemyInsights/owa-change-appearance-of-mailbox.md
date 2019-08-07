@@ -9,18 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 8cce6e27c2120389ca4b3778139528afa6f341e4
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933895"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36171314"
 ---
 # <a name="change-the-look-of-your-mailbox"></a>Промяна на облика на вашата пощенска кутия
 
 Можете да промените външния вид на прозореца на списъка и четене на съобщения, така че изглежда и се държи по начин, който желаете. Изберете дали вашите съобщения трябва да бъдат показани отделно или като разговори, ако нови съобщения трябва да се появи в горната или долната част на списъка със съобщения и др.
 
-1. Изберете иконата на зъбно колело в горната част на страницата, за да отворите прозореца на настройките.
+1. Изберете иконата на зъбно колело <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ в горната част на страницата, за да отворите прозореца на настройките.
 1. Изберете настройки за фокусирани Входящи, покажете плътност, изгледа на разговор и екрана за четене.
 1. На върха на списъка на съобщението, изберете **филтър** > **сортиране по** да изберете как искате да сортирате вашия имейл.
 
