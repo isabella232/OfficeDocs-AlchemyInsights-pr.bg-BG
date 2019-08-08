@@ -1,20 +1,24 @@
 ---
-title: Разрешите версии в списък или библиотека
-ms.author: kirks
-author: Techwriter40
+title: Версиите в SharePoint и OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223593"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232647"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Разрешаване на версии за списък на SharePoint или библиотека
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Версиите в SharePoint и OneDrive 
 
 
 Когато версии е включен в списък на SharePoint или библиотека, можете да съхранявате, проследявате и възстановяване на елементи в списък и файлове в библиотека, когато те се променят. Версиите, комбинирани с други настройки, например касата, ви дава много на контрола на съдържание, което е Публикувано на сайта ви и може да осигури реална стойност, ако някога имате нужда да погледнете или възстановяване на стара версия на елемент или файл.
