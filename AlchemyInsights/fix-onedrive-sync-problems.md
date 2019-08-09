@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: c97444d0afa001f20e7c0edcd798501cc21bda46
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 37c6f166c14303c8f92ac0e6342554effd181df1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401336"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269761"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Отстраняване на проблеми за синхронизиране на OneDrive
 
@@ -26,6 +28,6 @@ ms.locfileid: "32401336"
     
 - Премахни връзките между OneDrive и тичам OneDrive setup отново: щракнете с десния бутон синьо OneDrive облак иконата в областта за уведомяване най-вдясно на лентата на задачите. Щракнете върху **Настройки**а след това щракнете върху **Премахни връзката този компютър**. Следвайте стъпките в добре дошли да OneDrive съветника, за да настроите OneDrive отново.
     
-[Стъпки за отстраняване на проблеми при синхронизиране](https://go.microsoft.com/fwlink/?linkid=866431)
+[Стъпки за отстраняване на проблеми при синхронизиране](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
   
 

@@ -1,21 +1,22 @@
 ---
 title: Свържете сайт концентратор
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903026"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270122"
 ---
 # <a name="associate-a-hub-site"></a>Свържете сайт концентратор
 
@@ -27,6 +28,6 @@ ms.locfileid: "35903026"
 
  > [!Note]
 >Ако опцията концентратор сайт асоциация не е налице или не сайтове са изброени там, концентратор сайтове не може да бъде разрешена или може да нямате разрешение да свържете сайтове със сайт концентратор. Обърнете се към вашия администратор за повече информация.
-
+>
 >Няма ограничение за броя на сайтовете, които могат да бъдат свързани със сайт концентратор.
   
