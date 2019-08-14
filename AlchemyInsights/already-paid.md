@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357090"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386153"
 ---
-# <a name="already-paid"></a><span data-ttu-id="c7c1e-102">Вече платени?</span><span class="sxs-lookup"><span data-stu-id="c7c1e-102">Already paid?</span></span>
+# <a name="already-paid"></a><span data-ttu-id="ff75c-102">Вече платени?</span><span class="sxs-lookup"><span data-stu-id="ff75c-102">Already paid?</span></span>
 
-<span data-ttu-id="c7c1e-103">Ако вече сте изпратили плащане, можете да споделите с нас знаят:</span><span class="sxs-lookup"><span data-stu-id="c7c1e-103">If you've already sent payment, you can let us know:</span></span>
+<span data-ttu-id="ff75c-103">Ако вече сте изпратили плащане, можете да споделите с нас знаят:</span><span class="sxs-lookup"><span data-stu-id="ff75c-103">If you've already sent payment, you can let us know:</span></span>
   
-1. <span data-ttu-id="c7c1e-104">Отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="c7c1e-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="ff75c-104">В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="ff75c-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="c7c1e-105">Изберете абонамент и в секцията **моята сметка** , изберете **Изглед бил**.</span><span class="sxs-lookup"><span data-stu-id="c7c1e-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
+2. <span data-ttu-id="ff75c-105">Изберете абонамент и в секцията **моята сметка** , изберете **Изглед бил**.</span><span class="sxs-lookup"><span data-stu-id="ff75c-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
 
-3. <span data-ttu-id="c7c1e-106">В **законопроекта подробности** страница, изберете **вече платени?**</span><span class="sxs-lookup"><span data-stu-id="c7c1e-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="c7c1e-107">Вие ще бъдете помолени да въведете информация за плащането, което е било изпратено.</span><span class="sxs-lookup"><span data-stu-id="c7c1e-107">You'll be asked to enter information related to the payment that was sent.</span></span>
+3. <span data-ttu-id="ff75c-106">В **законопроекта подробности** страница, изберете **вече платени?**</span><span class="sxs-lookup"><span data-stu-id="ff75c-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="ff75c-107">Вие ще бъдете помолени да въведете информация за плащането, което е било изпратено.</span><span class="sxs-lookup"><span data-stu-id="ff75c-107">You'll be asked to enter information related to the payment that was sent.</span></span>
 
-4. <span data-ttu-id="c7c1e-108">Когато цялата изисквана информация е била въведена, изберете **Изпрати**.</span><span class="sxs-lookup"><span data-stu-id="c7c1e-108">When all required information has been entered, choose **Send**.</span></span>
+4. <span data-ttu-id="ff75c-108">Когато цялата изисквана информация е била въведена, изберете **Изпрати**.</span><span class="sxs-lookup"><span data-stu-id="ff75c-108">When all required information has been entered, choose **Send**.</span></span>

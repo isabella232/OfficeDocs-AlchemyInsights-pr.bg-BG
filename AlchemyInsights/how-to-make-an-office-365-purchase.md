@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384310"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390969"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="b701f-102">Как да направите покупка на Office 365</span><span class="sxs-lookup"><span data-stu-id="b701f-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="1a275-102">Как да направите покупка на Office 365</span><span class="sxs-lookup"><span data-stu-id="1a275-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="b701f-103">Покупки в Office 365 могат да бъдат направени в центъра за администрация на.</span><span class="sxs-lookup"><span data-stu-id="b701f-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="b701f-104">Отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="b701f-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="1a275-103">Покупки в Office 365 могат да бъдат направени в центъра за администрация на.</span><span class="sxs-lookup"><span data-stu-id="1a275-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="b701f-105">За да закупите Office 365 абонамент отидете на страницата за [Закупуване на услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) , или изберете **плащане** \> **Закупуване на услуги**.</span><span class="sxs-lookup"><span data-stu-id="b701f-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+- <span data-ttu-id="1a275-104">За да закупите Office 365 абонамент отидете на **Фактуриране** \> [Купувам услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.</span><span class="sxs-lookup"><span data-stu-id="1a275-104">To purchase an Office 365 subscription go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="b701f-106">За да закупите допълнителни лицензи отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="b701f-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="b701f-107">Страницата на **абонаменти** изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.</span><span class="sxs-lookup"><span data-stu-id="b701f-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="1a275-105">За да закупите допълнителни лицензи, преминете към **плащане** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="1a275-105">To purchase additional licenses, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="1a275-106">Страницата на **абонаменти** изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.</span><span class="sxs-lookup"><span data-stu-id="1a275-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
 
-- <span data-ttu-id="b701f-108">За да превключите към друг план:</span><span class="sxs-lookup"><span data-stu-id="b701f-108">To switch to a different plan:</span></span>
+- <span data-ttu-id="1a275-107">За да превключите към друг план:</span><span class="sxs-lookup"><span data-stu-id="1a275-107">To switch to a different plan:</span></span>
 
-  - <span data-ttu-id="b701f-109">Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични.</span><span class="sxs-lookup"><span data-stu-id="b701f-109">Choose **Switch plans** to view the list of new plans that are available.</span></span>
+  - <span data-ttu-id="1a275-108">Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични.</span><span class="sxs-lookup"><span data-stu-id="1a275-108">Choose **Switch plans** to view the list of new plans that are available.</span></span>
 
-  - <span data-ttu-id="b701f-110">Изберете план за да видите новия общите разходи на месец.</span><span class="sxs-lookup"><span data-stu-id="b701f-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="b701f-111">Не забравяйте да прочетете основната информация, след което изберете **следващата** да се провери.</span><span class="sxs-lookup"><span data-stu-id="b701f-111">Be sure to read the key information, then choose **Next** to check out.</span></span>
+  - <span data-ttu-id="1a275-109">Изберете план за да видите новия общите разходи на месец.</span><span class="sxs-lookup"><span data-stu-id="1a275-109">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="1a275-110">Не забравяйте да прочетете основната информация, след което изберете **следващата** да се провери.</span><span class="sxs-lookup"><span data-stu-id="1a275-110">Be sure to read the key information, then choose **Next** to check out.</span></span>
+
+<span data-ttu-id="1a275-111">Използвате ли новия център за администратор?</span><span class="sxs-lookup"><span data-stu-id="1a275-111">Are you using the new admin center?</span></span> <span data-ttu-id="1a275-112">За нови стъпки вижте [ъпгрейд към друг план](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="1a275-112">For new steps, see [Upgrade to a different plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
   
- <span data-ttu-id="b701f-112">**Допълнителни ресурси**</span><span class="sxs-lookup"><span data-stu-id="b701f-112">**Additional Resources**</span></span>
+ <span data-ttu-id="1a275-113">**Допълнителни ресурси**</span><span class="sxs-lookup"><span data-stu-id="1a275-113">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="b701f-113">Присвояване на лицензи за потребителите в Office 365 за бизнес</span><span class="sxs-lookup"><span data-stu-id="b701f-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="1a275-114">Присвояване на лицензи за потребителите в Office 365 за бизнес</span><span class="sxs-lookup"><span data-stu-id="1a275-114">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="b701f-114">Office 365 отказ за бизнес</span><span class="sxs-lookup"><span data-stu-id="b701f-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="1a275-115">Office 365 отказ за бизнес</span><span class="sxs-lookup"><span data-stu-id="1a275-115">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

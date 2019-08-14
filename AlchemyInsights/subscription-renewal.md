@@ -13,23 +13,25 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354066"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388159"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="a6e80-102">Абонамент повтарящи фактуриране</span><span class="sxs-lookup"><span data-stu-id="a6e80-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="3ad65-102">Абонамент повтарящи фактуриране</span><span class="sxs-lookup"><span data-stu-id="3ad65-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="a6e80-103">Ако искате да знаете, когато вашият месечен или годишен абонамент ще бъде фактурирана (ако **периодичен фактуриране** е включен) или изтекат (ако **периодичен фактуриране** е изключен):</span><span class="sxs-lookup"><span data-stu-id="a6e80-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
+<span data-ttu-id="3ad65-103">Ако искате да знаете, когато вашият месечен или годишен абонамент ще бъде фактурирана (ако **периодичен фактуриране** е включен) или изтекат (ако **периодичен фактуриране** е изключен):</span><span class="sxs-lookup"><span data-stu-id="3ad65-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
   
-1. <span data-ttu-id="a6e80-104">В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="a6e80-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="3ad65-104">В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="3ad65-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="a6e80-105">Изберете абонамент, който искате да знаете повече за това.</span><span class="sxs-lookup"><span data-stu-id="a6e80-105">Choose the subscription that you want to know more about.</span></span>
+2. <span data-ttu-id="3ad65-105">Изберете абонамент, който искате да знаете повече за това.</span><span class="sxs-lookup"><span data-stu-id="3ad65-105">Choose the subscription that you want to know more about.</span></span>
 
-3. <span data-ttu-id="a6e80-106">От дясната страна на картата на абонамента е информация за състоянието на абонамент, настройката на **повтарящи се фактуриране** и следващата дата за фактуриране или изтичане.</span><span class="sxs-lookup"><span data-stu-id="a6e80-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
+3. <span data-ttu-id="3ad65-106">От дясната страна на картата на абонамента е информация за състоянието на абонамент, настройката на **повтарящи се фактуриране** и следващата дата за фактуриране или изтичане.</span><span class="sxs-lookup"><span data-stu-id="3ad65-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
 
-4. <span data-ttu-id="a6e80-107">За да продължите да използвате услугата на миналото тази дата, превключете **периодичен фактуриране настройки** превключване към **на**.</span><span class="sxs-lookup"><span data-stu-id="a6e80-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="a6e80-108">Състоянието ще покаже следващата отчетна дата за записване.</span><span class="sxs-lookup"><span data-stu-id="a6e80-108">The status will show the next billing date for the subscription.</span></span>
+4. <span data-ttu-id="3ad65-107">За да продължите да използвате услугата на миналото тази дата, превключете **периодичен фактуриране настройки** превключване към **на**.</span><span class="sxs-lookup"><span data-stu-id="3ad65-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="3ad65-108">Състоянието ще покаже следващата отчетна дата за записване.</span><span class="sxs-lookup"><span data-stu-id="3ad65-108">The status will show the next billing date for the subscription.</span></span>
 
-5. <span data-ttu-id="a6e80-109">За да спрете услугата на тази дата, превключете **повтарящо плащане** превключване да **изключите**.</span><span class="sxs-lookup"><span data-stu-id="a6e80-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="a6e80-110">Състоянието ще се покаже датата абонамент изтече.</span><span class="sxs-lookup"><span data-stu-id="a6e80-110">The status will show the date the subscription expires.</span></span>
+5. <span data-ttu-id="3ad65-109">За да спрете услугата на тази дата, превключете **повтарящо плащане** превключване да **изключите**.</span><span class="sxs-lookup"><span data-stu-id="3ad65-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="3ad65-110">Състоянието ще се покаже датата абонамент изтече.</span><span class="sxs-lookup"><span data-stu-id="3ad65-110">The status will show the date the subscription expires.</span></span>
+
+<span data-ttu-id="3ad65-111">Използвате ли новия център за администратор?</span><span class="sxs-lookup"><span data-stu-id="3ad65-111">Are you using the new admin center?</span></span> <span data-ttu-id="3ad65-112">За нови стъпки вижте [включване повтарящи се фактуриране изключване на](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="3ad65-112">For new steps, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>

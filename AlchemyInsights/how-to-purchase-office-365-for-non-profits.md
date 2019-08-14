@@ -13,14 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 95f45ae2979887ebe2a613c740320c50e20a2d68
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383590"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389961"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="3489a-102">Как да закупите Office 365 за не-печалбите</span><span class="sxs-lookup"><span data-stu-id="3489a-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="be376-102">Как да закупите Office 365 за не-печалбите</span><span class="sxs-lookup"><span data-stu-id="be376-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="3489a-103">Вашият допустимост като Microsoft квалифицирано неправителствена организация е под преглед.</span><span class="sxs-lookup"><span data-stu-id="3489a-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="3489a-104">Можете да очаквате да получавате известие относно определянето на вашата допустимост, преди вашата пробна версия изтича.</span><span class="sxs-lookup"><span data-stu-id="3489a-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="3489a-105">Можете да следите състоянието на вашата заявка [тук](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="3489a-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
-  
+<span data-ttu-id="be376-103">Вашият допустимост като Microsoft квалифицирано неправителствена организация е под преглед.</span><span class="sxs-lookup"><span data-stu-id="be376-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="be376-104">Можете да очаквате да получавате известие относно определянето на вашата допустимост, преди вашата пробна версия изтича.</span><span class="sxs-lookup"><span data-stu-id="be376-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="be376-105">Можете да следите състоянието на вашата заявка [тук](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="be376-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
