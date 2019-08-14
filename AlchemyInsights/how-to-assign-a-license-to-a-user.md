@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385678"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386285"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Как да присвоите даден лиценз към потребител
 
 Един потребител се нуждае от лиценз, за да имат достъп до услуги. Тук са стъпките за добавяне, промяна или премахване на лиценз от потребител.
   
-1. В центъра на администратор, отидете на страницата на [Активни потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) , или изберете **потребителите** \> **активни потребители**.
+1. В центъра на администратор, отидете на **потребителите** \> [Активни потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) на страницата.
 
 2. Отметнете квадратчето до името на потребителя, на когото искате да присвоите, промените или премахнете лиценз.
 
@@ -38,5 +38,4 @@ ms.locfileid: "35385678"
 
 5. В дъното на прозореца на **продукта лицензи** , изберете **Запиши** \> **близки** \> **близки**.
 
-За повече информация вижте [Присвояване на лицензи за потребителите в Office 365 за бизнес](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)и [Премахване на лицензи от потребителите в Office 365 за бизнес](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+За повече информация вижте [Присвояване на лицензи за потребителите в Office 365 за бизнес](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)и [Премахване на лицензи от потребителите в Office 365 за бизнес](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

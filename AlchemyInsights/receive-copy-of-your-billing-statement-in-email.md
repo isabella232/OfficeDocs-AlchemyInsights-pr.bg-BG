@@ -13,12 +13,12 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 4fc9d644b104f87623e8edb0e2323562459855b0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370484"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385817"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Получавате копие от Вашето извлечение по сметка в електронната поща
 
@@ -30,8 +30,6 @@ ms.locfileid: "35370484"
 
 За да получите вашето извлечение по сметка в имейл:
   
-1. В центъра на администратор, отидете на страницата на [уведомления за плащане](https://go.microsoft.com/fwlink/p/?linkid=853212) , или изберете **плащане** \> **уведомления за плащане**.
-
-    Ако използвате Office 365 Германия, отидете на тази страница, [уведомления за плащане](https://go.microsoft.com/fwlink/p/?linkid=853213) .
+1. В центъра на администратор, отидете на **Фактуриране** \> [уведомления за плащане](https://go.microsoft.com/fwlink/p/?linkid=853212) страница.
 
 2. Под **искате ли да получи изявлението на фактуриране като имейл прикачен файл?**, превключете превключване към **на**. Можете да спрете получаването на плащане изявление имейли по всяко време чрез превключване на смяна да **изключите**.

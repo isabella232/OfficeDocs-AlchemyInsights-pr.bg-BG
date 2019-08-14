@@ -13,18 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370664"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388445"
 ---
 # <a name="question-about-licenses"></a>Въпрос за лицензи
 
 Ако искате да знаете колко много лицензи сте закупили, или колко много лицензи се присвояват от абонамент:
   
-1. В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.
+1. В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
 2. Изберете абонамент, който искате да знаете повече за.
 

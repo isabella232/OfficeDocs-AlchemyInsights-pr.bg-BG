@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Седмица на 01 юли 2019
-
-
-| Публикувано на |Заглавие на темата | Промяна |
-|------|------------|--------|
-| 7/1/2019 | [Класически SharePoint одит регистрационни файлове с отчети](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | модифицирани |
-| 7/2/2019 | [Повече информация за правилата за задържане](/AlchemyInsights/office-security-compliance-retention-policy) | модифицирани |
-
-
 ## <a name="week-of-july-08-2019"></a>Седмица на 08 юли 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Организирате вашата електронна поща в Outlook в мрежата](/AlchemyInsights/owa-organize-email) | модифицирани |
 | 8/2/2019 | [Печат имейл, календари и прикачени файлове в Outlook в мрежата](/AlchemyInsights/owa-print-email-calendars-attachments) | модифицирани |
 | 8/2/2019 | [Разписките за прочитане в Outlook в мрежата](/AlchemyInsights/owa-read-receipts) | модифицирани |
+
+
+## <a name="week-of-august-05-2019"></a>Седмица на 05 август 2019
+
+
+| Публикувано на |Заглавие на темата | Промяна |
+|------|------------|--------|
+| 8/5/2019 | [Как да отговорите или да прехвърляте съобщения в Outlook в мрежата](/AlchemyInsights/owa-reply-forward-messages) | модифицирани |
+| 8/5/2019 | [8000003 търсене поща и хората в Outlook в мрежата](/AlchemyInsights/owa-search-mail-and-people) | модифицирани |
+| 8/5/2019 | [Създаване на подпис в Outlook в мрежата](/AlchemyInsights/owa-signature) | модифицирани |
+| 8/5/2019 | [S/MIME в Outlook в мрежата](/AlchemyInsights/owa-smime) | модифицирани |
+| 8/5/2019 | [Спиране съобщения от съществуващ към папката за нежелана поща в Outlook в мрежата](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | модифицирани |
+| 8/5/2019 | [Изключете фокусирани входящи](/AlchemyInsights/owa-turn-off-focused-inbox) | модифицирани |
+| 8/5/2019 | [1332 OWA - входящи правило(а) са не изпълнение за пощенска кутия](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | модифицирани |
+| 8/6/2019 | [Тестване алхимия вградени картинки](/AlchemyInsights/testing-alchemy-inline-images) | модифицирани |
+| 8/6/2019 | [Разширени заплаха защита в SharePoint и OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | модифицирани |
+| 8/6/2019 | [Ransomware атака в SharePoint или OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | модифицирани |
+| 8/6/2019 | [Модерен сайт като главния сайт](/AlchemyInsights/modern-site-as-the-root-site) | модифицирани |
+| 8/6/2019 | [Проблеми по време на мигриране на данни за SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | модифицирани |
+| 8/6/2019 | [Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | модифицирани |
+| 8/6/2019 | [Отстраняване на неизправности при достъп отказан съобщения до OneDrive за бизнес сайтове](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | модифицирани |
+| 8/6/2019 | [Възстановяване на изтрит файл или папка](/AlchemyInsights/sharepoint-deleted-items-restore) | модифицирани |
+| 8/6/2019 | [Версиите в SharePoint и OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | модифицирани |
+| 8/6/2019 | [OneDrive съхраняване и заличаване на информация](/AlchemyInsights/one-drive-retention-and-deletion) | модифицирани |
+| 8/7/2019 | [Предотвратяване на файлове да бъдат изтеглени от SharePoint или OneDrive](/AlchemyInsights/prevent-download) | модифицирани |
+| 8/7/2019 | [Възстановяване на изтрит файл или папка](/AlchemyInsights/sharepoint-deleted-items-restore) | модифицирани |
+| 8/7/2019 | [Активирате външно споделяне в SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | модифицирани |
+| 8/7/2019 | [Прикрепвам OneDrive проблеми при синхронизиране](/AlchemyInsights/fix-onedrive-sync-issues) | модифицирани |
+| 8/7/2019 | [Отстраняване на проблеми за синхронизиране на OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | модифицирани |
+| 8/7/2019 | [Поток имейл не се изпраща](/AlchemyInsights/workflow-email-not-being-sent) | модифицирани |
+| 8/7/2019 | [Не стартиране на работен поток](/AlchemyInsights/workflow-is-not-starting) | модифицирани |
+| 8/7/2019 | [Разширени заплаха защита в SharePoint и OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | модифицирани |
+| 8/7/2019 | [Свържете сайт концентратор](/AlchemyInsights/associate-a-hub-site) | модифицирани |
+| 8/7/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | модифицирани |
+| 8/7/2019 | [Модерен сайт като главния сайт](/AlchemyInsights/modern-site-as-the-root-site) | модифицирани |
+| 8/7/2019 | [OneDrive съхраняване и заличаване](/AlchemyInsights/one-drive-retention-and-deletion) | модифицирани |
+| 8/7/2019 | [OneDrive общи проблеми и решения](/AlchemyInsights/onedrive-common-issues-and-resolutions) | модифицирани |
+| 8/7/2019 | [Ransomware атака в SharePoint или OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | модифицирани |
+| 8/7/2019 | [Външно споделяне в SharePoint онлайн](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | модифицирани |
+| 8/7/2019 | [Версиите в SharePoint и OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | модифицирани |
+| 8/7/2019 | [Външен контакт не е в състояние да приеме покана за споделяне](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | модифицирани |
+| 8/7/2019 | [SharePoint Online общи проблеми и решения](/AlchemyInsights/sharepoint-get-started-faq) | модифицирани |
+| 8/7/2019 | [Модерен сайт като главния сайт](/AlchemyInsights/sharepoint-modernize-classic-site) | модифицирани |
+| 8/7/2019 | [Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | модифицирани |
+| 8/7/2019 | [Инсталиране, настройка и sync OneDrive или SharePoint файлове на Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | модифицирани |
+| 8/7/2019 | [Отстраняване на проблеми с "Отваряне с Explorer" в SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | модифицирани |
+| 8/8/2019 | [Разширени заплаха защита в SharePoint и OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | модифицирани |
+| 8/8/2019 | [Свържете сайт концентратор](/AlchemyInsights/associate-a-hub-site) | модифицирани |
+| 8/8/2019 | [Създаване на сайт на SharePoint](/AlchemyInsights/create-a-sharepoint-site) | модифицирани |
+| 8/8/2019 | [Грешка 404: Файлът не е намерен](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | модифицирани |
+| 8/8/2019 | [Прикрепвам OneDrive проблеми при синхронизиране на Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | модифицирани |
+| 8/8/2019 | [Карта на SharePoint библиотека на мрежово устройство](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | модифицирани |
+| 8/8/2019 | [Модерен сайт като главния сайт](/AlchemyInsights/modern-site-as-the-root-site) | модифицирани |
+| 8/8/2019 | [OneDrive съхраняване и заличаване](/AlchemyInsights/one-drive-retention-and-deletion) | модифицирани |
+| 8/8/2019 | [Ransomware атака в SharePoint или OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | модифицирани |
+| 8/8/2019 | [Възстановяване на изтрит файл или папка](/AlchemyInsights/sharepoint-deleted-items-restore) | модифицирани |
+| 8/8/2019 | [Външен потребител е в състояние да получите достъп до съдържание в SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | модифицирани |
+| 8/8/2019 | [SharePoint концентратор сайтове преглед](/AlchemyInsights/sharepoint-hub-sites) | модифицирани |
+| 8/8/2019 | [Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | модифицирани |
+| 8/8/2019 | [Управление на схемата на търсене в SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | модифицирани |
+| 8/8/2019 | [Стъпки за създаване на работен поток на SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | модифицирани |
+| 8/8/2019 | [Сменяте си класически коренен сайт с модерен сайт](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | модифицирани |
+| 8/8/2019 | [Отстраняване на проблеми с "Отваряне с Explorer" в SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | модифицирани |
+| 8/8/2019 | [Работен поток за отстраняване на неизправности](/AlchemyInsights/workflow-troubleshooting) | модифицирани |
+| 8/8/2019 | [Разрешаване и търсене одит регистър](/AlchemyInsights/enable-auditing) | модифицирани |
+| 8/8/2019 | [Разрешаване и търсене на регистрационния файл за проверка](/AlchemyInsights/enable-auditing) | модифицирани |

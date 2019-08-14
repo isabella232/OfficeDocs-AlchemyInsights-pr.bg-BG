@@ -13,22 +13,21 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 046a753bcea55e4419f562cbf9a5a7e94cfa5c32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380710"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389781"
 ---
 # <a name="manage-recurring-billing"></a>Управление на повтарящи се фактуриране
 
 За да управлявате повтарящи се фактуриране, можете да превключвате **повтарящи се фактуриране** или изключване.
   
-1. В центъра на администратор, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или отидете до **сметките** \> **абонаменти**.
+1. В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
 2. Изберете абонамент, за които искате да управлявате повтарящи фактуриране.
 
 3. Превключете на **повтарящи се фактуриране** смяна на **или **изключване**** .
 
-За повече информация, вижте: [управление, повтарящи се фактуриране за вашия абонамент](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+За повече информация вижте [включване повтарящи се фактуриране изключване на](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

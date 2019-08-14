@@ -13,16 +13,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: b91c6260542577c9cb4775eb3b518ee07e98b7f4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386074"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390285"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Как да премахна информацията за кредитната карта?
 
-1. В центъра за администриране отидете на страница [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **Фактуриране** \> **Абонаменти**.
+1. В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
 2. Изберете всеки абонамент, след което изберете **актуализиране на данни за плащане**.
 
@@ -32,3 +32,5 @@ ms.locfileid: "35386074"
 
 > [!NOTE]
 > Можете да премахнете кредитна карта или банкова сметка, като не разполагате с изключителен баланс на кредитна карта или банкова сметка, и не го използвате да плащат за активна абонамент.
+
+Използвате ли новия център за администратор? За нови стъпки вижте [Добави, актуализира, или премахване на кредитна карта или банкова сметка в Office 365 за бизнес](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
