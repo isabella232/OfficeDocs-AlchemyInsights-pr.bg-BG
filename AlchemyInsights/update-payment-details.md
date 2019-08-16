@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903678"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387728"
 ---
 # <a name="update-payment-details"></a>Актуализиране на данни за начин на плащане
 
-1. В центъра за администриране отидете на страница [Метод на плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806) или изберете **Фактуриране** \> **Метод на плащане**.
+1. В центъра за администриране отидете на страницата **Фактуриране** \> [Методи на плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Ако циклично бивате изпращани обратно към началната страница "Администратор" преди актуализациите да са завършени, опитайте режими „Насаме“ или „Инкогнито“.
@@ -37,4 +37,4 @@ ms.locfileid: "35903678"
 
 5. За да премахнете този метод на плащане, изберете **Изтриване**.
 
-За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) и [Отстраняване на неизправности с кредитни карти или банкови сметки](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/bg-BG/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) и [Отстраняване на неизправности с кредитни карти или банкови сметки](https://docs.microsoft.com/bg-BG/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
