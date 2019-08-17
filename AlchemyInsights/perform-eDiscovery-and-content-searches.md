@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371422"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444761"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="ee354-102">Как да извършите съдържание търсения и eDiscovery търсения</span><span class="sxs-lookup"><span data-stu-id="ee354-102">How to perform Content Searches and eDiscovery searches</span></span>
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="25882-102">Как да извършите съдържание търсения и eDiscovery търсения</span><span class="sxs-lookup"><span data-stu-id="25882-102">How to perform Content Searches and eDiscovery searches</span></span>
 
-<span data-ttu-id="ee354-103">**Съдържание за търсене**</span><span class="sxs-lookup"><span data-stu-id="ee354-103">**Content Search**</span></span>
+<span data-ttu-id="25882-103">Използване на съдържание за търсене инструмент за сигурност & съответствие център за бързо намиране на електронна поща в Exchange пощенски кутии, документи в сайтове на SharePoint и OneDrive сметка и разговорите в Skype за бизнес с незабавни съобщения.</span><span class="sxs-lookup"><span data-stu-id="25882-103">Use the Content Search tool in the Security & Compliance Center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive account, and instant messaging conversations in Skype for Business.</span></span> <span data-ttu-id="25882-104">Можете също да използвате съдържание инструмент за търсене за търсене на имейл, документи и съобщения от месинджъра в Office 365 сътрудничество инструменти като Microsoft екипи и Office 365 групи.</span><span class="sxs-lookup"><span data-stu-id="25882-104">You can also use the Content Search Tool to search for email, documents, and instant messaging conversations in Office 365 collaboration tools such as Microsoft Teams and Office 365 Groups.</span></span>
 
-1. <span data-ttu-id="ee354-104">Отивам към [сигурност & съответствие център](https://protection.office.com) и влезте.</span><span class="sxs-lookup"><span data-stu-id="ee354-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="ee354-105">Щракнете върху **търсене & разследване > съдържание търсене**.</span><span class="sxs-lookup"><span data-stu-id="ee354-105">Click **Search & investigation > Content search**.</span></span>
-3. <span data-ttu-id="ee354-106">Щракнете върху **ново търсене** , за да създадете ново търсене.</span><span class="sxs-lookup"><span data-stu-id="ee354-106">Click **New search** to create a new search.</span></span>
-4. <span data-ttu-id="ee354-107">Въведете необходимата търсене условия, включително ключови думи и съдържание места.</span><span class="sxs-lookup"><span data-stu-id="ee354-107">Enter the required search conditions including keywords and content locations.</span></span>  
-5. <span data-ttu-id="ee354-108">Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите.</span><span class="sxs-lookup"><span data-stu-id="ee354-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
+<span data-ttu-id="25882-105">**За да извършите съдържание търсене**</span><span class="sxs-lookup"><span data-stu-id="25882-105">**To perform a content search**</span></span>
 
-<span data-ttu-id="ee354-109">За детайлни инструкции относно създаването на търсене и експортиране на резултати вижте [тази статия](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="ee354-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
+1. <span data-ttu-id="25882-106">Отивам към [сигурност & съответствие център](https://protection.office.com) и влезте.</span><span class="sxs-lookup"><span data-stu-id="25882-106">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="25882-107">Щракнете върху **търсене в > съдържание търсене**.</span><span class="sxs-lookup"><span data-stu-id="25882-107">Click **Search > Content search**.</span></span>
+3. <span data-ttu-id="25882-108">Щракнете върху **ново търсене** , за да създадете ново търсене.</span><span class="sxs-lookup"><span data-stu-id="25882-108">Click **New search** to create a new search.</span></span>
+4. <span data-ttu-id="25882-109">Въведете необходимата търсене условия, включително ключови думи и съдържание места.</span><span class="sxs-lookup"><span data-stu-id="25882-109">Enter the required search conditions including keywords and content locations.</span></span>  
+5. <span data-ttu-id="25882-110">Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите.</span><span class="sxs-lookup"><span data-stu-id="25882-110">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
 
-<span data-ttu-id="ee354-110">**eDiscovery търсения**</span><span class="sxs-lookup"><span data-stu-id="ee354-110">**eDiscovery searches**</span></span>
+<span data-ttu-id="25882-111">За детайлни инструкции относно съдържание търсения експортиране на резултати и създаване на eDiscovery случаи да държи данни, вижте [Съдържание търсене](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) и [eDiscovery случаи](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="25882-111">For detailed instructions about Content searches, exporting results, and creating eDiscovery cases to hold data, see [Content Search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery cases](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span></span>
 
-1. <span data-ttu-id="ee354-111">Отивам към [сигурност & съответствие център](https://protection.office.com) и влезте.</span><span class="sxs-lookup"><span data-stu-id="ee354-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="ee354-112">Щракнете върху **търсене & разследване > eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="ee354-112">Click **Search & investigation > eDiscovery**.</span></span>
-3. <span data-ttu-id="ee354-113">Отворете съществуващ случай или създайте нов.</span><span class="sxs-lookup"><span data-stu-id="ee354-113">Open an existing case or create a new one.</span></span>
-4. <span data-ttu-id="ee354-114">В случай началната страница щракнете върху раздела **търсене** .</span><span class="sxs-lookup"><span data-stu-id="ee354-114">On the case home page, click the **Searches** tab.</span></span>  
-5. <span data-ttu-id="ee354-115">Щракнете върху **ново търсене** , за да създадете ново търсене.</span><span class="sxs-lookup"><span data-stu-id="ee354-115">Click **New search** to create a new search.</span></span>
-6. <span data-ttu-id="ee354-116">Въведете необходимата търсене условия, включително ключови думи и съдържание места.</span><span class="sxs-lookup"><span data-stu-id="ee354-116">Enter the required search conditions including keywords and content locations.</span></span>  
-7. <span data-ttu-id="ee354-117">Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите.</span><span class="sxs-lookup"><span data-stu-id="ee354-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
-
-<span data-ttu-id="ee354-118">За подробни инструкции за създаване на търсения, свързани със случай на eDiscovery и експортиране на резултати, вижте [тази статия](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="ee354-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
+<span data-ttu-id="25882-112">Разберете повече за съдържание за търсене чрез преглед на [изискванията и ограниченията](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) и [частично проучване индексирани елементи](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) и други резултати, за да бъдат запознати с.</span><span class="sxs-lookup"><span data-stu-id="25882-112">Understand more about Content Search by reviewing the [requirements and limits](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) and  [investigating partially indexed items](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) and other results to be aware of.</span></span>
