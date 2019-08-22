@@ -12,14 +12,14 @@ ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 6ca7aae589abe55c7a0f063a68277988f23a2b07
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: be739d13decab3fcb1ee40f1c3e78eaf298801d1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704513"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515256"
 ---
-# <a name="create-a-new-folder"></a>Създаване на нова папка
+# <a name="create-a-new-folder-in-outlookcom"></a>Създаване на нова папка в Outlook.com
 
 1. Под **папки** в навигационния екран изберете **нова папка**.
 

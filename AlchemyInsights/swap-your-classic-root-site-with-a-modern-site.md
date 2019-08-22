@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270733"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501068"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Сменяте си класически коренен сайт с модерен сайт
 
 Ако вашата среда е настроен преди април 2019, можете да промените вашия главен сайт сайт на модерната с помощта на Microsoft PowerShell:
 
 - Ако имате различен сайт, който искате да използвате като вашия главен сайт, можете да замените (суап) корена сайта с него. 
-    - Използвайте [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) да сменяте местоположението на един сайт с друг сайт при архивирането на оригиналния сайт. Налични за екипен сайт (не е свързан към група) и комуникация сайт. 
+    - Използвайте [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) да сменяте местоположението на един сайт с друг сайт при архивирането на оригиналния сайт. Налични за екипен сайт (не е свързан към група) и комуникация сайт. 
 
 - Допълнителни възможности ще бъдат въведени скоро това ще ви позволи да продължите да използвате съдържанието на сайта, но конвертирате съществуващия сайт сайт на комуникация. 
 >[!Important]

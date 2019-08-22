@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389655"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496100"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Върнете или замените имейл съобщение
+# <a name="recall-or-replace-an-outlook-email-message"></a>Върнете или замените Outlook имейл съобщение
 
 - Като администратор можете да **припомни съобщения от името на потребителите, използване на PowerShell**. Вие не може да си припомни съобщения от центъра за администрация на.
 - Можете **само припомни съобщения, които се изпращат до хората във вашата организация**. Ако съобщението е изпратено до адрес в Gmail, например, не може да си спомняте.

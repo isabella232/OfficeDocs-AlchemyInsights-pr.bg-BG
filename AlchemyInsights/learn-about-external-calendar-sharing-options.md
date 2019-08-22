@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381286"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497792"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Научете повече за външните опции за споделяне на календар
 
-Вижте [споделяне на календари с външни потребители](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ако имате нужда да планирате събрания с хора извън вашата организация, Office 365 ви дава възможност да предоставя календари на "външни потребители," тези, които трябва да се види свободно/заето време, но не са потребителски акаунти за вашата среда на Office 365. За повече информация вижте [дял календари с външни потребители](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
