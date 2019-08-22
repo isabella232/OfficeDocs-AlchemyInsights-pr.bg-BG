@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754919"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498944"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>За съдебни спорове притежава и трюмовете на място
+
 - Да приложите исково трюм или in-място държат пощенска кутия, се изисква [обмен онлайн план 2 лиценз](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ако имате всеки друг план, присвоите отделен лиценз за [Онлайн архивиране на Exchange](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) акаунта. 
     
 - **За да разрешите задържане** за отделен потребител, следвайте стъпките, описани [тук](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Когато е активирано задържане поради конфликт, цялото съдържание в пощенската кутия се поставя в очакване.

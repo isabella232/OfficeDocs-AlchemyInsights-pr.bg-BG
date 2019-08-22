@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387727"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506108"
 ---
 # <a name="view-my-bill"></a>Покажи ми бил
 
-1. В центъра на администратор, отидете на **Фактуриране** \> [сметки](https://go.microsoft.com/fwlink/p/?linkid=848039) страница.
+1. В центъра за администрация на Microsoft 365 преминете към **плащане** \> [сметки & плащания](https://go.microsoft.com/fwlink/p/?linkid=848039) страница.
 
-2. Изберете месеца и датата на фактурата, която искате и след това изберете **изглед**.
+2. Изберете диапазон от дати от падащия списък и след това изберете поръчката, която искате да видите.
 
-3. Изберете една поръчка и след това изберете **Преглед на подробни данни**.
-
-За повече информация вижте [преглед your сметка или фактура](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+За повече информация вижте [преглед your сметка или фактура](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

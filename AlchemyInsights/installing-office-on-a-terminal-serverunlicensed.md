@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381718"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498404"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Инсталиране на Office на терминален сървър
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381718"
 
 - Трябва да разрешите [споделен компютър активиране](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ако искате да инсталирате Office 365 подпора на RDS от портала на Office 365 ** *която използва настройките по подразбиране инсталацията* **, изпълнете следните стъпки:
+Ако искате да инсталирате Office 365 подпора на RDS от портала на Office 365, ***която използва настройките по подразбиране инсталацията***, изпълнете следните стъпки:
   
 1. Проверете какво Office 365 план имате. [Научете как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381718"
 
 4. На RDS сървъра Влезте в портала на Office 365 с вашия акаунт на администратор и [инсталирате Office 365 подпора](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. След Office е инсталиран, ** *не отвори или да влезете в* ** за приложения на Office.
+5. След инсталирането на Office ***не отвори или влезте в*** приложения на Office.
 
 6. На RDS сървъра разрешите споделен компютър активиране чрез редактиране на системния регистър като следвате тези стъпки:
 
@@ -46,7 +46,7 @@ ms.locfileid: "35381718"
 
 3. В редактора на системния регистър, добавете низова стойност на **SharedComputerLicensing** с настройка на 1, при HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. На RDS сървъра ** *влизане като краен потребител* ** и се [уверете, че активирането на споделен компютър е разрешен за Office 365 подпора](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. На RDS сървър, ***Влезте в като краен потребител*** и [провери дали споделен компютър активиране е разрешена за Office 365 подпора](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 За повече подробности относно предпоставки, настройка на инструкции и насоки за персонализирани инсталации с помощта на инструмента за разполагане на Office вижте [Разполагане на Office 365 подпора с помощта на услуги за отдалечен работен плот](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
