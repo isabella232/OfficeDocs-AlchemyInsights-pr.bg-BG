@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 501e9266a58c9bd39fe42771becee804c62ede46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357234"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506540"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="0ca04-102">Разреши външни податели, за да изпращате съобщения до групи за разпространение</span><span class="sxs-lookup"><span data-stu-id="0ca04-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="9509c-102">Разреши външни податели, за да изпращате съобщения до групи за разпространение</span><span class="sxs-lookup"><span data-stu-id="9509c-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="0ca04-103">Ако потребители извън вашата организация получи грешки, когато те изпращат съобщения до групи за разпространение, или искате да проверите, че вашите групи за разпространение са конфигурирани да получават поща от външни податели, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="0ca04-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="9509c-103">Ако потребители извън вашата организация получи грешки, когато те изпращат съобщения до групи за разпространение, или искате да проверите, че вашите групи за разпространение са конфигурирани да получават поща от външни податели, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="9509c-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="0ca04-104">Отидете на възел на **групи** в [администраторския портал на Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="0ca04-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="9509c-104">Отидете на възел на **групи** в [администраторския портал на Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="9509c-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
 
-2. <span data-ttu-id="0ca04-105">Изберете групата за разпространение, както и в групата свойства полет на изчакване който се появява, щракнете върху **Редактиране** в секцията, която съдържа **позволяват външни податели**.</span><span class="sxs-lookup"><span data-stu-id="0ca04-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="9509c-105">Изберете групата за разпространение, както и в групата свойства полет на изчакване който се появява, щракнете върху **Редактиране** в секцията, която съдържа **позволяват външни податели**.</span><span class="sxs-lookup"><span data-stu-id="9509c-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
 
-3. <span data-ttu-id="0ca04-106">В **Редактиране подробности** отлети out който се появява, проверете дали **позволяват на хора извън моята организация да изпратите имейл до тази група за разпространение.**</span><span class="sxs-lookup"><span data-stu-id="0ca04-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="0ca04-107">е **на**и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="0ca04-107">is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="9509c-106">В **Редактиране подробности** отлети out който се появява, проверете дали **позволяват на хора извън моята организация да изпратите имейл до тази група за разпространение.**</span><span class="sxs-lookup"><span data-stu-id="9509c-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="9509c-107">е **на**и след това щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="9509c-107">is **On**, and then click **Save**.</span></span>
