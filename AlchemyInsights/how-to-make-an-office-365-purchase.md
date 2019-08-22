@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390969"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540278"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="1a275-102">Как да направите покупка на Office 365</span><span class="sxs-lookup"><span data-stu-id="1a275-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="72dc2-102">Как да направите покупка на Office 365</span><span class="sxs-lookup"><span data-stu-id="72dc2-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="1a275-103">Покупки в Office 365 могат да бъдат направени в центъра за администрация на.</span><span class="sxs-lookup"><span data-stu-id="1a275-103">Purchases in Office 365 can be made in the admin center.</span></span>
+<span data-ttu-id="72dc2-103">Покупки в Office 365 могат да бъдат направени в центъра за администрация на.</span><span class="sxs-lookup"><span data-stu-id="72dc2-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="1a275-104">За да закупите Office 365 абонамент отидете на **Фактуриране** \> [Купувам услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.</span><span class="sxs-lookup"><span data-stu-id="1a275-104">To purchase an Office 365 subscription go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+- <span data-ttu-id="72dc2-104">За да закупите Office 365 subscriptio, отидете до **сметките** \> [купуват услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.</span><span class="sxs-lookup"><span data-stu-id="72dc2-104">To purchase an Office 365 subscriptio, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="1a275-105">За да закупите допълнителни лицензи, преминете към **плащане** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="1a275-105">To purchase additional licenses, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="1a275-106">Страницата на **абонаменти** изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.</span><span class="sxs-lookup"><span data-stu-id="1a275-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
-
-- <span data-ttu-id="1a275-107">За да превключите към друг план:</span><span class="sxs-lookup"><span data-stu-id="1a275-107">To switch to a different plan:</span></span>
-
-  - <span data-ttu-id="1a275-108">Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични.</span><span class="sxs-lookup"><span data-stu-id="1a275-108">Choose **Switch plans** to view the list of new plans that are available.</span></span>
-
-  - <span data-ttu-id="1a275-109">Изберете план за да видите новия общите разходи на месец.</span><span class="sxs-lookup"><span data-stu-id="1a275-109">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="1a275-110">Не забравяйте да прочетете основната информация, след което изберете **следващата** да се провери.</span><span class="sxs-lookup"><span data-stu-id="1a275-110">Be sure to read the key information, then choose **Next** to check out.</span></span>
-
-<span data-ttu-id="1a275-111">Използвате ли новия център за администратор?</span><span class="sxs-lookup"><span data-stu-id="1a275-111">Are you using the new admin center?</span></span> <span data-ttu-id="1a275-112">За нови стъпки вижте [ъпгрейд към друг план](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="1a275-112">For new steps, see [Upgrade to a different plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
+- <span data-ttu-id="72dc2-105">За да закупите допълнителни лицензи, преминете към **плащане** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="72dc2-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="72dc2-106">Изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.</span><span class="sxs-lookup"><span data-stu-id="72dc2-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
- <span data-ttu-id="1a275-113">**Допълнителни ресурси**</span><span class="sxs-lookup"><span data-stu-id="1a275-113">**Additional Resources**</span></span>
+ <span data-ttu-id="72dc2-107">**Допълнителни ресурси**</span><span class="sxs-lookup"><span data-stu-id="72dc2-107">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="1a275-114">Присвояване на лицензи за потребителите в Office 365 за бизнес</span><span class="sxs-lookup"><span data-stu-id="1a275-114">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="72dc2-108">Присвояване на лицензи за потребителите в Office 365 за бизнес</span><span class="sxs-lookup"><span data-stu-id="72dc2-108">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="1a275-115">Office 365 отказ за бизнес</span><span class="sxs-lookup"><span data-stu-id="1a275-115">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="72dc2-109">Office 365 отказ за бизнес</span><span class="sxs-lookup"><span data-stu-id="72dc2-109">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
