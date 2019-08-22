@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 37f8e4198337cf6a88e8fbfa7070a7ce9e665057
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529404"
 ---
-# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="efe78-102">Дублиране на грешки при синхронизация на обект</span><span class="sxs-lookup"><span data-stu-id="efe78-102">Duplicate object synchronization errors</span></span>
+# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="66dab-102">Дублиране на грешки при синхронизация на обект</span><span class="sxs-lookup"><span data-stu-id="66dab-102">Duplicate object synchronization errors</span></span>
 
-<span data-ttu-id="efe78-103">Ако получите едно от следните грешки по време на синхронизация:</span><span class="sxs-lookup"><span data-stu-id="efe78-103">If you receive one of the following errors during a synchronization:</span></span>
+<span data-ttu-id="66dab-103">Ако получите едно от следните грешки по време на синхронизация:</span><span class="sxs-lookup"><span data-stu-id="66dab-103">If you receive one of the following errors during a synchronization:</span></span>
 
-- <span data-ttu-id="efe78-104">Синхронизиран обект със същия прокси адрес вече съществува в директорията си онлайн услугите на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="efe78-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="66dab-104">Синхронизиран обект със същия прокси адрес вече съществува в директорията си онлайн услугите на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="66dab-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
 
-- <span data-ttu-id="efe78-105">Подобно съобщение за UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="efe78-105">A similar message for UserPrincipalName.</span></span>
+- <span data-ttu-id="66dab-105">Подобно съобщение за UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="66dab-105">A similar message for UserPrincipalName.</span></span>
 
-<span data-ttu-id="efe78-106">Използвайте новия AADConnect здравна диагностика да разрешите дублиращи обект грешки.</span><span class="sxs-lookup"><span data-stu-id="efe78-106">Use the new AADConnect Health diagnostic to resolve duplicate object errors.</span></span> <span data-ttu-id="efe78-107">За повече информация, вижте [диагностика and решаване грешки при синхронизиране на дублирани атрибут](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="efe78-107">For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
+<span data-ttu-id="66dab-106">Използвайте новия AADConnect здравна диагностика да разрешите дублиращи обект грешки.</span><span class="sxs-lookup"><span data-stu-id="66dab-106">Use the new AADConnect Health diagnostic to resolve duplicate object errors.</span></span> <span data-ttu-id="66dab-107">За повече информация, вижте [диагностика and решаване грешки при синхронизиране на дублирани атрибут](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="66dab-107">For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>

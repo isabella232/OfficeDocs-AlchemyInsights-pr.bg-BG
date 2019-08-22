@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
-ms.openlocfilehash: 39a1317e67ef5f73afad902745ce3a7bbb1382cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 28bccbd850bbfff808286c119d503cc3a6b253a0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496748"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="765a5-102">Карта на SharePoint библиотека на мрежово устройство</span><span class="sxs-lookup"><span data-stu-id="765a5-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="cf981-102">Карта на SharePoint библиотека на мрежово устройство</span><span class="sxs-lookup"><span data-stu-id="cf981-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="765a5-103">За да работите със сайт библиотеки в File Explorer, ви препоръчваме да използвате клиента за синхронизиране на OneDrive вместо това на mapping библиотеки към мрежови устройства.</span><span class="sxs-lookup"><span data-stu-id="765a5-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="765a5-104">Карам mapping е само временно решение.</span><span class="sxs-lookup"><span data-stu-id="765a5-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="765a5-105">С помощта на синхронизиране клиент прави файловете достъпни за потребителите дори когато сте офлайн.</span><span class="sxs-lookup"><span data-stu-id="765a5-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="765a5-106">Клиента на синхронизиране също така осигурява по-добра производителност, позволява достъп до файлове, без да се налага да изтеглите ги използват [Файлове при поискване](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) и не изисква настройка с помощта на Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="765a5-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="cf981-103">За да работите със сайт библиотеки в File Explorer, ви препоръчваме да използвате клиента за синхронизиране на OneDrive вместо това на mapping библиотеки към мрежови устройства.</span><span class="sxs-lookup"><span data-stu-id="cf981-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="cf981-104">Карам mapping е само временно решение.</span><span class="sxs-lookup"><span data-stu-id="cf981-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="cf981-105">С помощта на синхронизиране клиент прави файловете достъпни за потребителите дори когато сте офлайн.</span><span class="sxs-lookup"><span data-stu-id="cf981-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="cf981-106">Клиента на синхронизиране също така осигурява по-добра производителност, позволява достъп до файлове, без да се налага да изтеглите ги използват [Файлове при поискване](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) и не изисква настройка с помощта на Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="cf981-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- [<span data-ttu-id="765a5-107">Синхронизиране на файлове с новия клиент, OneDrive синхронизиране в Windows</span><span class="sxs-lookup"><span data-stu-id="765a5-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
+- [<span data-ttu-id="cf981-107">Синхронизиране на файлове с новия клиент, OneDrive синхронизиране в Windows</span><span class="sxs-lookup"><span data-stu-id="cf981-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
     
-- [<span data-ttu-id="765a5-108">Начини за работа със сайта библиотека файлове в File Explorer</span><span class="sxs-lookup"><span data-stu-id="765a5-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
+- [<span data-ttu-id="cf981-108">Начини за работа със сайта библиотека файлове в File Explorer</span><span class="sxs-lookup"><span data-stu-id="cf981-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
     
-- [<span data-ttu-id="765a5-109">Конфигуриране и отстраняване на нанесени мрежови устройства</span><span class="sxs-lookup"><span data-stu-id="765a5-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="cf981-109">Конфигуриране и отстраняване на нанесени мрежови устройства</span><span class="sxs-lookup"><span data-stu-id="cf981-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 

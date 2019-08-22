@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 87b42d343fc93304254bf55bca03083c2f75bab6
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065602"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518784"
 ---
-# <a name="change-your-profile-name"></a><span data-ttu-id="b0cd1-102">Промяна името на профила ви</span><span class="sxs-lookup"><span data-stu-id="b0cd1-102">Change your profile name</span></span>
+# <a name="change-your-profile-name"></a><span data-ttu-id="667cd-102">Промяна името на профила ви</span><span class="sxs-lookup"><span data-stu-id="667cd-102">Change your profile name</span></span>
 
-1. <span data-ttu-id="b0cd1-103">Отидете на [вашия Microsoft сметка уведомявам](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="b0cd1-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="667cd-103">Отидете на [вашия Microsoft сметка уведомявам](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="667cd-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
     
-2. <span data-ttu-id="b0cd1-104">Изберете **Редактиране име**.</span><span class="sxs-lookup"><span data-stu-id="b0cd1-104">Select **Edit name**.</span></span> 
+2. <span data-ttu-id="667cd-104">Изберете **Редактиране име**.</span><span class="sxs-lookup"><span data-stu-id="667cd-104">Select **Edit name**.</span></span> 
     
-3. <span data-ttu-id="b0cd1-105">Въведете собствено име и фамилно име и изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="b0cd1-105">Enter a first name and last name, and select **Save**.</span></span> 
+3. <span data-ttu-id="667cd-105">Въведете собствено име и фамилно име и изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="667cd-105">Enter a first name and last name, and select **Save**.</span></span> 
     
-<span data-ttu-id="b0cd1-106">Моля, изчакайте до 24 часа за промени на името на профила ви, за да влязат в сила.</span><span class="sxs-lookup"><span data-stu-id="b0cd1-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
+<span data-ttu-id="667cd-106">Моля, изчакайте до 24 часа за промени на името на профила ви, за да влязат в сила.</span><span class="sxs-lookup"><span data-stu-id="667cd-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
   
-<span data-ttu-id="b0cd1-107">За да научите повече, вижте [променете вашия профил снимка или име в Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="b0cd1-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
+<span data-ttu-id="667cd-107">За да научите повече, вижте [променете вашия профил снимка или име в Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="667cd-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
   
 
