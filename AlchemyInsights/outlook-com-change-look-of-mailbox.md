@@ -11,18 +11,18 @@ ms.custom:
 - "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376326"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547660"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="140aa-102">Промяна на облика на вашата пощенска кутия на Outlook.com</span><span class="sxs-lookup"><span data-stu-id="140aa-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="ced0e-102">Промяна на облика на вашата пощенска кутия на Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ced0e-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="140aa-103">Можете да промените външния вид на прозореца на списъка и четене на съобщение в Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="140aa-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
+<span data-ttu-id="ced0e-103">Можете да промените външния вид на прозореца на списъка и четене на съобщение в Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ced0e-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
 
-- <span data-ttu-id="140aa-104">За да промените оформлението на прозореца на съобщението, отворете вашите опции за [екрана за четене](https://outlook.live.com/mail/options/mail/layout/readingPane) .</span><span class="sxs-lookup"><span data-stu-id="140aa-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
-- <span data-ttu-id="140aa-105">За да промените как Вашият имейл се сортират, отгоре на списъка със съобщения изберете **филтър** > **Подреди по** и изберете как искате да сортирате вашия имейл.</span><span class="sxs-lookup"><span data-stu-id="140aa-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
-- <span data-ttu-id="140aa-106">За да групирате съобщенията по разговор, Отворете опциите си [съобщение организация](https://outlook.live.com/mail/options/mail/layout/conversations) .</span><span class="sxs-lookup"><span data-stu-id="140aa-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
-- <span data-ttu-id="140aa-107">За да включите фокусирани входящи или изключване, отворете вашите опции за [оформление](https://outlook.live.com/mail/options/mail/layout/focused) .</span><span class="sxs-lookup"><span data-stu-id="140aa-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>
+- <span data-ttu-id="ced0e-104">За да промените оформлението на прозореца на съобщението, отворете вашите опции за [екрана за четене](https://outlook.live.com/mail/options/mail/layout/readingPane) .</span><span class="sxs-lookup"><span data-stu-id="ced0e-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
+- <span data-ttu-id="ced0e-105">За да промените как Вашият имейл се сортират, отгоре на списъка със съобщения изберете **филтър** > **Подреди по** и изберете как искате да сортирате вашия имейл.</span><span class="sxs-lookup"><span data-stu-id="ced0e-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
+- <span data-ttu-id="ced0e-106">За да групирате съобщенията по разговор, Отворете опциите си [съобщение организация](https://outlook.live.com/mail/options/mail/layout/conversations) .</span><span class="sxs-lookup"><span data-stu-id="ced0e-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
+- <span data-ttu-id="ced0e-107">За да включите фокусирани входящи или изключване, отворете вашите опции за [оформление](https://outlook.live.com/mail/options/mail/layout/focused) .</span><span class="sxs-lookup"><span data-stu-id="ced0e-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>

@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: d2fb9f5bd458844ee002423e46a8f22415b4031b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374374"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536532"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="15a90-102">Вътрешния сървър грешки в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="15a90-102">Internal server errors in Outlook.com</span></span>
+# <a name="internal-server-errors-in-outlookcom"></a><span data-ttu-id="091cc-102">Вътрешния сървър грешки в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="091cc-102">Internal server errors in Outlook.com</span></span>
 
-<span data-ttu-id="15a90-103">О не!</span><span class="sxs-lookup"><span data-stu-id="15a90-103">Oh no!</span></span> <span data-ttu-id="15a90-104">Ако виждате "Грешка 500" или "Вътрешна грешка в сървър" съобщение, то е с нас и не ви - съжалявам за това.</span><span class="sxs-lookup"><span data-stu-id="15a90-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
+<span data-ttu-id="091cc-103">О не!</span><span class="sxs-lookup"><span data-stu-id="091cc-103">Oh no!</span></span> <span data-ttu-id="091cc-104">Ако виждате "Грешка 500" или "Вътрешна грешка в сървър" съобщение, то е с нас и не ви - съжалявам за това.</span><span class="sxs-lookup"><span data-stu-id="091cc-104">If you see "Error 500" or an "Internal Server Error" message, it's us and not you - sorry about that.</span></span>
 
-<span data-ttu-id="15a90-105">Вижте [страницата офис сервиз състояние](https://portal.office.com/servicestatus) , за да се уверете, че няма нищо друго става, но най-доброто решение е да си вземе почивка за няколко минути, след което Обновете браузъра си с натискане на **CTRL** и **F5**.</span><span class="sxs-lookup"><span data-stu-id="15a90-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>
+<span data-ttu-id="091cc-105">Вижте [страницата офис сервиз състояние](https://portal.office.com/servicestatus) , за да се уверете, че няма нищо друго става, но най-доброто решение е да си вземе почивка за няколко минути, след което Обновете браузъра си с натискане на **CTRL** и **F5**.</span><span class="sxs-lookup"><span data-stu-id="091cc-105">Check out the [Office Service Status page](https://portal.office.com/servicestatus) to make sure there's nothing else going on, but the best solution is to take a break for a few minutes, then refresh your browser by pressing **CTRL** and **F5**.</span></span>

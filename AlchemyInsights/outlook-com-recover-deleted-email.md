@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 116ba085b87c75eab3235a66e33aefdd93896f60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372862"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545321"
 ---
-# <a name="recover-deleted-email"></a><span data-ttu-id="7941c-102">Възстановяване на изтрити имейли</span><span class="sxs-lookup"><span data-stu-id="7941c-102">Recover deleted email</span></span>
+# <a name="recover-deleted-email-outlookcom"></a><span data-ttu-id="bdfa8-102">Възстановяване на изтрити email Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bdfa8-102">Recover deleted email Outlook.com</span></span>
 
-1. <span data-ttu-id="7941c-103">В левия прозорец изберете **Изтритите елементи**.</span><span class="sxs-lookup"><span data-stu-id="7941c-103">In the left pane, select **Deleted Items**.</span></span>
-2. <span data-ttu-id="7941c-104">Изберете елемента, който искате да възстановите и изберете **възстановяване**.</span><span class="sxs-lookup"><span data-stu-id="7941c-104">Select the item you want to recover and select **Restore**.</span></span>
-3. <span data-ttu-id="7941c-105">Ако съобщението не е в изтрити елементи, изберете **възстановяване на изтрити елементи от тази папка** в горната част на прозореца.</span><span class="sxs-lookup"><span data-stu-id="7941c-105">If the message isn't in Deleted Items, select **Recover items deleted from this folder** at the top of the window.</span></span>
+1. <span data-ttu-id="bdfa8-103">В левия прозорец изберете **Изтритите елементи**.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-103">In the left pane, select **Deleted Items**.</span></span>
+2. <span data-ttu-id="bdfa8-104">Изберете елемента, който искате да възстановите и изберете **възстановяване**.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-104">Select the item you want to recover and select **Restore**.</span></span>
+3. <span data-ttu-id="bdfa8-105">Ако съобщението не е в изтрити елементи, изберете **възстановяване на изтрити елементи от тази папка** в горната част на прозореца.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-105">If the message isn't in Deleted Items, select **Recover items deleted from this folder** at the top of the window.</span></span>
 
- <span data-ttu-id="7941c-106">**Важна информация за изтритите елементи:**</span><span class="sxs-lookup"><span data-stu-id="7941c-106">**Important information about deleted items:**</span></span>
+ <span data-ttu-id="bdfa8-106">**Важна информация за изтритите елементи:**</span><span class="sxs-lookup"><span data-stu-id="bdfa8-106">**Important information about deleted items:**</span></span>
   
-- <span data-ttu-id="7941c-107">Елементи, премахнати от папката Изтрити елементи са възстановими за 30 дни.</span><span class="sxs-lookup"><span data-stu-id="7941c-107">Items removed from your Deleted Items folder are recoverable for 30 days.</span></span>
-- <span data-ttu-id="7941c-108">Ако не сте влезли във вашия акаунт за 365 дни, Вашият имейл ще бъде изтрита и не може да бъде възстановена.</span><span class="sxs-lookup"><span data-stu-id="7941c-108">If you haven't signed into your account for 365 days, your email will be deleted and can't be recovered.</span></span>
-- <span data-ttu-id="7941c-109">Не е възможно да възстановите имейл изтрити от детските акаунти.</span><span class="sxs-lookup"><span data-stu-id="7941c-109">It's not possible to recover email deleted from child accounts.</span></span>
+- <span data-ttu-id="bdfa8-107">Елементи, премахнати от папката Изтрити елементи са възстановими за 30 дни.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-107">Items removed from your Deleted Items folder are recoverable for 30 days.</span></span>
+- <span data-ttu-id="bdfa8-108">Ако не сте влезли във вашия акаунт за 365 дни, Вашият имейл ще бъде изтрита и не може да бъде възстановена.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-108">If you haven't signed into your account for 365 days, your email will be deleted and can't be recovered.</span></span>
+- <span data-ttu-id="bdfa8-109">Не е възможно да възстановите имейл изтрити от детските акаунти.</span><span class="sxs-lookup"><span data-stu-id="bdfa8-109">It's not possible to recover email deleted from child accounts.</span></span>
 
-<span data-ttu-id="7941c-110">За да научите повече, вижте [възстановяване на изтрити имейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7941c-110">To learn more, see [Restore deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="bdfa8-110">За да научите повече, вижте [възстановяване на изтрити имейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bdfa8-110">To learn more, see [Restore deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
