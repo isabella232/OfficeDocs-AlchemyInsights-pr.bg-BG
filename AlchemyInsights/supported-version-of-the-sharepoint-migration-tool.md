@@ -9,19 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: dbe6616e25fbd5cca9d5feb77239f487ca760919
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d5d4024fb9fd77f913f92d280620161534a574e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369595"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534228"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="6b0b3-102">Поддържана версия на инструмента за миграция на SharePoint</span><span class="sxs-lookup"><span data-stu-id="6b0b3-102">Supported version of the SharePoint Migration Tool</span></span>
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="8efa5-102">Поддържана версия на инструмента за миграция на SharePoint</span><span class="sxs-lookup"><span data-stu-id="8efa5-102">Supported version of the SharePoint Migration Tool</span></span>
 
 
 
-<span data-ttu-id="6b0b3-103">В момента Инструментът за миграция на SharePoint поддържа само миграции от SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="6b0b3-103">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013.</span></span> <span data-ttu-id="6b0b3-104">По това време не се поддържат версии 2010 и 2016.</span><span class="sxs-lookup"><span data-stu-id="6b0b3-104">Versions 2010 and 2016 are not supported at this time.</span></span>
+<span data-ttu-id="8efa5-103">В момента Инструментът за миграция на SharePoint поддържа само миграции от SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="8efa5-103">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013.</span></span> <span data-ttu-id="8efa5-104">По това време не се поддържат версии 2010 и 2016.</span><span class="sxs-lookup"><span data-stu-id="8efa5-104">Versions 2010 and 2016 are not supported at this time.</span></span>
   
-<span data-ttu-id="6b0b3-105">За повече информация вижте [въвеждане на инструмента за миграция на SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="6b0b3-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
+<span data-ttu-id="8efa5-105">За повече информация вижте [въвеждане на инструмента за миграция на SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="8efa5-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
   
 
