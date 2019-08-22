@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406301"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514000"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="97211-102">Изтриване на сайтове, които принадлежат към Office 365 Група:</span><span class="sxs-lookup"><span data-stu-id="97211-102">Delete sites that belong to an Office 365 group:</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="10328-102">Изтриване на сайтове, които принадлежат към група на Office 365</span><span class="sxs-lookup"><span data-stu-id="10328-102">Delete sites that belong to an Office 365 group</span></span>
 
-<span data-ttu-id="97211-103">Когато потребителите създават нов сайт на екип от SharePoint дома или създавате нов сайт на екип от в новия център за администриране на SharePoint, автоматично се създава съответната група от Office 365.</span><span class="sxs-lookup"><span data-stu-id="97211-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="97211-104">Office 365 група свързани екипни сайтове също се създават, когато създавате Office 365 група или екип в екипи на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="97211-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="97211-105">За да изтриете сайт на SharePoint, който принадлежи към група на Office 365, трябва да изтриете група на Office 365, самата.</span><span class="sxs-lookup"><span data-stu-id="97211-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="10328-103">Когато потребителите създават нов сайт на екип от SharePoint дома или създавате нов сайт на екип от в новия център за администриране на SharePoint, автоматично се създава съответната група от Office 365.</span><span class="sxs-lookup"><span data-stu-id="10328-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="10328-104">Office 365 група свързани екипни сайтове също се създават, когато създавате Office 365 група или екип в екипи на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="10328-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="10328-105">За да изтриете сайт на SharePoint, който принадлежи към група на Office 365, трябва да изтриете група на Office 365, самата.</span><span class="sxs-lookup"><span data-stu-id="10328-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="97211-106">Отидете на [страницата на групи на центъра за администрация на Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="97211-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="10328-106">Отидете на [страницата на групи на центъра за администрация на Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="10328-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="97211-107">Изберете квадратчето за отметка до групата.</span><span class="sxs-lookup"><span data-stu-id="97211-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="10328-107">Изберете квадратчето за отметка до групата.</span><span class="sxs-lookup"><span data-stu-id="10328-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="97211-108">Изберете **Изтриване**.</span><span class="sxs-lookup"><span data-stu-id="97211-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="10328-108">Изберете **Изтриване**.</span><span class="sxs-lookup"><span data-stu-id="10328-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="97211-109">Забележка: Когато изтривате група, може да има забавяне преди сайтът се отстранява от SharePoint.</span><span class="sxs-lookup"><span data-stu-id="97211-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="10328-109">Забележка: Когато изтривате група, може да има забавяне преди сайтът се отстранява от SharePoint.</span><span class="sxs-lookup"><span data-stu-id="10328-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="97211-110">**Изтриване на съобщение или класически площадки:**</span><span class="sxs-lookup"><span data-stu-id="97211-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="10328-110">**Изтриване на съобщение или класически площадки:**</span><span class="sxs-lookup"><span data-stu-id="10328-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="97211-111">Отидете на сайта.</span><span class="sxs-lookup"><span data-stu-id="97211-111">Go to the site.</span></span>
+1. <span data-ttu-id="10328-111">Отидете на сайта.</span><span class="sxs-lookup"><span data-stu-id="10328-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="97211-112">Щракнете върху \*\* настройки \*\* иконата в горния десен ъгъл.</span><span class="sxs-lookup"><span data-stu-id="97211-112">Click the \*\* Settings \*\* icon in the upper right.</span></span> 
+2. <span data-ttu-id="10328-112">Щракнете върху иконата на **Настройки** в горния десен ъгъл.</span><span class="sxs-lookup"><span data-stu-id="10328-112">Click the **Settings** icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="97211-113">Щракнете върху **Настройки на сайта**.</span><span class="sxs-lookup"><span data-stu-id="97211-113">Click **Site settings**.</span></span> <span data-ttu-id="97211-114">Под **Информация за сайта** или **Действия за сайта**щракнете върху **Изтриване на този сайт**и после щракнете върху **Изтрий**.</span><span class="sxs-lookup"><span data-stu-id="97211-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="10328-113">Щракнете върху **Настройки на сайта**.</span><span class="sxs-lookup"><span data-stu-id="10328-113">Click **Site settings**.</span></span> <span data-ttu-id="10328-114">Под **Информация за сайта** или **Действия за сайта**щракнете върху **Изтриване на този сайт**и после щракнете върху **Изтрий**.</span><span class="sxs-lookup"><span data-stu-id="10328-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="97211-115">**Изтриване на колекция от сайтове на SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="97211-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="10328-115">**Изтриване на колекция от сайтове на SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="10328-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="97211-116">За да изтриете сайт:</span><span class="sxs-lookup"><span data-stu-id="97211-116">To delete a site:</span></span>
+<span data-ttu-id="10328-116">За да изтриете сайт:</span><span class="sxs-lookup"><span data-stu-id="10328-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="97211-117">В новият SharePoint администратор център, на страницата на сайтове щракнете върху **квадратчето за отметка** до сайта, който искате да изтриете.</span><span class="sxs-lookup"><span data-stu-id="97211-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
+1. <span data-ttu-id="10328-117">В новият SharePoint администратор център, на страницата на сайтове щракнете върху **квадратчето за отметка** до сайта, който искате да изтриете.</span><span class="sxs-lookup"><span data-stu-id="10328-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="97211-118">В лентата с инструментиСписък щракнете върху **Изтриване.**</span><span class="sxs-lookup"><span data-stu-id="97211-118">On the ribbon toolbar, click **Delete.**</span></span>
+2. <span data-ttu-id="10328-118">В лентата с инструментиСписък щракнете върху **Изтриване.**</span><span class="sxs-lookup"><span data-stu-id="10328-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="97211-119">**Изтрити сайт случайно?**</span><span class="sxs-lookup"><span data-stu-id="97211-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="10328-119">**Изтрити сайт случайно?**</span><span class="sxs-lookup"><span data-stu-id="10328-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="97211-120">Вижте [възстановяване на изтрити колекцията](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="97211-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="10328-120">Вижте [възстановяване на изтрити колекцията](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="10328-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 

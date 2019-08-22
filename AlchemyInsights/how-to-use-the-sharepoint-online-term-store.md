@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 3e36c8ac293422d1b1eb052c959bfe7c06dd607b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383374"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539630"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="95ed7-102">Как да използвате SharePoint онлайн хранилището</span><span class="sxs-lookup"><span data-stu-id="95ed7-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="e94f6-102">Как да използвате SharePoint онлайн хранилището</span><span class="sxs-lookup"><span data-stu-id="e94f6-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="95ed7-103">Хранилището на изрази е достъпен за Office 365 глобален администратор, администратор на SharePoint и терминът магазин администратори и могат да бъдат намерени в центъра за администрация на нови SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="95ed7-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
+<span data-ttu-id="e94f6-103">Хранилището на изрази е достъпен за Office 365 глобален администратор, администратор на SharePoint и терминът магазин администратори и могат да бъдат намерени в центъра за администрация на нови SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="e94f6-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
   
-<span data-ttu-id="95ed7-104">За повече информация относно как да използвате SharePoint онлайн хранилището и класификацията в рамките на SharePoint Online вижте [Въведение в управлявани метаданни](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="95ed7-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="e94f6-104">За повече информация относно как да използвате SharePoint онлайн хранилището и класификацията в рамките на SharePoint Online вижте [Въведение в управлявани метаданни](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="e94f6-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="95ed7-105">Ако имате проблем с термините не явявам се или появяващи се периодично, препоръчваме да изчакате 24 часа и след това да влезете заявка за поддръжка, ако проблемът продължава.</span><span class="sxs-lookup"><span data-stu-id="95ed7-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="95ed7-106">Въпреки че 24 часа може да бъде дълго време, може да има проблем за кеширане или ние вече може да работи върху решение на този проблем.</span><span class="sxs-lookup"><span data-stu-id="95ed7-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="e94f6-105">Ако имате проблем с термините не явявам се или появяващи се периодично, препоръчваме да изчакате 24 часа и след това да влезете заявка за поддръжка, ако проблемът продължава.</span><span class="sxs-lookup"><span data-stu-id="e94f6-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="e94f6-106">Въпреки че 24 часа може да бъде дълго време, може да има проблем за кеширане или ние вече може да работи върху решение на този проблем.</span><span class="sxs-lookup"><span data-stu-id="e94f6-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   
