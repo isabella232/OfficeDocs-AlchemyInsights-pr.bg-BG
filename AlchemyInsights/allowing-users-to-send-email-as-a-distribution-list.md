@@ -13,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: f035e249b810b1cef5d8a8ffb21d072e88947341
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357162"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506144"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="8634f-102">Позволи на потребителите да изпращат имейл като група за разпространение</span><span class="sxs-lookup"><span data-stu-id="8634f-102">Allow users to send email as a distribution group</span></span>
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a><span data-ttu-id="5e4a2-102">Позволи на потребителите да изпращат имейл като група за разпространение</span><span class="sxs-lookup"><span data-stu-id="5e4a2-102">Allow users to send email as a distribution group</span></span>
 
-<span data-ttu-id="8634f-103">За да позволите на потребителите да изпращат съобщения, които изглеждат да дойде от съществуваща група за разпространение, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="8634f-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="5e4a2-103">За да позволите на потребителите да изпращат съобщения, които изглеждат да дойде от съществуваща група за разпространение, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="5e4a2-103">To allow users to send messages that appear to come from an existing distribution group, follow these steps:</span></span>
 
-1. <span data-ttu-id="8634f-104">В [центъра за администриране на Exchange](https://outlook.office365.com/ecp/), отидете на **получателите** \> **групи**.</span><span class="sxs-lookup"><span data-stu-id="8634f-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="5e4a2-104">В [центъра за администриране на Exchange](https://outlook.office365.com/ecp/), отидете на **получателите** \> **групи**.</span><span class="sxs-lookup"><span data-stu-id="5e4a2-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
 
-2. <span data-ttu-id="8634f-105">Изберете групата за разпространение, който искате да модифицирате и след това щракнете върху **Редактиране**.</span><span class="sxs-lookup"><span data-stu-id="8634f-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="5e4a2-105">Изберете групата за разпространение, който искате да модифицирате и след това щракнете върху **Редактиране**.</span><span class="sxs-lookup"><span data-stu-id="5e4a2-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
 
-3. <span data-ttu-id="8634f-106">В свойствата на групата отидете в раздела **Група делегация** да зададете потребителите, които може да изпрати като или изпрати от името на групата за разпространение.</span><span class="sxs-lookup"><span data-stu-id="8634f-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
+3. <span data-ttu-id="5e4a2-106">В свойствата на групата отидете в раздела **Група делегация** да зададете потребителите, които може да изпрати като или изпрати от името на групата за разпространение.</span><span class="sxs-lookup"><span data-stu-id="5e4a2-106">In the properties of the group, go to the **Group delegation** tab to specify the users who can send as or send on behalf of the distribution group.</span></span>
 
-<span data-ttu-id="8634f-107">За повече информация вижте [имейл опции](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span><span class="sxs-lookup"><span data-stu-id="8634f-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>
+<span data-ttu-id="5e4a2-107">За повече информация вижте [имейл опции](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span><span class="sxs-lookup"><span data-stu-id="5e4a2-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).</span></span>

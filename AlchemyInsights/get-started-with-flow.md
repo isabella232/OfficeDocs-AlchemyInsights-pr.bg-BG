@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400922"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524184"
 ---
-# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="43f39-102">Да започнете работа с Microsoft поток</span><span class="sxs-lookup"><span data-stu-id="43f39-102">Get started with Microsoft Flow</span></span>
+# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="c1aa6-102">Да започнете работа с Microsoft поток</span><span class="sxs-lookup"><span data-stu-id="c1aa6-102">Get started with Microsoft Flow</span></span>
 
-<span data-ttu-id="43f39-103">С Microsoft поток можете да:</span><span class="sxs-lookup"><span data-stu-id="43f39-103">With Microsoft Flow, you can:</span></span>
+<span data-ttu-id="c1aa6-103">С Microsoft поток можете да:</span><span class="sxs-lookup"><span data-stu-id="c1aa6-103">With Microsoft Flow, you can:</span></span>
   
-- <span data-ttu-id="43f39-104">Лесно търсене на шаблони и услуги.</span><span class="sxs-lookup"><span data-stu-id="43f39-104">Easily search for templates and services.</span></span>
+- <span data-ttu-id="c1aa6-104">Лесно търсене на шаблони и услуги.</span><span class="sxs-lookup"><span data-stu-id="c1aa6-104">Easily search for templates and services.</span></span>
     
-- <span data-ttu-id="43f39-105">Изберете от най-популярните услуги.</span><span class="sxs-lookup"><span data-stu-id="43f39-105">Choose from the most popular services.</span></span>
+- <span data-ttu-id="c1aa6-105">Изберете от най-популярните услуги.</span><span class="sxs-lookup"><span data-stu-id="c1aa6-105">Choose from the most popular services.</span></span>
     
-- <span data-ttu-id="43f39-106">Общ преглед на всеки поток.</span><span class="sxs-lookup"><span data-stu-id="43f39-106">See an overview of each flow.</span></span>
+- <span data-ttu-id="c1aa6-106">Общ преглед на всеки поток.</span><span class="sxs-lookup"><span data-stu-id="c1aa6-106">See an overview of each flow.</span></span>
     
-[<span data-ttu-id="43f39-107">Научете повече за Microsoft поток</span><span class="sxs-lookup"><span data-stu-id="43f39-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
+[<span data-ttu-id="c1aa6-107">Научете повече за Microsoft поток</span><span class="sxs-lookup"><span data-stu-id="c1aa6-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
   
 
