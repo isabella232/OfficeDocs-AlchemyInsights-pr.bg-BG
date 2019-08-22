@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271523"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512861"
 ---
 # <a name="disable-onedrive"></a>Забраняване на OneDrive
 
 Има няколко начина, можете да забраните достъпа до OneDrive и нейните услуги в зависимост от вашите бизнес нужди:
 
-[Премахнете, скриете или деинсталирате приложението OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[само позволи синхронизиране за специфични организации](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[забраните OneDrive създаване на сайт за някои потребители](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[Контролен достъп до SharePoint Online и OneDrive данни въз основа на мрежовото местоположение](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[забраните лични OneDrive синхронизация](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[управление на връзки от Windows устройства за OneDrive и други услуги](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Премахнете, скриете или деинсталиране на приложение на OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+
+[Само позволи синхронизиране за конкретни организации](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[Забраняване OneDrive създаване на сайт за някои потребители](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[Контрол на достъпа до SharePoint Online и OneDrive данни, базиращи се на местоположение в мрежата](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[Забраняване личен OneDrive синхронизиране](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[Управление на връзки от Windows устройства за OneDrive и други услуги](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

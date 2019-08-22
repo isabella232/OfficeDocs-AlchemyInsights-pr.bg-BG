@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386357"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527820"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Има служител, оставяйки и трябва да блокира достъпа до данни и електронна поща?
+# <a name="block-access-to-a-former-employee"></a>Блокира достъпа до бивш служител
+
+Има служител, оставяйки и трябва да блокира достъпа до Office 365 данни и електронна поща? Направете следното:
   
 1. В центъра на администратор, отидете на **потребителите** \> [Активни потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) на страницата.
 
-2. Изберете потребителя, който искате да блокирате.
+2. Изберете името на потребителя, който искате да блокирате.
 
-3. До влизане в статут изберете **Редактиране**.
+3. Под името на потребителя изберете **блок този потребител**.
 
-4. Изберете **блокирате потребителя да влезете в** \> **записване**.
+4. Изберете **блокирате потребителя да влезете в** \> **запишете промените**.
 
-**Забележка**: излизането за някои приложения не може да бъде незабавно. Следвайте с повече действия в тази статия: [Премахване на бивш служител от Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Забележка**: излизането за някои приложения не може да бъде незабавно. Следвайте с повече действия в тази статия: [Премахване на бивш служител от Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
