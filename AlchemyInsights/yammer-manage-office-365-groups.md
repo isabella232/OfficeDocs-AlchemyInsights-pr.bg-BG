@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 93f55a70d696dc24b4f502dfacd4c1340582878a
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753327"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530916"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Управление на групи за Office 365 в вайкам
 
@@ -30,4 +30,4 @@ ms.locfileid: "35753327"
 
   2. Намерете **мрежа администратор, настройка за защита**и гарантира, че **Office 365 идентичност** е в сила за вайкам потребители.
 
-За повече информация за Office 365 групи и вайкам, моля, вижте [вайкам и office 365 групи](https://docs.microsoft.com/en-us/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). За информация относно управлението на група вижте [управление на група в вайкам](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+За повече информация за Office 365 групи и вайкам, моля, вижте [вайкам и office 365 групи](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). За информация относно управлението на група вижте [управление на група в вайкам](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

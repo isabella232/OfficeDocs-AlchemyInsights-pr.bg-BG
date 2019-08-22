@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380278"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544888"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft резервации ап
 
-За отстраняване на проблеми в новите резервации ап, вижте [резервации статии](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Microsoft резервации е среща планиране ап, който ви помага да следите за вашите резервации, вашите служители и вашите клиенти. За информация или отстраняване на неизправности в ап резервации вижте [резервации статии](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).

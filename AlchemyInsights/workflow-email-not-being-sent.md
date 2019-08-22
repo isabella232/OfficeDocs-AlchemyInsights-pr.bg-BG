@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270661"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530851"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Поток имейл не се изпраща
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Поток имейл не се изпраща за SharePoint списък или библиотека
 
 1. Имейл от работни потоци, които не са изпратени до всички потребители или само определени потребители, или виждате грешка **имейл съобщението не може да бъде изпратено. Уверете се, че имейлът има валиден получател**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270661"
     - Ако потребителят съществува в групата разрешения, се уверете, че имейл адресът е правилен.
     - Ако потребителите имейл адрес не е настроен тук, след това създайте примерно предупреждение за този потребител, който принуждава синхронизиране на този акаунт от потребителски профили на SharePoint към тази колекция от сайтове.
  
-2. Имейл от работни потоци са изпратени до администраторите на колекцията сайтове, но не на други потребители и видите грешка **HTTP Забранения да <spam> <spam> ** <spam> <spam>.
+2. Имейл от работни потоци са изпратени до администраторите на колекцията сайтове, но не на други потребители и видите грешка **HTTP Забранения да <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Вижте [Отказан достъп, когато се изпраща имейл до групите](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Вижте [Отказан достъп, когато изпращате имейл на SharePoint група](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Също така Уверете се че функция на колекция сайтове **ограничен достъп потребител разрешение lockdown режим** не е активен.
 
