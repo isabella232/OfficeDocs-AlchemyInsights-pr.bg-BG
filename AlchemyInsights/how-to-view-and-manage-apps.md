@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389853"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539486"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Как да преглеждате и управлявате приложения
 
-За да видите вашите приложения, трябва да сте в центъра за администрация на нов.  Можете да превключвате това в началната страница на администратор център.  
+Можете да преглеждате вашите приложения в центъра за администрация на Microsoft 365. 
 
-1. С нов администратор център включен, отидете на **Фактуриране** > [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. В центъра на администратор, отидете на **Фактуриране** > [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
 2. Страницата на **продукти & услуги** изберете раздела за **приложения** .

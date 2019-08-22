@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379054"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522168"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Нови етикети на задържане, създаден автоматично
 
-Може да видите [три нови етикети на задържане](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) създава автоматично във вашата организация под **задържане етикети** в центъра за администрация на сигурността или спазване. Имената на етикети са:
+Можете да видите автоматично създава във вашата организация под **задържане етикети** в центъра за администрация на сигурността или съответствието на [три нови етикети за задържане на Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) . Имената на етикети са:
 
 - Оперативна процедура
 - Бизнес общи
