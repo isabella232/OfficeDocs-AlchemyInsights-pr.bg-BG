@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696928"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511908"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Спиране съобщения от съществуващ към вашата папка "нежелана поща"
 
-Ако откриете, че имейл съобщение във вашата папка за нежелана поща не е нежелана поща:
+Ако откриете, че имейл съобщение в папката за нежелана поща в Outlook.com не е нежелана поща:
 
 1. Отворете вашата [папка "нежелана поща"](https://outlook.live.com/mail/junkemail).
 1. Изберете съобщението. (*Забележка:* елементи във вашата папка за нежелана поща се изтриват след 30 дни.)
