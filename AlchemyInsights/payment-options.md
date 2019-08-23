@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388661"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555258"
 ---
-# <a name="payment-options"></a>Възможности за плащане
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Опции за плащане за Office 365 за фирми.
 
 **Опции за плащане**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388661"
   
 Когато плащате с кредитна карта или банкова сметка, таксата за абонамента ви ще се удържа автоматично в деня след датата на фактурата, до края на абонаментния период. Можете да [актуализирате данните за вашата кредитна карта или банкова сметка](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account), когато се наложи. Можете също да изберете да [Получавате копие на своя отчет за фактуриране по имейл](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Ако кредитната ви карта е отхвърлена или имате просрочен баланс, можете да изберете опцията **Плащане сега** на страницата **Фактуриране** \> [Абонаменти](https://portal.office.com/adminportal/home#/subscriptions).
+Ако кредитната ви карта е отхвърлена или имате просрочен баланс, можете да изберете опцията **Уреждане на баланса** на страницата **Фактуриране** \> [Продукти и услуги](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Плащане чрез фактура (с чек или електронен превод на средства)**
   
