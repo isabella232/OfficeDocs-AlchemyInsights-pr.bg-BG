@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171314"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557490"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Промяна на облика на вашата пощенска кутия
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Промяна на облика на вашата пощенска кутия Outlook
 
 Можете да промените външния вид на прозореца на списъка и четене на съобщения, така че изглежда и се държи по начин, който желаете. Изберете дали вашите съобщения трябва да бъдат показани отделно или като разговори, ако нови съобщения трябва да се появи в горната или долната част на списъка със съобщения и др.
 

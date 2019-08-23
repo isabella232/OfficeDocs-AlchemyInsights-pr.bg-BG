@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444761"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555222"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как да извършите съдържание търсения и eDiscovery търсения
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444761"
 4. Въведете необходимата търсене условия, включително ключови думи и съдържание места.  
 5. Щракнете върху **Запиши & Пусни** да име търсене, я стартирате и след това визуализирате резултатите.
 
-За детайлни инструкции относно съдържание търсения експортиране на резултати и създаване на eDiscovery случаи да държи данни, вижте [Съдържание търсене](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) и [eDiscovery случаи](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+За детайлни инструкции относно съдържание търсения експортиране на резултати и създаване на eDiscovery случаи да държи данни, вижте [Съдържание търсене](https://docs.microsoft.com/office365/securitycompliance/content-search) и [eDiscovery случаи](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Разберете повече за съдържание за търсене чрез преглед на [изискванията и ограниченията](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) и [частично проучване индексирани елементи](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) и други резултати, за да бъдат запознати с.
+Разберете повече за съдържание за търсене чрез преглед на [изискванията и ограниченията](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) и [частично проучване индексирани елементи](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) и други резултати, за да бъдат запознати с.

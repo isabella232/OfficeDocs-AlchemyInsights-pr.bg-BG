@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526668"
 ---
 # <a name="expired-subscription"></a>Изтекъл абонамент
 
@@ -26,18 +26,16 @@ ms.locfileid: "36389074"
   
 **Повторно активиране**
   
-1. В центъра на администратор, отидете на **Фактуриране** \> [абонамент](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. В центъра на администратор, отидете на **Фактуриране** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
 2. Изберете абонамент да бъде реактивирана.
 
-3. От дясната страна изберете **повторно активиране**.
+3. В раздела **Фактуриране** изберете **повторно активиране**.
 
-Използвате ли новия център за администратор? За нови стъпки вижте [повторно активиране на вашия абонамент](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+За повече информация вижте [повторно активиране на вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Направи нова покупка**
   
-1. В центъра на администратор, отидете на **Фактуриране** \> [Покупка услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.
+1. В центъра на администратор, отидете на **Фактуриране** \> [покупка услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.
 
-2. Изберете абонамент, който искате да закупите.
-
-3. Задръжте над плочката и изберете **купи сега**.
+2. Избор на абонамент, който искате да закупите и след това изберете **купуват**.
