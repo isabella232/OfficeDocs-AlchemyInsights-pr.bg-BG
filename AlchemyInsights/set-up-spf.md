@@ -11,17 +11,17 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 36744da1109a73502161e9f723cd228f4c21fd6b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ed03d39d8bc8724067fe2d98ca718ed9e5308d54
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368682"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549964"
 ---
-# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="cbf15-102">Поставям горе SPF в Office 365</span><span class="sxs-lookup"><span data-stu-id="cbf15-102">Set up SPF in Office 365</span></span>
+# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="d0f19-102">Поставям горе SPF в Office 365</span><span class="sxs-lookup"><span data-stu-id="d0f19-102">Set up SPF in Office 365</span></span>
 
-<span data-ttu-id="cbf15-103">Актуализирате вашите DNS записи, така че можете да използвате подател политика рамки (SPF) с потребителски домейна да валидира изходящите имейл, изпратен от вашия собствен домейн.</span><span class="sxs-lookup"><span data-stu-id="cbf15-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="cbf15-104">Това помага за предотвратяване на други от "измама" поща сякаш го бяха изпратени от вашия домейн.</span><span class="sxs-lookup"><span data-stu-id="cbf15-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="d0f19-103">Актуализирате вашите DNS записи, така че можете да използвате подател политика рамки (SPF) с потребителски домейна да валидира изходящите имейл, изпратен от вашия собствен домейн.</span><span class="sxs-lookup"><span data-stu-id="d0f19-103">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain.</span></span> <span data-ttu-id="d0f19-104">Това помага за предотвратяване на други от "измама" поща сякаш го бяха изпратени от вашия домейн.</span><span class="sxs-lookup"><span data-stu-id="d0f19-104">This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="cbf15-105">Поставям горе SPF в Office 365 за предпазване от изигравам</span><span class="sxs-lookup"><span data-stu-id="cbf15-105">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="d0f19-105">Поставям горе SPF в Office 365 за предпазване от изигравам</span><span class="sxs-lookup"><span data-stu-id="d0f19-105">Set up SPF in Office 365 to help prevent spoofing</span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [<span data-ttu-id="cbf15-106">Помощ за създаване на всички DNS записи</span><span class="sxs-lookup"><span data-stu-id="cbf15-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="d0f19-106">Помощ за създаване на всички DNS записи</span><span class="sxs-lookup"><span data-stu-id="d0f19-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

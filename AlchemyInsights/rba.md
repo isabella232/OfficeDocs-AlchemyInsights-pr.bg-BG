@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371107"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553493"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="f9f9d-102">Проблеми с пощенски кутии за зали</span><span class="sxs-lookup"><span data-stu-id="f9f9d-102">Issues with room mailboxes</span></span>
+# <a name="about-room-mailboxes"></a><span data-ttu-id="d780b-102">За пощенски кутии за зали</span><span class="sxs-lookup"><span data-stu-id="d780b-102">About room mailboxes</span></span>
 
-<span data-ttu-id="f9f9d-103">За повече информация за пощенските кутии за зали, вижте [Създаване и управление пощенски кутии за зали](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="f9f9d-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="d780b-103">Стая пощенска кутия е пощенска кутия за ресурси, който е присвоен на физическо място, например Конферентна зала, аудитория или в залата.</span><span class="sxs-lookup"><span data-stu-id="d780b-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="d780b-104">За повече информация за пощенските кутии за зали, вижте [Създаване и управление пощенски кутии за зали](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="d780b-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
