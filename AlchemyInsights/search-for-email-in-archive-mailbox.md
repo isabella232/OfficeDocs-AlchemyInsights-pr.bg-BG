@@ -12,14 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 6a40c421d89d1caf89007ff25ed51712773e073e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369546"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551584"
 ---
-Когато архивна пощенска кутия е активирана, можете да използвате **eDiscovery търсене и износ** за откриване на съдържание в пощенската кутия на първичната и архив. За информация относно използването на **eDiscovery експортиране на търсене** за намиране на това съдържание следвайте стъпки очертани [тук](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+# <a name="search-for-email-in-the-archive-mailbox"></a>Търсене на имейл в архивната пощенска кутия
+
+Когато архивна пощенска кутия е активирана за Office 365, можете да използвате **eDiscovery търсене и износ** за откриване на съдържание в пощенската кутия на първичната и архив. За информация относно използването на **eDiscovery експортиране на търсене** за намиране на това съдържание следвайте стъпки очертани [тук](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
 Можете също да запазите това съдържание чрез добавяне на пощенска кутия към правилата за съхранение. Това ще постави съдържание в първичната и Архив на пощенска кутия на задържане. За повече информация за създаването на правила за задържане да запазите имейл вижте стъпки очертани [тук](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

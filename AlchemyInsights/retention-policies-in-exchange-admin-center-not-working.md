@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444797"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551332"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Правила за съхранение в центъра за администриране на Exchange
 
@@ -58,7 +58,7 @@ ms.locfileid: "36444797"
  **Забележка:** Ако пощенската кутия е по-малък от 10 MB, помощникът за управлявани папки ще не автоматично обработва пощенската кутия.
  
 За повече информация за правила за съхранение в центъра за администриране на Exchange вижте:
-- [Етикетите и задържане полиция](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Прилагане на правила за задържане към пощенски кутии](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Добавяне или премахване на етикети за съхранение](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Как да се идентифицират типа на задържане пуснати на пощенска кутия](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Етикетите и задържане полиция](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Прилагане на правила за задържане към пощенски кутии](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Добавяне или премахване на етикети за съхранение](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Как да се идентифицират типа на задържане пуснати на пощенска кутия](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
