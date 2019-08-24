@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543842"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620748"
 ---
 # <a name="modern-site-as-root-site"></a>Модерен сайт като главния сайт
 
-Ние са започнали да внедряването на нова функция, която ще ви позволи да сменяте вашия класически сайт корен сайт с модерен сайт. Използвайте [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) да сменяте местоположението на един сайт с друг сайт при архивирането на оригиналния сайт. Налични за екипен сайт (не е свързан към група) и комуникация сайт. 
+Ние са започнали да внедряването на нова функция, която ще ви позволи да сменяте вашия класически сайт корен сайт с модерен сайт. Използвайте [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) да сменяте местоположението на един сайт с друг сайт при архивирането на оригиналния сайт. Налични за екипен сайт (не е свързан към група) и комуникация сайт. 
 
 >[!Important]
 > Не изтривайте сайта си класически корен да се създаде сайт на модерната комуникация. Това не се поддържа от Microsoft. Изтриването на главния сайт ще направи всички SharePoint сайтове във вашата организация недостъпни за всички потребители, докато възстанови сайта или създаване на нов сайт на същия URL адрес. Ние ще се общува тази функция чрез център за съобщения. Можете да очаквате тази функция да бъде включена в си наемател скоро.
