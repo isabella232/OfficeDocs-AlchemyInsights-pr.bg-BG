@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539918"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574751"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="b50fe-102">Как да активирате абонамента си отново</span><span class="sxs-lookup"><span data-stu-id="b50fe-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="37608-102">Как да активирате абонамента си отново</span><span class="sxs-lookup"><span data-stu-id="37608-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="b50fe-103">Ако абонаментът ви е изтекъл, бил е отменен или забранен от Microsoft, може да го активирате отново в Центъра за администриране на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b50fe-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="37608-103">Ако абонаментът ви е изтекъл, бил е отменен или забранен от Microsoft, може да го активирате отново в Центъра за администриране на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="37608-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="b50fe-104">В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="b50fe-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="37608-104">В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="37608-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="b50fe-105">Под **Фактуриране**, до **Подновяване** или **Изтича на**, изберете **Редактиране**.</span><span class="sxs-lookup"><span data-stu-id="b50fe-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="37608-105">Намерете абонамента, който искате да активирате повторно.</span><span class="sxs-lookup"><span data-stu-id="37608-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="37608-106">В секцията **Фактуриране** изберете **Повторно активиране**.</span><span class="sxs-lookup"><span data-stu-id="37608-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="b50fe-106">В диалоговия прозорец **Настройки за периодично фактуриране** изберете опцията, която искате.</span><span class="sxs-lookup"><span data-stu-id="b50fe-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="b50fe-107">Ако периодичното фактуриране е вече изключено, изберете **Ежемесечно** или **Еднократно**, за да го включите.</span><span class="sxs-lookup"><span data-stu-id="b50fe-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="37608-107">Ако не виждате **Повторно активиране** като възможно действие, се обадете на поддръжката, за да активира повторно абонамента ви.</span><span class="sxs-lookup"><span data-stu-id="37608-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="b50fe-108">Изберете **Подай промяната**.</span><span class="sxs-lookup"><span data-stu-id="b50fe-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="37608-108">Потвърдете своите данни за плащане.</span><span class="sxs-lookup"><span data-stu-id="37608-108">Confirm your payment details.</span></span> <span data-ttu-id="37608-109">Можете да актуализирате съществуващата информация за плащане тук.</span><span class="sxs-lookup"><span data-stu-id="37608-109">You can update your existing payment information here.</span></span> <span data-ttu-id="37608-110">Когато приключите с въвеждането на метода на плащане, изберете **Повторно активиране**.</span><span class="sxs-lookup"><span data-stu-id="37608-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="b50fe-109">За повече информация вижте: [Подновяване на Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="b50fe-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="37608-111">Използвате ли стария център за администриране?</span><span class="sxs-lookup"><span data-stu-id="37608-111">Are you using the old admin center?</span></span> <span data-ttu-id="37608-112">За старите стъпки или за да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="37608-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
