@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 1072e12a74f708007cf9b89c989a9cc96510c2b9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505441"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664597"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Диагностика и решаване на проблеми на връзката с Outlook
 
-За да диагностицирате и коригирате вашия проблеми на връзката с Outlook, можете да стартирате [Outlook инструмент за свързване](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на засегнатите машина.
+За да диагностицира и поправи си проблеми на връзката с Outlook, можете да стартирате [Outlook инструмент за свързване](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на засегнатите машина.
   
 Този инструмент ще извърши диагностика проверки и предлага възможни решения за да разгледа въпроса за свързването на Outlook.
   

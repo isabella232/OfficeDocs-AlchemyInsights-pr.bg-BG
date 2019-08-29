@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576081"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665461"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Отмяна на абонамента в Office 365?
 
@@ -28,4 +28,4 @@ ms.locfileid: "36576081"
   
 Алтернативно изберете **нужда от помощ** да говори с инженер поддръжка.
   
-Използвате ли стария център на администратор? За стари стъпки, или да научите повече вижте [прекратите абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+За да научите повече, вижте [прекратите абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

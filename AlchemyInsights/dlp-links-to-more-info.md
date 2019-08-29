@@ -3,7 +3,6 @@ title: Повече информация за DLP проблеми
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
-ms.date: ''
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: e1340945b5d90505e290d2561d0179856c93679d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530376"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665169"
 ---
-# <a name="more-info-about-dlp-issues"></a>Повече информация за DLP проблеми
+# <a name="information-about-dlp-issues"></a>Информация за проблеми с DLP
 
-С политика на DLP можете да идентифицирате, наблюдава и автоматично защита на чувствителна информация в Office 365.
+С DLP политика можете да идентифицирате, наблюдавате и автоматично защита на поверителна информация в Office 365.
 
-Моля посетете тези връзки за повече информация:
+Моля, посетете тези връзки за повече информация:
 
-- [Преглед на предотвратяване загуба на данни](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Какви типове чувствителна информация потърсете](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Създаване на потребителски чувствителна информация тип](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Изпращане на имейл съобщения и да се покаже политика съвети](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Защита SharePoint Online файлове с етикети за задържане и DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Преглед на предотвратяването на загуба на данни](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Какво търсят чувствителните типове информация](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Създаване на персонализиран тип поверителна информация](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Изпращане на известия по имейл и показване на съвети за политиката](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Защитете SharePoint online файлове с етикети за задържане и DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP и екипи на Microsoft](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-За да тествате вашите данни с вградена или потребителска чувствителна информация тип, използвайте опцията **тест тип** под **класификации** > **типове чувствителна информация**. За повече информация вижте [тест типове потребителски чувствителна информация](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+За да тествате данните си с вграден или персонализиран тип поверителна информация, използвайте опцията за **тест тип** под **класификации** > **чувствителни**данни. За повече информация вижте [тестване на потребителски чувствителни типове информация](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

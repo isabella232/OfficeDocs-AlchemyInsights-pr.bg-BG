@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: e6d6d694c6743bb42d7d8e467a82b2d05fa9e553
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: baf967c2f5c8678802bdca6f303ba73d56deb320
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525194"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664957"
 ---
 # <a name="fix-onedrive-sync-issues-on-a-mac"></a>Прикрепвам OneDrive проблеми при синхронизиране на Mac
 
-Ако OneDrive не е синхронизиране файлове начина, по който очаквате на Mac, можете да [коригирате OneDrive проблеми при синхронизиране на Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
+Ако OneDrive не е синхронизиране файлове начина, по който очаквате на Mac, вижте [отстраняване на OneDrive синхронизация проблеми на Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
 
 
 

@@ -3,7 +3,6 @@ title: Как да се добавят или намаляват лицензи
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574931"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664273"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Как да се добавят или намаляват лицензи
 
-Ето как да премахнете или да закупите повече лицензи, Office 365.
+Ето как да премахнете Office 365 лицензи или да закупите повече лицензи.
   
 1. В центъра на администратор, отидете на **Фактуриране** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
 
@@ -39,7 +38,7 @@ ms.locfileid: "36574931"
 > [!NOTE]
 > Всяка нова такса (лиценз увеличение) или кредит (лиценз намаление) ще се появи в следващата ви сметка.
 
-Използвате ли стария център на администратор? За стари стъпки, или да научите повече вижте [купуват лицензи за вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+За да научите повече, вижте [купуват лицензи за вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Допълнителни ресурси**
   

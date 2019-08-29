@@ -3,19 +3,18 @@ title: Проблеми с измама, фишинг или фалшива са
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764837"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661465"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Проблеми с измама, фишинг или фалшива самоличност?
 
@@ -33,6 +32,6 @@ ms.locfileid: "34764837"
 
 - Проверете дали потребителите не съм конфигуриран позволяват елементите на списъка, която може да допусне фишинг атаки.
 
-- Помислете за доставка на високо доверие спам и фишинг съобщения на карантината вместо папката Нежелана поща.
+- Помислете за предоставяне на оптимален спам и фишинг съобщенията на карантината вместо папката Нежелана поща.
 
-**Били ли сте [съобщава това съобщение до Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? Това е най-добрият начин да споделите с нас как се представят филтрите.**
+**[Докладване на съобщения на Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) е най-добрият начин да споделите с нас как се представят филтрите.**

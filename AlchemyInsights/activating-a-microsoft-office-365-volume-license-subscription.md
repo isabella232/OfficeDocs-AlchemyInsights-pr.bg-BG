@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574459"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661177"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Активиране на Microsoft Office 365 том позволително абонамент
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574459"
 
 4. Активиране на електронната поща ще ви даде две опции: **Регистрирайте се**или **Влезте в**. Ако преди това сте създали опит, изберете **влизане в**. Ако все още нямате Office 365 наемател, изберете **Регистрирай се**.
 
-5. Влезте в Office 365 ([https://portal.office.com](https://portal.office.com)) с помощта на вашите съществуващи Office 365 идентификационни данни на администратор. След успешно влезете в, ще получите друг имейл адрес, потвърждаващо покупката ви.
+5. Влезте в центъра за администрация на Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) с помощта на вашите съществуващи Office 365 идентификационни данни на администратор. След успешно влезете в, ще получите друг имейл адрес, потвърждаващо покупката ви.
 
 6. След като сте влезли в, можете да отидете до **сметките** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница, за да проверите, че вашите закупени Office 365 абонаменти са активирани в рамките на своя наемател. (Можете също да изберете раздела **записване** , за в VLSC да видите подробни данни, проверка, че абонаментът ви е бил депозиран.)

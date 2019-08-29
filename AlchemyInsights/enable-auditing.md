@@ -3,7 +3,6 @@ title: Разрешаване и търсене на регистрационн�
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527712"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665065"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Разрешаване и търсене на регистрационния файл за проверка
+
+**Office 365**
 
 За да търсите дневника за проверка на Office 365, следвайте [тези стъпки](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ ms.locfileid: "36527712"
 
 - Exchange администратор дейности са одитирани по подразбиране.
 
-- Ние сме в процес на позволяващи проверка на пощенска кутия по подразбиране в Office 365. До тогава за да разрешите проверяването за една пощенска кутия или за всички пощенски кутии в организацията ви, вижте [тази статия](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Проверка на пощенска кутия е активирана по подразбиране в Office 365. За повече информация вижте [тази статия](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Група пощенски кутии в Office 365 и публичната папка пощенски кутии в Exchange Online не поддържат влизане за проверка.
 

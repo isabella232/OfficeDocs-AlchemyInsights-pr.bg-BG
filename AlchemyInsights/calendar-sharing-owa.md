@@ -1,9 +1,8 @@
 ---
-title: 616 споделянето на календари
+title: 616 споделяне на календара
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,19 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: b4003679b6bbadc3e87812a77896e5ff6e7e560c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518352"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665605"
 ---
-# <a name="calendar-sharing"></a>Споделянето на календари
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Исне с споделяне на календара в Outlook
 
 - Ако не можете да видите календарната си информация свободен/зает в други календари, или ако други хора не могат да виждат информацията свободен/зает във вашия календара, използвайте [Microsoft помощник за поддръжка и възстановяване за Office 365](https://diagnostics.office.com/).
 
+**Допълнителни ресурси:**
+
 - [Споделяне на календара на Outlook с други хора](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [Сподели календар Вашият в Outlook в мрежата за бизнес](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Споделяйте календара си в Outlook в интернет за бизнес](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

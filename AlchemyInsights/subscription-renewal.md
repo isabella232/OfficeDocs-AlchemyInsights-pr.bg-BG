@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501354"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666001"
 ---
 # <a name="subscription-recurring-billing"></a>Абонамент повтарящи фактуриране
 
@@ -30,4 +30,4 @@ ms.locfileid: "36501354"
 
 4. За да направите промяна, изберете **Редактиране** и след това, в прозореца за настройки за **повтарящи се фактуриране** изберете **Изключи** да го изключите. Ако повтарящи фактуриране вече е изключен, изберете **месечно** или **веднъж** да го включите.
 
-За повече информация вижте [включване повтарящи се фактуриране изключване на](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+За да научите повече, вижте [включване повтарящи се фактуриране изключване на](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

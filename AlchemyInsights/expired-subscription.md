@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575577"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665029"
 ---
 # <a name="expired-subscription"></a>Изтекъл абонамент
 
@@ -34,7 +34,7 @@ ms.locfileid: "36575577"
 
 3. Потвърдете данните за плащане. Можете да актуализирате вашите съществуващи плащане информация тук. Когато сте готови, въведете вашия метод на плащане, изберете **повторно активиране**.
 
-Използвате ли стария център на администратор? За стари стъпки, или да научите повече вижте [повторно активиране на вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+За да научите повече, вижте [повторно активиране на вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Направи нова покупка**
   
@@ -46,4 +46,4 @@ ms.locfileid: "36575577"
 
 4. Следвайте останалите стъпки, за да завършите извличането.
 
-Използвате ли стария център на администратор? За стари стъпки, или да научите повече вижте [купи друг абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+За да научите повече, вижте [купи друг абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
