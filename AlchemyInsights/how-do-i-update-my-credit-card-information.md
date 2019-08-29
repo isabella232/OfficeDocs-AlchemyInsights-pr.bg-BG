@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575331"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664381"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Как да актуализирам информацията за кредитната си карта?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575331"
 
 4. Актуализирайте информацията за своята кредитна карта или банкова сметка (име на кредитна карта или банкова сметка, адрес за фактуриране, телефонен номер или дата на изтичане на срока), ако е необходимо, след което изберете **Запиши** > **Готово**.
 
-Използвате ли стария център за администриране? За старите стъпки или за да научите повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+За да научие повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
