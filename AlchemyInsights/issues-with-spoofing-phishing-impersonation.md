@@ -1,5 +1,5 @@
 ---
-title: Проблеми с измама, фишинг или фалшива самоличност?
+title: Проблеми с подправяне, фишинг или въплъщение?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661465"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716092"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Проблеми с измама, фишинг или фалшива самоличност?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Проблеми с подправяне, фишинг или въплъщение?
 
-Научете как Office 365 предпазва от:
+Научете как Office 365 ви предпазва от:
 
 - [Изигравам](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
@@ -26,12 +26,12 @@ ms.locfileid: "36661465"
 
 Допълнителни препоръки:
 
-- За измамните податели, които изглеждат като изпратени от вашия собствен домейн SPF и DKIM може да помогне.
+- За измамни податели, които изглежда идват от вашия собствен домейн, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) и [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) могат да помогнат.
 
-- Проверете податели в свой собствен домейн не са конфигурирани да заобикалят анти-спам филтриране с помощта на потока правила (известен също като транспортни правила) или разрешаване на записите в списъка.
+- Проверете подателите в собствения си домейн не са конфигурирани да заобиколят анти-спам филтриране с помощта на правила за пощенски поток (известни също като транспортни правила) или позволяват записи в списъка. За повече информация вижте [предупреждения за заобикаляне на Office 365 спам филтри](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Проверете дали потребителите не съм конфигуриран позволяват елементите на списъка, която може да допусне фишинг атаки.
+- Уверете се, че потребителите не са конфигурирали записи от [списък с безопасни податели](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , които могат да позволят фишинг атаки.
 
-- Помислете за предоставяне на оптимален спам и фишинг съобщенията на карантината вместо папката Нежелана поща.
+- Обмислете предоставянето на съобщения за спам и фишинг за високо доверие към карантината вместо папката за нежелана поща. За повече информация вижте [карантина имейл съобщения в Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Докладване на съобщения на Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) е най-добрият начин да споделите с нас как се представят филтрите.**
+**[Отчитането на съобщения до Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) е най-добрият начин да ни кажете как се извършват филтрите.**
