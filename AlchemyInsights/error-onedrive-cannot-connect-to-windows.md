@@ -1,6 +1,6 @@
 ---
-title: Грешка OneDrive не може да се свърже с Windows
-ms.author: kirks
+title: Грешка в OneDrive не може да се свърже с Windows
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 165fb1e1574eaff61c2f25a1476bce7da382aefa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 59dc1035aba94f59ee111dfcf08ff15e5e2ebd10
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526961"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755909"
 ---
 # <a name="error-onedrive-cannot-connect-to-windows"></a>Грешка: OneDrive не може да се свърже с Windows
 
-За да отстраните съобщението за грешка, потърсете файла cldflt.sys да видим дали тя работи и ако не е, го включите. 
+За да разрешите съобщението за грешка, потърсете файла cldflt. sys, за да видите дали работи, и ако не е, го Активирайте. 
   
-За допълнителна информация как да разрешите на cldflt.sys файл, вижте [OneDrive не може да се свърже с Windows "грешка при достъп до файлове в OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
+За допълнителна информация относно начините за разрешаване на файла cldlt. sys, вижте [OneDrive не може да се свърже с Windows "грешка при достъп до файлове в OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
   
 

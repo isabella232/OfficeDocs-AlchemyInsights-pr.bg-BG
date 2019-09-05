@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661537"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739050"
 ---
 # <a name="issue-with-skype-for-business"></a>Проблем със Skype за бизнеса?
 
@@ -23,11 +23,10 @@ ms.locfileid: "36661537"
   
 {HealthCheckString}
   
-NS, CNAME или SRV записите в настройките на домейна (DNS) не са конфигурирани правилно за Skype за бизнеса. Можете да прегледате [Актуализиране на DNS записи в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) за подробни инструкции.
+NS, CNAME или SRV записите в настройките на домейна (DNS) не са конфигурирани правилно за Skype за бизнеса. Можете да направите справка [, за да създадете DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за Office 365 за подробни инструкции.
   
 За да го коригирате, отидете на страницата [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) в Центъра за администриране на Microsoft 365, и ние ще ви помогнем.
   
 Ако имате проблеми с комуникацията с потребители, които са външни за вашата организация, можете да прегледате [Настройване на външни комуникации в Skype за бизнеса онлайн](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) за подробни инструкции.
-  
-Проверете [ЧЗВ за домейни](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) за други често срещани решения.
+
   

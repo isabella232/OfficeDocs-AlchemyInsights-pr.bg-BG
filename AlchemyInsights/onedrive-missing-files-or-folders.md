@@ -1,41 +1,41 @@
 ---
-title: 'OneDrive: Липсващи файлове или папки'
-ms.author: kirks
+title: 'OneDrive: липсващи файлове или папки'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521232"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753245"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Липсващи файлове или папки
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: липсващи файлове или папки
 
-**Проверете в кошчето на сайта**.
+**Проверете кошчето на сайта**.
 
-- [Възстановяване на елементи в кошчето на сайт на SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
+- [Възстановяване на елементи в кошчето на сайт на SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 - [Възстановяване на изтрити файлове или папки в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Използвам OneDrive пила възстановяване функция**. 
+**Използвайте функцията за възстановяване на файлове в OneDrive**. 
 
-Ако много ви OneDrive файлове се изтрити, презаписани, повреден или заразени със злонамерен софтуер, можете да възстановите целия си OneDrive към предишно моментно използване на функцията за [възстановяване на OneDrive файлове](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
-
-
-**Употреба одит logging или прозореца файл дейност да проверите хронологията на файла**.
-
-Проверете [одиторски доклади](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) от щурманския [тук](https://sip.protection.office.com/).
+Ако много от файловете ви в OneDrive се изтрият, презаписват, повредят или заразят със злонамерен софтуер, можете да възстановите целия OneDrive до предишно време, като използвате функцията за [възстановяване на файлове в onedrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
 
 
-Използвайте [файл дейност екран](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , за да проверите историята на файла.
+**Използвайте регистрирането на проверка или прозореца на активността на файла, за да проверите хронологията на файла**.
+
+Проверете [одитните отчети](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) чрез навигиране [тук](https://sip.protection.office.com/).
 
 
-**Проверете OneDrive синхронизиране на клиента на локалния ви компютър**.
+Използвайте [прозореца на активността на файла](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , за да проверите хронологията на файла.
 
-Ако вие сте синхронизиране на файлове на вашия компютър с помощта на OneDrive синхронизиране клиента, проверете папката локални синхронизация да се гарантира, че е правилно качен. Проверявайте също и в кошчето на локалния ви компютър.
+
+**Проверете OneDrive синхронизиране на клиента на вашия локален компютър**.
+
+Ако синхронизирате файловете на вашия компютър с помощта на OneDrive Sync клиент, проверете локалната папка за синхронизиране, за да се уверите, че е правилно качен. Уверете се също, че проверявате кошчето на локалния си компютър.
 

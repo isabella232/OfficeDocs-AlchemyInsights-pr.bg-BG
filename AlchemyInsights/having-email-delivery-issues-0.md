@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523356"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739770"
 ---
 # <a name="having-email-delivery-issues"></a>Имате проблеми при доставянето на поща?
 
@@ -26,9 +26,8 @@ ms.locfileid: "36523356"
   
 {HealthCheckString}
   
-NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата ви на Office 365. Можете да прегледате [Актуализиране на DNS записи в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) за подробни инструкции.
+NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата ви на Office 365. Можете да направите справка [, за да създадете DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за Office 365 за подробни инструкции.
   
 За да го коригирате, отидете на страницата [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) в Центъра за администриране на Microsoft 365, и ние ще ви помогнем.
   
-[Прегледайте ЧЗВ за домейни](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) за други често срещани решения.
   

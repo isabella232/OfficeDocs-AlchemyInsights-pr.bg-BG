@@ -1,5 +1,5 @@
 ---
-title: Инсталиране на office на терминален сървър - нелицензирани
+title: Инсталиране на офис на терминален сървър-неразрешено
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498404"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735378"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Инсталиране на Office на терминален сървър
 
-За разполагането на Office 365 подпора на Windows Server с помощта на отдалечен работен плот услуги (RDS) по-рано наречена терминални услуги:
+За разполагане на Office 365 ProPlus на Windows Server с помощта на услуги за отдалечен работен плот (RDS), преди наименувани терминални услуги:
   
-- Трябва да имате план за Office 365, който включва Office 365 подпора, като Office 365 предприятие E3 или предприятието E5. Office 365 бизнес и Office 365 бизнес Premium планове не включват Office 365 подпора.
+- Трябва да имате Office 365 план, който включва Office 365 ProPlus, като например Office 365 Enterprise Еi или Enterprise е+. Office 365 бизнес и Office 365 бизнес Премиум планове не включват Office 365 ProPlus.
 
-- Трябва да разрешите [споделен компютър активиране](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Трябва да активирате [споделено активиране на компютъра](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ако искате да инсталирате Office 365 подпора на RDS от портала на Office 365, ***която използва настройките по подразбиране инсталацията***, изпълнете следните стъпки:
+Ако искате да инсталирате Office 365 ProPlus на RDS от центъра за администриране на Microsoft 365, ***който използва настройките по подразбиране за инсталиране***, изпълнете следните стъпки:
   
-1. Проверете какво Office 365 план имате. [Научете как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Проверете какъв план на Office 365 имате. [Научете как](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Ако е необходимо, преминаване към различен Office 365 план. [Научете как](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Ако е необходимо, превключете към друг план на Office 365. [Научете как](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Ако Office е вече инсталиран на RDS сървъра, използвайки други планове за Office 365, я деинсталирате. Например, като отидете на контролния панел \> деинсталиране на програма. Uninstall using [Microsoft поддръжка и възстановяване помощник](https://aka.ms/SARA-OfficeUninstall-Alchemy) ако работите в изход.
+3. Ако Office вече е инсталиран на RDS сървъра, използващ други планове на Office 365, деинсталирайте го. Например, като отидете в контролния панел \> деинсталиране на програма. Деинсталиране с помощта на [Microsoft support и помощник за възстановяване,](https://aka.ms/SARA-OfficeUninstall-Alchemy) ако се занимаваш с проблеми.
 
-4. На RDS сървъра Влезте в портала на Office 365 с вашия акаунт на администратор и [инсталирате Office 365 подпора](https://portal.office.com/OLS/MySoftware.aspx).
+4. RDS сървър Влезте в центъра за администриране на Microsoft 365 с администраторски акаунт и [Инсталирайте Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. След инсталирането на Office ***не отвори или влезте в*** приложения на Office.
+5. След инсталирането на Office, ***не отваряйте или влезте в*** приложения на Office.
 
-6. На RDS сървъра разрешите споделен компютър активиране чрез редактиране на системния регистър като следвате тези стъпки:
+6. RDS сървър Активирайте активиране на споделен компютър чрез редактиране на системния регистър, като следвате тези стъпки:
 
-1. С десния бутон върху бутона на Windows в долния ляв ъгъл на екрана и изберете Run. В полето Отвори въведете **regedit**и след това изберете OK.
+1. Щракнете с десния бутон върху бутона Windows в долния ляв ъгъл на екрана и изберете изпълнение. В полето Отвори въведете **regedit**и след това изберете OK.
 
-2. Отбран да кога суфльор да се даде възможност на редактора на системния регистър да направите промени в устройството.
+2. Изберете да, когато бъдете подканени да позволите на редактора на системния регистър да направи промени в устройството.
 
-3. В редактора на системния регистър, добавете низова стойност на **SharedComputerLicensing** с настройка на 1, при HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. В редактора на системния регистър, добавете низова стойност на **Ssydsлицензиране** с настройка 1 под HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \оффице\кликкторун\конфигуратион.
 
-7. На RDS сървър, ***Влезте в като краен потребител*** и [провери дали споделен компютър активиране е разрешена за Office 365 подпора](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. RDS сървър, ***влезте като краен потребител*** и [Проверете дали е активирано споделено активиране за Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-За повече подробности относно предпоставки, настройка на инструкции и насоки за персонализирани инсталации с помощта на инструмента за разполагане на Office вижте [Разполагане на Office 365 подпора с помощта на услуги за отдалечен работен плот](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+За повече информация относно предпоставки, настройка на инструкции и указания за персонализирани инсталации с помощта на инструмента за разполагане на Office, вижте [разполагане на office 365 ProPlus с помощта на услуги за отдалечен работен плот](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-За да поправите грешки, свързани с активирането на споделен компютър, моля, вижте [отстраняване на проблеми с активирането на споделен компютър за Office 365 подпора](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+За да коригирате грешки, свързани с активирането на споделен компютър, вижте [отстраняване на проблеми при активиране на споделен компютър за Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

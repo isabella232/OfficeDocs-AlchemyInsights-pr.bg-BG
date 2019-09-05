@@ -1,6 +1,6 @@
 ---
-title: Функцията на искания за достъп
-ms.author: kirks
+title: Функции за искания за достъп
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503804"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751517"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Дават на потребителите достъп до сайта на SharePoint
+# <a name="give-users-access-to-sharepoint-site"></a>Дайте на потребителите достъп до сайта на SharePoint
 
-Функцията за искане на достъп позволява на хората да поискате достъп до съдържание, което те в момента нямат разрешение да виждат. Като собственик на сайт можете да конфигурирате функцията да изпрати поща, когато някой поиска достъп до сайта. За повече информация, моля посетете [поставям горе и управлявам искания за достъп](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Функцията за заявка за достъп позволява на хората да поискат достъп до съдържание, което в момента нямат разрешение да виждат. Като собственик на сайт можете да конфигурирате функцията да ви изпраща поща, когато някой поиска достъп до сайт. За повече информация посетете [Настройване и управление на искания за достъп](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-Ето някои общи връзки по отношение на искания за достъп:
+Ето някои общи връзки по отношение на заявките за достъп:
 
-- [Достъпът е отказан"към списъка на искания за достъп или"Заявка за одобрение е неуспешно"когато обработвате Чакащо искане в SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Отказан достъп до списъка с искания за достъп или "искане за одобрение е неуспешно", когато обработвате чакащи заявка в SharePoint online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Достъп за промяна поиска настройки](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Промяна на настройките за искания за достъп](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Одобрява или отклоняване на искания за достъп за сайт](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Одобряване или отхвърляне на искания за достъп до сайт](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Управление на покани за външни потребители (SharePoint Online само)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Управление на поканите за външни потребители (само за SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Изпрати покана](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Повторно изпращане на покана](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

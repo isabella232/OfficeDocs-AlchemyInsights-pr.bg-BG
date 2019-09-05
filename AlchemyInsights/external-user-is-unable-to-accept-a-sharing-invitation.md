@@ -1,5 +1,5 @@
 ---
-title: Външен потребител не е в състояние да приеме покана споделяне
+title: Външният потребител не може да приеме покана за споделяне
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525804"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735882"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Външен потребител не е в състояние да приеме покана споделяне
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Външният потребител не може да приеме покана за споделяне
 
-Ако външен потребител е в състояние да приеме покана за споделяне, моля опитайте да посетите линковете по-долу: 
+Ако външен потребител не може да приеме покана за споделяне, моля, опитайте да посетите връзките по-долу: 
 
-- ["Достъп отказ" "Имате нужда от разрешение за достъп до този сайт", или "Потребител не е намерен в директорията" грешки в SharePoint Online и OneDrive за бизнес](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Правилата на вашата организация не ви позволяват да споделяте с тези потребители" грешка при споделяне на елемент или сайт в SharePoint Online или OneDrive за бизнес](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Опции за споделяне са сив, когато споделянето от SharePoint Online или OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Съобщение за грешка, когато външен потребител приеме покана SharePoint Online с помощта на друг акаунт](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE споделяне грешки в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Достъпът е отказан", "трябва разрешение за достъп до този сайт", или "потребител не е намерен в директорията" грешки в SharePoint online и OneDrive за бизнес](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Вашата организация правила не ви позволяват да споделяте с тези потребители" грешка при споделяне на елемент или сайт в SharePoint Online или OneDrive за бизнес](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Опции за споделяне са сиво при споделяне от SharePoint Online или OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Грешки при споделяне на OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
