@@ -1,6 +1,6 @@
 ---
-title: Следват или ООН-следвайте сайт на SharePoint
-ms.author: kirks
+title: Проследяване или премахване на сайт на SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524580"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755693"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Следват или ООН-следвайте сайт на SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Проследяване или премахване на сайт на SharePoint
 
-Има няколко начина да следват един сайт, който ви интересува в SharePoint. Това ще ви позволи да намерите на сайта лесно във вашия списък и ви позволяват да видите дейност от сайта. 
+Има няколко начина да следвате сайт, който ви интересува в SharePoint. Това ще ви позволи да намерите сайта лесно в списъка си и ще ви позволи да видите активността от сайта. 
 
-Гледайте видео да [следват сайт на SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Гледайте видеото, за да [следвате сайт на SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
-Ако не можете да следват или ООН-следвайте сайт и се чувстват резултатите не са това, което се очаква, вижте дали проблемът е свързан с един потребител или всички потребители във вашата организация. Ако въпроса е срещани от всички потребители, може да има проблем при временна услуга. 
+Ако не сте в състояние да следвате или да не следвате даден сайт и усетите, че резултатите не са това, което се очаква, вижте дали проблемът е свързан с един потребител или всички потребители във вашата организация. Ако проблемът се среща от всички потребители, може да има временен проблем с услугата. 
 
-Проверете [Услуги здравето таблото](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) за да видите дали вашата организация е ударена.
+Проверете [услугата Health табло](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , за да видите дали вашата организация е засегната.

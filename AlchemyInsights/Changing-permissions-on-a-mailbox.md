@@ -1,5 +1,5 @@
 ---
-title: Промяна на разрешенията на пощенска кутия
+title: Промяна на разрешенията за пощенска кутия
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661393"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734370"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Промяна на разрешенията на пощенска кутия
+# <a name="changing-permissions-on-a-mailbox"></a>Промяна на разрешенията за пощенска кутия
 
-Ако потребителите трябва достъп до пощенски кутии в Office 365 различни от техните собствени, те трябва да бъдат дадени разрешения за работа с тези пощенски кутии. Как да присвоите тези разрешения зависи от вида на пощенската кутия. Ако потребителите имат нужда от достъп до:
+Ако потребителите се нуждаят от достъп до Office 365 пощенски кутии, различни от техните собствени, те трябва да получат разрешения за работа с тези пощенски кутии. Как присвоявате тези разрешения зависи от типа на пощенската кутия. Ако потребителите се нуждаят от достъп до:
   
-- Други потребителски пощенски кутии - Моля, вижте [даде разрешения за пощенска кутия на друг потребител в Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Други потребителски пощенски кутии-Моля, вижте [даде разрешения за пощенска кутия на друг потребител в Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Споделена пощенска кутия - Моля, вижте [Добавяне или премахване на членове от споделена пощенска кутия](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Споделена пощенска кутия-Моля, вижте [Добавяне или премахване на членове от споделена пощенска кутия](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Ако разрешенията не работят правилно след като направите горните стъпки, отидете в центъра за администриране на Exchange и опитайте да настроите разрешения от там (виж [управление на разрешенията за получатели](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Ако разрешенията не работят правилно, след като направите горните стъпки, отидете в центъра за администриране на Exchange и се опитайте да зададете разрешенията от там (вижте [управление на разрешенията за получатели](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

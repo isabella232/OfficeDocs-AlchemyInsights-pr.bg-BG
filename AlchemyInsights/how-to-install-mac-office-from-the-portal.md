@@ -1,5 +1,5 @@
 ---
-title: Как да инсталирате Mac Канцелария от портала
+title: Как да инсталирате Mac Office от портала
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540422"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735306"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>Как да инсталирате Mac Канцелария от портала
+# <a name="how-to-install-mac-office-from-the-portal"></a>Как да инсталирате Mac Office от портала
 
-1. [Деинсталирате Office 2011 за Mac от your компютри](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [Деинсталиране на Office 2011 за Mac от вашите компютри](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
 
-2. [Гарантира Mac софтуер изтегляния са активирани в администраторския портал на Office 365](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).
+2. [Управление на настройките за изтегляне на софтуер в Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Присвояване на лиценз за Office на вашия Mac потребители](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).
+3. [Присвояване на лицензи на потребители](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
-4. Потребителите след това могат да да инсталирате Office софтуер себе си, или да използвате [Разполагане на Office на вашия Mac потребители](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+4. Потребителите могат след това да инсталирате софтуера на Office себе си, или можете да използвате [разполагане на Office за вашите потребители на Mac](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

@@ -1,6 +1,6 @@
 ---
-title: Производителността проблеми-SharePoint или OneDrive
-ms.author: kirks
+title: Проблеми с производителността-SharePoint или OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 4c68a365d6094a73a1ab35dddfcffb679421bd34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498332"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754469"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Вътрешна грешка в сървъра при навигацията на Sharepoint или OneDrive сайтове
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Вътрешна грешка в сървъра при навигиране до сайтове на SharePoint или OneDrive
 
-Потребителите могат да получават 500 вътрешна грешка в сървъра при опит да навигирате до SharePoint или OneDrive сайтове. 
+Потребителите могат да получат 500 вътрешна грешка в сървъра при опит за навигиране до сайтове на SharePoint или OneDrive. 
 
-Моля се опита да изчистите кеша на браузъра преди навигацията в сайта.
+Опитайте да изчистите кеша на браузъра, преди да навигирате до сайта.
 
 
-1. В браузъра на Microsoft ръб отидете още... > настройки
+1. В браузъра Microsoft Edge отидете на още... _ Gt_ настройки
 
-2. Под ясен паса данни изберете, **Изберете какво да изчистите**
+2. Под изчистване на данните за сърфирането изберете **Изберете какво да изчистите**
 
-3. Изберете бисквитки и запазени сайт данни квадратчето и **ясно**.
+3. Поставете отметка в квадратчето "бисквитките" и запаметено данните за уеб сайта и изберете " **Изчисти**".
 
-Забележка: Тези стъпки могат да се различават при използване на други браузъри като Firefox или Chrome.
+Забележка: тези стъпки може да се различават при използване на други браузъри като Firefox или Chrome.
 
-Ако това не разреши проблема, можете да проверите дали има активна поддръжка, настъпили на си наемател от навигацията в [център за съобщения](https://portal.office.com/adminportal/home#/MessageCenter).
+Ако това не разреши проблема, можете да проверите дали има активна поддръжка, настъпили на вашия клиент чрез навигиране до [центъра за съобщения](https://portal.office.com/adminportal/home#/MessageCenter).
 
-И накрая гарантира посещавате страницата на [Здравни услуги](https://portal.office.com/adminportal/home#/servicehealth) да проверите за всички дупки/инциденти, които могат да се случват.
+И накрая, уверете се, че посещавате [услугата здраве](https://portal.office.com/adminportal/home#/servicehealth) страница, за да проверите за всички съвети/инциденти, които могат да се случват.
 

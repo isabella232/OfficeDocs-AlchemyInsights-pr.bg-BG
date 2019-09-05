@@ -1,30 +1,30 @@
 ---
-title: Синхронизация на профили
-ms.author: kirks
+title: Синхронизиране на профили
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d3b8a40c0612ce76423d5adce02ebd6c597d2ad2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502904"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750041"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Когато промените ми профил за синхронизиране на SharePoint приложението за потребителски профил?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Кога Моят профил променя синхронизирането на приложението за потребителски профили на SharePoint?
 
-Профил снимка синхронизация в SharePoint Online изисква действие на потребителя да започне синхронизация на техен снимка. Няма няма автоматична синхронизация на снимки за SharePoint Online. SharePoint Online само синхронизира снимки от Exchange Online не Azure Active Directory.
+Синхронизиране на картина на профил в SharePoint online изисква действие на потребителя, за да започне синхронизирането на тяхната снимка. Няма автоматична синхронизация на снимки в SharePoint online. SharePoint online синхронизира само снимки от Exchange Online, а не Azure Active Directory.
 
-Ако даден потребител никога не е изпълнявал действие, което ще подкани синхронизиране или те са актуализирани снимката си профил и новата един не се появява в SharePoint Online, потребителят може да се наложи да подкани го за синхронизиране. Ето как те могат да направят това:
+Ако потребителят никога не е извършил действие, което ще подкани синхронизация или те са актуализирани своя профил картина и нов не се появява в SharePoint Online, потребителят може да се наложи да го подкани да синхронизирате. Ето как могат да направят това:
 
-- Отворете уеб браузър в-частни или инкогнито сесия и [отидете в Office.com](http://www.office.com/).
+- Отворете уеб браузър в частна или инкогнито сесия и [отидете на Office.com](http://www.office.com/).
 
-- Влезте с тяхната работа или училище сметка и щракнете върху OneDrive или SharePoint плочки.
+- Влезте с техния служебен или Училищен акаунт и щракнете върху OneDrive или SharePoint плочката.
 
-- [Добавете вашия профил снимка към Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [Добавете снимката на профила си в Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- [Информация за профил картина синхронизация в Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+- [Информация за синхронизация на профилната картина в Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
 

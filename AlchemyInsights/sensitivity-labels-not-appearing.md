@@ -1,5 +1,5 @@
 ---
-title: Чувствителност етикети не са включени
+title: Етикети за чувствителност не се появяват
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504524"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744810"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Чувствителност етикети не са включени
+# <a name="sensitivity-labels-not-appearing"></a>Етикети за чувствителност не се появяват
 
-Чувствителност етикети ви позволяват да се класифицира и да защитите чувствителни съдържание. За да научите повече за тази функция, вижте [Преглед на чувствителност етикети](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Етикетите за чувствителност ви позволяват да класифицирате и защитите вашето поверително съдържание. За да научите повече за тази функция, вижте [Преглед на етикетите за чувствителност](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Ако сте конфигурирали вашите етикети на чувствителност, но те не са включени в Office приложения, проверете следното:
+Ако сте конфигурирали вашите етикети за чувствителност, но те не се появяват в приложенията на Office, проверете следното:
 
-- Потвърдете, че чувствителността етикета е била [публикувана](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) на потребители и групи, които искате.
+- Потвърдете, че етикетът за чувствителност е [публикуван](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) на потребителите и групите, които искате.
 
-- Потвърдете, че потребителят използва ап, който поддържа чувствителност етикети - виж [чувствителност етикети във вашия документ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Потвърдете, че потребителят използва приложение, което поддържа етикети за чувствителност – вижте [етикетите за чувствителност във вашия документ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Ако сте [миграция Azure информация защита етикети](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), имайте предвид на съображения изброените [тук](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Ако сте [мигриране на етикети за защита на информацията на Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), бъдете наясно с изброените [тук](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)съображения.
 
-- Предотвратяване на загуба на данни (DLP) подкрепа: в момента, само задържане етикети може да се използва като условие в DLP политиките.  Подкрепа за чувствителност етикети в DLP политика е не наличен още, но ние работим по него.
+- Поддръжка за предотвратяване на загуба на данни (DLP): понастоящем само етикетите за задържане могат да се използват като условие в правилата на DLP.  Поддръжка за етикети за чувствителност в DLP политика не е налична все още, но ние работим по него.
 
-За повече информация за възможни проблеми вижте [известни проблеми с чувствителност етикети](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+За повече информация относно възможни проблеми вижте [известни проблеми с етикети за чувствителност](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

@@ -1,30 +1,30 @@
 ---
-title: Данни загуба предотвратяване (DLP) преглед
-ms.author: kirks
+title: Преглед на предотвратяване на загуба на данни (DLP)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514392"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755117"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Данни загуба предотвратяване (DLP) преглед
+# <a name="data-loss-prevention-dlp-overview"></a>Преглед на предотвратяване на загуба на данни (DLP)
 
-С политика на DLP можете да:
+С DLP политика можете да:
 
-- Идентифициране на чувствителна информация в много места, като онлайн Exchange, SharePoint Online и OneDrive за бизнес.
-
-
-Например можете да идентифицирате всеки документ, съдържащ номер на кредитна карта, която се съхранява във всяко OneDrive за бизнес сайт, или можете да следите само OneDrive сайтовете на конкретни хора.
-
-- Предотврати случайното обменът на поверителна информация.
+- Идентифициране на поверителна информация в много места, като например Exchange Online, SharePoint online и OneDrive за бизнес.
 
 
-За повече информация моля прегледайте следната [статия](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Например можете да идентифицирате всеки документ, съдържащ номер на кредитна карта, който се съхранява в OneDrive за бизнес сайт, или можете да наблюдавате само сайтовете на OneDrive на конкретни хора.
+
+- Предотвратяване на случайното споделяне на чувствителна информация.
+
+
+За повече информация, моля, прегледайте следната [статия](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

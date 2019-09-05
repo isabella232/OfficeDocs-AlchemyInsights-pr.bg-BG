@@ -1,6 +1,6 @@
 ---
 title: Ограничаване на достъпа в SharePoint или OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559866"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750653"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ограничаване на достъпа в SharePoint или OneDrive
 
-Има много начини за ограничаване на достъпа до услуги SharePoint Online/OneDrive. Тези различни методи за ограничаване на достъп са описани по-долу. 
+Има много начини за ограничаване на достъпа до услуги на SharePoint online/OneDrive. Тези различни методи за ограничаване на достъпа са описани по-долу. 
 
-**Разрешение ограничение**
+**Ограничение на разрешенията**
 
-В SharePoint Online и OneDrive за бизнес ограничаваме достъпа до обекти като сайтове, файлове и папки чрез само предоставяне на достъп до тези групи/лица, които трябва да имат достъп.
+В SharePoint online и OneDrive за бизнес ограничаваме достъпа до елементи като сайтове, файлове и папки само чрез предоставяне на достъп до тези групи/лица, които трябва да имат достъп.
 
-- [Персонализиране на разрешения за списък на SharePoint или библиотека](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Персонализиране на разрешенията за списък или библиотека на SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Персонализиране на разрешения на сайт на SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Персонализиране на разрешенията на сайта на SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 - [Промяна на разрешенията на подпапка](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Контрол на достъпа от неуправляван устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Контрол на достъпа от неуправлявани устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Като SharePoint или глобален администратор в Office 365, можете да блокирате или да ограничите достъпа до съдържание на SharePoint и OneDrive от неуправляван устройства (тези не хибрид АД се присъединиха или съвместими в Intune).
+Като SharePoint или глобален администратор в Office 365, можете да блокирате или ограничите достъпа до съдържание на SharePoint и OneDrive от неуправлявани устройства (хибридни AD, Съединени или съвместими в InTune).
 
-**Мрежа местоположение ограничение**
+**Ограничаване на местоположението в мрежата**
 
-Като ИТ администратор можете да контролирате достъпа до SharePoint и OneDrive ресурси, на базата на определени мрежови местоположения, които имате доверие. Това е също така известен като местоположение базирани политика. За повече информация моля вижте [контрол на достъпа до SharePoint Online и OneDrive данни, базиращи се на местоположение в мрежата](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Като ИТ администратор можете да контролирате достъпа до ресурси на SharePoint и OneDrive въз основа на дефинирани мрежови местоположения, на които имате доверие. Това е известно също като политика, базирана на местоположението. За повече информация вижте [контрол на достъпа до SharePoint online и OneDrive данни въз основа на мрежово местоположение](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Ограничението за заключване на сайта** 
+**Ограничение за заключване на сайта** 
 
-В рамките на SharePoint Online имате възможност за заключване надолу колекция сайтове, така че никой няма достъп. Това се задава чрез PowerShell и [SharePoint онлайн управление Шел](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) използване на [Набор-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState собственост.
+В SharePoint online имате възможност да заключите колекция от сайтове, така че никой няма достъп. Това е зададено чрез PowerShell и [онлайн обвивката за управление на SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) с помощта на свойството [Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -заключване.
 
-**Ограничаване на потребителите да създават сайтове, или подсайтове**
+**Ограничаване на потребителите да създават сайтове или подстраници**
 
-Като администратор на SharePoint или Office 365 е глобален администратор, можете да позволите на вашите потребители създават и управляват свои собствени сайтове на SharePoint, определи какви сайтове те могат да създават и Задайте местоположението на обектите. За повече информация моля вижте [управление създаването на сайт в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Като администратор на SharePoint или Office 365 глобален администратор можете да позволите на потребителите да създават и администрират собствени сайтове на SharePoint, да определят какъв вид сайтове могат да създават и да посочат местоположението на сайтовете. За повече информация вижте [управление на създаването на сайт в SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
