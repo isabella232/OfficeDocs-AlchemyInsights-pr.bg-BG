@@ -1,19 +1,19 @@
 ---
-title: Работния плот ап за SharePoint
-ms.author: kirks
+title: Настолно приложение за SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 29cf38b8fbf55a76fdf721d837efe16e3279a15e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f3c412932769d35ba79beed8065b866e12bc9bfa
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512736"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755513"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="01ea9-102">Работния плот ап за SharePoint</span><span class="sxs-lookup"><span data-stu-id="01ea9-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="726b0-102">Настолно приложение за SharePoint</span><span class="sxs-lookup"><span data-stu-id="726b0-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="01ea9-103">Вашата организация е въведен в частни предишен програма за работния плот ап за SharePoint.</span><span class="sxs-lookup"><span data-stu-id="01ea9-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="01ea9-104">Microsoft не текущ поддръжка на работния плот ап за SharePoint (частен преглед).</span><span class="sxs-lookup"><span data-stu-id="01ea9-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="01ea9-105">Моля, използвайте вашите изброяваните Microsoft Частен преглед партньори за да получите помощ с работния плот ап за SharePoint.</span><span class="sxs-lookup"><span data-stu-id="01ea9-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="726b0-103">Вашата организация се въвежда в програмата за частен преглед за настолното приложение за SharePoint.</span><span class="sxs-lookup"><span data-stu-id="726b0-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="726b0-104">Microsoft в момента не поддържа настолното приложение за SharePoint (частен преглед).</span><span class="sxs-lookup"><span data-stu-id="726b0-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="726b0-105">Използвайте своите партньори на Microsoft Private визуализация, за да получите помощ с настолното приложение за SharePoint.</span><span class="sxs-lookup"><span data-stu-id="726b0-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
