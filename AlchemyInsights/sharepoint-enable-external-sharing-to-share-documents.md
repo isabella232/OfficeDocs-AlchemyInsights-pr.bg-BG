@@ -1,5 +1,5 @@
 ---
-title: Външно споделяне в SharePoint онлайн
+title: Външно споделяне в SharePoint online
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -8,47 +8,47 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504236"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744486"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Външно споделяне в SharePoint онлайн
+# <a name="external-sharing-in-sharepoint-online"></a>Външно споделяне в SharePoint online
 
-Ако вашата организация извършва работа, която включва споделяне на документи или си сътрудничи пряко с доставчици, клиенти или клиенти, тогава можете да използвате [външни споделяне на функции на SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) да споделят съдържание с хора извън вашата организация.
+Ако вашата организация извършва работа, която включва споделяне на документи или сътрудничество директно с доставчици, клиенти или клиенти, тогава можете да използвате [външните функции за споделяне на SharePoint online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , за да споделяте съдържание с хора извън вашия Организация.
 
-За повече информация за външно споделяне моля посетете линка по-долу.
+За повече информация относно външното споделяне, моля, посетете връзките по-долу.
 
-- [Какво е външен потребител?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Какво представлява външният потребител?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Какво се случва при споделяне на сайт или документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
-
-
-- [Включване външното споделяне или изключване за SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-
-- [Включване външното споделяне или изключване за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-
-- [По подразбиране настройки за споделяне на тип сайт](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-
-- [Използвайте Sharepoint Online като бизнес-към-бизнес (B2B) екстранет разтвор](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-
-- [Споделяне на файлове на SharePoint или папка](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-
-- [Спри споделянето OneDrive или SharePoint файлове или папки, или промяна на разрешения](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
-
-- [Достъп на гост в екипи на Microsoft](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-
-- [Microsoft гости споделяне настройки препратка (Azure Active Directory, Microsoft 365 и SharePoint онлайн)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
+- [Какво се случва, когато споделям сайт или документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
+- [Включване или изключване на външното споделяне за SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-Получаване на грешка с външен потребител? &nbsp;Проверка на връзките по-долу.
+- [Включване или изключване на външното споделяне за даден сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Съобщение за грешка, когато външен потребител приеме покана SharePoint Online с помощта на друг акаунт](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Настройки за споделяне по подразбиране на тип сайт](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 
-- [Отказан достъп до споделена папка](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Използвайте SharePoint online като екстранет решение бизнес-към-бизнес (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [OSE споделяне грешки в Sharepoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Споделяне на файлове или папка на SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+- [Спиране на споделянето на файлове или папки на OneDrive или SharePoint или промяна на разрешенията](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+
+- [Достъп за гости в екипите на Microsoft](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+
+- [Microsoft гост настройки за споделяне препратка (Azure Active Directory, Microsoft 365 и SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
+
+
+
+Получаване на грешка с външен потребител? &nbsp;Проверете връзките по-долу.
+
+- [Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+
+- [Отказан достъп до споделена папка](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+
+- [Грешки при споделяне на OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

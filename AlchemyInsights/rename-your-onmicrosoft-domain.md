@@ -1,5 +1,5 @@
 ---
-title: Преименуване на домейна onmicrosoft
+title: Преименуване на вашия onmicrosoft домейн
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666469"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741210"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Преименуване на домейна onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Преименуване на onmicrosoft.com ви домейн
 
- **Не можете да преименувате onmicrosoft домейн след регистрация.** Например ако първоначалната конфигурация домейн сте избрали е *fourthcoffee.onmicrosoft.com*, не можете да променяте да бъде *fabrikam.onmicrosoft.com*. За да използвате различни onmicrosoft.com домейн, ще трябва да започнете нов абонамент с Office 365.
+ **Не можете да преименувате onmicrosoft домейн след регистрация.** Например, ако първоначалният домейн, който избрахте, е *fourthcoffee.onmicrosoft.com*, не можете да го промените, за да бъде *fabrikam.onmicrosoft.com*. За да използвате различен onmicrosoft.com домейн, трябва да започнете нов абонамент с Office 365.
   
-Ако искате да използвате собствен домейн като *contoso.com* , можете да [добавите един притежавате](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) или [купуват един от Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Ако искате да използвате персонализиран домейн като *contoso.com* , можете да [добавите един, който притежавате](https://docs.microsoft.com/office365/admin/setup/add-domain) , или да [закупите такъв от Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

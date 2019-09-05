@@ -1,5 +1,5 @@
 ---
-title: ADFS федерация сертификата изтича
+title: ADFS федерация сертификат изтичащ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499880"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737178"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS федерация сертификата изтича
+# <a name="adfs-federation-certificate-expiring"></a>ADFS федерация сертификат изтичащ
 
 За да разрешите този проблем, изпълнете следните стъпки:
   
-1. Инсталирайте Microsoft Azure Active Directory модул за Windows PowerShell на компютъра (ако вече не е инсталиран модул). За да направите това, отидете в [управление лазурно АД чрез Windows PowerShell](https://aka.ms/aadposh).
+1. Инсталирайте Microsoft Azure Active Directory модул за Windows PowerShell на компютъра (ако модулът вече не е инсталиран). За да направите това, отидете на [управление на AZURE ad с помощта на Windows PowerShell](https://aka.ms/aadposh).
 
-2. Следвайте стъпките в "сценарий 1: AD FS маркер за подписване сертификат с изтекъл срок" раздел на ["Възникнал е проблем при достъпа до сайта" грешка от AD FS когато външно потребител влезе в Office 365, Azure или Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Следвайте стъпките в "сценарий 1: AD FS маркер подписване сертификат изтече" раздел на ["Възникна проблем при достъп до сайта" грешка от AD FS, когато външен потребител влезе в Office 365, Azure или InTune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Следвайте стъпките в [как да актуализирате или да поправите настройките на външен домейн в Office 365, Azure или Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Следвайте стъпките в [актуализиране или поправяне на настройките на външен домейн в Office 365, Azure или InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    За да научите повече за подновяване федерация сертификати, вижте [поднови федерация сертификати за Office 365 и Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    За да научите повече за подновяване на Федерация сертификати, вижте [подновяване федерация сертификати за Office 365 и Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

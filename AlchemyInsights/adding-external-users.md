@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499736"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737394"
 ---
 # <a name="adding-external-users"></a>Добавяне на външни потребители
 
-Стъпките за добавяне на външни / като гост потребители могат да бъдат различни в зависимост от това, което трябва да бъде в състояние да получите достъп до. Моля изберете един от следните неща:
+Стъпките за добавяне на външни/гости потребители могат да бъдат различни в зависимост от това, което имате нужда от тях, за да имате достъп. Моля, изберете едно от следните неща:
   
-- [Управление на външно споделяне за вашата среда на SharePoint Online](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
+- [Общ преглед на външното споделяне](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Достъп на гост в Office 365 групи](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Достъп за гости в Office 365 групи](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Достъп на гост в екипи на Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Достъп за гости в екипите на Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

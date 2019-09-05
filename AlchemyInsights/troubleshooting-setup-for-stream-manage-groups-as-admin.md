@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности настройка за поток - управляващ поток лицензиране
+title: Настройка за отстраняване на неизправности за поток-управление на поток лицензиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533328"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742686"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Управление на лицензи Microsoft поток
+# <a name="managing-microsoft-stream-licenses"></a>Управление на лицензи за Microsoft Stream
 
-**Важно:** Трябва да бъде в ролята на наемател администратор за извършване на операции, описани в тази тема.
+**Важно:** Трябва да бъде в ролята на администратор на клиент за извършване на операции, описани в тази тема.
 
-Трябва да бъде глобален администратор или администратор потребител управление. За повече информация вижте [за Office 365 роли на администратор](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).
+Трябва да бъдете или глобален администратор, или администратор за управление на потребители. За повече информация вижте [за администраторските роли](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
 
-Можете да присвоите [лицензи на потребителски акаунти с Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Можете да присвоите [лицензи за потребителски акаунти с Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).

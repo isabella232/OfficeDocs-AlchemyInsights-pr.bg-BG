@@ -1,5 +1,5 @@
 ---
-title: Управление на вайкам потребители
+title: Управляване на потребители на Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497014"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734910"
 ---
-# <a name="managing-yammer-users"></a>Управление на вайкам потребители
+# <a name="managing-yammer-users"></a>Управление на потребители на Yammer
 
-1. За информация за управлението на вайкам потребителите от Office 365 моля вижте [управление хленча потребители в целия им жизнен цикъл от Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Това включва информация за:
+1. За информация относно управлението на Yammer потребители от Office 365, вижте [управление на yammer потребители през техния жизнен цикъл от office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Това включва подробности за:
 
   - Създаване на потребител
 
-  - Изтриване потребители
+  - Изтриване на потребители
 
-  - Управление на вайкам потребители от Office 365
+  - Управление на Yammer потребители от Office 365
 
-2. Вижте [Добавяне на блок, или премахнете вайкам потребители](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) за информация за управлението на потребителите от вайкам административната конзола. Това включва:
+2. Моля [, вижте Добавяне, блокиране или премахване на yammer потребители](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) за информация за управление на потребители от yammer администраторската конзола. Това включва:
 
-  - Покани или премахване на потребители
+  - Подканване или премахване на потребители
 
-  - Канят гости потребители
+  - Покани гости потребители
 
-  - Експортиране на списъка с потребители
+  - Експортиране на потребителския списък
 
-3. За информация относно добавянето и управление на външни потребители вижте [Добавяне външни съобщения участниците да се вайкам мрежата](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. За информация относно добавянето, премахването и управлението на външни потребители вижте [Добавяне на външни участници за съобщения в мрежата на Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

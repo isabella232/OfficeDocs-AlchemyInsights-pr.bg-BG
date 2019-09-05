@@ -1,5 +1,5 @@
 ---
-title: Промяна на алтернативен имейл адрес за известяване за таксуване
+title: Промяна на алтернативния имейл адрес за уведомяване за фактуриране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520980"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738726"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Промяна на алтернативен имейл адрес за известяване за таксуване
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Промяна на алтернативния имейл адрес за уведомяване за фактуриране
 
-Промяна на алтернативен имейл адрес за фактуриране уведомяване е лесно. Просто следвайте тези стъпки:
+Промяната на алтернативния имейл адрес за уведомяване за фактуриране е лесна. Просто изпълнете следните стъпки:
   
-1. В центъра за администрация на Microsoft 365 преминете към **плащане** \> [Билинг съобщаване](https://go.microsoft.com/fwlink/p/?linkid=853212) паж.  
+1. В центъра за **администриране на Microsoft** \>365 отидете на страницата [известия](https://go.microsoft.com/fwlink/p/?linkid=853212) за фактуриране на фактуриране.  
 
 2. Изберете име от списъка.
 
 3. В полето **алтернативен имейл адрес** Въведете алтернативния имейл адрес.
 
-4. Изберете **Запиши** и сте готови!
+4. Изберете **Запиши** и си готов!
 
-За повече информация и стъпки със снимки на екрана вижте [промяна си адреси за фактуриране за Office 365](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+За повече подробности и стъпки с снимки на екрана вижте [Промяна на адресите за фактуриране за Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

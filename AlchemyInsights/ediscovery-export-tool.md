@@ -1,5 +1,5 @@
 ---
-title: инструмент за експортиране на eDiscovery
+title: инструмент за експортиране на откриването на откриване
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528252"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736314"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не може да инсталирате или изпълните eDiscovery инструмент за експортиране?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не можете да инсталирате или стартирате инструмента за експортиране на откриване на
 
-Ако не може да инсталирате или стартирате Office 365 eDiscovery експортиране инструмент за да изтеглите резултатите от търсенето, проверете следните неща:
+Ако не можете да инсталирате или стартирате инструмента за експортиране на откриването на Office 365 за изтегляне на резултатите от търсенето, проверете следните неща:
   
-- Компютърът, който използвате отговаря тези предпоставки:
+- Компютърът, който използвате, отговаря на тези предварителни реквизити:
 
-  - 32 - или 64-битови версии на Windows 7 и по-късните версии
+  - 32-или 64-битови версии на Windows 7 и по-нови версии
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
   - Поддържан браузър:
 
-  - Microsoft ръб
+  - Microsoft Edge
 
     Или
 
-  - Internet Explorer 10 и по-късните версии
+  - Internet Explorer 10 и по-нови версии
 
-    Други браузъри като Google Chrome и Firefox на Mozilla не се поддържат.
+    Други браузъри, като например Google Chrome и Mozilla Firefox, не се поддържат.
 
-- Вашата организация може да се свърже с крайна точка в Azure, което е ** \*. blob.core.windows.net** (заместващи представлява уникален идентификатор за вашето задание за експортиране).
+- Вашата организация може да се свърже с крайната точка в Azure, която е ** \*. blob.Core.Windows.net** (Заместващият символ представлява Еднозначен идентификатор за вашата задача за експортиране).
 
-- Вие сте възложили износ роля в сигурността на Office 365 &amp; съответствие център. По подразбиране тази роля само е присвоена към ролевата група за мениджър на eDiscovery. Вижте [Присвояване на eDiscovery разрешения](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Вие сте присвоени роля за експортиране в центъра за съответствие на &amp; Office 365 сигурност. По подразбиране тази роля се присвоява само на ролева група на диспечера за откриване на откриването. Вижте [Присвояване на разрешения за откриване на откриването](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-За повече информация вижте [експортиране на съдържание за търсене резултати](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+За повече информация вижте [резултатите от търсенето с експортиране на съдържание](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

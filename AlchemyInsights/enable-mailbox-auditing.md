@@ -1,5 +1,5 @@
 ---
-title: Разреши проверка на пощенска кутия
+title: Разрешаване на проверка на пощенската кутия
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527582"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736242"
 ---
-# <a name="enable-mailbox-auditing"></a>Разреши проверка на пощенска кутия
+# <a name="enable-mailbox-auditing"></a>Разрешаване на проверка на пощенската кутия
 
-За да разрешите проверка на пощенска кутия за единичен потребител или цялата организация следните кратки команди трябва да се управлява от дистанционно Power Shell:
+За да разрешите проверка на пощенската кутия за един потребител или цяла организация следните кратки команди трябва да се изпълняват от отдалечената Power Shell:
   
  **Единичен потребител**
   
-Set-пощенска кутия - идентичност "Джейн Доу" - AuditEnabled на $true
+Set-пощенска кутия-идентичност "Jane Dow"-Аудиоled $true
   
  **Организация**
   
-Махни-пощенска кутия - ResultSize неограничен - филтър {RecipientTypeDetails - eq "UserMailbox"} | Set-пощенска кутия - AuditEnabled $true
+Get-пощенска кутия Резултитразмер неограничен-филтър {РеЦипиенттипедетаилс-EQ "UserMailbox кутия"} | Set-пощенска кутия-Аудиоled $true
   
-[Научете повече](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[Научете повече](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

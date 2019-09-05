@@ -1,5 +1,5 @@
 ---
-title: Инсталирането увисва или получава остана
+title: Инсталирането виси или се заби
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498620"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735414"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Инсталация на Office виси или получава остана
+# <a name="office-installation-hangs-or-gets-stuck"></a>Инсталирането на Office увисва или се заби
 
-Това поведение поради мрежова свързаност, антивирусен софтуер или настройки на Windows Update може да видите на вашия компютър. Ето някои неща, които можете да опитате да коригирате проблема.
+Може да видите това поведение поради мрежова свързаност, антивирусен софтуер или настройки на Windows Update на вашия компютър. Ето някои неща, които можете да опитате да отстраните проблема.
   
-- Рестартирайте компютъра и проверете дали инсталиран Office
+- Рестартирайте компютъра и проверете дали Office инсталиран
 
-- Използвайте кабелна връзка
+- Използване на кабелна връзка
 
-- Ако сте на бавна интернет връзка, инсталирайте Office [с помощта на Office офлайн монтажник](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Ако сте на бавна интернет връзка, инсталирайте Office [чрез офлайн инсталиращата програма на Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Временно да изключите антивирусния софтуер
+- Временно изключване на антивирусния софтуер
 
-- Изпълнете онлайн поправяне от контролния панел
+- Стартирай онлайн ремонт от контролния панел
 
-- Премахнете и преинсталирате Office
+- Премахване и преинсталиране на Office
 
-[Службата отнема дълго време за инсталиране](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office дълго време се инсталира](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

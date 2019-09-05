@@ -1,26 +1,26 @@
 ---
-title: Условен достъп с Intune
-ms.author: kirks
+title: Условен достъп с InTune
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520152"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755549"
 ---
 # <a name="conditional-access"></a>Условен достъп
 
-Условен достъп е способност на Azure Active Directory. С условен достъп можете да реализирате автоматизиран достъп контролата решения за достъп до вашия облак приложения, които са базирани на условията. За повече информация моля посетете [Configuring Location-Based политики](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Условен достъп е възможност на Azure Active Directory. С условен достъп можете да реализирате автоматизирани решения за контрол на достъпа за достъп до вашите приложения в облака, които се базират на условия. За повече информация, моля, посетете [Конфигуриране на базирани на местоположение правила](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Като ИТ администратор можете да контролирате достъпа до SharePoint и OneDrive ресурси, на базата на определени мрежови местоположения или устройства, имате доверие. За повече информация моля посетете линка по-долу.
+Като ИТ администратор можете също да контролирате достъпа до ресурси на SharePoint и OneDrive въз основа на дефинирани мрежови местоположения или устройства, на които имате доверие. За повече информация, моля, посетете връзките по-долу.
 
-- [Контрол на достъпа до SharePoint Online и OneDrive данни, базиращи се на местоположение в мрежата](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Контролирайте достъпа до SharePoint online и OneDrive данни въз основа на мрежовото местоположение](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Контрол на достъпа от неуправляван устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Контрол на достъпа от неуправлявани устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

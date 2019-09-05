@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 46de7befada6c67f9bc91f358201944cb1daaee2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555906"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741282"
 ---
-# <a name="encrypt-messages-using-smime"></a>Шифроване на съобщения с помощта на S/MIME
+# <a name="encrypt-messages-using-smime"></a>Шифроване на съобщения чрез S/MIME
 
-Използвайте S/MIME в Outlook в уеб за увеличаване на сигурността на вашите съобщения. Цифрово шифровано съобщение може да бъде отварян само от получатели, които имате правилен ключ. Цифров подпис уверява получатели, че съобщението не е променяно.
+Използвайте S/MIME в Outlook в мрежата, за да увеличите сигурността на съобщенията си. Цифрово шифровано съобщение може да се отвори само от получатели, които имат правилния ключ. Цифровият подпис гарантира на получателите, че съобщението не е било променено.
 
-**Забележка:** Разширението на S/MIME трябва да бъде инсталиран от вашия администратор.
+**Забележка:** Разширението S/MIME трябва да бъде инсталирано от администратора ви.
 
-За да промените настройките на S/MIME в Outlook в мрежата:
+За да промените вашите S/MIME настройки в Outlook в мрежата:
 
 1. Отиди на <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  **Настройки** > **Преглед на всички настройки на Outlook**.
 2. Изберете **поща** > **S/MIME**.
 
-Прочетете [шифроване на съобщения с помощта на S/MIME в Outlook в мрежата] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? wt.mc_id=Office_Outlook_com_Alchemy) за повече информация.
+Прочетете [шифровайте съобщенията, като използвате S/MIME в Outlook в мрежата](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) за повече информация.

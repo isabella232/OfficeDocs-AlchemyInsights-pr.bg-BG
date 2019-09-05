@@ -1,5 +1,5 @@
 ---
-title: Външен потребител е в състояние да получите достъп до съдържание в SharePoint Online
+title: Външен потребител е в състояние да получите достъп до съдържание в SharePoint online
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503912"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744090"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Външен потребител е в състояние да получите достъп до съдържание в SharePoint Online
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Външен потребител е в състояние да получите достъп до съдържание в SharePoint online
 
-Ако външен потребител е поканен и е в състояние да получите достъп до съдържание, моля, опитайте да посетите връзките по-долу.
+Ако външен потребител е поканен и не може да получи достъп до съдържание, моля, опитайте да посетите връзките по-долу.
 
-- [Съобщение за грешка, когато външен потребител приеме покана SharePoint Online с помощта на друг акаунт](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Отказан достъп до споделена папка](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Отказан достъп до споделена папка](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [OSE споделяне грешки в Sharepoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Грешки при споделяне на OSE в SharePoint и OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

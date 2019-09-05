@@ -1,5 +1,5 @@
 ---
-title: Промяна на домейн за Office 365 група
+title: Промяна на домейна за Office 365 група
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519720"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736818"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Промяна на домейна за Office 365 група
+# <a name="change-the-domain-for-office-365-group"></a>Промяна на домейна за Office 365 Group
 
-Ако искате да промените домейн за Office 365 група по време на създаването, следвайте стъпките в [изберете домейн, за да използвате, когато създавате Office 365 групи](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Ако искате да промените домейна за Office 365 Group по време на създаването, следвайте стъпките в [Изберете домейна, който да използвате при създаване на office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-След групата на Office 365 вече е създаден, в момента няма начин да промените домейн. Единственият начин е да създадете нова група на Office 365 и изтриете старите, ако е необходимо (допълнителни имейл адреси могат да се добавят чрез [Центъра за администриране на Exchange](https://outlook.office365.com/ecp.aspx)).
+След като вече е създадена Office 365 Group, в момента няма начин да промените домейна. Единственият начин е да създадете нов Office 365 Group и да изтриете стария, ако е необходимо (допълнителни имейл адреси могат да бъдат добавени чрез [центъра за администриране на Exchange](https://outlook.office365.com/ecp.aspx)).

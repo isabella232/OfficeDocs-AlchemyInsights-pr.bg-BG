@@ -1,5 +1,5 @@
 ---
-Title: Отстраняване на проблеми сценарии за обновяване - плочки грешки
+title: Отстраняване на сценарии за обновяване-грешки в плочките
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506828"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748817"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Отстраняване на проблеми сценарии за обновяване - плочки грешки
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Отстраняване на сценарии за обновяване-грешки в плочките
 
-Ако изпитвате плочка обновяване грешки в рамките на мощност BI услугата, моля, изчакайте около 10-15 минути за обновяване, за да бъдат отразени в таблото плочки. Ако тя все още е не показвам горе, ре-карфица визуализация към таблото.
+Ако имате грешки в плочки опресняване в услугата на Power BI, моля, изчакайте около 10-15 минути за опресняване да се отрази в плочките на таблото. Ако все още не се показва, отново Закачете визуализацията към таблото.
 
 За повече информация:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

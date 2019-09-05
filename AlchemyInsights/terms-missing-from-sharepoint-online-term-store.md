@@ -1,6 +1,6 @@
 ---
-title: Условия липсват от SharePoint онлайн хранилище на изрази
-ms.author: kirks
+title: Липсващи условия от хранилището на онлайн термина на SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500816"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749141"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Условия липсват от SharePoint онлайн хранилище на изрази
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Липсващи условия от хранилището на онлайн термина на SharePoint
 
-Условията в онлайн хранилище на изрази, които очаквате да видите не се появяват на SharePoint или са периодично се появяват.
+Условията в хранилището на SharePoint Online, които очаквате да видите не се появяват или се появяват периодично.
   
-Ако повече от 24 часа са изминали от вас за първи път видях този проблем, моля влезте подкрепа случай. Ние разбираме, че 24 часа може да изглежда като дълго време. В много случаи, ние вече работим върху решение, така моля, дайте ни най-малко 24 часа.
+Ако са изминали повече от 24 часа от първия път, когато сте видели този проблем, моля, влезте в случай на поддръжка. Ние разбираме, че 24 часа може да изглежда дълго време. В много случаи, ние вече работим по решение, така че моля да ни даде поне 24 часа.
   

@@ -1,5 +1,5 @@
 ---
-title: Код на грешка 550 5.7.501 отказан достъп, злоупотреба със спам открити
+title: Код на грешка 550 5.7.501 достъпът е отказан, нежелана злоупотреба открити
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527138"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740130"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 отказан достъп, злоупотреба със спам открити
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 достъпът е отказан, нежелана злоупотреба Открит
 
-Обикновено, това съобщение се появява, когато потребителите изпращат имейл съобщения от IP адреси с помощта на първоначалната *. onmicrosoft.com* домейн, който е присвоен на нови наематели в Office 365. Най-лесният начин за разрешаване на този проблем е да:
+Обикновено това съобщение се появява, когато потребителите изпращат имейл съобщения от IP адреси с помощта на първоначалния *. onmicrosoft.com* домейн, който е присвоен на нови наематели в Office 365. Най-лесният начин да разрешите този проблем е:
 
-1. [Добави домейн към наемателя](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [Добавяне на домейн към вашия клиент](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [Промяна на вашите потребители основен имейл адрес](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) на новия потребителски домейн ти прав прибавка.
+2. [Променете основния имейл адрес на потребителите си](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) на новия персонализиран домейн, който току-що добавихте.

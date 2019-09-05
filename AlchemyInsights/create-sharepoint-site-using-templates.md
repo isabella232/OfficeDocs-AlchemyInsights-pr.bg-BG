@@ -1,6 +1,6 @@
 ---
-title: Създаване на сайт в SharePoint Online
-ms.author: kirks
+title: Създаване на сайт в SharePoint online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514987"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755297"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Създаване на сайтове на SharePoint с помощта на шаблони
 
-Шаблони за сайтове на SharePoint са предварително създадени дефиниции, предназначени около на дадена бизнес нужда. За повече информация вижте [използване на шаблони за създаване на различни видове на сайтове на SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Шаблоните за сайтове на SharePoint са предварително построени дефиниции, проектирани около конкретна бизнес потребност. За повече информация вижте [използване на шаблони за създаване на различни видове сайтове на SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Ето някои често срещани проблеми/решения по отношение на спестяване на сайт или списък като шаблон в Sharepoint Online. 
+Ето някои често срещани проблеми/решения по отношение на записването на сайт или списък като шаблон в SharePoint online. 
 
-**Запиши сайт/списък шаблон бутон не е наличен или липсва**
+**Бутонът за запис на шаблон за сайт/списък не е наличен или липсва**
 
-Администраторите ще трябва да разрешите потребителски скрипт да разрешите шаблона функции. За подробни стъпки Вижте примери и съображения 
+Администраторите ще трябва да разрешат персонализирания скрипт, за да разрешат функциите на шаблона. За подробни стъпки, примери и съображения вижте 
 
-- [Разрешаване или предотвратяване на потребителски скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Разрешаване или предотвратяване на персонализиран скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Запиши сайта като шаблон команда не се поддържа и може да причини проблеми на сайтове, които използват SharePoint Server публикуване инфраструктура.
+- Командата за записване на сайта като шаблон не се поддържа и може да доведе до проблеми на сайтове, използващи инфраструктура за публикуване на SharePoint Server.
 
-**Шаблонът на сайта не може да бъде създадена или не работи правилно**
+**Шаблонът на сайта не може да бъде създаден или не работи правилно**
 
-Шаблонът може да липсва [функция](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) и няма да се активира. Ако функцията не е достъпна за да активирате в текущата колекция от сайтове, можете да използвате шаблона за сайт за създаване на сайт.
+Може да липсва [функция](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) на шаблона и да не се активира. Ако функцията не е налична за активиране в текущата колекция от сайтове, не можете да използвате шаблона на сайта, за да създадете сайт.
 
-- Проверете дали някакви списъци или библиотеки надвишават [Праг на списъчен изглед лимит](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) от 5000 позиции, тъй като това може да блокира създаването на шаблон на сайт.
+- Проверете дали някои списъци или библиотеки надхвърлят [прага за ограничаване на списъчен изглед](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) на 5000 елемента, тъй като това може да блокира създаването на шаблон на сайт.
 
-- Сайтът може да се използва твърде много ресурси и следователно шаблона на сайта надхвърля 50 MB граница.
+- Сайтът може да използва твърде много ресурси и следователно шаблонът на сайта надвишава ограничението от 50 МБ.
 
 
-- Има проблеми при показването на данни от списък, който използва справочна колона. За повече информация вижте [, генерирано от шаблон на списък не се показва данни от списъка с правилното търсене в SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Има проблеми с показването на данни от списък, който използва справочна колона. За повече информация вижте [шаблон генериран списък не показва данни от правилния списък за търсене в SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-За по-подробна информация по общи проблеми и решения моля проверете [Създаване и използване на сайта шаблони](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+За по-подробна информация относно често срещани проблеми и решения, моля, проверете [Създаване и използване на шаблони за сайтове](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

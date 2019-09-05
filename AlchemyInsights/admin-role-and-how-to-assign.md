@@ -1,5 +1,5 @@
 ---
-title: Администратор роля и как да присвоите
+title: Роля на администратор и как да присвоите
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493905"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737070"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Какви са ролите на администратор и как можете да ги присвоите?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Какви са администраторските роли и как ги присвоявате?
 
-Изглежда, че имате някои въпроси за роли на администратор. Тези членове трябва да отговори на всички ваши въпроси.
+Изглежда имате няколко въпроса за администраторските роли. Тези статии трябва да отговорят на всичките ви въпроси.
   
-- [За Office 365 роли на администратор](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Всичко за администраторските роли](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Присвояване на роли на администратор](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Присвояване на роли на администратор](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Не отговори на въпроса ви? Няма проблеми! Използвайте опцията "Нека ви призовавам" да говори с инженер поддръжка.
+Не отговори на въпроса ти? Няма проблеми! Използвайте опцията "Нека ви наричаме", за да говорите с инженер по поддръжката.
   

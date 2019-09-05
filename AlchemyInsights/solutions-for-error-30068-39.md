@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501680"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743334"
 ---
 # <a name="solutions-for-error-30068-39"></a>Решения за грешка 30068-39
 
-Опитайте тези решения да се поправи грешка [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Опитайте тези решения, за да поправите грешка [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
 - Рестартирайте компютъра и опитайте да [инсталирате Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Проверете дали **Microsoft щракване-към-тичам**[служба е забранен](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) и ако тя е забранена, промени състоянието на **ръчно** или **автоматично**.
+- Проверете дали услугата **Microsoft Click-To-Run** [е забранена](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) и ако е забранена, променете състоянието на **ръчно** или **автоматично**.
 
-- Изтегляне и инсталиране на [поддръжка и възстановяване помощник](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Изтеглете и инсталирайте [поддръжката и помощника за възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Когато го отвори, от **продукти деинсталирате Office** изберете версията, която искате да деинсталирате и изберете **напред**.
+1. Когато се отвори, от **Деинсталиране на продукти на Office** изберете версията, която искате да деинсталирате и изберете **напред**.
 
-2. Продължи става чрез екрани и рестартирайте компютъра, когато получите подкана.
+2. Продължете да правите екрани и рестартирайте компютъра, когато получите подкана.
 
-    След рестартиране, поддръжка и възстановяване помощник автоматично повторно отваря за да завършите процеса на деинсталиране.
+    След рестартиране помощникът за поддръжка и възстановяване автоматично се отваря, за да завърши процеса на деинсталиране.
 
-3. Следвайте останалите подсказва и [преинсталирате Office](https://portal.office.com/OLS/MySoftware.aspx) или затворите помощника.
+3. Следвайте останалите подкани и [преинсталирайте Office](https://portal.office.com/OLS/MySoftware.aspx) или затворете помощника.

@@ -1,6 +1,6 @@
 ---
-title: Достъпът е отказан при разглеждане на работен поток
-ms.author: kirks
+title: Достъпът е отказан при преглеждане на работен поток
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495812"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747737"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Достъпът е отказан при разглеждане на работен поток
+# <a name="access-denied-when-viewing-a-workflow"></a>Достъпът е отказан при преглеждане на работен поток
 
-SharePoint 2013 работни потоци, които се опитват да изпратите имейл до SharePoint група може да се провали с "Достъп отказ" грешка съобщение, ако съставът на групата на SharePoint не е за всеки.
+SharePoint 2013 работни потоци, които се опитват да изпратите имейл до група на SharePoint може да се провали с съобщение за грешка "достъпът отказан", ако членството на групата на SharePoint не е зададен на всички.
   
- **За да разрешите този проблем, направете следните стъпки:**
+ **За да разрешите този проблем, изпълнете следните стъпки:**
   
- 1. Позволи всички да видите членовете на групата на SharePoint.
+ 1. Позволете на всички да виждат членовете на групата на SharePoint.
   
- 2. Премахнете групата на SharePoint от полето до или Як на писмото.
+ 2. Премахнете групата на SharePoint от до или Як линия на имейла.
   
- 3. Изрично да добавите потребители към полето до или Як линия ако видимостта на членство не може да бъде променено за SharePoint група.
+ 3. Изрично добавете потребителите към до или Як линия, ако членството видимост не може да се промени за група на SharePoint.
   
-За да видите повече подробности моля вижте [HTTP неразрешените до /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+За да видите повече подробности, моля, вижте [http неразрешено към/_vti_bin/client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

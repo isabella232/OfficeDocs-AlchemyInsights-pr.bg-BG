@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531852"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741822"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Използване на споделена пощенска кутия на мобилно устройство
 
-Нямате достъп до споделена пощенска кутия от Outlook app, която е инсталирана на мобилното устройство. Искате ли тази функция? Нека Outlook инженерен екип знае. [Гласуване тук](https://go.microsoft.com/fwlink/?linked=862116)!
+Нямате достъп до споделена пощенска кутия от приложението на Outlook, което е инсталирано на мобилното устройство. Искате ли тази функция? Нека екипът на Outlook Инженеринг да знае. [Гласувайте тук](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Можете да използвате споделена пощенска кутия само на мобилно устройство чрез отваряне на вашия браузър, влизате в Office 365 и тогава ще Outlook в мрежата. За инструкции вижте [Добавяне на споделена пощенска кутия в Outlook в мрежата](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Можете да използвате споделена пощенска кутия на мобилно устройство чрез отваряне на браузъра, влизане в Office 365 и след това към Outlook в мрежата. За инструкции вижте [Добавяне на споделена пощенска кутия в Outlook в мрежата](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Ако ви трябва достъп до споделени пощенски кутии с помощта на Outlook ап на мобилно устройство, помислете за създаване на Office 365 група вместо използването на споделена пощенска кутия. За повече информация вижте [сравнение на групи](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Ако трябва да получите достъп до споделени пощенски кутии с помощта на приложението на Outlook на мобилно устройство, помислете за създаване на Office 365 група вместо да използвате споделена пощенска кутия. За повече информация вижте [Сравняване на групи](https://docs.microsoft.com/office365/admin/create-groups/compare-groups).
   
-Научете повече: [в ап помощ за Outlook за iOS и Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Научете повече: [Получете помощ в приложението за Outlook за IOS и Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
