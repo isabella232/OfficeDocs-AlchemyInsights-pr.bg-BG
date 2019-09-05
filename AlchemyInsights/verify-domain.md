@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f493daec299e5831f72b48d2ff1ae63c79c23b81
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506155"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738042"
 ---
 # <a name="trying-to-verify-your-domain"></a>Опит за потвърждаване на вашия домейн?
 
@@ -24,6 +24,6 @@ ms.locfileid: "36506155"
   
 Следвайте инструкциите в статията по-долу за добавяне на TXT запис, за да потвърдите вашия домейн. Изберете вашия регистратор на домейн за конкретни инструкции за вашия домейн.
   
-[Създаване на DNS записи за Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Създаване на DNS записи за Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

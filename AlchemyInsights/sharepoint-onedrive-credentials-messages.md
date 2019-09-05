@@ -1,6 +1,6 @@
 ---
-title: Отворете библиотеката на SharePoint в File Explorer
-ms.author: kirks
+title: Отваряне на библиотека на SharePoint във файловия мениджър
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12d895b6a9fdd9bc14b858d171acb8dccb1b6b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507980"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751013"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Съобщения за идентификационни данни в сайт на SharePoint или OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Идентификационни данни съобщения в SharePoint или OneDrive
 
-Потребителите могат да бъдат периодично питани от Службата за идентификационни данни на SharePoint Online или OneDrive при опит за отваряне на документи.
+Потребителите могат да бъдат периодично подканени от Office за идентификационни данни на SharePoint Online или OneDrive при опит за отваряне на документи.
 
-По-долу са някои примери за идентификационни данни съобщения:
+Следват някои примери на съобщенията за идентификационни данни:
 
-- Влезте с профила си организационни
+- Влезте в профила си с вашия организационен акаунт
 
-- Идентификационни данни са задължителни
+- Необходими са идентификационни данни
 
-- Ние сме в състояние да се свържете сега, проверете вашата мрежова връзка
+- В момента не можем да се свържем, Проверете мрежовата си връзка
 
-Ако имате тези симптоми, моля, изпълнете стъпките в [тази статия](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Ако имате тези симптоми, моля, опитайте стъпките, намиращи се в [тази статия](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
-Като алтернатива ако ти сте using единствен знак-на (SSO) за удостоверяване, моля вижте [тази статия](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) вместо това.
+Алтернативно, ако използвате еднократна идентификация (SSO) за удостоверяване, моля, вижте [тази статия](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) .
 
