@@ -1,41 +1,41 @@
 ---
-title: 'OneDrive: Липсващи файлове или папки'
-ms.author: kirks
+title: 'OneDrive: липсващи файлове или папки'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521232"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753245"
 ---
-# <a name="onedrive-missing-files-or-folders"></a><span data-ttu-id="6df4f-102">OneDrive: Липсващи файлове или папки</span><span class="sxs-lookup"><span data-stu-id="6df4f-102">OneDrive: Missing files or folders</span></span>
+# <a name="onedrive-missing-files-or-folders"></a><span data-ttu-id="18bfb-102">OneDrive: липсващи файлове или папки</span><span class="sxs-lookup"><span data-stu-id="18bfb-102">OneDrive: Missing files or folders</span></span>
 
-<span data-ttu-id="6df4f-103">**Проверете в кошчето на сайта**.</span><span class="sxs-lookup"><span data-stu-id="6df4f-103">**Check the recycle bin of the site**.</span></span>
+<span data-ttu-id="18bfb-103">**Проверете кошчето на сайта**.</span><span class="sxs-lookup"><span data-stu-id="18bfb-103">**Check the recycle bin of the site**.</span></span>
 
-- [<span data-ttu-id="6df4f-104">Възстановяване на елементи в кошчето на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="6df4f-104">Restore items in the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
-- [<span data-ttu-id="6df4f-105">Възстановяване на изтрити файлове или папки в OneDrive</span><span class="sxs-lookup"><span data-stu-id="6df4f-105">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
-
-
-<span data-ttu-id="6df4f-106">**Използвам OneDrive пила възстановяване функция**.</span><span class="sxs-lookup"><span data-stu-id="6df4f-106">**Utilize the OneDrive Files Restore feature**.</span></span> 
-
-<span data-ttu-id="6df4f-107">Ако много ви OneDrive файлове се изтрити, презаписани, повреден или заразени със злонамерен софтуер, можете да възстановите целия си OneDrive към предишно моментно използване на функцията за [възстановяване на OneDrive файлове](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .</span><span class="sxs-lookup"><span data-stu-id="6df4f-107">If lots of your OneDrive files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time using the [OneDrive Files restore](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) feature.</span></span>
+- [<span data-ttu-id="18bfb-104">Възстановяване на елементи в кошчето на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="18bfb-104">Restore items in the Recycle Bin of a SharePoint site</span></span>](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [<span data-ttu-id="18bfb-105">Възстановяване на изтрити файлове или папки в OneDrive</span><span class="sxs-lookup"><span data-stu-id="18bfb-105">Restore deleted files or folders in OneDrive</span></span>](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-<span data-ttu-id="6df4f-108">**Употреба одит logging или прозореца файл дейност да проверите хронологията на файла**.</span><span class="sxs-lookup"><span data-stu-id="6df4f-108">**Use audit logging or the file activity pane to check history of the file**.</span></span>
+<span data-ttu-id="18bfb-106">**Използвайте функцията за възстановяване на файлове в OneDrive**.</span><span class="sxs-lookup"><span data-stu-id="18bfb-106">**Utilize the OneDrive Files Restore feature**.</span></span> 
 
-<span data-ttu-id="6df4f-109">Проверете [одиторски доклади](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) от щурманския [тук](https://sip.protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="6df4f-109">Check the [audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) by navigating [here](https://sip.protection.office.com/).</span></span>
-
-
-<span data-ttu-id="6df4f-110">Използвайте [файл дейност екран](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , за да проверите историята на файла.</span><span class="sxs-lookup"><span data-stu-id="6df4f-110">Use the [file activity pane](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) to check the history of the file.</span></span>
+<span data-ttu-id="18bfb-107">Ако много от файловете ви в OneDrive се изтрият, презаписват, повредят или заразят със злонамерен софтуер, можете да възстановите целия OneDrive до предишно време, като използвате функцията за [възстановяване на файлове в onedrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .</span><span class="sxs-lookup"><span data-stu-id="18bfb-107">If lots of your OneDrive files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time using the [OneDrive Files restore](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) feature.</span></span>
 
 
-<span data-ttu-id="6df4f-111">**Проверете OneDrive синхронизиране на клиента на локалния ви компютър**.</span><span class="sxs-lookup"><span data-stu-id="6df4f-111">**Check the OneDrive Sync Client on your local machine**.</span></span>
+<span data-ttu-id="18bfb-108">**Използвайте регистрирането на проверка или прозореца на активността на файла, за да проверите хронологията на файла**.</span><span class="sxs-lookup"><span data-stu-id="18bfb-108">**Use audit logging or the file activity pane to check history of the file**.</span></span>
 
-<span data-ttu-id="6df4f-112">Ако вие сте синхронизиране на файлове на вашия компютър с помощта на OneDrive синхронизиране клиента, проверете папката локални синхронизация да се гарантира, че е правилно качен.</span><span class="sxs-lookup"><span data-stu-id="6df4f-112">If you're syncing the files on your computer by using the OneDrive Sync client, check the local sync folder to ensure that it has been properly uploaded.</span></span> <span data-ttu-id="6df4f-113">Проверявайте също и в кошчето на локалния ви компютър.</span><span class="sxs-lookup"><span data-stu-id="6df4f-113">Ensure you also check the recycle bin on your local machine.</span></span>
+<span data-ttu-id="18bfb-109">Проверете [одитните отчети](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) чрез навигиране [тук](https://sip.protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="18bfb-109">Check the [audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) by navigating [here](https://sip.protection.office.com/).</span></span>
+
+
+<span data-ttu-id="18bfb-110">Използвайте [прозореца на активността на файла](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , за да проверите хронологията на файла.</span><span class="sxs-lookup"><span data-stu-id="18bfb-110">Use the [file activity pane](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) to check the history of the file.</span></span>
+
+
+<span data-ttu-id="18bfb-111">**Проверете OneDrive синхронизиране на клиента на вашия локален компютър**.</span><span class="sxs-lookup"><span data-stu-id="18bfb-111">**Check the OneDrive Sync Client on your local machine**.</span></span>
+
+<span data-ttu-id="18bfb-112">Ако синхронизирате файловете на вашия компютър с помощта на OneDrive Sync клиент, проверете локалната папка за синхронизиране, за да се уверите, че е правилно качен.</span><span class="sxs-lookup"><span data-stu-id="18bfb-112">If you're syncing the files on your computer by using the OneDrive Sync client, check the local sync folder to ensure that it has been properly uploaded.</span></span> <span data-ttu-id="18bfb-113">Уверете се също, че проверявате кошчето на локалния си компютър.</span><span class="sxs-lookup"><span data-stu-id="18bfb-113">Ensure you also check the recycle bin on your local machine.</span></span>
 
