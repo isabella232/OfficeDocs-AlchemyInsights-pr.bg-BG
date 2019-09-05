@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631769"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740922"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="a5443-102">Създаване на споделена пощенска кутия</span><span class="sxs-lookup"><span data-stu-id="a5443-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="01861-102">Създаване на споделена пощенска кутия</span><span class="sxs-lookup"><span data-stu-id="01861-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="a5443-103">Споделена пощенска кутия позволява повече от едно лице изпращате и получавате e-mail за псевдоним, като sales@contoso.com, без да възлагате друг лиценз.</span><span class="sxs-lookup"><span data-stu-id="a5443-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
+<span data-ttu-id="01861-103">Споделената пощенска кутия позволява на повече от един човек да изпраща и получава имейл за псевдоним, като sales@contoso.com, без да присвоява друг лиценз.</span><span class="sxs-lookup"><span data-stu-id="01861-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
 
-<span data-ttu-id="a5443-104">Вижте статията на [Създаване на споделена пощенска кутия](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) за съвети и повече информация за използването на споделена пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="a5443-104">See the article [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) for tips and more info about using a shared mailbox.</span></span> 
+<span data-ttu-id="01861-104">Вижте статията [Създаване на споделена пощенска кутия](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) за съвети и повече информация за използване на споделена пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="01861-104">See the article [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for tips and more info about using a shared mailbox.</span></span> 
   
 

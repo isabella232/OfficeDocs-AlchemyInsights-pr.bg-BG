@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности настройка за поток - управляващ поток лицензиране
+title: Настройка за отстраняване на неизправности за поток-управление на поток лицензиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559182"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742614"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="10d64-102">Управление на лицензи Microsoft поток</span><span class="sxs-lookup"><span data-stu-id="10d64-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="db62e-102">Управление на лицензи за Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="db62e-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="10d64-103">**Важно:** Трябва да бъде в ролята на наемател администратор за извършване на операции, описани в тази тема.</span><span class="sxs-lookup"><span data-stu-id="10d64-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="db62e-103">**Важно:** Трябва да бъде в ролята на администратор на клиент за извършване на операции, описани в тази тема.</span><span class="sxs-lookup"><span data-stu-id="db62e-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="10d64-104">Трябва да бъде глобален администратор или администратор потребител управление. За повече информация вижте [за Office 365 роли на администратор](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span><span class="sxs-lookup"><span data-stu-id="10d64-104">You need to be either a Global admin or a User Management admin. For more information, see [About Office 365 admin roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span></span>
+<span data-ttu-id="db62e-104">Трябва да бъдете или глобален администратор, или администратор за управление на потребители. За повече информация вижте [за администраторските роли](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="db62e-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="10d64-105">Можете да присвоите [лицензи на потребителски акаунти с Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="10d64-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="db62e-105">Можете да присвоите [лицензи за потребителски акаунти с Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="db62e-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>

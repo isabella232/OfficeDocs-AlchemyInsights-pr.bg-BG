@@ -1,5 +1,5 @@
 ---
-title: Предложения за решаване на "Нелицензиран продукт" грешки
+title: Предложения за разрешаване на грешки при "неразрешени продукти"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501032"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743262"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="79f57-102">Предложения за решаване на "Нелицензиран продукт" грешки</span><span class="sxs-lookup"><span data-stu-id="79f57-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="f1655-102">Предложения за решаване на грешки "неразрешени продукти"</span><span class="sxs-lookup"><span data-stu-id="f1655-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="79f57-103">Проверете дали имате абонамент, който позволява клиентски лицензи, като Office 365 бизнес или бизнес Premium и [гарантира потребителят има присвоен лиценз](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="79f57-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="79f57-104">[Дезактивирай инсталация](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) за да проверите дали сте надвишили броя на инсталира, поддържани от вашия абонамент.</span><span class="sxs-lookup"><span data-stu-id="79f57-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="f1655-103">Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Office 365 Business или Business Premium, и Уверете се, че [потребителят има присвоен лиценз](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="f1655-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="f1655-104">[Деактивирайте инсталирането](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , за да проверите дали сте надхвърлили броя на инсталирания, поддържани от вашия абонамент.</span><span class="sxs-lookup"><span data-stu-id="f1655-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="79f57-105">Уверете се, потребителят е подписването със същия профил, който има лицензът, присвоен.</span><span class="sxs-lookup"><span data-stu-id="79f57-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="f1655-105">Уверете се, че потребителят е влизане със същия акаунт, който е присвоен лиценз.</span><span class="sxs-lookup"><span data-stu-id="f1655-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="79f57-106">Тичам [активиране неизправности](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="79f57-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="f1655-106">Стартирайте програмата за [отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f1655-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="79f57-107">Проверете дали вашия абонамент статус е изтекъл</span><span class="sxs-lookup"><span data-stu-id="79f57-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="f1655-107">Проверете дали статусът на абонамента ви е изтекъл</span><span class="sxs-lookup"><span data-stu-id="f1655-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="79f57-108">Проверете [страница Office 365 услугата здраве](https://docs.microsoft.com/office365/enterprise/view-service-health) за да видим дали има някакви познати проблеми с услугата.</span><span class="sxs-lookup"><span data-stu-id="79f57-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="f1655-108">Проверете [Office 365 услугата здраве страница](https://docs.microsoft.com/office365/enterprise/view-service-health) , за да видите дали има известни проблеми с услугата.</span><span class="sxs-lookup"><span data-stu-id="f1655-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="79f57-109">[Извърши онлайн ремонт на офис](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="79f57-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="f1655-109">[Извършване на онлайн ремонт на Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="f1655-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="79f57-110">За допълнителни решения за отстраняване на неизправности, вж.: [нелицензиран продукт и активиране на грешки в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="79f57-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="f1655-110">За допълнителни решения за отстраняване на неизправности вижте: [неразрешени продукти и грешки при активиране в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="f1655-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

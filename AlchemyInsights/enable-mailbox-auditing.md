@@ -1,5 +1,5 @@
 ---
-title: Разреши проверка на пощенска кутия
+title: Разрешаване на проверка на пощенската кутия
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527582"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736242"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="44b75-102">Разреши проверка на пощенска кутия</span><span class="sxs-lookup"><span data-stu-id="44b75-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="ae21b-102">Разрешаване на проверка на пощенската кутия</span><span class="sxs-lookup"><span data-stu-id="ae21b-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="44b75-103">За да разрешите проверка на пощенска кутия за единичен потребител или цялата организация следните кратки команди трябва да се управлява от дистанционно Power Shell:</span><span class="sxs-lookup"><span data-stu-id="44b75-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="ae21b-103">За да разрешите проверка на пощенската кутия за един потребител или цяла организация следните кратки команди трябва да се изпълняват от отдалечената Power Shell:</span><span class="sxs-lookup"><span data-stu-id="ae21b-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="44b75-104">**Единичен потребител**</span><span class="sxs-lookup"><span data-stu-id="44b75-104">**Single User**</span></span>
+ <span data-ttu-id="ae21b-104">**Единичен потребител**</span><span class="sxs-lookup"><span data-stu-id="ae21b-104">**Single User**</span></span>
   
-<span data-ttu-id="44b75-105">Set-пощенска кутия - идентичност "Джейн Доу" - AuditEnabled на $true</span><span class="sxs-lookup"><span data-stu-id="44b75-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="ae21b-105">Set-пощенска кутия-идентичност "Jane Dow"-Аудиоled $true</span><span class="sxs-lookup"><span data-stu-id="ae21b-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="44b75-106">**Организация**</span><span class="sxs-lookup"><span data-stu-id="44b75-106">**Organization**</span></span>
+ <span data-ttu-id="ae21b-106">**Организация**</span><span class="sxs-lookup"><span data-stu-id="ae21b-106">**Organization**</span></span>
   
-<span data-ttu-id="44b75-107">Махни-пощенска кутия - ResultSize неограничен - филтър {RecipientTypeDetails - eq "UserMailbox"} | Set-пощенска кутия - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="44b75-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="ae21b-107">Get-пощенска кутия Резултитразмер неограничен-филтър {РеЦипиенттипедетаилс-EQ "UserMailbox кутия"} | Set-пощенска кутия-Аудиоled $true</span><span class="sxs-lookup"><span data-stu-id="ae21b-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="44b75-108">Научете повече</span><span class="sxs-lookup"><span data-stu-id="44b75-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="ae21b-108">Научете повече</span><span class="sxs-lookup"><span data-stu-id="ae21b-108">Learn more</span></span>](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

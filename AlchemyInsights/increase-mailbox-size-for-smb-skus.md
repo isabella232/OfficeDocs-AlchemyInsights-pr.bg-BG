@@ -1,5 +1,5 @@
 ---
-title: Увеличаване на размера на пощенската кутия за SMB ие
+title: Увеличаване на размера на пощенската кутия за SMB SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499268"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739230"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="8caa6-102">Превключване планира да увеличи размера на пощенската кутия</span><span class="sxs-lookup"><span data-stu-id="8caa6-102">Switch plans to increase mailbox size</span></span>
+# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="a7874-102">Превключване на планове за увеличаване на размера на пощенската кутия</span><span class="sxs-lookup"><span data-stu-id="a7874-102">Switch plans to increase mailbox size</span></span>
 
-<span data-ttu-id="8caa6-103">Ако размерът на пощенската кутия е 50 GB, можете да увеличите размера на пощенската кутия към 100 GB с преминаването към [Office 365 предприятие E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 предприятие E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="8caa6-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="8caa6-104">Тук са стъпките, за да превключите към друг Office 365 план:</span><span class="sxs-lookup"><span data-stu-id="8caa6-104">Here are the steps to switch to a different Office 365 plan:</span></span>
+<span data-ttu-id="a7874-103">Ако размерът на пощенската кутия е 50 GB, можете да увеличите размера на пощенската кутия на 100 GB чрез превключване към [office 365 Enterprise](https://products.office.com/business/office-365-enterprise-e3-business-software) Е4 или [Office 365 предприятие](https://products.office.com/business/office-365-enterprise-e5-business-software)Е4.</span><span class="sxs-lookup"><span data-stu-id="a7874-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="a7874-104">Ето стъпките за превключване към друг план на Office 365:</span><span class="sxs-lookup"><span data-stu-id="a7874-104">Here are the steps to switch to a different Office 365 plan:</span></span>
   
-1. <span data-ttu-id="8caa6-105">В центъра на Microsoft 365 администратор, отидете на страницата на [абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) , или изберете **плащане** \> **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="8caa6-105">In the Microsoft 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="a7874-105">В центъра за администриране на Microsoft 365 отидете на страницата [с абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) или изберете **абонаменти**за **таксуване** \> .</span><span class="sxs-lookup"><span data-stu-id="a7874-105">In the Microsoft 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="8caa6-106">Изберете **планове за превключвател** за да видите списъка на новите планове, които са налични.</span><span class="sxs-lookup"><span data-stu-id="8caa6-106">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
+2. <span data-ttu-id="a7874-106">Изберете **Превключване на планове** , за да видите списъка на новите планове, които са налични.</span><span class="sxs-lookup"><span data-stu-id="a7874-106">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
     
-3. <span data-ttu-id="8caa6-107">Изберете план за да видите новия общите разходи на месец.</span><span class="sxs-lookup"><span data-stu-id="8caa6-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="8caa6-108">Не забравяйте да прочетете **основна информация**, след което изберете **следващия** да проверя.</span><span class="sxs-lookup"><span data-stu-id="8caa6-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
+3. <span data-ttu-id="a7874-107">Изберете план, за да видите новите общи разходи на месец.</span><span class="sxs-lookup"><span data-stu-id="a7874-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="a7874-108">Не забравяйте да прочетете **ключовата информация**, след което изберете **напред** , за да проверите.</span><span class="sxs-lookup"><span data-stu-id="a7874-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
     
-4. <span data-ttu-id="8caa6-109">Когато завършите извличането, Office 365 отнема няколко минути, за да финализира преминаването.</span><span class="sxs-lookup"><span data-stu-id="8caa6-109">When you finish checkout, Office 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="8caa6-110">Можете да започнете да използвате новия си абонамент веднага.</span><span class="sxs-lookup"><span data-stu-id="8caa6-110">You can start using your new subscription right away.</span></span>
+4. <span data-ttu-id="a7874-109">Когато завършите поръчката, Office 365 отнема няколко минути, за да завършите ключа.</span><span class="sxs-lookup"><span data-stu-id="a7874-109">When you finish checkout, Office 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="a7874-110">Можете да започнете да използвате новия си абонамент веднага.</span><span class="sxs-lookup"><span data-stu-id="a7874-110">You can start using your new subscription right away.</span></span>
     
-<span data-ttu-id="8caa6-111">За повече подробности вижте [Превключване към друг Office 365 план](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span><span class="sxs-lookup"><span data-stu-id="8caa6-111">For more details, see [Switch to a different Office 365 plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span></span>
+<span data-ttu-id="a7874-111">За повече подробности вижте [Превключване към друг план на Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span><span class="sxs-lookup"><span data-stu-id="a7874-111">For more details, see [Switch to a different Office 365 plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).</span></span>
   
 

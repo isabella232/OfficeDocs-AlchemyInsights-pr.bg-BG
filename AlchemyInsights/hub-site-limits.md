@@ -1,28 +1,28 @@
 ---
-title: Концентраторът сайт граници и ограничения
-ms.author: kirks
+title: Ограничения и ограничения за сайта на концентратор
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539342"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754577"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="03d17-102">SharePoint концентратор сайт граници и ограничения</span><span class="sxs-lookup"><span data-stu-id="03d17-102">SharePoint hub site limits and restrictions</span></span>
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="40568-102">Ограничения и ограничения на сайта за концентратор на SharePoint</span><span class="sxs-lookup"><span data-stu-id="40568-102">SharePoint hub site limits and restrictions</span></span>
 
-- <span data-ttu-id="03d17-103">Препоръчително е да изберете сайт на комуникация, или сайт на екип, който използва нови модерни шаблон.</span><span class="sxs-lookup"><span data-stu-id="03d17-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="03d17-104">Ако използвате класически отбор сайт, концентратор навигация ще се появи само на страници, модерен, и концентратор сайта настройки ще се появяват само на съвременните страници.</span><span class="sxs-lookup"><span data-stu-id="03d17-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
+- <span data-ttu-id="40568-103">Препоръчително е да изберете сайт за комуникация или екипен сайт, който използва новия модерен шаблон.</span><span class="sxs-lookup"><span data-stu-id="40568-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="40568-104">Ако използвате класически екипен сайт, навигацията в центъра ще се показва само на модерни страници и настройките на сайта на концентратора ще се показват само на съвременните страници.</span><span class="sxs-lookup"><span data-stu-id="40568-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
 
-- <span data-ttu-id="03d17-105">Сайтове, които вече са свързани с друг концентратор, **не могат да** бъдат конвертирани в сайт концентратор.</span><span class="sxs-lookup"><span data-stu-id="03d17-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
+- <span data-ttu-id="40568-105">Сайтовете, които вече са свързани с друг концентратор, **не могат** да се конвертират в сайт на концентратор.</span><span class="sxs-lookup"><span data-stu-id="40568-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
 
-- <span data-ttu-id="03d17-106">Можете да създадете до 100 концентратор сайтове за вашата организация.</span><span class="sxs-lookup"><span data-stu-id="03d17-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="03d17-107">Няма ограничение за броя на сайтовете, които могат да бъдат свързани със сайт концентратор.</span><span class="sxs-lookup"><span data-stu-id="03d17-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
+- <span data-ttu-id="40568-106">Можете да създадете до 100 концентратор сайтове за вашата организация.</span><span class="sxs-lookup"><span data-stu-id="40568-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="40568-107">Няма ограничение за броя на сайтовете, които могат да бъдат свързани с концентратор сайт.</span><span class="sxs-lookup"><span data-stu-id="40568-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
 
-- <span data-ttu-id="03d17-108">Когато потребителите свързвам своите сайтове със сайт концентратор, тя не влияе на разрешенията на сайта концентратор или свързани сайтове.</span><span class="sxs-lookup"><span data-stu-id="03d17-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="03d17-109">Важно е да се уверете, че ви позволяват да свържете сайтове към концентратор на всички потребители имат разрешение за концентратора.</span><span class="sxs-lookup"><span data-stu-id="03d17-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
+- <span data-ttu-id="40568-108">Когато потребителите свързват сайтовете си с концентратор сайт, той не влияе на разрешенията на сайта концентратор или свързаните сайтове.</span><span class="sxs-lookup"><span data-stu-id="40568-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="40568-109">Важно е да се уверите, че всички потребители, които позволявате да асоциирате сайтове с центъра, имат разрешение за концентратора.</span><span class="sxs-lookup"><span data-stu-id="40568-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
 
 
 
