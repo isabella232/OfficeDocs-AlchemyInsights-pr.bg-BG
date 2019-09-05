@@ -1,5 +1,5 @@
 ---
-title: Възстановяване на изтрити потребител
+title: Възстановяване на изтрит потребител
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551800"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745062"
 ---
 # <a name="restore-a-user-in-office-365"></a>Възстановяване на потребител в Office 365
 
-Възстановяване на потребител в Office 365, използвайки следните стъпки:
+Възстановяване на потребител в Office 365, като използвате следните стъпки:
   
 1. Отидете на [потребители \> изтрити потребители](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Изберете потребителя, а след това изберете **възстановяване**.
+2. Изберете потребителя, след което изберете **възстановяване**.
 
-3. Следвайте указанията, за да зададете парола.
+3. Следвайте подканите, за да зададете паролата.
 
-4. Щракнете върху **Изпрати имейл и затворите**и сте готови!
+4. Кликнете върху **Изпращане на имейл и затворете**, и сте готови!
 
-Не е толкова лесно? За повече информация и стъпки със снимки на екрана, вижте тази статия: [възстановяване на потребител в Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Ако осъзнаете, че вместо това трябва да се възстанови потребителската пощенска кутия, вижте: [изтриете или възстановите потребителските пощенски кутии в Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Не беше ли лесно? За повече подробности и стъпки с снимки на екрана, вижте тази статия: [възстановяване на потребител в Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Ако осъзнавате, че вместо това трябва да възстановите пощенската кутия на потребителя, вижте: [Изтриване или възстановяване на потребителски пощенски кутии в Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

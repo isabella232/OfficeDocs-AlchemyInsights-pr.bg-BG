@@ -1,5 +1,5 @@
 ---
-title: Настройване на абонамента си O365 бизнес Essentials
+title: Настройване на абонамента ви за Business Essentials O365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508880"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744702"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Настройване на абонамента си O365 бизнес Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Настройване на абонамента ви за Business Essentials O365
 
-Създаване на акаунти Office 365 и да добавите вашия домейн
+Създайте акаунти в Office 365 и добавете домейна си
   
-- В тази стъпка можете да използвате съветника за инсталиране да създадете акаунти Office 365 за вашите потребители и да добавите свой собствен домейн. Съветникът ви позволява да персонализирате на всички потребителски ИД и имейл за вашия бизнес, като [rob@contoso.com](mailto:rob@contoso.com).
+- В тази стъпка можете да използвате съветника за инсталиране, за да създадете Office 365 акаунти за вашите потребители и добавяне на собствен домейн. Съветникът ви позволява да персонализирате потребителското име и имейла на всеки потребител за вашия бизнес, като например [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Отидете в [центъра за администрация на Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Отидете на [центъра за администриране на Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- За да стартирате съветника, изберете **отидете на инсталиране**. За да научите повече, вижте [Добавяне на потребители и домейн към Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- За да стартирате съветника, изберете **Отиди на настройка**. За да научите повече, вижте [Добавяне на домейн към Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Импортиране на имейл
   
-- Преместете вашите съществуващи имейл съобщения и контакти от други имейл системи пощенската Office 365 така че можете да го видите всичко на едно място. За миграция опции, [мигрират имейл и контакти към Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Преместете съществуващия си имейл и контакти от други системи за електронна поща в пощенската кутия на Office 365, за да можете да я видите на едно място. За опции за мигриране [мигриране на имейл и контакти в Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Свързване на имейл акаунти
     
-  - Освен управлението на вашия Office 365 имейл в Outlook, можете да свържете други имейл акаунти в Outlook, също, като вашите сметки Gmail и Yahoo. Това ви позволява да управлявате всички на електронната си поща на едно място. Можете да свържете до 5 имейл акаунти в Outlook. Вижте [Свързване имейл акаунти в Outlook в мрежата (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) за повече подробности. 
+  - В допълнение към управлението на вашия имейл на Office 365 в Outlook, можете да свържете и други имейл акаунти към Outlook, като например профилите ви в Gmail и Yahoo. Това ви позволява да управлявате целия си имейл на едно място. Можете да свържете до 5 имейл акаунта към Outlook. Вижте [Свързване на имейл акаунти в Outlook в мрежата (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) за повече информация. 
     
-Инсталиране на скайп за бизнес
+Инсталиране на Skype за бизнеса
   
-- Вие и вашият екип може да [изтеглите и инсталирате Skype за бизнес](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) на всички ваши компютри, Mac-ове, таблетки и телефони. След това ще можете да видите онлайн състоянието на вашите колеги, започнете чатове от други приложения на Office, както и множество видео срещи с капацитет до 250 души. 
+- Вие и членовете на екипа ви можете да [изтегляте и инсталирате Skype за бизнеса](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) на всички ваши компютри, Mac, таблети и телефони. След това ще можете да видите онлайн статуса на вашите колеги, да започнете чатове от други приложения на Office и да хоствате видео събрания с до 250 души. 
     
-Съхранявате файлове онлайн
+Съхраняване на файлове онлайн
   
-- За да научите кои места за съхранение са най-подходящи за вашия бизнес, вижте [къде можете да съхранявате файлове в Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Всеки получава **OneDrive** облак съхранение местоположение автоматично, когато създавате Office 365 сметки за тях. С OneDrive можете да отваряте файлове във вашите компютри, телефони и таблетки. 
+- За да научите кои местоположения за съхранение са най-добри за бизнеса ви, вижте [къде можете да съхранявате файлове в Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Всеки получава място за съхранение в облака на **OneDrive** автоматично при създаване на Office 365 сметки за тях. С OneDrive можете да осъществявате достъп до файлове в компютрите, телефоните и таблетите си. 
     
-Подробните стъпки за настройка могат да бъдат намерени в [тази статия](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Подробни стъпки за настройката могат да бъдат намерени в [тази статия](https://docs.microsoft.com/office365/admin/setup/setup).
   
 
