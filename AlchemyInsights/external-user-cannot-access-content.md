@@ -1,5 +1,5 @@
 ---
-title: Външен потребител няма достъп до съдържание
+title: Външният потребител няма достъп до съдържание
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526020"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740022"
 ---
-# <a name="external-user-cannot-access-content"></a><span data-ttu-id="87f83-102">Външен потребител няма достъп до съдържание</span><span class="sxs-lookup"><span data-stu-id="87f83-102">External user cannot access content</span></span>
+# <a name="external-user-cannot-access-content"></a><span data-ttu-id="abd0c-102">Външният потребител няма достъп до съдържание</span><span class="sxs-lookup"><span data-stu-id="abd0c-102">External user cannot access content</span></span>
 
-<span data-ttu-id="87f83-103">Ако външен потребител е поканен и е в състояние да получите достъп до съдържание, моля, опитайте да посетите линковете по-долу:</span><span class="sxs-lookup"><span data-stu-id="87f83-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="abd0c-103">Ако външен потребител е поканен и не може да получи достъп до съдържание, моля, опитайте да посетите връзките по-долу:</span><span class="sxs-lookup"><span data-stu-id="abd0c-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="87f83-104">"Достъп отказ" "Имате нужда от разрешение за достъп до този сайт", или "Потребител не е намерен в директорията" грешки в SharePoint Online и OneDrive за бизнес</span><span class="sxs-lookup"><span data-stu-id="87f83-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="87f83-105">"Правилата на вашата организация не ви позволяват да споделяте с тези потребители" грешка при споделяне на елемент или сайт в SharePoint Online или OneDrive за бизнес</span><span class="sxs-lookup"><span data-stu-id="87f83-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="87f83-106">Опции за споделяне са сив, когато споделянето от SharePoint Online или OneDrive</span><span class="sxs-lookup"><span data-stu-id="87f83-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="87f83-107">Съобщение за грешка, когато външен потребител приеме покана SharePoint Online с помощта на друг акаунт</span><span class="sxs-lookup"><span data-stu-id="87f83-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [<span data-ttu-id="87f83-108">OSE споделяне грешки в SharePoint и OneDrive</span><span class="sxs-lookup"><span data-stu-id="87f83-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="abd0c-104">"Достъпът е отказан", "трябва разрешение за достъп до този сайт", или "потребител не е намерен в директорията" грешки в SharePoint online и OneDrive за бизнес</span><span class="sxs-lookup"><span data-stu-id="abd0c-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="abd0c-105">"Вашата организация правила не ви позволяват да споделяте с тези потребители" грешка при споделяне на елемент или сайт в SharePoint Online или OneDrive за бизнес</span><span class="sxs-lookup"><span data-stu-id="abd0c-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="abd0c-106">Опции за споделяне са сиво при споделяне от SharePoint Online или OneDrive</span><span class="sxs-lookup"><span data-stu-id="abd0c-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="abd0c-107">Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт</span><span class="sxs-lookup"><span data-stu-id="abd0c-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="abd0c-108">Грешки при споделяне на OSE в SharePoint и OneDrive</span><span class="sxs-lookup"><span data-stu-id="abd0c-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
