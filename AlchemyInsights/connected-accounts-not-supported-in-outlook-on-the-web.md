@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504746"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821791"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Свързани акаунти вече не поддържа
+# <a name="connected-accounts-are-no-longer-supported"></a>Вече не се поддържат свързани профили
 
-Microsoft е премахната възможността за добавяне на нови акаунти в Outlook в мрежата използва функцията на свързаните акаунти на 15 септември 2018 и ще спрете синхронизирането съществуващи акаунти на 30 октомври 2018 г., които са били свързани преди 15 септември 2018. На 15 ноември, опцията свързани акаунти ( **Настройки** \> **Mail** \> **сметки**) ще бъде премахната от Outlook в мрежата.За повече информация вижте [свързани акаунти не се поддържа в Outlook в мрежата (Office 365 за бизнес сметки)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft премахна възможността за добавяне на нови акаунти към Outlook в мрежата с помощта на функцията свързани акаунти на 15 септември 2018 и ще спре синхронизирането на съществуващи акаунти на 30 октомври 2018, които са свързани преди 15 септември 2018. На 15 ноември опцията свързани акаунти ( **Настройки** \> за **пощенски** \> **акаунти**) ще бъдат премахнати от Outlook в мрежата.За повече информация вижте [свързани акаунти вече не се поддържа в Outlook в мрежата (Office 365 за бизнес акаунти)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Да продължим виждат имейли от други акаунти: все още можете да препращате електронна поща от тези акаунти в Outlook в мрежата. За допълнителна информация вижте:
+За да продължите да виждате имейл от други акаунти: все още можете да препращате имейл от тези акаунти до Outlook в мрежата. За допълнителна информация вижте:
   
 [Включване или изключване на автоматичното препращане в Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Автоматично препращане на Gmail съобщения към друг акаунт](https://support.google.com/mail/answer/10957?hl=en)
+[Автоматично препращане на съобщения в Gmail към друг профил](https://aka.ms/forward-gmail-messages)
   
-[Автоматичен имейл препращане в Yahoo поща](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Автоматично изпращане на имейл в Yahoo Mail](https://aka.ms/yahoo-email-forwarding)
   

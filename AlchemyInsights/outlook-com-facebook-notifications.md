@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook уведомления
+title: Известия за Outlook.com Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536964"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822058"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook уведомления, използвайки Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook уведомления с помощта на Outlook.com
 
-Ако не искате да получавате уведомления от Facebook, можете да промените вашите [Настройки за Facebook](https://www.facebook.com/settings?tab=notifications) или да зададете на правило за "Входящи".
+Ако не искате да получавате известия от Facebook, можете да промените вашите настройки за [Facebook](https://aka.ms/facebook-notifications-settings) или да настроите правило за входяща поща.
 
-1. Отидете на [Настройки на правилата](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Изберете **Добави ново правило**.
-1. Името на вашето правило "Facebook".
-1. Добави условие за "От" и въведете "notification@facebookmail.com"
-1. Добавяне на действие на "Изтрий". Ако изберете Изтрий съобщенията остават във вашата изтрити елементи и могат да бъдат възстановени. Ако изберете "Маркирай като нежелана", съобщенията ще се изтриват автоматично и не може да бъде възстановена.
+1. Отидете на [настройките на правилата](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Изберете **Добавяне на ново правило**.
+1. Назовете вашето правило "Facebook".
+1. Добавете състояние на "от" и въведете "notification@facebookmail.com"
+1. Добавяне на действие на "Изтриване". Избирането на DELETE означава, че съобщенията остават във вашите изтрити елементи и могат да бъдат възстановени. Ако изберете "Маркирай като нежелана поща", съобщенията ще бъдат автоматично изтрити и не могат да бъдат възстановени.
 1. Изберете **Запиши**.
