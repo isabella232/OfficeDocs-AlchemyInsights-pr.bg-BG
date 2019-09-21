@@ -1,5 +1,5 @@
 ---
-title: Класически SharePoint одит регистрационни файлове с отчети
+title: Класически отчети на регистрационния файл за проверка на SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504380"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068012"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint и OneDrive регистрационни файлове за проверка
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Регистрационни файлове за проверка на SharePoint и OneDrive
 
-**SharePoint и OneDrive модерна унифицирана одит трупи от спазване**
+**SharePoint и OneDrive съвременни единни проверка регистрационни файлове от съответствие**
 
-- [Включване/изключване на унифицирани одит сеч](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Включване/изключване на единно регистриране на проверка](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Няма допълнителни конфигурация е необходимо в рамките на SharePoint или OneDrive.
+Не се изисква допълнителна конфигурация в SharePoint или OneDrive.
 
-- Използвайте търсене на влизане за проверка за проверка на активността на файлове, папки, потребител(и), разрешения:
+- Използвайте проверка регистриране на търсене, за да проверите активността на файлове, папки, потребител (и), разрешения:
 
-    - [Файл и страница дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Папка дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Дейности с файлове и страници](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Дейности в папките](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
     - [Споделяне и достъп до дейности по заявка](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Синхронизация дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Сайт административни дейности](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- За повече информация как да изтеглите тези събития вижте [регистрационния файл за проверка за търсене](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Дейности по синхронизация](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Дейности по администриране на сайта](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- За повече информация как да извлечете тези събития вижте [търсене в регистрационния файл на проверката](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePoint класически одит трупи**
+**Регистрационни файлове на SharePoint класически проверка**
 
-- [Преглед и разрешите класически SharePoint регистрационните](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Ние мигрират спо наследени проверка на единни проверка регистрационен файл. По същество това означава, че всички съществуващи доклади за одит на спо ще бъдат захранвани чрез програмата за проверка на данни, а стари одитни сигнали са мигрирали към него.
 
-Одит трябва да се даде възможност на всяка колекция от сайтове. 
+Основни промени:
 
-**Забележка**: препоръчваме да използвате модерна унифицирана одит трупи за по-добри и усъвършенствани одит опции от тези класически регистрационните.
+- Почистването като възможност не е налично.
+- Разделът, в който избирате конкретни събития за проверка, не е наличен. Моля, вижте [този документ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) за пълен списък на одитираните събития, налични по подразбиране.
+- Опцията "местоположение" под **персонализирани отчети** не е налична. 
+- "Отваряне или изтегляне на документи" събития не е налична. 
 
