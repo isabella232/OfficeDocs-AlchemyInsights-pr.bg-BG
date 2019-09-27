@@ -1,8 +1,7 @@
 ---
-title: Местоположение на данни
+title: Местоположение на данните
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514106"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207250"
 ---
-# <a name="data-location"></a>Местоположение на данни
+# <a name="data-location"></a>Местоположение на данните
 
-Ние поддържаме няколко копия на вашите данни в изчислителните центрове за съкращения. [Вижте къде вашите данни се намира](https://office.com/datamaps). Ако ние разшири местоположението на вашите данни в нова страна или регион, ние ще ви дадем един месец предизвестие.
-  
-За повече информация за Office 365 защита, поверителност и съответствие вижте [Центъра за доверие на Office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Можете да видите местоположението на вашия Office 365 клиент в центъра за администриране или чрез свързване към Exchange Online чрез PowerShell.
+
+
+**Център за администриране:**
+1. Влезте в центъра за [администриране](https://admin.microsoft.com/Adminportal/Home).
+2. Изберете **Настройки** > **организационен профил**.
+3. Под **местоположение на данни**изберете **Преглед на подробностите**.
+
+
+**Powershell:**
+1. Свързване с Exchange Online с помощта на Windows PowerShell.
+2. Изпълнение на кратката команда [get-Организацияединица](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) за показване на списък на свойствата на вашия клиент. 
+3. Вижте собствеността на Организацияид.
+
+Когато имате местоположението на данните за ЕКЗО и спо, можете да определите местоположението на данните за други услуги, които можете да използвате от [мястото, където се намират вашите данни](https://products.office.com/where-is-your-data-located).
