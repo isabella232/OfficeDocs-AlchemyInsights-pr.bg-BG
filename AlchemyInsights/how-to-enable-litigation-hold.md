@@ -1,5 +1,5 @@
 ---
-title: 976-how-to-Enable-Litigation-Hold
+title: 976-начин на разрешаване-задържане
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540746"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398616"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Място пощенска кутия на правно задържане
+# <a name="place-a-mailbox-on-legal-hold"></a>Поставете пощенска кутия за законно задържане
 
-- Да поставите пощенската кутия на задържане поради конфликт или на място държат, Exchange Online план 2 лиценз [борса онлайн план 2 лиценз](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) се изисква. Ако пощенската кутия е присвоен план 1 лиценз, можете да присвоите отделни Exchange онлайн архивиране добавка лиценз [обмен онлайн архивиране добавка лиценз](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- За да поставите пощенска кутия за задържане или задържане на място, се изисква лиценз за Exchange Online план 2 лиценз [Exchange онлайн план 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ако пощенската кутия се присвоява лиценз за план 1, можете да присвоите отделна Exchange Online архивиране добавка лиценз [Exchange онлайн архивиране добавка](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)лиценз.
 
-- За да разрешите задържане за отделен потребител, [следвайте тези стъпки](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Когато е активирано задържане поради конфликт, цялото съдържание в пощенската кутия е запазена.
+- За да разрешите задържане за един потребител, [изпълнете следните стъпки](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). При задържане е разрешена, цялото съдържание в пощенската кутия се запазва.
 
-- За да поставите на задържане на всички пощенски кутии във вашата организация, можете да използвате Office 365 задържане политика като [следвате тези стъпки](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Обърнете внимание, че за задържане от общоорганизационни политики, нови потребители ще бъдат автоматично присвоявани на политика.
+- За да запазите съдържание във всички пощенски кутии във вашата организация, можете да използвате [правилата за съхранение на Office 365 цялата организация](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Имайте предвид, че за правилата за запазване на цялата организация, новите потребители ще бъдат автоматично присвоени на правилата.
