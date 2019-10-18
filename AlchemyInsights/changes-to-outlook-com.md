@@ -17,10 +17,10 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520620"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="463d0-102">Научете повече за новия Outlook.com</span><span class="sxs-lookup"><span data-stu-id="463d0-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="7a14c-102">Научете повече за новия Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7a14c-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="463d0-103">[Научете повече](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) за промените в новия Outlook.com или извършете търсене в полето по-долу.</span><span class="sxs-lookup"><span data-stu-id="463d0-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="7a14c-103">[Научете повече](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) за промените в новия Outlook.com или извършете търсене в полето по-долу.</span><span class="sxs-lookup"><span data-stu-id="7a14c-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="463d0-104">Превъртете надолу, за да видите резултатите.</span><span class="sxs-lookup"><span data-stu-id="463d0-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="7a14c-104">Превъртете надолу, за да видите резултатите.</span><span class="sxs-lookup"><span data-stu-id="7a14c-104">Scroll down to see the results.</span></span>
   
 

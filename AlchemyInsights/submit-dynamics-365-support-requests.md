@@ -18,9 +18,9 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666037"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="179c3-102">Подаване на заявка за поддръжка на Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="179c3-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="fa0da-102">Подаване на заявка за поддръжка на Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="fa0da-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="179c3-103">Ако сте **ангажираност към клиентите на Microsoft Dynamics** клиент, моля, подайте вашия билет от новия [Центъра за администриране на Power платформа](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="179c3-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="fa0da-103">Ако сте **ангажираност към клиентите на Microsoft Dynamics** клиент, моля, подайте вашия билет от новия [Центъра за администриране на Power платформа](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="fa0da-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="179c3-104">Новият портал предоставя по-пряк път към помощна поддръжка, която е оптимизирана за ангажираност към клиентите на Dynamics и други продукти на платформата Power.</span><span class="sxs-lookup"><span data-stu-id="179c3-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="fa0da-104">Новият портал предоставя по-пряк път към помощна поддръжка, която е оптимизирана за ангажираност към клиентите на Dynamics и други продукти на платформата Power.</span><span class="sxs-lookup"><span data-stu-id="fa0da-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   
