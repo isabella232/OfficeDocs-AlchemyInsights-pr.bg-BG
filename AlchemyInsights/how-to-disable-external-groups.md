@@ -12,23 +12,23 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739482"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="76abe-102">Как да забраните външни групи</span><span class="sxs-lookup"><span data-stu-id="76abe-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="2c641-102">Как да забраните външни групи</span><span class="sxs-lookup"><span data-stu-id="2c641-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="76abe-103">Yammer външни съобщения се прилага Exchange транспортни правила (ETRs), набор от проактивни контроли за предотвратяване на споделяне на фирмени информация.</span><span class="sxs-lookup"><span data-stu-id="76abe-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="76abe-104">За да ограничите потребителите от създаване на външни групи, трябва да конфигурирате транспорт правило за Exchange (ETR) и след това конфигурирайте Yammer да използвате Exchange транспорт правило за блокиране на външни съобщения.</span><span class="sxs-lookup"><span data-stu-id="76abe-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="2c641-103">Yammer външни съобщения се прилага Exchange транспортни правила (ETRs), набор от проактивни контроли за предотвратяване на споделяне на фирмени информация.</span><span class="sxs-lookup"><span data-stu-id="2c641-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="2c641-104">За да ограничите потребителите от създаване на външни групи, трябва да конфигурирате транспорт правило за Exchange (ETR) и след това конфигурирайте Yammer да използвате Exchange транспорт правило за блокиране на външни съобщения.</span><span class="sxs-lookup"><span data-stu-id="2c641-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="76abe-105">След като сте създали правило в центъра за администриране на Exchange Online, изпълнете следните стъпки, за да зададете ETR да приложите в Yammer:</span><span class="sxs-lookup"><span data-stu-id="76abe-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="2c641-105">След като сте създали правило в центъра за администриране на Exchange Online, изпълнете следните стъпки, за да зададете ETR да приложите в Yammer:</span><span class="sxs-lookup"><span data-stu-id="2c641-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="76abe-106">Влезте в Yammer като проверен администратор и в центъра за администриране на **yammer**отидете на C **съдържание и настройките за защита на \> защитата.**</span><span class="sxs-lookup"><span data-stu-id="76abe-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="2c641-106">Влезте в Yammer като проверен администратор и в центъра за администриране на **yammer**отидете на C **съдържание и настройките за защита на \> защитата.**</span><span class="sxs-lookup"><span data-stu-id="2c641-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="76abe-107">Под **външни съобщения**изберете **прилагане на Exchange Online Exchange правила за транспорт (etrs) в Yammer.**</span><span class="sxs-lookup"><span data-stu-id="76abe-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="2c641-107">Под **външни съобщения**изберете **прилагане на Exchange Online Exchange правила за транспорт (etrs) в Yammer.**</span><span class="sxs-lookup"><span data-stu-id="2c641-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="76abe-108">Изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="76abe-108">Choose **Save**.</span></span>
+- <span data-ttu-id="2c641-108">Изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="2c641-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="76abe-109">За повече информация вижте [забраняване на външни съобщения в Yammer мрежа](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="76abe-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
+<span data-ttu-id="2c641-109">За повече информация вижте [забраняване на външни съобщения в Yammer мрежа](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="2c641-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   

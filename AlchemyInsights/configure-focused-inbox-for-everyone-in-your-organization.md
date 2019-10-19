@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738402"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="b3745-102">Включване или изключване на целенасочена входяща поща за всички</span><span class="sxs-lookup"><span data-stu-id="b3745-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="a1965-102">Включване или изключване на целенасочена входяща поща за всички</span><span class="sxs-lookup"><span data-stu-id="a1965-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="b3745-103">За инструкции вижте [Конфигуриране на фокусирани Входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="b3745-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="a1965-103">За инструкции вижте [Конфигуриране на фокусирани Входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="a1965-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="b3745-104">**Забележка**: тази процедура изисква Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="b3745-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="b3745-105">Бихте ли искали да направите това в центъра за администриране на Microsoft 365 вместо това?</span><span class="sxs-lookup"><span data-stu-id="b3745-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="b3745-106">Гласувайте тук!</span><span class="sxs-lookup"><span data-stu-id="b3745-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="a1965-104">**Забележка**: тази процедура изисква Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="a1965-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="a1965-105">Бихте ли искали да направите това в центъра за администриране на Microsoft 365 вместо това?</span><span class="sxs-lookup"><span data-stu-id="a1965-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="a1965-106">Гласувайте тук!</span><span class="sxs-lookup"><span data-stu-id="a1965-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

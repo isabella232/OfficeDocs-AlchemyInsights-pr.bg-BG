@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744198"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="26813-102">Външен контакт не може да приеме покана на SharePoint</span><span class="sxs-lookup"><span data-stu-id="26813-102">External contact is unable to accept a SharePoint invitation</span></span>
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="25c70-102">Външен контакт не може да приеме покана на SharePoint</span><span class="sxs-lookup"><span data-stu-id="25c70-102">External contact is unable to accept a SharePoint invitation</span></span>
 
-<span data-ttu-id="26813-103">Ако външно не може да приеме покана за споделяне, моля, опитайте да посетите връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="26813-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
+<span data-ttu-id="25c70-103">Ако външно не може да приеме покана за споделяне, моля, опитайте да посетите връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="25c70-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
 
-- [<span data-ttu-id="26813-104">Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт</span><span class="sxs-lookup"><span data-stu-id="26813-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="25c70-104">Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт</span><span class="sxs-lookup"><span data-stu-id="25c70-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="26813-105">Отказан достъп до споделена папка</span><span class="sxs-lookup"><span data-stu-id="26813-105">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [<span data-ttu-id="25c70-105">Отказан достъп до споделена папка</span><span class="sxs-lookup"><span data-stu-id="25c70-105">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [<span data-ttu-id="26813-106">Споделяне на грешки в SharePoint и OneDrive</span><span class="sxs-lookup"><span data-stu-id="26813-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="25c70-106">Споделяне на грешки в SharePoint и OneDrive</span><span class="sxs-lookup"><span data-stu-id="25c70-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
