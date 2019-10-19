@@ -1,5 +1,5 @@
 ---
-title: Промяна OneDrive за бизнес квотата за съхранение
+title: Промяна на OneDrive за търговско съхранение квота
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519252"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Промяна определителен член неявяване OneDrive съхранение пространство за вашите потребители
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Променете мястото за съхранение в OneDrive по подразбиране за вашите потребители
 
-1. Отидете на [съхранение страница на центъра за администрация на OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Отидете на [страницата за съхранение на центъра за администриране на OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Въведете сумата по подразбиране за съхранение (в GB) в полето за **съхранение по подразбиране** и щракнете върху **Запиши**.
+2. Въведете стойността по подразбиране за съхранение (в ГБ) в полето за **съхранение по подразбиране** и след това щракнете върху **Запиши**.
     
-Този съхранение пространство настройка важи за всички потребители, за които не сте задали конкретна багаж граници. За да промените мястото за съхранение за определени потребители, трябва да използвате Microsoft PowerShell. За информация за това как да направите това вижте [Промяна на потребителите OneDrive съхранение пространство с помощта на PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Тази настройка за място за съхранение се отнася за всички потребители, за които не сте задали конкретни лимити за съхранение. За да промените пространството за съхранение на конкретни потребители, трябва да използвате Microsoft PowerShell. За информация как да направите това вижте [Промяна на потребителите OneDrive пространство за съхранение с помощта на PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

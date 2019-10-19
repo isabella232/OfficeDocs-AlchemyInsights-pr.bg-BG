@@ -1,5 +1,5 @@
 ---
-title: Outlook на уеб сметка рязка рана
+title: Outlook в уеб акаунт хакнати
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511188"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook на уеб сметка рязка рана
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook в уеб акаунт хакнати
 
-Ако вашият акаунт е компрометиран, следвайте инструкциите в [как да се осигури и възстановяване имейл функция за предполагаеми компрометирана сметка Office 365 и пощенска кутия](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
+Ако акаунтът ви е бил хакнат, следвайте инструкциите в [начините за защита и възстановяване на имейл функция на заподозрян компрометирани Office 365 акаунт и пощенска кутия](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
 
-За да научите повече за допълнителни стъпки можете да предприемете за предотвратяване на вашата сметка от застрашена, вижте [отговор на компрометирани имейл акаунт в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+За да научите повече за допълнителни стъпки, можете да предприемете, за да предотвратите компрометиране на вашия акаунт, вижте [отговор на компрометиран имейл акаунт в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).

@@ -1,5 +1,5 @@
 ---
-title: Как да отмените ап
+title: Как да отмените приложение
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542084"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Как да отмените софтуер като услуга приложения 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Как да отмените софтуерни приложения като услуга 
 
-1. В центъра за администрация на Microsoft 365 до **Билинг** > [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница, след което изберете раздела за **приложения** .
+1. В центъра за администриране на Microsoft 365 на страницата продукти за **Фактуриране** > [& услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) , след което изберете раздела **приложения** .
 
 2. Намерете и изберете приложението, което искате да управлявате.
 
-3. Под **Настройки на & действия**изберете **Отмени абонамент**.
+3. Под **настройки & действия**изберете **Отказ на абонамент**.

@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510540"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Използвайте вашия браузър за проверка на правописа
+# <a name="use-your-browser-to-check-spelling"></a>Използване на браузъра за проверка на правописа
 
-Няма правописна проверка опция в Outlook в мрежата. За да проверите правописа си, ще трябва да използвате вашия уеб браузър. Проверка на правописа е наличен в Microsoft ръб, Internet Explorer 10 и по-нови версии и актуалните версии на Firefox, Chrome и Safari. Проверете опциите за вашия уеб браузър за да научите повече за това как да проверите правописа.
+Няма опция за правописна проверка в Outlook в мрежата. За да проверите правописа си, ще трябва да използвате вашия уеб браузър. Правописната проверка е налична в Microsoft Edge, Internet Explorer 10 и по-нови версии и текущите версии на Firefox, Chrome и Safari. Проверете опциите за вашия уеб браузър, за да научите повече за това как да проверявате правописа.

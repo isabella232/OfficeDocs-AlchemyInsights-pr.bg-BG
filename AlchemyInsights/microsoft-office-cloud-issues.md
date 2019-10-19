@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754073"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Имате проблеми с облак услуга?
@@ -23,5 +23,5 @@ ms.locfileid: "36754073"
 
 **Правила за уведомяване**
 
-При възникване на инцидент с услугата Microsoft разпознава, че навременното, целево и точно съобщаване са критични за клиентите. Microsoft уведомява администраторите на Office 365 чрез актуализиране на конкретен клиент [услуга здраве табло (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) на Office 365 администратор портал. Актуализациите на сервизни инциденти се предоставят на часови ритъм или, ако се изисква различен ритъм, той ще бъде отбелязан в съобщението за публикуване на съобщения в SHD. За повече информация вижте [как да проверите Office 365 услугата здраве](https://docs.microsoft.com/office365/enterprise/view-service-health).
+При възникване на инцидент с услугата Microsoft разпознава, че навременното, целево и точно съобщаване са критични за клиентите. Microsoft уведомява администраторите на Office 365 чрез актуализиране на конкретен клиент [услуга здраве табло (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) на Office 365 администратор портал. Актуализациите на сервизни инциденти се предоставят на часови ритъм или, ако се изисква различен ритъм, той ще бъде отбелязан в осчетоводяването на съобщението за SHD. За повече информация вижте [как да проверите Office 365 услугата здраве](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

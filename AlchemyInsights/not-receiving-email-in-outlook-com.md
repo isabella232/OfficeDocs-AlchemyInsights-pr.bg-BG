@@ -1,5 +1,5 @@
 ---
-title: 8000037, които не получават имейл в Outlook.com
+title: 8000037 не получавате имейл в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538550"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Не получават поща в Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Не получавате поща в Outlook.com
 
-Ако не получавате имейл от конкретен подател, като например банкови извлечения или паролата нулиране съобщения, трябва да се свържете с подателя и да ги знам не получавате имейл в профила си Outlook.com. Моля, вижте подателя да [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), където те могат да намерят информация за най-добрите практики, препоръчват отстраняване на неизправности, както и връзка да се свържете с нашия екип за поддръжка на подателя.
+Ако не получавате имейл от конкретен подател, като например банковите ви извлечения или съобщенията за нулиране на паролата, ще трябва да се свържете с подателя и да им позволите да знаят, че не получавате имейл в профила си в Outlook.com. Моля, обърнете се към [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)подателя, където те могат да намерят информация за най-добрите практики, препоръчват отстраняване на неизправности и връзка за контакт с нашия екип за поддръжка на подател.
   
-Ако акаунтът Outlook.com не получавате имейл на всички, вижте [прикрепвам Outlook.com синхронизация проблеми с имейл](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Ако акаунтът ви Outlook.com не получава имейл, вижте Отстраняване на [проблеми с синхронизирането на Outlook.com имейл](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Проблеми с МВНР
+title: Проблеми с МФП
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545143"
 ---
-# <a name="issues-with-mfa"></a>Проблеми с МВНР
-Има няколко неща, за да проверите дали потребителите не мога да вляза с помощта на удостоверяване (МВНР)
+# <a name="issues-with-mfa"></a>Проблеми с МФП
+Има няколко неща, за да проверите дали потребителите не могат да влезете с помощта на многофакторно удостоверяване (МФП)
 
-1. Променения потребител може да бъде блокиран в Azure Active Directory портал. Ако случаят е такъв, удостоверяване се опитва за това автоматично ще бъдат отказани конкретен потребител. [Моля, следвайте стъпките в тази статия, за да ги деблокирате.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Засегнатите потребител може да бъде блокиран в Azure Active Directory портал. Ако това е така, опитите за удостоверяване за този конкретен потребител ще бъдат автоматично отказани. [Следвайте стъпките в тази статия, за да ги деблокирате.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Ако отблокирате потребител не помогне или потребителят не е блокирана можете да опитате да възстановите МВНР за потребителя и те ще преминат през процеса на записвам отново. [Моля, следвайте стъпките в тази статия.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Ако деблокирането на потребителя не помогна или потребителят не е блокиран, можете да опитате да нулирате МФП за потребителя и те ще мине през процеса на записване отново. [Моля, следвайте стъпките в тази статия.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Ако това е първи път разрешен МВРХ и вашите потребители са в състояние да влезете в не-браузъри клиенти като Outlook, Skype и т.н., може би ADAL (Active Directory удостоверяване библиотека) не е разрешена на абонамента си O365. В този случай ще трябва да се свърже с Exchange Online Powershell и да изпълните тази кратка команда:  *комплект-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Ако това е първият път, когато сте разрешили МФП и вашите потребители са в състояние да влезете в не-браузъри клиенти като Outlook, Skype и т. н., може би ЛОТАРИНГИЯ (Active Directory удостоверяване библиотека) не е разрешена на вашия абонамент за O365. В този случай ще трябва да се свържете с Exchange Online PowerShell и изпълнете тази команда:  *Set-Организацияconfig-OAuth2ClientProfileEnabled: $True*

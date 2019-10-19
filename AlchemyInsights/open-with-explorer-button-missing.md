@@ -1,5 +1,5 @@
 ---
-title: Отваряне с Explorer бутон липсва
+title: Отваря се с липсващ бутон Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543050"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Отваряне с Explorer копче е отсъствуващ
+# <a name="the-open-with-explorer-button-is-missing"></a>Липсва бутон Open с Explorer
 
-Бутона **Отваряне с Explorer** не се появява в съвременният опит на SharePoint и OneDrive. За да отворите библиотеката с документи в File Explorer, потърсете го в Internet Explorer и изберете менюто Изглед \> **мнение в File Explorer**. **Мнение в File Explorer** опция не е налична в Microsoft ръб, Google Chrome или Firefox. 
+**Open с Explorer** бутон не се появява в съвременния опит на SharePoint и OneDrive. За да отворите библиотека с документи във файловия мениджър, намерете го в Internet Explorer и изберете изглед на меню \> изглед **във файловия мениджър**. Опцията **изглед във файловия мениджър** не е налична в Microsoft Edge, Google Chrome или Firefox. 
   
 > [!NOTE]
-> Отваряне с Explorer се поддържа само чрез Internet Explorer. Вместо това, [Синхронизиране на SharePoint файлове с новия OneDrive синхронизиране клиент](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) който предоставя [Файлове при поискване](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Достъп до всички ваши файлове в OneDrive без използване на местни съхранение пространство. 
+> Open с Explorer се поддържа само чрез Internet Explorer. Вместо това [Синхронизиране на файлове на SharePoint с новия OneDrive синхронизиране на клиента](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , който предоставя [файлове при поискване](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Достъп до всички файлове в OneDrive без да използвате локално място за съхранение. 
   
 
