@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545464"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="ceedb-102">Outlook.com е готов за главен време</span><span class="sxs-lookup"><span data-stu-id="ceedb-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="f0fc0-102">Outlook.com е готов за първи път</span><span class="sxs-lookup"><span data-stu-id="f0fc0-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="ceedb-103">Ние сме наясно, че някои клиенти може да видите "Outlook.com е готов за главен време" изскачащият прозорец всеки време те вход и ние сте движение на прикрепвам.</span><span class="sxs-lookup"><span data-stu-id="ceedb-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="f0fc0-103">Ние сме наясно, че някои клиенти може да видите "Outlook.com е готов за първи път" изскачащи всеки път, когато влезете, и ние работим върху корекция.</span><span class="sxs-lookup"><span data-stu-id="f0fc0-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="ceedb-104">Съжалявам за това.</span><span class="sxs-lookup"><span data-stu-id="ceedb-104">Sorry about that.</span></span>
+<span data-ttu-id="f0fc0-104">Съжалявам за това.</span><span class="sxs-lookup"><span data-stu-id="f0fc0-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="ceedb-105">Научете повече за новите Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ceedb-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="f0fc0-105">Научете повече за новия Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="f0fc0-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
