@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742362"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="cb490-102">Изключване на фокусирани входящи в имейл клиенти</span><span class="sxs-lookup"><span data-stu-id="cb490-102">Turn off Focused Inbox in email clients</span></span>
+# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="24e58-102">Изключване на фокусирани входящи в имейл клиенти</span><span class="sxs-lookup"><span data-stu-id="24e58-102">Turn off Focused Inbox in email clients</span></span>
 
-<span data-ttu-id="cb490-103">За да изключите фокусирани входящи в Outlook 2016, Outlook в мрежата, Outlook.com/Hotmail.com, Outlook 2016 за Mac или поща за Windows 10, вижте [Изключете фокусирани входящи](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="cb490-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
+<span data-ttu-id="24e58-103">За да изключите фокусирани входящи в Outlook 2016, Outlook в мрежата, Outlook.com/Hotmail.com, Outlook 2016 за Mac или поща за Windows 10, вижте [Изключете фокусирани входящи](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="24e58-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
 
-<span data-ttu-id="cb490-104">За да изключите фокусирани Входящи за всички в организацията, вижте [Конфигуриране фокусирани Входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="cb490-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="24e58-104">За да изключите фокусирани Входящи за всички в организацията, вижте [Конфигуриране фокусирани Входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="24e58-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>

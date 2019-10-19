@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552844"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745350"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="049c0-102">Премахване на сайт концентратор</span><span class="sxs-lookup"><span data-stu-id="049c0-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="1c5c5-102">Премахване на сайт концентратор</span><span class="sxs-lookup"><span data-stu-id="1c5c5-102">Remove a hub site</span></span>
 
-<span data-ttu-id="049c0-103">Дерегистриране на сайт концентратор в центъра за администрация на нови SharePoint</span><span class="sxs-lookup"><span data-stu-id="049c0-103">Unregister a hub site in the new SharePoint admin center</span></span>
+<span data-ttu-id="1c5c5-103">Дерегистриране на концентратор сайт в новия център за администриране на SharePoint</span><span class="sxs-lookup"><span data-stu-id="1c5c5-103">Unregister a hub site in the new SharePoint admin center</span></span>
   
-1. <span data-ttu-id="049c0-104">В новия център за SharePoint администратор под **сайтове**, щракнете върху **активни обекти**.</span><span class="sxs-lookup"><span data-stu-id="049c0-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="1c5c5-104">В новия център за администриране на SharePoint под **сайтове**щракнете върху **активни сайтове**.</span><span class="sxs-lookup"><span data-stu-id="1c5c5-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="049c0-105">Изберете сайта, щракнете върху **сайт концентратор**и след това щракнете върху **регистрацията като сайт концентратор**.</span><span class="sxs-lookup"><span data-stu-id="049c0-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="1c5c5-105">Изберете сайта, щракнете върху **сайт концентратор**и след това щракнете върху **Дерегистриране като концентратор сайт**.</span><span class="sxs-lookup"><span data-stu-id="1c5c5-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="049c0-106">Щракнете върху **OK**.</span><span class="sxs-lookup"><span data-stu-id="049c0-106">Click **OK**.</span></span>
+3. <span data-ttu-id="1c5c5-106">Щракнете върху **OK**.</span><span class="sxs-lookup"><span data-stu-id="1c5c5-106">Click **OK**.</span></span>
 
-[<span data-ttu-id="049c0-107">Научете повече за концентратор сайтове</span><span class="sxs-lookup"><span data-stu-id="049c0-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="1c5c5-107">Научете повече за концентратори</span><span class="sxs-lookup"><span data-stu-id="1c5c5-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

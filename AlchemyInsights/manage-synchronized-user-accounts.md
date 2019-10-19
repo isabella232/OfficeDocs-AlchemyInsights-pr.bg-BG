@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
 ms.openlocfilehash: 822c50fda3c9af83232d57f08e039681718f178f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497144"
 ---
-# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="7a15e-102">Управление на синхронизирани потребителски акаунти</span><span class="sxs-lookup"><span data-stu-id="7a15e-102">Manage synchronized user accounts</span></span>
+# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="c5985-102">Управление на синхронизирани потребителски акаунти</span><span class="sxs-lookup"><span data-stu-id="c5985-102">Manage synchronized user accounts</span></span>
 
-<span data-ttu-id="7a15e-103">Обикновено Използвайте центъра за администрация на Microsoft 365 да добавяне и промяна на потребителски акаунти.</span><span class="sxs-lookup"><span data-stu-id="7a15e-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="7a15e-104">Въпреки това можете да го използвате, ако директория sychronization или SSO са разрешени.</span><span class="sxs-lookup"><span data-stu-id="7a15e-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="7a15e-105">Вместо това управлявате вашите потребители с Windows PowerShell, както е описано в [Конфигуриране на свойства на потребителски акаунт с Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="7a15e-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
+<span data-ttu-id="c5985-103">Обикновено използвате центъра за администриране на Microsoft 365 за добавяне и промяна на потребителски акаунти.</span><span class="sxs-lookup"><span data-stu-id="c5985-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="c5985-104">Обаче не можете да го използвате, ако директория синхронизиране или SSO са активирани.</span><span class="sxs-lookup"><span data-stu-id="c5985-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="c5985-105">Вместо това Управлявайте потребителите си с Windows PowerShell, както е описано в [Конфигуриране на свойствата на потребителския акаунт с Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="c5985-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
   
 
