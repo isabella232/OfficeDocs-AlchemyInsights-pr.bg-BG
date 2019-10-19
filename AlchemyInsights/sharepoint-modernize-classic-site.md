@@ -1,5 +1,5 @@
 ---
-title: Модерен сайт като главния сайт
+title: Модерен сайт като корен сайт
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503480"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576654"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Модернизират класически сайта на SharePoint
+# <a name="modernize-your-classic-sharepoint-site"></a>Модернизирайте класическия сайт на SharePoint
 
-Вижте следното за повече подробности за използването на нови модерни опит:
+За да направите преминаването към модерен потребителски интерфейс, трябва да се съсредоточите върху следното:
 
-- За стъпка по стъпка преглед на модернизиране класически SharePoint сайтове на съвременните опит вижте [Modernize си класически сайтове на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Преминаване на вашите **списъци и библиотеки** , за да използвате съвременния потребителски интерфейс (също така се нарича модерен списък и библиотека опит).
+- Трансформиране на **страниците на сайта** ви от класическите страници в уики и уеб части в съвременните страници от страна на клиента.
+- Създаване на **модерни сайтове** (екипен сайт или сайт за комуникация).
 
-- За да увеличите използването на съвременните потребителски интерфейс за вашия сайт страници и страници списък и библиотека, вижте [Modernize на потребителския интерфейс](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Модернизирайте преживяването си, като:
+- [Разрешаване на списъци и библиотеки да се показват в съвременния потребителски интерфейс](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) чрез заместване на персонализации, премахване на несъвместими колони от използваните изгледи или (в крайна мярка) преместване на данни в модерен потребителски интерфейс-съвместим тип списък.
+- [Свързването на сайта ви с група на Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), която дава на сайта ви модерна начална страница и позволява на сайта ви да използва например пощенска кутия или Планировчик на Microsoft. Това ви позволява да използвате модерна версия на календар и списък със задачи.
+- [Създаването на модерни страници](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)е чудесен начин за споделяне на идеи с помощта на изображения, Excel, Word и PowerPoint документи, видео и др.
+- [Създаване на модерни страници от страна на клиента](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) и конфигурирането им да бъде "подобно" на вашия ключов класически Wiki и уеб части страници. Трансформацията на програмни страници трябва да се направи за ключовите страници на сайтовете ви, тъй като трансформирането на всички страници е ресурсно интензивно и често не е необходимо. За да помогне в това сортиране, Скенерът за модернизация на SharePoint може да ви предостави информация за използването на текущата Wiki страница и страниците на уеб частите.
+- [Създаване на модерни сайтове](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Трябва ли да създам екипен сайт или комуникационен сайт?
 
-- За да научите повече за това как да разблокирате вашия списъци и библиотеки при използване на модерен потребителски интерфейс, вижте [увеличи използването на съвременни списъци и библиотеки](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Допълнителна информация: 
+- За стъпка по стъпка преглед на модернизирането на класическите сайтове на SharePoint към съвременното преживяване вижте [модернизиране на класическите сайтове на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Вижте ръководство за [съвременния опит](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Вижте [опит на SharePoint Classic и съвременни](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- За повече информация относно свързването към Office 365 група и извършване на група-връзка вижте [Свързване към Office 365 група](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

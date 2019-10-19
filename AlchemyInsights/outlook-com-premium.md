@@ -1,5 +1,5 @@
 ---
-title: Outlook.com премия
+title: Outlook.com Премиум
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545788"
 ---
-# <a name="outlookcom-premium"></a>Outlook.com премия
+# <a name="outlookcom-premium"></a>Outlook.com Премиум
 
-**Съществуващите Premium абонати**
+**Съществуващи Премиум абонати**
 
-- Ако вече имате Outlook.com премия абонамент, прочетете [ЧЗВ Outlook.com премия](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ако вече имате абонамент за Outlook.com Premium, прочетете [Outlook.com Premium ЧЗВ](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Нови абонати**
 
-- Съжаляваме, но Outlook.com премия е била затворена за нови абонати.
-- Много от [функции и предимства](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) сега са включени с [абонамент за Office 365 дома и Office 365 лични](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Съжаляваме, но Outlook.com Premium вече е затворен за нови абонати.
+- Много от [функциите и предимствата](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) сега са включени в [абонаменти за Office 365 Home и Office 365 лично](https://go.microsoft.com/fwlink/?linkid=2017122).

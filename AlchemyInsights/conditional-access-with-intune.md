@@ -1,5 +1,5 @@
 ---
-title: Условен достъп с Intune
+title: Условен достъп с InTune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504983"
 ---
-# <a name="conditional-access-with-intune"></a>Условен достъп с Intune
+# <a name="conditional-access-with-intune"></a>Условен достъп с InTune
 
-Използване на **Условен достъп** с Intune изисква три стъпки: 
+Използването на **условен достъп** с InTune изисква 3 стъпки: 
   
-- Създаване на **Условен достъп политика** , която дефинира какви ресурси са защитени, както и какви условия трябва да бъдат изпълнени за достъп до тези ресурси. Например устройството трябва да бъде съвместим преди достъп до корпоративни имейл. 
+- Създаване на **правила за условен достъп** , която определя какви ресурси са защитени и какви условия трябва да бъдат изпълнени за достъп до тези ресурси. Например дадено устройство трябва да отговаря на изискванията, преди да получи достъп до корпоративен имейл. 
     
-- Създаване на **Спазване на политиката** да дефинирате настройки, които трябва да бъдат изпълнени, преди устройството се счита съвместим. Например устройство трябва да има ПИН на най-малко 6 цифри преди се счита съвместим. 
+- Създаване на **правила за съответствие** , за да дефинирате настройки, които трябва да бъдат изпълнени, преди устройството да се счита за съвместимо. Например устройството трябва да има щифт от поне 6 цифри, преди да се счита за съвместим. 
     
-- Гарантира **Съответствие политики** и **Условен достъп политики** са насочени към желаните групи от потребители. Това може да наложи създаването на специфични групи от потребители в Azure Active Directory. 
+- Осигуряването на **политики за съответствие** и **правила за условен достъп** са насочени към желаните групи потребители. Това може да изисква създаване на конкретни групи от потребители в Azure Active Directory. 
     
-Прочетете още:
+Прочети още:
   
-- [Условен достъп най-добрите практики](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Най-добри практики за условен достъп](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Запознаване с условен достъп](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Първи стъпки с условен достъп](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

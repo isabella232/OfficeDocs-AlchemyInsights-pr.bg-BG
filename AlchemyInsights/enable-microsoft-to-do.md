@@ -1,5 +1,5 @@
 ---
-title: Разреши Microsoft задание
+title: Разрешаване на Microsoft да прави
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527532"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Как да активирате Microsoft задание
+# <a name="how-to-enable-microsoft-to-do"></a>Как да активирате Microsoft To-do
 
-За да използвате Microsoft заданието, един администратор трябва да разреши приложението на всеки потребителски акаунт. Отидете на [услуги &amp; добавки страница](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) на Office 365 администраторския страницата с настройки за да разрешите заданието за всеки потребител. 
+За да използва Microsoft To-do, администраторът трябва да разреши приложението на профила на всеки потребител. Отидете на [страницата с &amp; добавки на услугите](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) на Office 365 Admin настройки на страницата за разрешаване на работа за всеки потребител. 
   
-Microsoft задание използва функции в Exchange онлайн за синхронизация и съхранение на потребителите задачи. За да използвате Microsoft задание, потребител трябва валиден Exchange Online пощенска кутия.
+Microsoft To-do използва функции в Exchange Online за синхронизиране и съхраняване на потребителите на елементи. За да използвате Microsoft To-do, потребителят се нуждае от валидна пощенска кутия на Exchange Online.
   
-За допълнителна информация вижте [Microsoft задание преглед администрация](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+За допълнителна [информация вж.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
   
- **Забележка**: Ако получите 501 грешка, когато се опитвате да влезете в [http://todo.microsoft.com](http://todo.microsoft.com), опитайте [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Забележка**: Ако получите грешка 501, когато се опитвате да влезете в [http://todo.microsoft.com](http://todo.microsoft.com), опитайте [https://to-do.microsoft.com](https://to-do.microsoft.com).
   
 

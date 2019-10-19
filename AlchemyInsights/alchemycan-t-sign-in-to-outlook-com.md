@@ -1,5 +1,5 @@
 ---
-title: Алхимия - не може да влезете в Outlook.com
+title: Алхимията-не може да влезе в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
 ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36493940"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Не може да влезете в Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Не можете да влезете в Outlook.com
 
-Ако срещате проблеми при влизане във вашия акаунт, се уверете, че вашия акаунт не е бил неактивен повече от 365 дни. След 365 дни на неактивност Вашият имейл ще бъде изтрита и не може да бъде възстановена.
+Ако срещате проблеми при влизане в профила си, уверете се, че акаунтът ви не е бил неактивен повече от 365 дни. След 365 дни неактивност имейлът ви ще бъде изтрит и няма да може да бъде възстановен.
   
-Вашата сметка може да бъде временно блокирана, защото ние забелязахме някои необичайни вход дейност. Ако вашият акаунт е блокиран, прочетете как да [деблокиране ми Outlook.com сметка](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
+Профилът ви може да е временно блокиран, защото забелязахме необичайна активност при влизане. Ако акаунтът ви е блокиран, прочетете как да [деблокирате моя Outlook.com акаунт](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx). 
   
-Ако подозирате, че вашия Outlook.com акаунт е компрометиран, вижте [Моят Outlook.com акаунт е компрометиран](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
+Ако подозирате, че акаунтът ви в Outlook.com е бил хакнат, вижте [моя Outlook.com акаунт е бил хакнат](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).
   
-Ако сте забравили или загубили паролата си, можете да [възстановите паролата си](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Ако сте забравили или загубили паролата си, можете да [нулирате паролата](https://go.microsoft.com/fwlink/p/?LinkID=242804)си.
   
-Прочетете повече за [когато не можете да влезете вашия акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Прочетете повече за това [, кога не можете да влезете във вашия акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
 

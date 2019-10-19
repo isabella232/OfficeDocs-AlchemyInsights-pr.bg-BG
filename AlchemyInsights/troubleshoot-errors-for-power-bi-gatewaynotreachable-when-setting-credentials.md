@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable при задаване на идентификационни данни
+title: Гатевайнотреачабле при задаване на идентификационни данни
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507116"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable при задаване на идентификационни данни
+# <a name="gatewaynotreachable-when-setting-credentials"></a>Гатевайнотреачабле при задаване на идентификационни данни
 
-Можете да срещнете GatewayNotReachable, когато се опитвате да зададете идентификационни данни за източник на данни в рамките на мощност BI служба. Това може да бъде резултат от остарели шлюз. Инсталирайте последните шлюза и опитайте отново.
+Може да срещнете Гатевайнотреачабле, когато се опитвате да зададете идентификационни данни за източник на данни в услугата на Power BI. Това може да е резултат от остарял шлюз. Инсталирайте най-новия шлюз и опитайте отново.
 
 За повече информация:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

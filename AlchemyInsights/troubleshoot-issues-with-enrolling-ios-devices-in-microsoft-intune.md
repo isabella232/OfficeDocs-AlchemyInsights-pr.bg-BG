@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми със записване iOS устройства в Microsoft Intune
+title: Отстраняване на проблеми с записване на iOS устройства в Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36506870"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Отстраняване на проблеми със записване iOS устройства в Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Отстраняване на проблеми с записване на iOS устройства в Microsoft InTune
 
-Преглед на ресурси, изброени по-долу да решим вашия проблем сега. 
+Прегледайте ресурсите, изброени по-долу, за да разрешите вашия проблем сега. 
   
-Някои често срещани съобщения за грешка и разрешаване стъпки:
+Някои често срещани съобщения за грешки и стъпки за разрешаване:
   
-- **Устройството ОСП достига** Потребителят има повече устройства, записани от лимита за устройството. Преглед на тези документи, за да [премахнете устройството](https://docs.microsoft.com/intune/devices-wipe) или [променете лимита за устройството](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Достигнат е капачката на устройството** Потребителят има включени повече устройства от лимита на устройството. Прегледайте тези документи, за да [премахнете дадено устройство](https://docs.microsoft.com/intune/devices-wipe) или да [промените лимита на устройството](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Тази услуга не се поддържа. Няма правила за записване:** Apple бутам съобщаване служба (APNS) трябва да бъде конфигуриран или подновен. Преглед на [този документ](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) за инструкции как да направите това. 
+- **Тази услуга не се поддържа. Правила за записване:** Apple Push уведомяване услуга (APNS) трябва да бъде конфигуриран или подновен. Прегледайте [този документ](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) за инструкции как да направите това. 
     
-- **Потребител лиценз тип невалиден или потребителско име не се разпознава:** Потребителят трябва да бъде назначен Intune или EMS лиценз. Преглед на тези документи, за да присвоите даден лиценз чрез: [Центъра за администрация на офис](https://docs.microsoft.com/intune/licenses-assign) или [небесносин портал](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Тип на потребителски лиценз невалидно или потребителско име не е разпознато:** Потребителят трябва да бъде назначен InTune или EMS лиценз. Прегледайте тези документи, за да присвоите лиценз чрез: [център за администриране на Office](https://docs.microsoft.com/intune/licenses-assign) или [Azure портал](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Допълнителни ресурси за разрешаване на вашия проблем:
+Допълнителни ресурси за разрешаване на проблема ви:
   
-1. Използвате [Intune портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на общи записване неизправности. Преглед на [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности. 
+1. Използвайте [InTune портал за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностициране и разрешаване на често срещани откази при записване. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности. 
     
-2. Преглед на тези документи за списък на често срещани грешки, които пречат на записване и резолюции на всеки: [ръководство за отстраняване на проблеми](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) и [отстраняване на док](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Прегледайте тези документи за списък с често срещани грешки, които предотвратяват записването и решенията на всеки: [ръководство за отстраняване на неизправности](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) и отстраняване на проблеми с [док](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Научете как да се запишат iOS устройства в Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Научете как да записвате устройства с IOS в Microsoft InTune](https://docs.microsoft.com/intune/ios-enroll).
     
 

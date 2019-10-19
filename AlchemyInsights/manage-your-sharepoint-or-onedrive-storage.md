@@ -1,5 +1,5 @@
 ---
-title: Управление на вашия SharePoint или OneDrive съхранение
+title: Управление на хранилището на SharePoint или OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497072"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление на вашия SharePoint или OneDrive съхранение
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Управление на хранилището на SharePoint или OneDrive
 
- **SharePoint онлайн**
+ **SharePoint online**
   
-За повечето организации хранилището на SharePoint се управлява автоматично, така че не е нужно да се определят граници на колекцията от сайтове. За да проверите колко хранилището на SharePoint, имате:
+За повечето организации хранилището на SharePoint се управлява автоматично, така че не е необходимо да задавате лимити за колекция от сайтове. За да проверите колко хранилище на SharePoint имате:
   
-- В новия център за администратор на SharePoint в горния десен ъгъл на страницата на сайтове Потърсете си разположение и общо съхранение.
+- В новия център за администриране на SharePoint в горната дясна част на страницата на сайтовете Потърсете наличното и общото хранилище.
     
-За информация за как се изчислява вашия лимит вижте [Онлайн граници на SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). За да закупите допълнително място за съхранение, вижте [Промяна съхранение пространство за вашия абонамент](https://go.microsoft.com/fwlink/?linkid=866428).
+За информация относно начина на изчисление на лимита вижте [SharePoint online лимити](https://go.microsoft.com/fwlink/p/?LinkID=856113). За да закупите допълнително хранилище, вижте [Промяна на мястото за съхранение на абонамента ви](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
-За да промените съхранение по подразбиране за нови и съществуващи потребители, OneDrive:
+За да промените хранилището по подразбиране за нови и съществуващи потребители на OneDrive:
   
-- Отидете на [съхранение страница на центъра за администрация на OneDrive](https://admin.onedrive.com/?v=StorageSettings)и въведете нова сума в GB.
+- Отидете на [страницата за съхранение на центъра за администриране на OneDrive](https://admin.onedrive.com/?v=StorageSettings)и въведете нова сума в ГБ.
     
-За да проверите колко място за съхранение използвате във вашия собствен OneDrive, вижте [управление си OneDrive за бизнес за съхранение на багаж](https://go.microsoft.com/fwlink/?linkid=866429). За информация за съхранение, който идва с всеки план вижте [OneDrive за описание на бизнес услугите](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+За да проверите колко място за съхранение използвате в своя OneDrive, вижте [управление на вашия onedrive за бизнес съхранение](https://go.microsoft.com/fwlink/?linkid=866429). За информация относно хранилището, което идва с всеки план вижте [OneDrive за бизнес описание на услугата](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Не може да печата в Outlook.com
+title: Не може да се отпечата в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36547912"
 ---
-# <a name="unable-to-print"></a>Не може да печата
+# <a name="unable-to-print"></a>Не може да се отпечата
 
-Ние сме наясно проблем където някои потребители не може да печата, когато използвате Safari или ръб браузъри. Докато ние работим на прикрепвам за това, моля използвайте друг браузър. Извиняваме се за неудобството.
+Ние сме наясно с проблем, при който някои потребители не могат да печатат, когато използвате Safari или Edge браузъри. Докато работим по решение за това, моля, използвайте друг браузър. Извиняваме се за неудобството.

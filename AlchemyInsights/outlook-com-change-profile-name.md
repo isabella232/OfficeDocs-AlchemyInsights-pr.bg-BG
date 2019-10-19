@@ -1,5 +1,5 @@
 ---
-title: Промяна името на профила ви в Outlook.com
+title: Промяна на името на профила ви в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546709"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Промяна името на профила ви в Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Промяна на името на профила ви в Outlook.com
 
-1. Отидете на [вашия Microsoft сметка уведомявам](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Изберете **Редактиране име**.
-3. Въведете собствено име и фамилно име и изберете **Запиши**.
+1. Посетете [информацията за вашия акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Изберете **Редактиране на име**.
+3. Въведете собствено и фамилно име и изберете **Запиши**.
 
-Моля, изчакайте до 24 часа за промени на името на профила ви, за да влязат в сила.
+Моля, позволете до 24 часа за промените в името на потребителския ви профил да влязат в сила.

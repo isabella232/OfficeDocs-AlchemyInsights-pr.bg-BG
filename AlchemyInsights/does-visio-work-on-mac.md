@@ -1,5 +1,5 @@
 ---
-title: Visio работи на Mac
+title: Работи ли Visio на Mac
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529656"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Visio работи на Mac?
+# <a name="does-visio-work-on-a-mac"></a>Работи ли Visio на Mac?
 
-Няма Visio десктоп приложение за Mac. Въпреки това като потребител, който се нуждае от ап има [Visio онлайн лицензът, присвоен](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), те могат да [Преглед, създаване и редактиране на диаграми в Visio онлайн](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) в уеб браузър.
+Няма десктоп приложение на Visio за Mac. Въпреки това, докато потребителят, който се нуждае от приложението има [Visio online лиценз присвоени](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), те могат да [преглеждат, създаване и редактиране на диаграми във Visio online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) в уеб браузър.
   
   

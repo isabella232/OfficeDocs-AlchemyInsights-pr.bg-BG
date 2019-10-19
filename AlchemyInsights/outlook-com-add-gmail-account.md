@@ -1,5 +1,5 @@
 ---
-title: Добавяне на Gmail акаунт в Outlook.com
+title: Добавяне на акаунт в Gmail към Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538117"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Прибавям your Gmail сметка към Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Добавяне на профила ви в Gmail към Outlook.com
 
-1. Отворете [настройките за синхронизиране на имейл](https://go.microsoft.com/fwlink/?linkid=875264).
+1. Отворете [настройките на имейла за синхронизиране](https://go.microsoft.com/fwlink/?linkid=875264).
 2. Под **свързани акаунти**изберете **Gmail**.
-3. Въведете показвано име (името на получателите ще виждат, когато те получават имейл съобщение от вас).
-4. Изберете ако Outlook.com трябва да импортирате вашите имейли от Gmail и къде ще се съхраняват вносните имейл.
-5. Изберете **OK** , за да отидете на страницата за вход на Google.
+3. Въведете показвано име (получателите на името ще видят, когато получат имейл съобщение от вас).
+4. Изберете дали Outlook.com да импортира имейла ви от Gmail и къде ще се съхранява Импортираният имейл.
+5. Изберете **OK** , за да отидете на страницата за влизане в Google.
 
-Синхронизиране от свързан акаунт към акаунта Outlook.com е еднопосочен. Имейл, изпратен от вашия Gmail сметка, използвайки Outlook.com няма да се появи в изпратени съобщения в Gmail.
+Синхронизирането от свързан акаунт във вашия акаунт на Outlook.com е еднопосочен само. Имейлът, изпратен от профила ви в Gmail с помощта на Outlook.com, няма да се появи в "изпратени" в Gmail.
 
-Можете да изпратите имейл в Outlook.com от вашия свързан акаунт в Gmail. Когато съставяте имейл, изберете **от** и вашия Gmail адрес, или [актуализиране по подразбиране от адрес](https://go.microsoft.com/fwlink/?linkid=875264).
+Можете да изпращате имейл в Outlook.com от свързания си профил в Gmail. Когато композирате имейл, изберете **от** и изберете адреса си в Gmail или [актуализирайте адреса по подразбиране](https://go.microsoft.com/fwlink/?linkid=875264).
 
-За повече информация вижте [Добавяне на други имейл акаунти в Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+За повече информация вижте [Добавяне на други имейл акаунти към Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

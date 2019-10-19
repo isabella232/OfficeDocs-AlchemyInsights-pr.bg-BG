@@ -1,5 +1,5 @@
 ---
-title: Невалидни файлови имена в OneDrive
+title: Невалидни имена на файлове в OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498188"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Невалидни имена на файлове и папки в OneDrive и SharePoint
 
-Тези знаци не се допускат в имената на файлове и папки " \* : \< \> ? / \ | 
+Тези знаци не са позволени в имена на файлове и \* папки \< \> ":? / \ | 
   
-Някои организации все още не са подкрепа за # и % включен. За да научите как да позволи на тези знаци във вашата организация, вижте [# и % подкрепа](https://go.microsoft.com/fwlink/?linkid=862611). 
+Някои организации все още нямат поддръжка за # и% включени. За да научите как да разрешавате тези знаци във вашата организация, вижте [разрешаващата # и% поддръжка](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Повече информация за файл и папка име ограничения](https://go.microsoft.com/fwlink/?linkid=866430)
+[Повече информация за ограниченията за имена на файлове и папки](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

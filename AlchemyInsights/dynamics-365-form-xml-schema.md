@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 формата XML схема
+title: Dynamics 365 XML схема на формуляр
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.custom:
 - "1471"
 - "6200019"
 ms.openlocfilehash: 7c0b8e77da3f6f58571c2fbc35a3fed16c00fd0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528864"
 ---
-# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 образуват XML схема
+# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 формуляр XML схема
 
-[Формуляр XML схема определение за персонализиране на формуляри за Dynamics 365 клиент ангажименти](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[Дефиниция на XML схема на формуляр за персонализации на формуляр за Dynamics 365 клиентски ангажименти](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

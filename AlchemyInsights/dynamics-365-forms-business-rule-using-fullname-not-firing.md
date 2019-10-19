@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 форми бизнес правило с вашето име поле не стрелба
+title: Dynamics 365 формуляри бизнес правило използване на поле за пълно име не стрелба
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528918"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Пълно име поле не се поддържа с унифицирана inteface приложения
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Полето "пълно име" не се поддържа с единни приложения
 
-Действия или условия, които използват полето **Пълно име** (вашето име) не се поддържат в приложения на базата на унифициран интерфейс. Алтернативно можете да използвате действия или условия с **първо име** (собствено име) и **Фамилно име** (фамилия) полета.
+Действия или условия, които използват **пълно име** (пълен име) поле не се поддържат в приложения, базирани на унифициран интерфейс. Алтернативно, можете да използвате действия или условия с **първото** име (фамилия) и **фамилното име** (фамилно име) полета.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

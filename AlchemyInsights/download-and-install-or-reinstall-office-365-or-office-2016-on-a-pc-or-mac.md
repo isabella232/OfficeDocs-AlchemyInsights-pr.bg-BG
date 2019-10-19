@@ -1,5 +1,5 @@
 ---
-title: Изтеглете и инсталирайте или преинсталирайте Office 365 или офис 2016 на PC или Mac
+title: Изтеглете и инсталирайте или преинсталирайте Office 365 или Office 2016 на компютър или Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 1/23/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529574"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Изтеглете и инсталирайте или преинсталирайте Office 365 или офис 2016 на PC или Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Изтеглете и инсталирайте или преинсталирайте Office 365 или Office 2016 на компютър или Mac
 
-За да изтеглите и инсталирате Office продукти, включени в абонамента си, отидете на [Моят софтуер](https://portal.office.com/OLS/MySoftware.aspx) \> **служба** и кликнете **инсталирате**. 
+За да изтеглите и инсталирате продукти на Office, включени във вашия абонамент, отидете в [моя софтуерен](https://portal.office.com/OLS/MySoftware.aspx) \> **офис** и щракнете върху **Инсталирай**. 
   
-За подробни инструкции вижте [изтеглите и инсталирате или преинсталирате Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+За подробни инструкции вижте [изтегляне и инсталиране или преинсталиране на Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
   
-Ако имате нужда да инсталирате Office офлайн, вижте [използване офлайн монтажник Office 2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+Ако трябва да инсталирате Office офлайн, вижте [използване на инсталационната програма на office 2016 офлайн](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
   
 
