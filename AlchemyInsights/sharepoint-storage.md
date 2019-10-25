@@ -1,9 +1,8 @@
 ---
-title: SharePoint за съхранение на багаж
+title: Хранилище на SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502690"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658246"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Управление на вашия SharePoint Online съхранение
+# <a name="manage-your-sharepoint-online-storage"></a>Управление на хранилището на SharePoint online
 
-За повечето организации хранилището на SharePoint се управлява автоматично, така че не е нужно да се определят граници на колекцията от сайтове. За да проверите колко хранилището на SharePoint, имате:
-  
-- В новия център за администратор на SharePoint в горния десен ъгъл на страницата на сайтове Потърсете си разположение и общо съхранение.
+Научете как [се изчислява хранилището на наематели](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) въз основа на вашия план.
 
-За информация за как се изчислява вашия лимит вижте [Онлайн граници на SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). За да закупите допълнително място за съхранение, вижте [Промяна съхранение пространство за вашия абонамент](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-За информация за съхранението на отделни сайтове за мониторинг чрез PowerShell и управление на съхранението на сайта колекция ръчно, вижте [управление сайтове ограничения за съхраняване на колекция](https://go.microsoft.com/fwlink/?linkid=867833)
+За повечето организации хранилището на SharePoint се управлява автоматично, така че не е необходимо да задавате лимити за колекция от сайтове.
+
+Научете как да [преглеждате общото и наличното място за съхранение на вашата организация](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Научете как да [управлявате индивидуалните лимити за съхранение на колекцията от сайтове](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Ако сайтът ви е извън пространството или искате да научите коя библиотека или списък използва пространството, отидете на настройки за съхранение на **настройките** > на сайта (необходими са разрешения на администратора**на** колекцията от сайтове).
+
+Научете как да [наблюдавате ограничения за съхранение на сайта с помощта на PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Научете как да [закупите допълнително място за съхранение](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
