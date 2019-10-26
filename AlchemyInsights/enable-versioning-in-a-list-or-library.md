@@ -1,5 +1,5 @@
 ---
-title: Разрешите версии в списък или библиотека
+title: Разрешаване на версии в списък или библиотека
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36527424"
 ---
 # <a name="enable-versioning-for-a-list-or-library"></a>Разрешаване на версии за списък или библиотека
 
 1. Отидете в списъка или библиотеката.
     
-2. Щракнете върху **Настройки**а след това щракнете върху **Настройки на библиотека** или **списък настройки**.
+2. Щракнете върху **настройкии**след това щракнете върху **Настройки на библиотеката** или настройки на **списъка**.
     
 3. Щракнете върху **Настройки на версиите**.
     

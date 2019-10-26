@@ -1,5 +1,5 @@
 ---
-title: Абонамент информация
+title: Информация за абонамента
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501180"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576865"
 ---
-# <a name="subscription-information"></a>Абонамент информация
+# <a name="subscription-information"></a>Информация за абонамента
 
-За информация за Office 365 абонаменти, притежавате, в центъра на администратор, отидете на **Фактуриране** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+За информация относно абонаментите, които притежавате, отидете на страницата продукти за **Фактуриране** \> [& услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Основна информация за всеки абонамент:
+Ключова информация за всеки абонамент:
   
-- Състоянието на всеки
+- Състояние на всеки
 
-- Лицензите, закупени
+- Лицензи, закупени
 
-- Лицензи за присвоени
+- Лицензи, присвоени
 
-- Повтарящи се фактуриране статус
+- Състояние на повтарящо се таксуване
 
 - Баланс
 
 - Начин на плащане
 
-- Следващата дата за фактуриране или изтичане
+- Следваща дата на фактуриране или изтичане
