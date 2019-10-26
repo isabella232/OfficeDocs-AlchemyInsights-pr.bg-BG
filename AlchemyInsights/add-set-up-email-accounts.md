@@ -14,15 +14,15 @@ ms.custom:
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
 ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36737970"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="0dac6-102">Проблеми при настройване на имейл акаунт на Exchange в Outlook</span><span class="sxs-lookup"><span data-stu-id="0dac6-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="0abea-102">Проблеми при настройване на имейл акаунт на Exchange в Outlook</span><span class="sxs-lookup"><span data-stu-id="0abea-102">Problems setting up an Exchange email account in Outlook</span></span>
 
-<span data-ttu-id="0dac6-103">Ако срещате проблеми при настройването на акаунт на Exchange в Outlook, можете да стартирате инструмента за [Настройка на акаунт на Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатата машина.</span><span class="sxs-lookup"><span data-stu-id="0dac6-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="0dac6-104">Тя ще извърши различни проверки и да предостави възможни решения за вашия проблем при настройка на профила.</span><span class="sxs-lookup"><span data-stu-id="0dac6-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="0abea-103">Ако срещате проблеми при настройването на акаунт на Exchange в Outlook, можете да стартирате инструмента за [Настройка на акаунт на Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатата машина.</span><span class="sxs-lookup"><span data-stu-id="0abea-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="0abea-104">Тя ще извърши различни проверки и да предостави възможни решения за вашия проблем при настройка на профила.</span><span class="sxs-lookup"><span data-stu-id="0abea-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="0dac6-105">Ако все още имате проблеми, вижте [Outlook не може да създаде нов профил с помощта на Exchange автоматично откриване за пощенска кутия на Exchange Online в Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="0dac6-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
+<span data-ttu-id="0abea-105">Ако все още имате проблеми, вижте [Outlook не може да създаде нов профил с помощта на Exchange автоматично откриване за пощенска кутия на Exchange Online в Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="0abea-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   

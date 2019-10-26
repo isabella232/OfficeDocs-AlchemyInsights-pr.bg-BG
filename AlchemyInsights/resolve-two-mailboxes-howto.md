@@ -1,5 +1,5 @@
 ---
-title: 1374 разрешаване две кутии howto
+title: 1374 разрешаване на две пощенски кутии
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1374"
+- "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369834"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37026583"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="3a627-102">Един потребител има две кутии</span><span class="sxs-lookup"><span data-stu-id="3a627-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="e8703-102">Потребителят има две пощенски кутии</span><span class="sxs-lookup"><span data-stu-id="e8703-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="3a627-103">Хибридни среди, които използват Azure Active Directory свързване (ЗСУ се свърже) или DirSync случайно може да предизвика един потребител да има две кутии: една в локалната организация и в облака.</span><span class="sxs-lookup"><span data-stu-id="3a627-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one in the on-premises organization and one in the cloud.</span></span>
+<span data-ttu-id="e8703-103">Хибридна среда, които използват Azure Active Directory свързване (ЗСУ свързване) или DirSync случайно може да предизвика потребител да има две пощенски кутии: един локално и един в облака.</span><span class="sxs-lookup"><span data-stu-id="e8703-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="e8703-104">Дублирани пощенска кутия може да бъде създаден на всяко място.</span><span class="sxs-lookup"><span data-stu-id="e8703-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="3a627-104">За да разрешите този проблем, вижте [Окончателно ясни предишните пощенската кутия информация](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span><span class="sxs-lookup"><span data-stu-id="3a627-104">To resolve this issue, see [Permanently Clear Previous Mailbox Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).</span></span>
+<span data-ttu-id="e8703-105">За да разрешите този проблем, вижте [как да възстановите, когато пощенската кутия съществува в Exchange Online и локално](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="e8703-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="e8703-106">Ако искате да научите повече за това как да избегнете това да се случи в бъдеще, вижте [моя потребител има пощенска кутия както на място, така и в Exchange Online. Помогни ми!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)</span><span class="sxs-lookup"><span data-stu-id="e8703-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
