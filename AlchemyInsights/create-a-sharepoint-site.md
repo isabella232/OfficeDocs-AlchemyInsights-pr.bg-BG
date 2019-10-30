@@ -2,7 +2,6 @@
 title: Създаване на сайт на SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738186"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769580"
 ---
 # <a name="create-a-sharepoint-site"></a>Създаване на сайт на SharePoint
 
@@ -31,10 +30,10 @@ ms.locfileid: "36738186"
 
 
   
-> [! Съвети
-> - Не можете да създадете сайт със същия URL адрес на съществуващ сайт. Ако сте изтрили сайт и искате да използвате отново URL адреса, това е възможно изтрит сайт все още съществува в **Изтрити сайтове**. За да управлявате изтритите сайтове, [Изтрийте сайт](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). За да премахнете напълно сайт с PowerShell, вижте например команда за [Премахване на SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Някои потребители може да не успеят да създадат сайт. Вижте [управление на създаването на сайт в SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Това е възможно сайтът се появява остана в **Създаване** на повече от очакваното. Ако са изминали повече от 24 часа от първия път, когато сте видели този проблем, моля, впишете билет за поддръжка. В много случаи вече работим по решение. Моля, дайте ни поне 24 часа, за да завършим решение.
-> - Ако трябва да създадете нов екипен сайт, който не включва група на Office 365, 
+**Съвети:**
+- Не можете да създадете сайт със същия URL адрес на съществуващ сайт. Ако сте изтрили сайт и искате да използвате отново URL адреса, това е възможно изтрит сайт все още съществува в **Изтрити сайтове**. За да управлявате изтритите сайтове, [Изтрийте сайт](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). За да премахнете напълно сайт с PowerShell, вижте например команда за [Премахване на SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Някои потребители може да не успеят да създадат сайт. Вижте [управление на създаването на сайт в SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Това е възможно сайтът се появява остана в **Създаване** на повече от очакваното. Ако са изминали повече от 24 часа от първия път, когато сте видели този проблем, моля, впишете билет за поддръжка. В много случаи вече работим по решение. Моля, дайте ни поне 24 часа, за да завършим решение.
+- Ако трябва да създадете нов екипен сайт, който не включва група на Office 365, 
 
 

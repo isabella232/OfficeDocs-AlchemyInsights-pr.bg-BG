@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545143"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768826"
 ---
-# <a name="issues-with-mfa"></a>Проблеми с МФП
-Има няколко неща, за да проверите дали потребителите не могат да влезете с помощта на многофакторно удостоверяване (МФП)
+# <a name="issues-with-azure-mfa"></a>Проблеми с Azure МФП
+Има няколко неща, за да проверите дали потребителите не могат да влязат с помощта на многофакторно удостоверяване (МФП)
 
 1. Засегнатите потребител може да бъде блокиран в Azure Active Directory портал. Ако това е така, опитите за удостоверяване за този конкретен потребител ще бъдат автоматично отказани. [Следвайте стъпките в тази статия, за да ги деблокирате.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

@@ -3,7 +3,6 @@ title: Качване на документ
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529411"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769400"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Качване на файлове в OneDrive или SharePoint
 
@@ -26,7 +25,10 @@ ms.locfileid: "36529411"
     
 3. Изберете файловете и ги плъзнете до местоположението в OneDrive или SharePoint. Забележка: Ако използвате Microsoft Edge, Mozilla FireFox или Google Chrome, можете също да качите папка и всички файлове в нея.
     
-> [!NOTE]
->  Можете да качвате файлове с размер до 15 ГБ. > Пълният път на файл (включително името на файла) не може да бъде повече от 400 знака. > ако трябва да качите повече от 100 файлове, [Използвайте OneDrive синхронизиране на клиента](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Бележки:**
+
+- Можете да качвате файлове с размер до 15 ГБ. 
+- Пълният път за файл (включително името на файла) не може да бъде повече от 400 знака. 
+- Ако трябва да качите повече от 100 файлове, [Използвайте OneDrive синхронизиране на клиента](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

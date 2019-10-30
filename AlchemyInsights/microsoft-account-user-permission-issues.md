@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754181"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768790"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Отстраняване на проблем-потребителят не е намерен в директорията
 
-Ако потребителите получават съобщение за грешка "потребителят не може да бъде намерен" в директорията. Опитайте отново, когато типът на проблема е потребител, който не е в директорията.
+Ако потребителите получават съобщение за грешка "потребителят не може да бъде намерен" в директорията, опитайте отново, когато типът на проблема е потребител не в директорията.
 
 Следните стъпки могат да бъдат завършени за отстраняване на проблема.
 
@@ -27,9 +27,9 @@ ms.locfileid: "36754181"
 
 - Прегледайте всеки сайт (и), в който потребителят получава грешката. 
 
-Добавяне на "/_layouts/15/People.aspx/membershipgroupid членове на групата = 0" (в рамките на двойните кавички) до края на URL адреса на сайта. 
+Добавете "/_layouts/15/Nari.Six/papripiscupuspusa = 0" (в двойните кавички) до края на URL адреса на сайта 
 
-Пример: HTTPS://_ \ _ "contoso">. SharePoint. com/_оформления/15/хора. aspx/членове = 0.
+Пример: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Изберете потребителя от списъка.
 

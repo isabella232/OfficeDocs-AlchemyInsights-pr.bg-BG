@@ -3,7 +3,6 @@ title: Активиране на нов абонамент с продуктов
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495632"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766376"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Активиране на нов абонамент с продуктов ключ
 
-1. За да активирате нов абонамент с вашия продуктов ключ, отидете на [https://office.com/setupkey](https://office.com/setupkey) страница.
+1. За да активирате нов абонамент за Office 365 с продуктовия ключ, отидете на [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Въведете вашия продуктов ключ за Office 365 и следвайте подканите, за да активирате абонамента си. Ако имате проблеми с активирането, вижте този [Списък на общ продукт ключови грешки и решения](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Въведете продуктовия ключ на Office 365 и следвайте указанията, за да активирате абонамента си. Ако имате проблеми с активирането, вижте този [списък с общи грешки и решения за продуктови ключове](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

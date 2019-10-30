@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751661"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766880"
 ---
 # <a name="workflows-in-sharepoint"></a>Работни потоци в SharePoint
 
 Ако SharePoint работни потоци не изпращат имейли, вашата организация може да се натъкна на Exchange Online подател лимити.
 
-"Работен поток е спряно" съобщение за грешка може да възникне, ако имате един от следните елементи:
+Съобщение за грешка "работният поток е спряно" може да възникне, ако имате един от следните елементи:
 
 - Имате работен поток в SharePoint Online, използващ SharePoint 2010 или SharePoint 2013 работен поток платформа тип.
 

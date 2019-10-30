@@ -1,5 +1,5 @@
 ---
-title: Качване на файлове до OneDrive или SharePoint
+title: Качване на файлове в OneDrive или SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532500"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769868"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Качване на файлове до OneDrive или SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Качване на файлове в OneDrive или SharePoint
 
-1. Във вашия уеб браузър отидете на мястото, където искате да качите файлове.
+1. В уеб браузъра си отидете на мястото, където искате да качите файлове.
     
-2. Отворен пила изследовател и намерете файловете, които искате да качите.
+2. Отворете файловия мениджър и прегледайте файловете, които искате да качите.
     
-3. Изберете файловете и ги плъзнете на място в OneDrive или SharePoint. Забележка: Ако използвате Microsoft ръб, Mozilla FireFox или Google Chrome, можете също да качвате папката и всички файлове в нея.
+3. Изберете файловете и ги плъзнете до местоположението в OneDrive или SharePoint. Забележка: Ако използвате Microsoft Edge, Mozilla FireFox или Google Chrome, можете също да качите папка и всички файлове в нея.
     
-> [!NOTE]
->  Можете да качвате файлове с размер до 15 ГБ. > пълния път за файла (включително името на файла) не може да бъде повече от 400 знака. >, ако имате нужда да качвате повече от 100 файлове, [Използвайте OneDrive синхронизиране клиент](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Бележки:**
+- Можете да качвате файлове с размер до 15 ГБ. 
+- Пълният път за файл (включително името на файла) не може да бъде повече от 400 знака. 
+- Ако трябва да качите повече от 100 файлове, [Използвайте OneDrive синхронизиране на клиента](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
