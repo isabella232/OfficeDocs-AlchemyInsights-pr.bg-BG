@@ -1,5 +1,5 @@
 ---
-title: 665 вие получавате твърде много phish или спам във вашата пощенска кутия?
+title: 665 получавате твърде много Фиш или спам в пощенската си кутия?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665893"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911620"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ли получават твърде много phish или спам във вашата пощенска кутия?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Получавате твърде много Фиш или спам в пощенската си кутия?
 
-Като Microsoft 365 администратор най-добрият начин да се определи защо е било доставено на фишинг или спам съобщение е да представи на пробата на Microsoft в [Изявления Explorer](https://protection.office.com/reportsubmission). Вие ще получите незабавна обратна връзка, свързани с филтриране на съобщения и защо има проблеми.
+Като администратор на Microsoft 365, най-добрият начин да определите защо е доставен фишинг или спам съобщение е да изпратите извадката на Microsoft в [заявки Explorer](https://protection.office.com/reportsubmission). Ще получите незабавни коментари, свързани с филтрирането на съобщения и защо има проблеми.
 
-За да направите това easer, можете да разрешите вашите потребители да докладва директно на Microsoft чрез [добавката към съобщението](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+За да го направите по-лесно, можете да позволите на потребителите си да докладват директно на Microsoft чрез [добавката за съобщение за отчет](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+
+**Знаехте ли?**: сега можете да подадете проби директно от [проследяване на съобщения](https://protection.office.com/messagetrace) и Е5/ATP план 2 клиенти могат да подават проби от [заплаха Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
