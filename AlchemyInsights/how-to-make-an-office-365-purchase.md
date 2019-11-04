@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664080"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921839"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Как да направите покупка на Office 365
 
-Покупки в Office 365 могат да бъдат направени в центъра за администрация на.
+Покупките в Office 365 могат да бъдат направени в центъра за администриране.
   
-- За да закупите абонамент за Office 365, преминете към **плащане** \> [купуват услуги](https://go.microsoft.com/fwlink/p/?linkid=868433) страница.
+- За да закупите абонамент за Office 365, отидете на страницата " [Услуги за покупка](https://go.microsoft.com/fwlink/p/?linkid=868433) на **Фактуриране** \> ".
 
-- За да закупите допълнителни лицензи, преминете към **плащане** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница. Изберете абонамент, който искате да добавите лицензи за и след това изберете **Добавяне/премахване лицензи**.
+- За да закупите допълнителни лицензи, отидете на страницата продукти за **Фактуриране** \> [& услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) . Изберете абонамента, към който искате да добавите лицензи, след което изберете **Добавяне/премахване на лицензи**.
   
-За да научите повече, вижте [купуват лицензи за вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+За да научите повече, вижте [закупуване на лицензи за Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+
+**Отстраняване**
+
+Ако имате проблеми с зареждането на страницата, опитайте да отворите уеб страницата в друг браузър или опитайте да отворите страницата с частен прозорец на браузъра, като например InPrivate прозорец в Microsoft Edge или прозорец "инкогнито" в Google Chrome. 
 
 **Допълнителни ресурси**
   
-- [Присвояване на лицензи за потребителите в Office 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Присвояване на лицензи на потребители в Office 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Office 365 отказ за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Отмяна на Office 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
