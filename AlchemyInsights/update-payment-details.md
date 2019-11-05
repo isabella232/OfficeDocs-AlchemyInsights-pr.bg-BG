@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660925"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921803"
 ---
 # <a name="update-payment-details"></a>Актуализиране на данни за начин на плащане
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660925"
 4. Направете актуализациите и след това изберете **Напред**.
 
 5. За да премахнете този метод на плащане, изберете **Изтриване**.
+
+**Отстраняване на неизправности**
+
+Ако се сблъсквате с проблеми със зареждането на страницата, опитайте да отворите уеб страницата в друг браузър или в частен прозорец на браузъра, като например прозорец InPrivate в Microsoft Edge или прозорец в режим „инкогнито“ в Google Chrome. 
 
 За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) и [Отстраняване на неизправности с кредитни карти или банкови сметки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
