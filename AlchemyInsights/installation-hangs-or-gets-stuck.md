@@ -13,27 +13,27 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735414"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="d7eb1-102">Инсталирането на Office увисва или се заби</span><span class="sxs-lookup"><span data-stu-id="d7eb1-102">Office installation hangs or gets stuck</span></span>
+# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="86c06-102">Инсталирането на Office увисва или се заби</span><span class="sxs-lookup"><span data-stu-id="86c06-102">Office installation hangs or gets stuck</span></span>
 
-<span data-ttu-id="d7eb1-103">Може да видите това поведение поради мрежова свързаност, антивирусен софтуер или настройки на Windows Update на вашия компютър.</span><span class="sxs-lookup"><span data-stu-id="d7eb1-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="d7eb1-104">Ето някои неща, които можете да опитате да отстраните проблема.</span><span class="sxs-lookup"><span data-stu-id="d7eb1-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="86c06-103">Може да видите това поведение поради мрежова свързаност, антивирусен софтуер или настройки на Windows Update на вашия компютър.</span><span class="sxs-lookup"><span data-stu-id="86c06-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="86c06-104">Ето някои неща, които можете да опитате да отстраните проблема.</span><span class="sxs-lookup"><span data-stu-id="86c06-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="d7eb1-105">Рестартирайте компютъра и проверете дали Office инсталиран</span><span class="sxs-lookup"><span data-stu-id="d7eb1-105">Restart your computer and check if Office Installed</span></span>
+- <span data-ttu-id="86c06-105">Рестартирайте компютъра и проверете дали Office инсталиран</span><span class="sxs-lookup"><span data-stu-id="86c06-105">Restart your computer and check if Office Installed</span></span>
 
-- <span data-ttu-id="d7eb1-106">Използване на кабелна връзка</span><span class="sxs-lookup"><span data-stu-id="d7eb1-106">Use a wired connection</span></span>
+- <span data-ttu-id="86c06-106">Използване на кабелна връзка</span><span class="sxs-lookup"><span data-stu-id="86c06-106">Use a wired connection</span></span>
 
-- <span data-ttu-id="d7eb1-107">Ако сте на бавна интернет връзка, инсталирайте Office [чрез офлайн инсталиращата програма на Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="d7eb1-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="86c06-107">Ако сте на бавна интернет връзка, инсталирайте Office [чрез офлайн инсталиращата програма на Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="86c06-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="d7eb1-108">Временно изключване на антивирусния софтуер</span><span class="sxs-lookup"><span data-stu-id="d7eb1-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="86c06-108">Временно изключване на антивирусния софтуер</span><span class="sxs-lookup"><span data-stu-id="86c06-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="d7eb1-109">Стартирай онлайн ремонт от контролния панел</span><span class="sxs-lookup"><span data-stu-id="d7eb1-109">Run online repair from Control Panel</span></span>
+- <span data-ttu-id="86c06-109">Стартирай онлайн ремонт от контролния панел</span><span class="sxs-lookup"><span data-stu-id="86c06-109">Run online repair from Control Panel</span></span>
 
-- <span data-ttu-id="d7eb1-110">Премахване и преинсталиране на Office</span><span class="sxs-lookup"><span data-stu-id="d7eb1-110">Remove and reinstall Office</span></span>
+- <span data-ttu-id="86c06-110">Премахване и преинсталиране на Office</span><span class="sxs-lookup"><span data-stu-id="86c06-110">Remove and reinstall Office</span></span>
 
-[<span data-ttu-id="d7eb1-111">Office дълго време се инсталира</span><span class="sxs-lookup"><span data-stu-id="d7eb1-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="86c06-111">Office дълго време се инсталира</span><span class="sxs-lookup"><span data-stu-id="86c06-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

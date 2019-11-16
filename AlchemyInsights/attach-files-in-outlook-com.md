@@ -12,17 +12,17 @@ ms.custom:
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
 ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768321"
 ---
-# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="ae31d-102">Как да прикачите файлове в OUtlook</span><span class="sxs-lookup"><span data-stu-id="ae31d-102">How to attach files in OUtlook</span></span> 
+# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="eb934-102">Как да прикачите файлове в OUtlook</span><span class="sxs-lookup"><span data-stu-id="eb934-102">How to attach files in OUtlook</span></span> 
 
-1. <span data-ttu-id="ae31d-103">Съставяне на ново съобщение или отговор на съобщение.</span><span class="sxs-lookup"><span data-stu-id="ae31d-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="eb934-103">Съставяне на ново съобщение или отговор на съобщение.</span><span class="sxs-lookup"><span data-stu-id="eb934-103">Compose a new message or reply to a message.</span></span>
 
-2. <span data-ttu-id="ae31d-104">В долната част на панела за съставяне изберете иконата на хартияклип.</span><span class="sxs-lookup"><span data-stu-id="ae31d-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="eb934-104">В долната част на панела за съставяне изберете иконата на хартияклип.</span><span class="sxs-lookup"><span data-stu-id="eb934-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
 
-<span data-ttu-id="ae31d-105">Научете повече за това [как да прикачите файлове в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="ae31d-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="eb934-105">Научете повече за това [как да прикачите файлове в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="eb934-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   

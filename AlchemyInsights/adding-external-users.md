@@ -13,18 +13,18 @@ ms.custom:
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
 ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37766664"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="665ab-102">Добавяне на външни потребители</span><span class="sxs-lookup"><span data-stu-id="665ab-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="a3b89-102">Добавяне на външни потребители</span><span class="sxs-lookup"><span data-stu-id="a3b89-102">Adding external users</span></span>
 
-<span data-ttu-id="665ab-103">Стъпките за добавяне на външни/гости потребители могат да бъдат различни в зависимост от това, което имате нужда от тях, за да имате достъп.</span><span class="sxs-lookup"><span data-stu-id="665ab-103">The steps for adding external/guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="665ab-104">Моля, изберете едно от следните неща:</span><span class="sxs-lookup"><span data-stu-id="665ab-104">Please choose one of the following:</span></span>
+<span data-ttu-id="a3b89-103">Стъпките за добавяне на външни/гости потребители могат да бъдат различни в зависимост от това, което имате нужда от тях, за да имате достъп.</span><span class="sxs-lookup"><span data-stu-id="a3b89-103">The steps for adding external/guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="a3b89-104">Моля, изберете едно от следните неща:</span><span class="sxs-lookup"><span data-stu-id="a3b89-104">Please choose one of the following:</span></span>
   
-- [<span data-ttu-id="665ab-105">Преглед на външното споделяне на SharePoint online</span><span class="sxs-lookup"><span data-stu-id="665ab-105">SharePoint Online external sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [<span data-ttu-id="a3b89-105">Преглед на външното споделяне на SharePoint online</span><span class="sxs-lookup"><span data-stu-id="a3b89-105">SharePoint Online external sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [<span data-ttu-id="665ab-106">Достъп за гости в Office 365 групи</span><span class="sxs-lookup"><span data-stu-id="665ab-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="a3b89-106">Достъп за гости в Office 365 групи</span><span class="sxs-lookup"><span data-stu-id="a3b89-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="665ab-107">Достъп за гости в екипите на Microsoft</span><span class="sxs-lookup"><span data-stu-id="665ab-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="a3b89-107">Достъп за гости в екипите на Microsoft</span><span class="sxs-lookup"><span data-stu-id="a3b89-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
