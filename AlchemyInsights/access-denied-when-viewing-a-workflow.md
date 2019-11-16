@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36747737"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Достъпът е отказан при преглеждане на работен поток
@@ -27,5 +27,5 @@ SharePoint 2013 работни потоци, които се опитват да
   
  3. Изрично добавете потребителите към до или Як линия, ако членството видимост не може да се промени за група на SharePoint.
   
-За да видите повече подробности, моля, вижте [http неразрешено към/_vti_bin/client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+За да видите повече подробности, моля, вижте [http неразрешено на/_vti_bin/клиент.СВК/сп.утилитиес.утилити.сендемаил](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

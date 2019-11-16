@@ -11,10 +11,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37205398"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Инсталиране на Office на терминален сървър
@@ -46,7 +46,7 @@ ms.locfileid: "37205398"
 
 2. Изберете да, когато бъдете подканени да позволите на редактора на системния регистър да направи промени в устройството.
 
-3. В редактора на системния регистър, добавете низова стойност на **Ssydsлицензиране** с настройка 1 под HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \оффице\кликкторун\конфигуратион.
+3. В редактора на системния регистър, добавете низ стойност на **Sedimлицензиране** с настройка 1 под HKEY_LOCAL_MACHINE \ софтуер \ Microsoft \оффице\кликкторун\конфигуратион.
 
 7. RDS сървър, ***влезте като краен потребител*** и [Проверете дали е активирано споделено активиране за Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
