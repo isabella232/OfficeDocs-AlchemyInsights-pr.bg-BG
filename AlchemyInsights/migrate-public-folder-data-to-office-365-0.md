@@ -1,9 +1,8 @@
 ---
-title: Мигриране на публична папка данни в Office 365
+title: Мигриране на данни на публична папка в Office 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544347"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202583"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Мигриране на публична папка данни в Office 365
+# <a name="migrate-public-folder-data-to-office-365"></a>Мигриране на данни на публична папка в Office 365
 
-Ако не разполагате много публични папки, за да въвеждат в Office 365, най-лесният начин да ги приведат ще бъде да копирате данните в. PST файлове и след това да ги импортирате в Office 365. За малки количества от данни, просто влачите и пускате на публична папка в. PST файл може да бъде достатъчно. Ако имате повече данни, отколкото че (до 30GB), ние имаме [документирано процес](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) който можете да използвате да експортирате папки да PST файлове.
+Ако не разполагате с много публични папки, за да се въвеждат в Office 365, най-лесният начин да ги доведе ще бъде да копирате данните в. PST файлове и след това да ги импортирате в Office 365. За малки количества данни, просто плъзгане и пускане на публична папка в. PST файл може да бъде достатъчно. Ако имате повече данни от това (до 30GB), ние сме [документирани процес](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , който можете да използвате, за да експортирате ПАПКИ за PST файлове.
   
-За по-големи организации, които се движат публични папки в Office 365 ние имаме няколко ръководства:
+За по-големи организации, които се преместват публични папки в Office 365, имаме ръководства на разположение:
   
-- [Мигрират наследство публични папки](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 и по-рано)
+- [Мигриране на наследени публични папки](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Мигриране на Exchange 2013 публични папки](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Мигриране на Exchange 2013, Exchange 2016 или Exchange 2019 публични папки](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [Мигриране на Exchange 2016 публични папки](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-Също така имате опцията да [мигрират публични папки в Office 365 групи](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
+Също така имате възможност да [мигрират публични папки за Office 365 групи](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   
