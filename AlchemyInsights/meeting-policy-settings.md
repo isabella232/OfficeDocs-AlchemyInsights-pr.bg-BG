@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376520"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627563"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Управление на правилата за събрания в екипите на Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376520"
 
 За повече информация относно правилата за събрания вижте следните ресурси:
 
-- За да научите как да създавате правила, да правите промени и да присвоявате потребители на правилата, вижте [управление на правила за събрания в екипи](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- За да научите как да създавате правила, да правите промени и да присвоявате потребители на правилата, вижте [управление на правила за събрания в екипи](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - За да промените правилата с помощта на кратки команди PowerShell, вижте [екипи PowerShell преглед](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Трябва да използвате [Skype за бизнес PowerShell модул](https://www.microsoft.com/download/details.aspx?id=39366) за екипи събрание правила. 

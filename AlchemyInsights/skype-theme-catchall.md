@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316650"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627311"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Често срещани проблеми и резолюции на Skype за бизнеса 
 
@@ -34,4 +34,4 @@ ms.locfileid: "37316650"
 
 **Комуникация със Skype контакти:** [Нека Skype за бизнес потребители добавяне на контакти в Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
 
-**Надграждане на Skype за бизнес екипи на Microsoft:** Прегледайте [Първи стъпки с надстройката на екипите на Microsoft](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) и Научете повече за [съвместното съществуване](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) с екипите на Microsoft, докато осиновяват екипи във вашата организация. 
+**Надграждане на Skype за бизнес екипи на Microsoft:** Прегледайте [Първи стъпки с надстройката на екипите на Microsoft](https://docs.microsoft.com/microsoftteams/upgrade-start-here) и Научете повече за [съвместното съществуване](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) с екипите на Microsoft, докато осиновяват екипи във вашата организация. 
