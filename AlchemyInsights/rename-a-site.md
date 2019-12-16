@@ -1,7 +1,7 @@
 ---
 title: Преименуване на сайт
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: cc0a4bcdd0290b7c4d4d26531e8043a7feaf0f50
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37658354"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048857"
 ---
-# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="eefb6-102">Преименуване на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="eefb6-102">Rename a SharePoint site</span></span>
+# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="77b41-102">Преименуване на сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="77b41-102">Rename a SharePoint site</span></span>
 
-<span data-ttu-id="eefb6-103">Следвайте стъпките в [тази статия](https://docs.microsoft.com/sharepoint/change-site-address) , за да промените името на сайт--например от https://contoso.sharepoint.com/sites/sample1 до. https://contoso.sharepoint.com/sites/sample2</span><span class="sxs-lookup"><span data-stu-id="eefb6-103">Follow steps in [this article](https://docs.microsoft.com/sharepoint/change-site-address) to change the name of a site--for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2.</span></span>
+<span data-ttu-id="77b41-103">Следвайте стъпките в [тази статия](https://docs.microsoft.com/sharepoint/change-site-address) , за да промените името на сайт--например от https://contoso.sharepoint.com/sites/sample1 до. https://contoso.sharepoint.com/sites/sample2</span><span class="sxs-lookup"><span data-stu-id="77b41-103">Follow steps in [this article](https://docs.microsoft.com/sharepoint/change-site-address) to change the name of a site--for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2.</span></span>
 
-<span data-ttu-id="eefb6-104">**Забележка:** Не можете да промените името на домейна (в примера по-горе, contoso част на URL) в SharePoint online URL.</span><span class="sxs-lookup"><span data-stu-id="eefb6-104">**Note:** You cannot change the domain name (in the example above, the contoso part of the URL) in a SharePoint Online URL.</span></span> <span data-ttu-id="eefb6-105">Вижте [Промяна на домейните](https://go.microsoft.com/fwlink/?Linkid=2018696) за повече информация.</span><span class="sxs-lookup"><span data-stu-id="eefb6-105">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696) for more information.</span></span>
+<span data-ttu-id="77b41-104">**Забележка:** Не можете да промените името на домейна (в примера по-горе, contoso част на URL) в SharePoint online URL.</span><span class="sxs-lookup"><span data-stu-id="77b41-104">**Note:** You cannot change the domain name (in the example above, the contoso part of the URL) in a SharePoint Online URL.</span></span> <span data-ttu-id="77b41-105">Вижте [Промяна на домейните](https://go.microsoft.com/fwlink/?Linkid=2018696) за повече информация.</span><span class="sxs-lookup"><span data-stu-id="77b41-105">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696) for more information.</span></span>
   
