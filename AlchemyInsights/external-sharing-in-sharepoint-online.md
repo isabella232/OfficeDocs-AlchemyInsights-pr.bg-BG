@@ -1,7 +1,7 @@
 ---
 title: Външно споделяне в SharePoint online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735954"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049758"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Външно споделяне в SharePoint online
 
-Ако вашата организация извършва работа, която включва споделяне на документи или сътрудничество директно с доставчици, клиенти или клиенти, тогава можете да използвате [външните функции за споделяне на SharePoint online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , за да споделяте съдържание с хора извън вашия Организация.
+Ако вашата организация извършва работа, която включва споделяне на документи или сътрудничество директно с доставчици, клиенти или клиенти, тогава можете да използвате [функциите за външно споделяне на SharePoint online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , за да споделяте съдържание с хора извън вашата организация.
 
 За повече информация относно външното споделяне, моля, посетете връзките по-долу:
 
