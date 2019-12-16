@@ -1,7 +1,7 @@
 ---
-title: Работен поток за отстраняване на неизправности
-ms.author: efrene
-author: efrene
+title: Отстраняване на неизправности в работния поток
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558066"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049290"
 ---
-# <a name="workflow-troubleshooting"></a>Работен поток за отстраняване на неизправности
+# <a name="workflow-troubleshooting"></a>Отстраняване на неизправности в работния поток
 
-За информация относно SharePoint работни потоци за отстраняване на грешки вижте следното:
-- Работни потоци за отстраняване на грешки прилича на предишни версии.  За повече информация вижте [Debugging SharePoint работни потоци](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- За повече информация относно отстраняването на проблеми вижте [отстраняване на SharePoint Server поток утвърждаване грешки](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+За информация за отстраняване на грешки на SharePoint работни потоци прегледайте следното:
+- Отстраняване на грешки работни потоци наподобява тази на предишните версии.  За повече информация вижте [отстраняване на грешки на SharePoint работни потоци](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- За повече информация относно отстраняването на неизправности вижте [отстраняване на грешки при проверка на работния поток на SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Сродни теми
-Искате ли да опитате Microsoft поток в SharePoint Online?
+Искате ли да опитате Microsoft Flow в SharePoint online?
 - [Създаване на поток](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint и поток](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

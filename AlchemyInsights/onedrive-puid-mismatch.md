@@ -1,7 +1,7 @@
 ---
-title: OneDrive PUID несъответствие
-ms.author: efrene
-author: efrene
+title: Несъответствие на PUID в OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521329"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049074"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive PUID несъответствие
-Изглежда, че изпитвате [PUID несъответствие](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive за бизнес. Моля, следвайте стъпките по-долу, така че можем да ви помогнем възможно най-скоро:
+# <a name="onedrive-puid-mismatch"></a>Несъответствие на PUID в OneDrive
+Изглежда изпитвате [несъответствие на PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive за бизнес. Моля, следвайте стъпките по-долу, за да можем да ви съдействаме възможно най-скоро:
 
-1. Щракнете върху **поддръжка**а след това **нова услуга искане**.
-2. Оставете заглавието и описанието като **PUID несъответствие на OneDrive сайт**.
-3. След като билета е подадено, моля го актуализира със следната информация:
-    - OneDrive сайт URL, който е засегнат.
-    - Потребителя основно име (UPN) на променения потребител.
+1. Щракнете върху **контакт поддръжка**и след това **ново искане за услуга**.
+2. Оставете заглавието и описанието като **PUID несъответствие на сайта на OneDrive**.
+3. След като билетът е подаден, моля, актуализирайте го със следната информация:
+    - URL адрес на сайта на OneDrive, който е засегнат.
+    - Основно потребителско име (UPN) на засегнатия потребител.
 
 
 
