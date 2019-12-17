@@ -12,31 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661753"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068280"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Превключване планира да увеличи размера на пощенската кутия
+# <a name="switch-plans-to-increase-mailbox-size"></a>Превключване на планове за увеличаване на размера на пощенската кутия
 
-Ако Office 365 размера на пощенската кутия е вече 100 GB, няма начин да го увеличи. В този случай следвам [този съвет](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Ако размерът на пощенската кутия на Office 365 вече е 100 ГБ, няма начин да го увеличите.
   
-Ако размерът на пощенската кутия е 50 GB, можете да го увеличите до 100 GB, с преминаването към [Office 365 предприятие E3](https://products.office.com/business/office-365-enterprise-e3-business-software) или [Office 365 предприятие E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Тук са стъпките, за да превключите към друг Office 365 план:
+Ако размерът на пощенската кутия е 50 GB, можете да го увеличите до 100 GB чрез превключване към [office 365 Enterprise](https://products.office.com/business/office-365-enterprise-e3-business-software) Е4 или [офис 365 Enterprise](https://products.office.com/business/office-365-enterprise-e5-business-software)Е4. Ето стъпките за превключване към друг план на Office 365:
   
-1. В центъра за администрация на Microsoft 365 преминете към **плащане** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. В центъра за администриране на Microsoft 365 отидете на страницата за **Фактуриране** \> на [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Изберете абонамент, който искате да надстроите.
+2. Изберете абонамента, който искате да надстроите.
 
-3. Абонамент подробности страница изберете **ъпгрейд**.
+3. На страницата с подробни данни за абонамента изберете **надстройка**.
 
-4. Намери план, към който искате да инсталирате, след което изберете бутона **ъпгрейд** .
+4. Намерете плана, към който искате да надстроите, след което изберете бутона **надстройка** .
 
-5. Въведете броя на лицензите, които ви трябва изберете дали да плащате всеки месец или за цялата година, а след това изберете **извличане**.
+5. Въведете броя на лицензите, от които се нуждаете, изберете дали да плащате всеки месец или за цялата година, след което изберете **Поръчка**.
 
-За повече подробности вижте [ъпгрейд към друг план](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+За повече подробности вижте [надграждане до друг план](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Използвате ли стария център на администратор? За подробности вижте [Превключване към друг план](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
-  
-Ако имате [O365 план, който поддържа архив на In-място](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), можете да получите допълнителни имейл съхранение като даде възможност на архивна пощенска кутия.  Архивна пощенска кутия ви дава допълнителен съхранение и ви позволява да преместите, копирате и търсене на съобщения в двете първични и архивна пощенска кутия. За стъпки за разрешаването на архивна пощенска кутия вижте [Разрешаване на архивна пощенска кутия](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ако имате [Office 365 план, който поддържа архив на място](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), можете да получите допълнителни имейл съхранение чрез разрешаване на архивна пощенска кутия. Архивната пощенска кутия ви предоставя допълнително място за съхранение и ви позволява да премествате, копирате и търсите съобщения в първичната и архивната пощенска кутия. За стъпки относно начините за разрешаване на архивна пощенска кутия вижте [Разрешаване на архивна пощенска кутия](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
