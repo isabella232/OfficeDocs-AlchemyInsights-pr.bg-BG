@@ -1,7 +1,7 @@
 ---
 title: Настройки на Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386354"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053250"
 ---
 # <a name="settings-in-outlookcom"></a>Настройки в Outlook.com
 
-Ако получателят е вътрешен или външен за вашата организация и ако те използват Office 365 или Outlook.com имейл акаунт, следните клиенти не трябва да правите нищо специално, за да отворите съобщението: **outlook 2016, Outlook в уеб/Outlook Web App, Мобилно приложение за Outlook**
+Ако получателят е вътрешен или външен за вашата организация и ако те използват Office 365 или Outlook.com имейл акаунт, следните клиенти не трябва да правите нищо специално, за да отворите съобщението: **outlook 2016, Outlook в уеб/Outlook Web App, Outlook мобилно приложение**
 
 **Представители** на потребители, които защитени имейл е изпратен, не може да отвори защитени съобщения. Само първоначалните получатели (лицето, на което е бил изпратен защитеният имейл) могат да преглеждат информацията в имейла.
 

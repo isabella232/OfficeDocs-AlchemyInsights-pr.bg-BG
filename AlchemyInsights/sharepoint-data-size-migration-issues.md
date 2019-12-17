@@ -1,7 +1,7 @@
 ---
-title: Проблеми по време на мигриране на данни за SharePoint Online
-ms.author: efrene
-author: efrene
+title: Проблеми при мигриране на данни към SharePoint online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504344"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051738"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Проблеми по време на мигриране на данни за SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Проблеми при мигриране на данни към SharePoint online
 
-Изглежда, че ще мигрирате над 100 туберкулоза на данни за SharePoint Online. Моля, следвайте стъпките по-долу, така че можем да ви помогнем възможно най-скоро. 
+Изглежда, че мигрират над 100TB данни за SharePoint online. Моля, следвайте стъпките по-долу, за да можем да ви съдействаме възможно най-скоро. 
 
-1. Изберете **нова услуга искане**а след това **нова услуга искане**. 
-2. Оставете заглавието и описанието като **SharePoint миграция над 100 TB**.
-3. След като билета е подадено, моля го актуализира със следната информация: 
+1. Изберете **нова заявка за услуга**и след това **ново искане за услуга**. 
+2. Оставете заглавието и описанието като **мигриране на SharePoint над 100TB**.
+3. След като билетът е подаден, моля, актуализирайте го със следната информация: 
 
-    - Приблизителният размер на мигрирането.
-    - Оценка когато бихте желали да започнете и да завършите мигрирането.
-    - Опишете къде искате да мигрирате вашето съдържание от, като SharePoint Server, кутия, GDrive, файлови дялове, и т.н..
+    - Изчислен размер на вашата миграция.
+    - Оценка на това кога искате да започнете и да завършите вашата миграция.
+    - Опишете къде мигрират съдържанието си от, като например SharePoint Server, Box, GDrive, споделени файлове и т. н.
 
 
   

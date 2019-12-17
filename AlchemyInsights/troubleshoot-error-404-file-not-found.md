@@ -1,18 +1,18 @@
 ---
 title: Отстраняване на грешка 404, файлът не е намерен
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6c23d7c482e3beb900d6e0e2ba596c1ab1db8d7e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748997"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050658"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Отстраняване на грешка 404, файлът не е намерен
 
@@ -29,4 +29,4 @@ ms.locfileid: "36748997"
 
 Отидете на сайта на SharePoint или OneDrive и вижте кошчето от съдържанието на сайта. Вижте, [възстановяване на елементи в кошчето на сайт на SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Ако все още не можете да намерите елемента можете да потърсите регистрационния файл за проверка, ако регистрирането е разрешено Вижте, [Потърсете регистрационния файл на проверка в центъра за съответствие на Office 365 защита &](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Ако все още не можете да намерите елемента можете да потърсите регистрационния файл за проверка, ако регистрирането е разрешено Вижте, [търсене в регистрационния файл за проверка в Office 365 Security & център за съответствие](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

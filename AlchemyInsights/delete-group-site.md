@@ -1,7 +1,7 @@
 ---
-title: Изтриване на група сайтове
-ms.author: kaarins
-author: kaarins
+title: Изтрий групата сайтове
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513708"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053034"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Изтриване на сайт на SharePoint, който принадлежи към група на Office 365
 
-Глобалните администратори и SharePoint администраторите сега може да изтриете сайтове, които принадлежат към група на Office 365. Изтриването на тези сайтове ще изтрие групата и всички свои средства, включително пощенската кутия на Outlook и календар и всички отбори канали.
+Глобални администратори и администратори на SharePoint сега може да изтриете сайтове, които принадлежат към група на Office 365. Изтриването на тези сайтове ще изтрие групата и всички негови ресурси, включително пощенската кутия и календара на Outlook, както и всички канали на отборите.
   
 Важно:
 
-- Можете да възстановите изтрити обекти за 93 дни. За повече информация вижте Преглед и възстановяване на изтрити обекти. Обърнете внимание, че изтритите групи трябва да бъдат възстановени в рамките на 30 дни.
-- Ако сайтът е част от правилата за съхранение, може да не успеете да я изтриете, докато сайтът се отстранява от [защита &amp; съответствие администратор център](https://protection.office.com/?rfr=AdminCenter#/retention). Вижте [Преглед на правилата за съхранение](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) за повече информация.
+- Можете да възстановите изтрити сайтове за 93 дни. За повече информация вижте Преглед и възстановяване на изтрити сайтове. Имайте предвид, че изтритите групи трябва да бъдат възстановени в рамките на 30 дни.
+- Ако сайтът е част от правила за задържане, може да не успеете да го изтриете, докато сайтът не бъде премахнат от центъра за [администриране &amp; на спазването на защитата](https://protection.office.com/?rfr=AdminCenter#/retention). Вижте [Преглед на правилата за задържане](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) за повече информация.
   
-За да [изглед и възстановяване на изтрити обекти в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)изберете **изтрили сайтове**. Изберете сайта, който е бил изтрит и възстановяване или изтриване, (което ще изтрие завинаги сайта). За да изтриете активен сайт, изберете **активни** сайтове, изберете сайта и изберете **Изтриване**. За повече информация вижте [управление на сайтове в центъра за администрация на нови SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+За да [прегледате и възстановите изтритите сайтове в новия център за администриране на SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), изберете **Изтрити сайтове**. Изберете сайта, който е бил изтрит и изберете или възстановяване или изтриване (което ще изтрие окончателно сайта). За да изтриете активен сайт, изберете **активни** сайтове, изберете сайта и изберете **Изтрий**. За повече информация вижте [управление на сайтове в новия център за администриране на SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

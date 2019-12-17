@@ -1,7 +1,7 @@
 ---
-title: OneDrive съхраняване и заличаване
-ms.author: efrene
-author: efrene
+title: OneDrive задържане и изтриване
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521556"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053322"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive съхраняване и заличаване
+# <a name="onedrive-retention-and-deletion"></a>OneDrive задържане и изтриване
 
-- Можете да [възстановите изтрити потребители OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) сами. Те са в кошчето за 93 дни. 
+- Можете сами да [възстановите изтритите потребители в OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Те са в кошчето за 93 дни. 
 
-- Вижте [тази статия](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) за да научите:
-    - Как да се даде на друг потребител достъп до изтрит потребител OneDrive.
+- Вижте [тази статия](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , за да научите:
+    - Как да дадете на друг потребител достъп до OneDrive на изтрит потребител.
     - Какво се случва с OneDrive на потребителя, когато изтривате акаунта на потребителя Office 365 за вашата организация.
-    - Как да конфигурирате автоматично достъп делегация.
-    - Как работи OneDrive изтриване процес.
+    - Как да конфигурирате автоматично делегиране на достъп.
+    - Как работи Процесът на изтриване на OneDrive.
 
-- Интерес в съответствие център за сигурност и задържане и задръжте?:
-    - [Правилата за съхранение за OneDrive и SharePoint сайтове](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [eDiscovery задръжте за OneDrive и SharePoint сайтове](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Интересувате се от защита и съответствие център задържане и задръжте?:
+    - [Правила за задържане за OneDrive и SharePoint сайтове](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [задържане на откриването на откриване на сайтове за OneDrive и SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
