@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741021"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886390"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Акаунтът е блокиран поради изпращане на твърде много нежелана поща
 
-Ако акаунт на Office 365 е блокиран за изпращане на твърде много нежелана поща, изпращащият акаунт може да бъде компрометиран. Вие ще трябва да:
-  
-1. [Определяне дали акаунтът е компрометиран](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Ако е компрометиран, следвайте стъпките за [отговорите на компрометирани имейл акаунт в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Като администратор, ако някой от вашите потребители е с ограничен достъп до изпращане на имейл, можете да [разблокирате акаунта си](https://protection.office.com/?hash=/restrictedusers), **без да подавате сигнал до поддръжката**. Потребителят ще може да изпраща имейли до един час след премахването на ограничението.
 
-2. Отидете на Ограничени потребители, за да **[деблокирате акаунта](https://protection.office.com/?hash=/restrictedusers)** в центъра &amp; за съответствие на защитата. След като го направите, би трябвало да можете да възобновите изпращането на съобщения *в рамките на 1 час*.
-
-3. За да предотвратите бъдещи компрометирания на акаунта, следвайте препоръките в [Пътна карта за защита на Office 365.](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)
-  
+Услугата не позволява на потребителя да изпраща имейли, след като се установи доказателство за компрометиран акаунт и/или изходяща нежелана поща. Като предпазна мярка, следвайте стъпките в [Реагиране на компрометиран имейл акаунт в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) за потребителя.
