@@ -1,5 +1,5 @@
 ---
-title: Хвани всички проблеми при синхронизиране
+title: Улчна всички проблеми при синхронизиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663346"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41550986"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="98f18-102">Основно синхронизиране на Outlook отстраняване на неизправности</span><span class="sxs-lookup"><span data-stu-id="98f18-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="e87a5-102">Отстраняване на неизправности при синхронизиране на basic Outlook</span><span class="sxs-lookup"><span data-stu-id="e87a5-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="98f18-103">Ако имате проблеми с синхронизирането, опитайте следното:</span><span class="sxs-lookup"><span data-stu-id="98f18-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="e87a5-103">Ако имате проблеми със синхронизирането, опитайте следното:</span><span class="sxs-lookup"><span data-stu-id="e87a5-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="98f18-104">Стартирайте [този инструмент за диагностика](https://aka.ms/sara-outlooksendreceive) на засегнатата машина.</span><span class="sxs-lookup"><span data-stu-id="98f18-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="98f18-105">[Създайте нов профил в Outlook](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) и го задайте по подразбиране.</span><span class="sxs-lookup"><span data-stu-id="98f18-105">[Create a new Outlook profile](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) and set it as the default.</span></span> <span data-ttu-id="98f18-106">Можете да [стартирате Outlook профил](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатия компютър.</span><span class="sxs-lookup"><span data-stu-id="98f18-106">You can [run the Outlook profile](https://aka.ms/SaRA-OutlookSetupProfile) on the affected computer.</span></span>
-- <span data-ttu-id="98f18-107">Уверете се, че потребителят може да се свърже с интернет.</span><span class="sxs-lookup"><span data-stu-id="98f18-107">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="98f18-108">[Проверете дали сте онлайн](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="98f18-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="98f18-109">[Определете дали се прилага правило](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="98f18-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="98f18-110">Уверете се, че **изтеглянето на споделени папки** е разрешено, като **отидете на настройките** > на**акаунта** > настройки**на** > профила**повече настройки** > **Разширени**.</span><span class="sxs-lookup"><span data-stu-id="98f18-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="e87a5-104">Изпълнете [този инструмент за диагностика](https://aka.ms/sara-outlooksendreceive) на засегнатата машина.</span><span class="sxs-lookup"><span data-stu-id="e87a5-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="e87a5-105">Намаляване на броя на папките в първичната или споделената пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="e87a5-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="e87a5-106">Вижте [проблеми с производителността на Outlook, когато има твърде много елементи или папки в кеширан режим .ost или .pst файл папка.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="e87a5-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span></span>
+- <span data-ttu-id="e87a5-107">Уверете се, че потребителят може да се свърже с интернет.</span><span class="sxs-lookup"><span data-stu-id="e87a5-107">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="e87a5-108">[Проверете дали сте онлайн](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="e87a5-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="e87a5-109">[Определете дали дадено правило да се прилага](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="e87a5-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="e87a5-110">Уверете се, че **Изтегляне на споделени папки** е разрешено, като отидете в Настройки на > акаунта**за** >  **файла** > Настройки на**акаунтПовече\*\*\*\*настройки** > **Разширени**.</span><span class="sxs-lookup"><span data-stu-id="e87a5-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
