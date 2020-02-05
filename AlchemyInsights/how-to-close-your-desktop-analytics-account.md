@@ -1,5 +1,5 @@
 ---
-title: Как да затворите профила си в Google анализ на работния плот
+title: Как да закриете профила си в Анализ на работния плот
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541646"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771024"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Как да затворите профила си в Google анализ на работния плот
+# <a name="how-to-close-your-desktop-analytics-account"></a>Как да закриете профила си в Анализ на работния плот
 
-Ако настроите компютъра анализ във вашата среда и след това решите, че трябва да го премахнете, използвайте процеса в следния линк:
+Ако настроите Анализ на работния плот в средата си и след това решите, че трябва да го премахнете, използвайте процеса в следната връзка:
 
-[Как да затворите вашия акаунт](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Как да закриете профила си](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Първата стъпка е да се обърнете към поддръжката на Microsoft. Отворете подкрепа случай да затворите профила си в Google анализ на работния плот. Не продължи с допълнителни стъпки, докато получите потвърждение, че Microsoft затворени профила си.
+Първата стъпка е да се свържете с поддръжката на Microsoft. Отворете случай за поддръжка, за да затворите профила си в Анализ на работния плот. Не продължавайте с допълнителните стъпки, докато не получите потвърждение, че Microsoft е затворил вашия акаунт.

@@ -1,5 +1,5 @@
 ---
-title: Как да затворите профила си в Google анализ на работния плот
+title: Как да закриете профила си в Анализ на работния плот
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800188"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771096"
 ---
-# <a name="working-with-desktop-analytics"></a>Работа с работния плот анализ
+# <a name="working-with-desktop-analytics"></a>Работа с анализ на работния плот
 
-Тя изглежда като питате за плот анализ. Може да сме в състояние да помогне с по-точен отговор, ако сте Перифразирайте въпроса си.
+Изглежда, че питате за анализ на работния плот. Може да сме в състояние да ви помогнем с по-точен отговор, ако перифразирате въпроса си.
 
-- [Какво е десктоп анализ?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Как да настроите работен плот анализ](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Често задавани въпроси](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Отстраняване на работния плот анализ](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Какво е анализ на работния плот?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Как да настроите Анализ на работния плот](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Често задавани въпроси](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Отстраняване на неизправности с анализ на работния плот](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

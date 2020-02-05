@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910186"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770880"
 ---
 # <a name="co-management"></a>Съвместно управление
 
-**Предпоставки за мигриране от конфигурационен диспечер хибрид към InTune**
+**Предпоставки за мигриране от конфигурационен диспечер хибрид intune**
 
-- Прегледайте [тази статия](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Добавете лиценз за InTune към вашите потребители](https://docs.microsoft.com/intune/licenses-assign).
+- Прегледайте [тази статия](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- [Добавете лиценз Intune към вашите потребители](https://docs.microsoft.com/intune/licenses-assign).
 - Използвайте [браузъра Edge](https://www.microsoft.com/windows/microsoft-edge) при конфигуриране на съвместно управление.
 
-**Как да инсталирам клиента на Config Manager на устройства, управлявани от InTune**
+**Как да инсталирате клиента config Manager на Устройства, управлявани от Intune**
 
-Вижте [INTUNE МДМ управлявани устройства с Windows](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Вижте [Intune MDM управлявани устройства с Windows](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Ами ако просто искам да променя властите на МДМ?**
+**Ами ако просто искам да променя MDM орган?**
 
-МДМ орган може да се променя без отваряне на случай на поддръжка. Моля, прегледайте следната документация, за да помогнете за промяната на вашия орган за МДМ:
-- [Промяна на органа за МДП от конфигурационен Диспечер за InTune самостоятелен](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [Промяна МДМ орган от InTune самостоятелен конфигурационен Диспечер](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+Може да се промени, без да се отвори случай за поддръжка. Моля, прегледайте следната документация, за да помогнете при промянана вашия MDM орган:
+
+- [Промяна на MDM орган от диспечера на конфигурация intune самостоятелно](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Промяна MDM орган от Intune самостоятелно конфигурационен диспечер](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

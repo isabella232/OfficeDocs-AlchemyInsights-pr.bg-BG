@@ -1,5 +1,5 @@
 ---
-title: Не може да създаде оценка на съвместимостта
+title: Не може да се създаде оценка на съвместимостта
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800194"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771060"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Не може да създаде оценка на съвместимостта
+# <a name="cant-create-a-compatibility-assessment"></a>Не може да се създаде оценка на съвместимостта
 
-Диспечер на конфигурация за успешно конфигурира устройството, но плот анализ не може да създаде оценка на съвместимост. Тя не разполага с пълен набор от данни за конфигурация на устройството (преброяване) или инсталирани приложения (запаси).
+Диспечерът за конфигуриране на Microsoft Endpoint успешно конфигурира устройството, но анализ на работния плот не може да създаде оценка на съвместимостта. Той няма пълен набор от данни за конфигурацията на устройството (преброяване) или инсталираните приложения (опис).
 
-Този проблем често се определя автоматично, когато устройството повтори. Ако това продължава, уверете се, че устройството може да комуникира с услугата. За повече информация вижте [крайни точки](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) и [Липсващите данни](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Този проблем често се определя автоматично, когато устройството повтори. Ако продължава, уверете се, че устройството може да комуникира с услугата. За повече информация вижте [Крайни точки](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) и [липсващи данни](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

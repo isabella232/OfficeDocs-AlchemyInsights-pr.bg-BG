@@ -1,5 +1,5 @@
 ---
-title: Запознаване с SharePoint online
+title: Първи стъпки с SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050910"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770448"
 ---
 # <a name="workflows-in-sharepoint"></a>Работни потоци в SharePoint
 
-Работни потоци на SharePoint са предварително програмирани мини-приложения, които рационализират и автоматизиране на голямо разнообразие от бизнес процеси. Работните потоци могат да варират от събиране на подписи, обратна връзка или одобрения за план или документ, за да се проследи текущото състояние на рутинна процедура.
+Работните потоци на SharePoint са предварително програмирани приложения, които опростяват широк спектър от бизнес процеси. Вижте връзките по-долу за повече информация.
 
-**Първи стъпки:** Ако току-що започвате с работните потоци на SharePoint, вижте [Въведение в работните потоци на SharePoint за повече информация](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Първи стъпки
 
-**Microsoft Flow**: Обмислете използването на Microsoft Flow вместо класическите решения за работен поток на SharePoint. За повече информация вижте [Създаване на поток за списък или библиотека в SharePoint Online или OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Ако сте само за познаване на работни потоци на SharePoint, вижте [Intro към SharePoint работни потоци](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Поток отстраняване на неизправности и отстраняване на грешки**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Отстраняване на неизправности и отстраняване на грешки работен поток на SharePoint
 
-Отстраняване на грешки работни потоци наподобява тази на предишните версии. За повече информация вижте [отстраняване на грешки на SharePoint работни потоци](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). За повече информация относно отстраняването на неизправности вижте [отстраняване на грешки при проверка на работния поток на SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Вижте Отстраняване на грешки при проверка на работния поток на [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) и отстраняване на грешки в работнипотоци на [SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 
+## <a name="power-automate"></a>Мощност автоматика
+
+Помислете за използване [на power automate](https://docs.microsoft.com/power-automate/modern-approvals) вместо класическите решения на SharePoint за работен поток.
