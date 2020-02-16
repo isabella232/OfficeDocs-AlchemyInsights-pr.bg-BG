@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770376"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042869"
 ---
 # <a name="delete-a-site"></a>Изтриване на сайт
 
-Когато изтриете сайт, той се премества в [изтрити сайтове](https://admin.microsoft.com/sharepoint) и се запазва в продължение на 93 дни. За да изтриете даден сайт, отидете на [Активни сайтове](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Когато изтриете сайт, той се премества в [изтрити сайтове](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) и се запазва в продължение на 93 дни. За да изтриете даден сайт, отидете на [Активни сайтове](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Когато изтриете сайт, всичко в него се изтрива, включително:
 
