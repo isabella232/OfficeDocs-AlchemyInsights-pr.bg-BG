@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091662"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158548"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Не може да се зададе или да се визуализира правилата на AllowSelfServicePurchase
 
@@ -29,11 +29,11 @@ ms.locfileid: "42091662"
 Опитайте следните стъпки, за да разрешите/зададете TLS протокола 1.2, проверете и опитайте отново.
  1. В командния ред на PowerShell\) (PS C: въведете следната команда, за да зададете протокола TLS версия 1.2:
 
-    \[Net.ServicePointManager]::ЗащитаПротокол \[= Net. ЗащитаТип протокол]:Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Проверете TLS протокола, които се използват, със следната команда:
 
-    \[Протокол за защита на мрежовите точки на обслужване 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Опитайте отново да получите или актуализирате командите, ако е необходимо.
 
