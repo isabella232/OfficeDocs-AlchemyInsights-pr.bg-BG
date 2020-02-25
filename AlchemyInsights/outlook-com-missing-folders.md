@@ -1,5 +1,5 @@
 ---
-title: Outlook.com липсващи папки
+title: Outlook.com Липсващи папки
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536172"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260231"
 ---
-# <a name="find-missing-folders"></a>Намери липсващите папки
+# <a name="find-missing-folders"></a>Намиране на липсващи папки
 
-Ако не можете да видите вашите папки, проверете дали вашите папки не са свити. Изберете стрелката до **папки** в левия прозорец.
-  
-Ако случайно изтриете дадена папка, можете да го възстановите, ако тя все още е в папката Изтрити елементи. За да научите повече, прочетете [възстановяване изтрити имейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Има известен проблем, където папки са изчезнали. Ние работим за да поправите това. Все още можете да намерите елементи, записани в липсващите папки с помощта на **търсене** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, и тя може да помогне ако Излезте и влезте отново. [Щракнете тук, за да излезете.](https://login.live.com/logout.srf)
+Някои потребители може да не могат да виждат левия прозорец на папките при гледане на малък екран.
+
+- Разширете екрана на папката само когато ви е необходим. Изберете иконата с три линии в лявата странична лента, за да покажете или скриете папките.
+- Отворете [настройките за оформление](https://outlook.live.com/mail/options/mail/layout) и изберете Скриване на **екрана за четене** и след това **Запиши**. Това ще даде на екрана повече място, за да се покажат папки.
+
+Ако случайно изтриете папка, можете да я възстановите, ако все още е в папката "Изтрити". За да научите повече, прочетете [Възстановяване на изтрити теимейл съобщения в Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
