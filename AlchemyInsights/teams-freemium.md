@@ -1,5 +1,5 @@
 ---
-title: Отбори Freemium
+title: Отбори Фримий
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353994"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556631"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Бих искал да се запишете за отбори безплатно, но аз не мога.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Искам да се запиша за Teams безплатно
 
-- Ако използвате Office 365 работа или училище сметка, тази безплатна оферта не е достъпна. Си организации, обаче, може вече да използва екипи. Ако не, отидете на [Екипи на Microsoft](https://products.office.com/microsoft-teams/group-chat-software) за да видите дали то отговаря на условията за безплатен пробен период.
+Екипите са достъпни безплатно чрез няколко различни програми. Тъй като се свързвате с поддръжката с тази заявка, вече имате съществуващ клиент на Microsoft 365, което означава, че вече имате Екипи на Microsoft.
 
-- Академични институции не са допустими за тази безплатна оферта. Учителите и учениците, обаче, може да получите безплатна версия на Office 365, която включва пълната версия на екипи на Microsoft. Вижте [Office 365 лицензиране за Microsoft екипи](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+В повечето случаи Teams е включен по подразбиране за всички ваши потребители. След като бъде включен, вашите потребители могат да работят с Teams , или https://teams.microsoft.comчрез инсталиране на [настолни](https://office.visualstudio.com/MAX/_workitems/edit/desktop) и [мобилни](https://office.visualstudio.com/MAX/_workitems/edit/desktop) клиенти, или от [браузъра](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) на .
 
-- САЩ правителствени институции не са допустими за тази безплатна оферта. За да научите повече за Office 365 плановете за правителството организации (включително безплатна пробна версия), прочетете [Office 365 лицензиране за Microsoft екипи](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Изключение от това е Microsoft Teams за образование (EDU). Ако имате EDU лиценз, трябва да активирате ръчно Microsoft Teams. За да направите това, отидете на Център за администриране на Microsoft 365 **> услуги и добавки > Microsoft Teams**. Ако използвате новия център за администриране на Teams, ще трябва да изключите Опитайте новия център за **администриране,** за да намерите **услуги и добавки**. ВАЖНО: Може да се наложи да изчакате до 24 часа, за да влязат в сила промените Ви.
+
+Не пропускайте всички наши насоки за подпомагане на [отдалечени тела с Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
