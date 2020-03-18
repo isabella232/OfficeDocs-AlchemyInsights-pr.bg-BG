@@ -1,5 +1,5 @@
 ---
-title: Как да настроя аудиоконференции за Teams
+title: Настройване на аудиоконференции за Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "2711"
-- "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+- "3183"
+ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: HT
 ms.contentlocale: bg-BG
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692384"
+ms.locfileid: "42707605"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – аудиоконференции
+# <a name="setup-audio-conferencing-for-teams"></a>Настройване на аудиоконференции за Teams
 
-Имате нужда от помощ за включването или настройването на аудиоконференции в Microsoft Teams? Наскоро ли е създаден този потребител?  Ако е така, ще трябва да изчакате 2 – 24 часа, докато влязат в сила настройките.    
+**Microsoft Teams – аудиоконференции**
+
+Имате ли нужда от помощ за включването или настройването на аудиоконференции в Microsoft Teams?
+
+Наскоро ли е създаден този потребител?  Ако е така, ще трябва да изчакате 2 – 24 часа, за да влязат в сила настройките.
 
 За да проверите дали потребителят е лицензиран за аудиоконференции и дали има платен номер по подразбиране:
 
@@ -31,7 +34,7 @@ ms.locfileid: "42692384"
 
 3. Уверете се, че потребителят има избрани лицензи за **Аудиоконференции, Microsoft Teams** и **Skype за бизнеса онлайн (план 2)**.
 
-4. Под **Центрове за администриране** щракнете върху **Покажи всички**, а след това щракнете върху **Teams**.
+4. Под **Центрове за администриране** щракнете върху **Покажи всички**, а след това върху **Teams**.
 
 5. В **Центъра за администриране на Microsoft Teams** щракнете върху **Стар портал**.
 
