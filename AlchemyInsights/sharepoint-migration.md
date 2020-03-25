@@ -1,5 +1,5 @@
 ---
-title: Мигриране на опции към SharePoint online
+title: Мигриране на опциите към SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -10,27 +10,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964003"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932719"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Мигриране на опции към SharePoint online
+# <a name="migrate-options-to-sharepoint-online"></a>Мигриране на опциите към SharePoint Online
 
-Има различни опции за мигриране на съдържание към SharePoint Online, в зависимост от размера и количеството на файловете, които трябва да преместите, моля, Вижте списък с опции, [намиращи се тук](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+**Важно:** много sharePoint Online и OneDrive клиенти работят критични бизнес приложения срещу услугата, която се изпълнява във фонов режим. Те включват миграция на съдържанието, предотвратяване на загуба на данни (DLP) и архивиране на решения. По време на тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че SharePoint Online и OneDrive услуги остават високо достъпни и надеждни за вашите потребители, които зависят от услугата повече от всякога в отдалечени работни сценарии.
 
-За повече информация относно мигрирането на съдържание, моля, посетете връзките по-долу.
+В подкрепа на тази цел, ние сме внедрили по-строги ограничения за ограничаване на приложенията за фон (миграция, DLP и архивиране на решения) през делничните дни. Трябва да очаквате, че тези приложения ще постигнат много ограничена пропускателна информация по време на тези времена. Въпреки това, по време на вечерните и почивните часове за региона, услугата ще бъде готова да обработи значително по-голям обем заявки от приложения за фон.
 
-- [Инструмент за мигриране на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+**Опции за миграция**
 
-- [Започнете с диспечера на миграцията](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+Има различни опции за мигриране на съдържание към SharePoint Online, в зависимост от размера и количеството на файловете, които трябва да преместите, моля, вижте списък с [опции, намиращи се тук](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [SharePoint online и ODB миграция скорост](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+За повече информация относно миграцията на съдържанието, моля, посетете връзките по-долу.
 
-- [Избягвайте да ограничил или блокирани в SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Инструмент за мигриране на Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Първи стъпки с мениджъра по миграция](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Скорост на мигриране на Sharepoint онлайн и ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+
+- [Избягвайте да се дросели или блокирани в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [Инструмент за оценка на миграцията на SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**Забележка**: в момента Инструментът за мигриране на SharePoint поддържа само миграции от SharePoint 2010 и 2013. Версия 2016 или 2019 не се поддържат в момента.
+**Забележка:** В момента sharePoint миграция инструмент поддържа само мигриране от SharePoint 2010 и 2013. В момента не се поддържат версии 2016 или 2019.

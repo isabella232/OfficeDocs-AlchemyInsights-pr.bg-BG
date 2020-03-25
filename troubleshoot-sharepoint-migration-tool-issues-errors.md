@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с инструмента за мигриране на SharePoint
+title: Отстраняване на проблеми и грешки при мигриране на SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913397"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931107"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Отстраняване на проблеми с инструмента за мигриране на SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Отстраняване на проблеми и грешки при мигриране на SharePoint
 
-Може да срещнете някои често срещани проблеми и грешки при използване на инструмента за мигриране на SharePoint (SPMT). Моля, обърнете се към връзките по-долу за повече информация.
+**Важно:** много sharePoint Online и OneDrive клиенти работят критични бизнес приложения срещу услугата, която се изпълнява във фонов режим. Те включват миграция на съдържанието, предотвратяване на загуба на данни (DLP) и архивиране на решения. По време на тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че SharePoint Online и OneDrive услуги остават високо достъпни и надеждни за вашите потребители, които зависят от услугата повече от всякога в отдалечени работни сценарии.
 
-* [Отстраняване на общи проблеми SPMT и грешки](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-* [Отстраняване на проблеми със SPMT инсталиране](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+В подкрепа на тази цел, ние сме внедрили по-строги ограничения за ограничаване на приложенията за фон (миграция, DLP и архивиране на решения) през делничните дни. Трябва да очаквате, че тези приложения ще постигнат много ограничена пропускателна информация по време на тези времена. Въпреки това, по време на вечерните и почивните часове за региона, услугата ще бъде готова да обработи значително по-голям обем заявки от приложения за фон.
+
+**Често срещани проблеми и грешки**
+
+Може да срещнете някои често срещани проблеми и грешки при използване на инструмента за мигриране на SharePoint (SPMT). Моля, посочете линковете по-долу за повече информация.
+
+* [Отстраняване на често срещани SPMT проблеми и грешки](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+* [Отстраняване на проблеми при инсталиране на SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
