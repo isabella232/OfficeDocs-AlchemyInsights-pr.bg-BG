@@ -1,5 +1,5 @@
 ---
-title: Как да добавите или редактирате
+title: Как да добавите или редактирате VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664309"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059725"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Как да добавите или редактирате
+# <a name="how-to-add-or-edit-a-vatid"></a>Как да добавите или редактирате VatID
 
-1. В центъра за администриране на Microsoft 365 отидете на страницата за **Фактуриране** \> на [продукти _ amp_ услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Забележка:** Ако сте в страна, която използва данък добавена стойност (ДДС), като например Обединеното кралство, Microsoft фактуриране изчислява ДДС за вас и прилага сумата за фактурите. За повече информация вижте отказ от отговорност на [VIES,](https://go.microsoft.com/fwlink/?LinkID=841741) публикуван от Европейската комисия.
 
-2. Намерете абонаментна карта за абонамента, който искате да актуализирате.
+**Добавяне или редактиране на VatID**
 
-3. В секцията **Настройки _ Amp_ действия** изберете Редактиране на **адреса за използване на услугата**.
+1. В центъра за администриране на Microsoft 365 отидете на страницата **"Продукти за таксуване** \> [& услуги".](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-4. На страницата **Редактиране на адреса за използване на услугата** въведете вашия идентификационен номер по ДДС в полето **номер по ДДС** и след това изберете **Запиши**.
+2. Намерете абонаментната карта за абонамента, която искате да актуализирате.
 
-    Когато завършите, ДДС няма да бъде начислен върху следващата ви сметка.
+3. В раздела **Настройки & Действия** изберете Редактиране на адреса на използване на **услугата**.
 
-За да научите повече, вижте [Какви данъци ще бъдат таксувани за Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. На страницата **Редактиране на адреса на използване на услугата** въведете вашия ИДЕНТИФИКАЦИОНЕН НОМЕР ПО ДДС в полето номер по **ДДС,** след което изберете **Запиши**.
+
+    Когато е попълнена, ДДС няма да бъде таксуван за следващата Ви сметка.
+
+За да научите повече, вижте [Какъв данък ще се начислява за Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Допълнителни ресурси**
 
-[Добавете идентификационния си номер по ДДС](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Добавете идентификационния си номер по ДДС.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)
