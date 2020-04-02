@@ -1,5 +1,5 @@
 ---
-title: Как да персонализирате разрешенията за списък или библиотека на SharePoint
+title: Как да персонализирате разрешения та за списък или библиотека на SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922063"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100316"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="290ae-102">Включване или изключване на външното споделяне за даден сайт</span><span class="sxs-lookup"><span data-stu-id="290ae-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="1758e-102">Включване или изключване на външно споделяне за сайт</span><span class="sxs-lookup"><span data-stu-id="1758e-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="290ae-103">Трябва да бъде глобален или SharePoint администратор в Office 365 да промените настройката за външно споделяне за сайт (преди това наречена "колекция от сайтове").</span><span class="sxs-lookup"><span data-stu-id="290ae-103">You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="290ae-104">Собствениците на сайтове нямат право да променят тази настройка.</span><span class="sxs-lookup"><span data-stu-id="290ae-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="1758e-103">Трябва да сте глобален или SharePoint администратор в Office 365, за да промените настройката за споделяне на външен сайт (преди това нарича "колекция от сайтове").</span><span class="sxs-lookup"><span data-stu-id="1758e-103">You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="1758e-104">Собствениците на сайтове не могат да променят тази настройка.</span><span class="sxs-lookup"><span data-stu-id="1758e-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="290ae-105">За повече информация вижте [включване или изключване на външното споделяне за даден сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span><span class="sxs-lookup"><span data-stu-id="290ae-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="1758e-105">За повече информация вижте [Включване или изключване на външно споделяне за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span><span class="sxs-lookup"><span data-stu-id="1758e-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>

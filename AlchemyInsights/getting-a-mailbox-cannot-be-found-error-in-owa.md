@@ -1,5 +1,5 @@
 ---
-title: 126, получаване на пощенска кутия не може да бъде намерена грешка в OWA?
+title: 126 Получаване на пощенска кутия не може да бъде намерен грешка в OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523860"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105228"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="0f541-102">Получаване на пощенска кутия не е намерена грешка в Outlook в мрежата?</span><span class="sxs-lookup"><span data-stu-id="0f541-102">Getting a mailbox not found error in Outlook on the web?</span></span>
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="84325-102">Получаване на пощенска кутия не е намерен грешка в Outlook в мрежата?</span><span class="sxs-lookup"><span data-stu-id="84325-102">Getting a mailbox not found error in Outlook on the web?</span></span>
 
-<span data-ttu-id="0f541-103">Ако използвате Outlook в интернет и ще получите **пощенска кутия не може да се намери за** грешка, сметката, която сте използвали за свързване към Outlook в мрежата няма лиценз за Exchange Online и следователно, не пощенска кутия е свързана с акаунт.</span><span class="sxs-lookup"><span data-stu-id="0f541-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="0f541-104">Администратор да присвоите даден лиценз акаунта си, като следвате тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="0f541-104">Your admin can assign a license to your account by following these steps:</span></span>
+<span data-ttu-id="84325-103">Ако използвате Outlook в мрежата и получавате **пощенска кутия не може да се намери за** грешка, акаунт, който сте използвали за свързване с Outlook в мрежата не разполага с лиценз за Exchange Online и следователно няма пощенска кутия е свързан с акаунта.</span><span class="sxs-lookup"><span data-stu-id="84325-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="84325-104">Администраторът ви може да присвои лиценз към профила ви, като следва тези стъпки:</span><span class="sxs-lookup"><span data-stu-id="84325-104">Your admin can assign a license to your account by following these steps:</span></span>
 
-1. <span data-ttu-id="0f541-105">Отворете [центъра за администриране на Microsoft 365](https://portal.office.com/adminportal/home#/homepage) и под **активни потребители**, изберете **Редактиране на потребител**.</span><span class="sxs-lookup"><span data-stu-id="0f541-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and under **Active users**, select **Edit a user**.</span></span>
+1. <span data-ttu-id="84325-105">Отворете център за администриране на [Microsoft 365](https://portal.office.com/adminportal/home#/homepage) и отидете **на Активни потребители** в раздела **потребители** и изберете потребителя, който вижда грешката.</span><span class="sxs-lookup"><span data-stu-id="84325-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
 
-2. <span data-ttu-id="0f541-106">В **Редактиране на потребителска** страница, която се отваря изберете потребителя.</span><span class="sxs-lookup"><span data-stu-id="0f541-106">In the **Edit a user** page that opens, select the user.</span></span> <span data-ttu-id="0f541-107">В потребителски свойства на страница, която се отваря щракнете върху **Редактиране** за **продуктови лицензи**.</span><span class="sxs-lookup"><span data-stu-id="0f541-107">In the user properties page that opens, click **Edit** for **Product licenses**.</span></span>
-
-3. <span data-ttu-id="0f541-108">В страницата на **продукта лицензи** , която се отваря, изберете подходящата стойност **местоположение** , както и присвояване на лиценз, който съдържа Exchange Online (разширяване на лиценз, за да видите детайлите му).</span><span class="sxs-lookup"><span data-stu-id="0f541-108">In the **Product licenses** page that opens, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="0f541-109">Когато приключите, щракнете върху **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="0f541-109">When you're finished, click **Save**.</span></span>
+2. <span data-ttu-id="84325-106">В страницата на потребителя, която се отваря отидете на **раздела Лицензи и приложения,** изберете съответната стойност **на местоположението** и задайте лиценз, който съдържа Exchange Online (разширете лиценза, за да видите неговите подробни данни).</span><span class="sxs-lookup"><span data-stu-id="84325-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="84325-107">Когато приключите, щракнете върху **Запазване на промените**.</span><span class="sxs-lookup"><span data-stu-id="84325-107">When you're finished, click **Save changes**.</span></span>
