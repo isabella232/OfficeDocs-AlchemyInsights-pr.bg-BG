@@ -1,5 +1,5 @@
 ---
-title: Как да персонализирате разрешенията за списък или библиотека на SharePoint
+title: Как да персонализирате разрешения та за списък или библиотека на SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922063"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100316"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Включване или изключване на външното споделяне за даден сайт
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Включване или изключване на външно споделяне за сайт
 
-Трябва да бъде глобален или SharePoint администратор в Office 365 да промените настройката за външно споделяне за сайт (преди това наречена "колекция от сайтове"). Собствениците на сайтове нямат право да променят тази настройка. 
+Трябва да сте глобален или SharePoint администратор в Office 365, за да промените настройката за споделяне на външен сайт (преди това нарича "колекция от сайтове"). Собствениците на сайтове не могат да променят тази настройка. 
 
-За повече информация вижте [включване или изключване на външното споделяне за даден сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+За повече информация вижте [Включване или изключване на външно споделяне за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
