@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034137"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142978"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Първи стъпки в събитията на живо на Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43034137"
 
 За да създадете събитие на живо, ще ви трябва следното:
 
-- Лиценз за [Office 365 Enterprise E1, E3 или E5 или лиценз за Office 365 A3 или A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- Лиценз за [Office 365 Enterprise E1, E3 или E5 или лиценз за Office 365 A3 или A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Забележка**: поради нарастването на използването на Teams в последно време, когато присвоявате лиценз за Teams на потребител, това може да отнеме около 24 часа, преди да бъде напълно настроен. Дотогава няма да можете да присвоявате правилата на Teams за тях и те може да нямат достъп до някои функции на екипа, например разговори и аудио конференции.
 
 - Разрешение за [продуциране на събития на живо в центъра за администриране на Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
