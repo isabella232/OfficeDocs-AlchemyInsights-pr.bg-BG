@@ -12,15 +12,15 @@ ms.custom:
 - "2447"
 - "3200001"
 ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/26/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42977463"
 ---
 # <a name="information-about-dlp-issues"></a>Информация за проблеми с DLP
 
-**Важно**: По време на тези безпрецедентни времена, ние предприемаме стъпки, за да се гарантира, че SharePoint Online и OneDrive услуги остават високо достъпни – посетете [SharePoint Online временни функция корекции](https://aka.ms/ODSPAdjustments) за повече информация.
+**Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Информация за DLP правилата**
 

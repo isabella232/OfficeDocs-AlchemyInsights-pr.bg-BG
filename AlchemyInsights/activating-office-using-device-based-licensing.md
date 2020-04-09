@@ -1,5 +1,5 @@
 ---
-title: Активиране на Office чрез устройство, базирано на устройства
+title: Активиране на Office чрез лицензиране, базирано на устройства
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: c5c857c0ef2bb02f1d2176034c4f6275426d2dc4
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: 5a6246b50edb6a817ee2d243db617d9de1a95ddc
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814341"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183350"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез лицензиране на устройства, базирано на устройство
+# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез лицензиране, базирано на устройства
 
-Office [Device базирано активиране](https://aka.ms/officedba) за клиенти в САЩ образование сега е отхвърлен. Насърчаваме организациите да планират новия офис 365 ProPlus устройство, базирано на лицензи за образование.
+За да активирате Office, използващо лицензиране, базирано на устройства, трябва да имате добавката за Office 365 ProPlus for Education (устройство), която е налична само за клиенти на образованието и е достъпна само чрез Записване за решения в областта на образованието (EES). Вижте [Изисквания за използване на лицензи на устройства за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-office-365-proplus).
 
-За да активирате Office с помощта на лицензиране на устройства, трябва да имате лиценз за добавяне на Office 365 ProPlus за образование (устройство), който е достъпен само за клиенти в областта на образованието и е достъпен само чрез записване за образователни решения (системата за влизане/излизане). Вижте [изискванията за използване на лицензиране, базирано на устройства за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-office-365-proplus).
+**Забележка:** [Активирането на базираното на Office устройство](https://aka.ms/officedba) за клиенти в образованието в САЩ вече е отхвърлено. Насърчаваме организациите да планират новото лицензиране на устройства, базирано на office **365 ProPlus** за обучение.
 
 За подробна информация относно настройката вижте:
-- [Стъпки за конфигуриране на базирано на устройства лицензиране за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-office-365-proplus)
+- [Стъпки за конфигуриране на устройството лицензиране за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-office-365-proplus)
 - [Управление на лицензи за устройства](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
 
-За проблеми с насочването вижте [отстраняване на лицензи, базирани на устройства за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-office-365-proplus).
+За указания за отстраняване на неизправности вижте [Отстраняване на проблеми с лицензиране на устройства за Office 365 ProPlus](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-office-365-proplus).
