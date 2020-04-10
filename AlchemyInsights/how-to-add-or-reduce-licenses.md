@@ -1,5 +1,5 @@
 ---
-title: Как да се добавят или намаляват лицензи
+title: Как да добавите или намалите лицензи
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664273"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207362"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Как да се добавят или намаляват лицензи
+# <a name="how-to-add-or-reduce-licenses"></a>Как да добавите или намалите лицензи
 
-Ето как да премахнете Office 365 лицензи или да закупите повече лицензи.
+Ето как да добавите/премахнете лицензи.
   
-1. В центъра на администратор, отидете на **Фактуриране** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. Навигирайте до ** [Абонаменти](https://portal.office.com/adminportal/home#/subscriptions)за > за фактуриране**.
 
-2. Изберете абонамент, от която искате да добавите/премахнете лицензи.
+2. Изберете абонамента, от който искате да добавите/премахнете лицензи.
 
-3. Изберете **Добавяне/премахване лицензи**.
+3. Щракнете върху **Добавяне/премахване на лицензи**.
 
-4. Въведете общия брой на потребителите е необходимо.
+4. Въведете общия брой на необходимите потребители. Например, ако в момента имате 25 лиценза и искате да премахнете 5, въведете 20 в това поле.
 
-    Например ако имате в момента 25 лицензи и искате да премахнете 5, въведете 20 в това поле.
+5. Щракнете върху **Подаване на промяна**.
 
-5. Изберете **Промяна на подаване**.
+**Забележка:** Всяко ново таксуване (увеличение на лиценза) или кредит (намаление на лиценза) ще се появи в следващата ви сметка.
 
-> [!NOTE]
-> Всяка нова такса (лиценз увеличение) или кредит (лиценз намаление) ще се появи в следващата ви сметка.
+За информация как да присвоявате лицензи [вж.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-За да научите повече, вижте [купуват лицензи за вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Допълнителни ресурси**
+ **Ресурси**
   
-- [Премахване на лицензи от вашия Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Управление на лицензи за абонамент - купувайте или премахвайте](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Отказ Office 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Прекратяване на Office 365 за бизнес](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Купи друга Office 365 за бизнес абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Купете друг Office 365 за бизнес абонамент](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
