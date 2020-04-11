@@ -24,7 +24,7 @@ ms.locfileid: "43182334"
 
 - Вижте [Грешка на Office "Съобщение за акаунт: Натъкнахме се на проблем с вашия абонамент за Office 365"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Премахнете и присвоете отново [лиценз за Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) за засегнатия потребител. 
+- Премахнете и дайте отново [лиценз за Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) за засегнатия потребител. 
 
 - Отворете приложение на Office, идете на **Файл > Акаунт** и излезте от всички акаунти. Влезте отново с помощта на потребителски акаунт с валиден лиценз. За подробна информация вж. [Акаунти в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
 
