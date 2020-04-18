@@ -1,5 +1,5 @@
 ---
-title: Отмяна на абонамента в Office 365?
+title: Прекратяване на абонамента за Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665461"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552586"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="87ae8-102">Отмяна на абонамента в Office 365?</span><span class="sxs-lookup"><span data-stu-id="87ae8-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="110c1-102">Прекратяване на абонамента за Office 365?</span><span class="sxs-lookup"><span data-stu-id="110c1-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="87ae8-103">Ние сме съжалявам да видя и да отидете!</span><span class="sxs-lookup"><span data-stu-id="87ae8-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="110c1-103">Съжаляваме, че ви видяхме!</span><span class="sxs-lookup"><span data-stu-id="110c1-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="87ae8-104">Въз основа на данните ви организация, вярваме, че всичките си текущи абонаменти имат повече от 25 целеви лицензи.</span><span class="sxs-lookup"><span data-stu-id="87ae8-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="87ae8-105">Можете да премахнете потребители, докато са по-малко от 25, а след това отидете до **сметките** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.</span><span class="sxs-lookup"><span data-stu-id="87ae8-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="87ae8-106">В раздела **Настройки на & действия** изберете **Отмени абонамент**.</span><span class="sxs-lookup"><span data-stu-id="87ae8-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="110c1-104">Въз основа на данните за вашата организация, ние вярваме, че всички ваши текущи абонаменти имат повече от 25 присвоени лиценза.</span><span class="sxs-lookup"><span data-stu-id="110c1-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="110c1-105">Можете да премахвате потребители, докато не намалеете 25, след което отидете на страницата **"Продукти** \> за таксуване [& услуги".](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="110c1-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="110c1-106">В раздела **Настройки & действия** изберете Отмяна на **абонамент**.</span><span class="sxs-lookup"><span data-stu-id="110c1-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="87ae8-107">Алтернативно изберете **нужда от помощ** да говори с инженер поддръжка.</span><span class="sxs-lookup"><span data-stu-id="87ae8-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
+<span data-ttu-id="110c1-107">Като алтернатива, изберете **Нужда от помощ,** за да говорите с инженер по поддръжка.</span><span class="sxs-lookup"><span data-stu-id="110c1-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="87ae8-108">За да научите повече, вижте [прекратите абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="87ae8-108">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="110c1-108">**Възстановяване: Всички пропорционално кредити ще ви бъдат върнати в рамките на следващия платежен цикъл.**</span><span class="sxs-lookup"><span data-stu-id="110c1-108">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+
+<span data-ttu-id="110c1-109">**Забележка:** Ако не виждате опцията за отказ, кликнете върху абонамента, за да видите подробностите и трябва да видите опцията **Отмяна** на абонамент а в **Настройки & Действия**.</span><span class="sxs-lookup"><span data-stu-id="110c1-109">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+
+<span data-ttu-id="110c1-110">За да научите повече, вижте [Отказ на абонамента .](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="110c1-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
