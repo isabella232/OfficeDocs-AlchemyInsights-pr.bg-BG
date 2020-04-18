@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958721"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537766"
 ---
 # <a name="sharepoint-migration-performance"></a>Производителност при мигриране на SharePoint
 
@@ -28,8 +28,8 @@ ms.locfileid: "42958721"
 
 За повече информация посетете тази връзките по-долу.
 
-- [Скорост на мигриране на SharePoint Online и ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Общи насоки за производителността при мигриране](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [Избягване на ограничаването или блокирането в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Избягване на регулирането или блокирането в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [Изтегляне и инсталиране на инструмента за мигриране на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

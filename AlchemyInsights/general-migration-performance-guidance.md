@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958527"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537730"
 ---
 # <a name="general-migration-performance-guidance"></a>Общи насоки за производителността при мигриране
 
-**Важно**: По време на тези безпрецедентни времена, ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Корекции на временни функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Фактори за производителността при мигриране**
+**Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-Производителността при мигриране може да бъде повлияна от мрежовата инфраструктура, размера на файла, времето за мигриране и ограничаването. Разбирането на тези неща ще ви помогне да планирате и увеличите ефективността на своята миграция.
+**Опции за мигриране**
 
-- [Общи насоки за производителността при мигриране](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Има различни опции за мигриране на съдържание в SharePoint Online, в зависимост от размера и броя на файловете, които трябва да преместите, вижте списък с опции, [тук](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+
+За повече информация за мигриране на съдържание посетете връзките по-долу.
+
+- [Инструмент за мигриране на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Първи стъпки в диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
