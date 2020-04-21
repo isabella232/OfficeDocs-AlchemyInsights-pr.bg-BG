@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591480"
+ms.locfileid: "43599343"
 ---
 # <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="0ce93-102">Грешки при качване тона</span><span class="sxs-lookup"><span data-stu-id="0ce93-102">Microsoft Stream upload errors</span></span>
 
