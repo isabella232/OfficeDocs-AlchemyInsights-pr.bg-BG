@@ -3,7 +3,6 @@ title: Създаване на публични папки
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +11,26 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631765"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715349"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="85073-102">Създаване на публични папки</span><span class="sxs-lookup"><span data-stu-id="85073-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="acec5-102">Създаване на публични папки</span><span class="sxs-lookup"><span data-stu-id="acec5-102">Creating public folders</span></span>
 
-<span data-ttu-id="85073-103">Преди вашите потребители могат да използват публични папки в Office 365, трябва да създадете поне една публична папка пощенската кутия.</span><span class="sxs-lookup"><span data-stu-id="85073-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="85073-104">За да създадете:</span><span class="sxs-lookup"><span data-stu-id="85073-104">To create:</span></span>
+<span data-ttu-id="acec5-103">Преди потребителите да могат да използват публични папки, ще трябва да създадете поне една публична папка пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="acec5-103">Before your users can use public folders, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="acec5-104">За да създадете:</span><span class="sxs-lookup"><span data-stu-id="acec5-104">To create:</span></span>
   
-1. <span data-ttu-id="85073-105">В центъра на Microsoft 365 администратор, отидете на **Admin центрове** \> **обмен**.</span><span class="sxs-lookup"><span data-stu-id="85073-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="acec5-105">В центъра за администриране на Microsoft 365 отидете на **Центрове за** \> администриране **на Exchange**.</span><span class="sxs-lookup"><span data-stu-id="acec5-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="85073-106">Навигирайте до **публичните папки** \> **пощенски кутии в публична папка**и след това щракнете върху **Добави**.</span><span class="sxs-lookup"><span data-stu-id="85073-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="acec5-106">Отидете **до публични папки** \> **публични папки пощенски кутии**и след това щракнете върху **Добави**.</span><span class="sxs-lookup"><span data-stu-id="acec5-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
 
-3. <span data-ttu-id="85073-107">В **Публична папка пощенската кутия**въведете име за пощенската кутия на публичната папка.</span><span class="sxs-lookup"><span data-stu-id="85073-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="acec5-107">**В публична папка пощенска кутия**предостави име за пощенската кутия на публичнапапка.</span><span class="sxs-lookup"><span data-stu-id="acec5-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
 
-4. <span data-ttu-id="85073-108">
+4. <span data-ttu-id="acec5-108">
                       Щракнете върху **Запиши**.
-</span><span class="sxs-lookup"><span data-stu-id="85073-108">Click **Save**.</span></span>
+</span><span class="sxs-lookup"><span data-stu-id="acec5-108">Click **Save**.</span></span>
 
-<span data-ttu-id="85073-109">След като пощенска кутия е бил създаден, можете да започнете да създавате отделни папки или да кажете на вашите потребители да [започнете създаване и използване на публични папки в Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="85073-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="acec5-109">След като е създадена пощенска кутия, можете да започнете да създавате отделни папки или да кажете на потребителите си да [започнат да създават и използват публични папки в Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="acec5-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
   

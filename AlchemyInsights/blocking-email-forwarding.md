@@ -1,9 +1,9 @@
 ---
-title: 726 блокиране на изпращането на имейл
+title: 726 Блокиране на препращане на имейл
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: da1ca874e436afb8753fa046478f08563c8f19ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712268"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="5a143-102">Блокиране на имейл препращане</span><span class="sxs-lookup"><span data-stu-id="5a143-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="52a3d-102">Блокиране на препращане по имейл</span><span class="sxs-lookup"><span data-stu-id="52a3d-102">Block email forwarding</span></span>
 
-<span data-ttu-id="5a143-103">За да забраните препращане на имейл за конкретна пощенска кутия, вижте [Конфигуриране на препращане на имейл в Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="5a143-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding in Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
+<span data-ttu-id="52a3d-103">За да забраните препращането на имейл за конкретна пощенска кутия, вижте [Конфигуриране на имейл препращане](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="52a3d-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="5a143-104">За да блокирате изпращането на имейл за цялата организация, [много начини за блокиране на автоматичното препращане на имейл в Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="5a143-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="52a3d-104">За да блокирате препращането на имейл за цялата организация, [Много начини за блокиране на автоматично тонажно препращане на имейли в Exchange Online.](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)</span><span class="sxs-lookup"><span data-stu-id="52a3d-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
