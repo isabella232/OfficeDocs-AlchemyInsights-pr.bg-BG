@@ -1,9 +1,9 @@
 ---
-title: 127 getting TenantAccessBlockedException грешка при достъп до имейл?
+title: 127 КлиентБлокиранException грешка при достъп до имейл?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523968"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708892"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Получаване на TenantAccessBlockedException грешка при достъп до имейл?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Получаване на клиент, БлокиранException грешка при достъп до имейл?
 
-Има няколко различни причини защо може да получавате тази грешка. Например:
+Има няколко различни причини, поради които може да получите тази грешка. Например:
 
-- Проверете дали вашият абонамент е валиден за **плащане** \> страницата [продукти & услуги](https://portal.office.com/adminportal/home#/subscriptions) в центъра за администрация на Microsoft 365.
+- Проверете дали абонаментът ви е валиден на страницата **"Billing** \> [Products Products & услуги"](https://portal.office.com/adminportal/home#/subscriptions) в центъра за администриране на Microsoft 365.
 
-- Проверка за всички просрочени уведомления за **плащане** \> [сметки & плащания](https://portal.office.com/adminportal/home#/billoverview) на страницата в центъра за администрация на Microsoft 365.
+- Проверете за просрочени известия на страницата **Фактуриране** \> [сметки & плащания](https://portal.office.com/adminportal/home#/billoverview) в Център за администриране на Microsoft 365.
 
-- Ако абонаменти за вашия акаунт и плащане са обновени наскоро, може да отнеме време, за да пропагандира промените. Опитайте отново след няколко минути и ако проблемът продължава, свържете се с нас.
+- Ако таксуването и абонаментите за вашия акаунт са били актуализирани наскоро, може да отнеме време за разпространяването на промените. Опитайте отново след няколко минути и ако проблемът продължава, свържете се с нас.

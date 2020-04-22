@@ -3,7 +3,7 @@ title: Добавяне на календар на SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671338"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Добавяне на календар на SharePoint
 
-Календарите на SharePoint са класически типове списъци, които понякога се бъркат с календарите на Office 365 Group.
+Календари на SharePoint са класически типове списъци, които понякога са объркани с календари на Office 365 група.
  
 За да създадете календар на SharePoint, изпълнете следните стъпки:
  
-1.  Изберете иконата "зъбно колело за **Настройки** " и след това изберете **Добавяне на приложение**.
-2.  В полето Търсене на **приложение** въведете **Календар** и натиснете ENTER.
-3.  Изберете приложението, озаглавено " **Календар**", след което въведете име за календара си.
+1.  Изберете иконата на зъбно колело **настройки** и след това изберете **Добавяне на приложение**.
+2.  В полето **търсене на приложение** въведете **календар** и натиснете enter.
+3.  Изберете приложението, озаглавено **Календар**, след което въведете име за календара си.
 
-За повече информация относно Office 365 групи, вижте [Научете за office 365 групи](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+За повече информация относно групи те Office 365 вижте [Научете повече за групите на Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

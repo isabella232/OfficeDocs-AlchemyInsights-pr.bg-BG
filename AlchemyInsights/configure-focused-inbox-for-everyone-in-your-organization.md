@@ -1,9 +1,9 @@
 ---
-title: 912 конфигуриране на фокусирани Входящи за всички във вашата организация
+title: 912 Конфигуриране на фокусирани входящи за всички във вашата организация
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5cb38ae39ba1512ef7048fc669e26ff5cacc0bdc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705938"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Включване или изключване на целенасочена входяща поща за всички
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Включване или изключване на фокусирани входящи съобщения за всички
 
-За инструкции вижте [Конфигуриране на фокусирани Входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+За инструкции вижте [Конфигуриране на фокусирани входящи за всички във вашата организация](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Забележка**: тази процедура изисква Exchange Online PowerShell. Бихте ли искали да направите това в центъра за администриране на Microsoft 365 вместо това? [Гласувайте тук!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Забележка:** тази процедура изисква Exchange Online PowerShell. Искате ли вместо това да направите това в Центъра за администриране на Microsoft 365? [Гласувайте!](https://go.microsoft.com/fwlink/p/?linkid=862489)

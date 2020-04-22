@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692384"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709928"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – аудиоконференции
 
-Имате нужда от помощ за включването или настройването на аудиоконференции в Microsoft Teams? Наскоро ли е създаден този потребител?  Ако е така, ще трябва да изчакате 2 – 24 часа, докато влязат в сила настройките.    
+Имате нужда от помощ за включването или настройването на аудиоконференции в Microsoft Teams? Наскоро ли е създаден този потребител?  Ако е така, ще трябва да изчакате 2 – 24 часа, докато влязат в сила настройките.
 
 За да проверите дали потребителят е лицензиран за аудиоконференции и дали има платен номер по подразбиране:
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692384"
 
 7. Изберете въпросния потребител и проверете дали потребителят има **Платен номер по подразбиране**.
 
-За повече информация вижте [Планове за разговори за Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce, за да ви помогне по въпросите, свързани с лицензиране.
+За повече информация вижте [Планове за разговори](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce, за да ви помогне по въпросите, свързани с лицензиране.

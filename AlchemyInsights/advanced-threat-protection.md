@@ -1,32 +1,32 @@
 ---
-title: Office 365 разширени заплаха защита
+title: Разширена защита на заплахите за Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664489"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710324"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 разширени заплаха защита
+# <a name="office-365-advanced-threat-protection"></a>Разширена защита на заплахите за Office 365
 
-- Безопасно прикачени файлове, безопасни връзки и анти-фишинг са част от Office 365 разширени заплаха защита (ATP). Предприятието Е5, образованието A5 и Microsoft 365 бизнес включва АТФ. Всички други планове изискват добавка ATP абонамент.
+- Безопасните прикачени файлове, безопасните връзки и антифишингът са част от Advanced Threat Protection (ATP) на Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 и Microsoft 365 Business Premium включват ATP. Всички други планове изискват допълнителен ATP абонамент.
 
-- Трябва да присвоите подходящи лицензи за защита на потребителите от Office 365 АТФ. Вижте [тази тема](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) за инструкции как да насипно състояние прилагат лицензи за вашите потребители.
+- Трябва да присвоите подходящите лицензи за защита на вашите потребители от Office 365 ATP. Вижте [тази тема](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) за инструкции как да приложите групово лицензи за вашите потребители.
 
-- Глобалните администратори на Office 365 или администратори на защита достъп до Office 365 ATP функции в защита & съответствие център на **Заплаха Managmeent** \> **политика**.
+- Глобални теории или администратори на защитата имат достъп до функциите на Office 365 ATP в центъра за съответствие на защитата & правила за **управление** \> **на заплахи**.
 
-- Безопасни приложения и безопасна връзка политиките могат да бъдат в обсега ти си цялата организация, специфични области или по-малки групи от потребители.
+- Безопасните прикачени файлове и safe Link политиките могат да ви обхождат цялата организация, конкретни домейни или по-малки групи потребители.
 
-- Няма правила по подразбиране ATP сигурно закрепване. Трябва да се [създаде политика](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) и го прилага за вашите потребители.
+- Няма по подразбиране atp безопасен прикачен файл политика. Трябва да [създадете правила](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) и да го приложите към потребителите си.
 
-- Има по подразбиране ATP безопасно връзки политика, която се отнася за всеки във вашата организация. За да редактирате тази политика или да създадете потребителски политики, вижте [тази тема](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Има по подразбиране ATP безопасни връзки политика, която се отнася за всички във вашата организация. За да редактирате тези правила или да създадете персонализирани правила, вижте [тази тема](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).

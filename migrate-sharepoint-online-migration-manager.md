@@ -1,9 +1,9 @@
 ---
-title: Мигриране на SharePoint Online чрез Диспечер на миграция
+title: Мигриране към SharePoint Online чрез диспечера за миграция
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964058"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707176"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Мигриране на SharePoint Online чрез Диспечер на миграция
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Мигриране към SharePoint Online чрез диспечера за миграция
 
-Разположен в модерния център за администриране на SharePoint, Диспечерът на миграцията ви напътства чрез настройването на вашите клиенти и създаването на вашите задачи. Можете да укажете глобални или настройки на ниво задача, да преглеждате целия напредък на задачите и да изтегляте обобщени обобщени данни и отчети на ниво задача.
+Разположен в модерния център за администриране на SharePoint, Диспечерът за миграция ви напътства, докато настройвате вашите клиенти и създавате вашите задачи. Можете да зададете настройки на глобално ниво или ниво задача, да прегледате напредъка на задачата и да изтеглите обобщениобобщениобобщениданни и отчети на ниво задача.
 
-* [Започнете с диспечера на миграцията](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Настройка на диспечер на миграция клиенти](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Настройки на диспечера на мигрирането](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Първи стъпки в Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Настройка на клиенти в Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Настройка на Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-settings)

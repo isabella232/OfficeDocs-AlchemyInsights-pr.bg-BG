@@ -3,7 +3,7 @@ title: Качване на папка или файлове в библиоте�
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: 3105555c0e88b72ede00045761356b6f03117594
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707140"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>Качване на папка или файлове в библиотека с документи
 
-Можете да качвате файлове в библиотека с документи в SharePoint, като ги плъзгате от компютъра и ги пускате в библиотеката с документи.
+Можете да качвате файлове в библиотека с документи в SharePoint, като ги плъзнете от вашия компютър и ги пуснете в библиотеката с документи.
 
 * [Качване на папка или файлове в библиотека с документи](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Качване чрез OneDrive синхронизация](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Качване чрез Синхронизиране на OneDrive](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

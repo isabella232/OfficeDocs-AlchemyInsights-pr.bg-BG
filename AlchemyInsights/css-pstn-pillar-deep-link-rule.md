@@ -1,5 +1,5 @@
 ---
-title: 'CSS: PSTN стълб дълбоко връзка правило'
+title: 'CSS: PSTN стълб дълбоко правило връзка'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 5da1c6f2aa01a0db76167672112f5d98012e73de
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: bd0c6c244a5aff05f475f8310b49cf4ae10180c6
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469177"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655343"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a>Извикване на PSTN с екипи на Microsoft
+# <a name="pstn-calling-with-microsoft-teams"></a>PSTN обаждане с екипи на Microsoft
 
-За да научите повече за телефонната система и PSTN повикване в екипите на Microsoft, вижте [Какво е телефонна система в Office 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+За да научите повече за телефонната система и обажданията на PSTN в Екипите на Microsoft, вижте [Какво е телефонна тасистема в Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

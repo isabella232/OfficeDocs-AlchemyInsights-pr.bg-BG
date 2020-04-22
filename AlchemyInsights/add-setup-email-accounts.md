@@ -1,8 +1,8 @@
 ---
-title: 764 добавяне/настройка на имейл акаунти
+title: 764 Добавяне/настройка на имейл акаунти
 ms.author: pdigia
 author: pebaum
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36660889"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671374"
 ---
 # <a name="setup-email-accounts"></a>Настройка на имейл акаунти
 
-1. В Outlook изберете **файл** > **информация** > **Добавяне на акаунт**.
+1. В Outlook изберете Информация**за** >  **файла** > **Добавяне на акаунт**.
 
-2. Въведете вашия имейл адрес и след това изберете **Свързване**.
+2. Въведете вашия имейл адрес, след което изберете **Свързване**.
 
 3. Въведете паролата си и след това изберете **OK**.
 
 4. Можете да повторите тези стъпки, за да добавите няколко акаунта.
 
     > [!NOTE]
-    > Някои имейл акаунти, като Gmail, Yahoo и iCloud, изискват от вас да настроите двуфакторно удостоверяване, за да използвате Outlook за изпращане и получаване на имейл. Вижте [Добавяне на имейл акаунт в Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) за повече информация.
+    > Някои имейл акаунти, като Gmail, Yahoo и iCloud, изискват от вас да настроите двуфакторно удостоверяване, за да използвате Outlook за изпращане и получаване на имейл. Вижте [Добавяне на имейл акаунт към Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) за повече информация.
   

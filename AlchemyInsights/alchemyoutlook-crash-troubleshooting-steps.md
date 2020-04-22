@@ -1,5 +1,5 @@
 ---
-title: Алхимията-Outlook сривове стъпки за отстраняване на неизправности
+title: Алхимия - стъпки за отстраняване на неизправности с помощта на Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737097"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708344"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook срив стъпки за отстраняване на неизправности
+# <a name="outlook-crash-troubleshooting-steps"></a>Стъпки за отстраняване на неизправности при срив на Outlook
 
-Ако имате проблеми с Outlook работен плот срив, започнете да следвате три стъпки по-долу, които са изброени подробно в тази статия: [как да отстранявате проблеми, които причиняват Outlook да се срине или спре да отговаря, когато се използва с Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Ако имате Outlook работен плот срив проблеми, започнете, като следвате трите стъпки по-долу, които са изброени подробно в тази статия: [как да отстранявате проблеми, които причиняват Outlook да се срине или спре да отговаря.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Стъпка 1: Проучете възможни проблеми с добавки.
+Стъпка 1: Разучете възможни проблеми с добавките.
   
-Стъпка 2: ремонт на Outlook и стартирайте [поддръжката и възстановяване помощник инструмент](https://aka.ms/SaRA-OutlookWontStart) за отстраняване на грешки при стартиране на Outlook на засегнатата машина.
+Стъпка 2: Поправете Outlook и стартирайте [инструмента за поддръжка и възстановяване на помощника](https://aka.ms/SaRA-OutlookWontStart) за отстраняване на грешки при стартиране на Outlook на засегнатата машина.
   
-Стъпка 3: създаване на нов профил в Outlook или стартирайте [инструмента за профил на Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на засегнатата машина.
+Стъпка 3: Създаване на нов профил в Outlook или стартирайте [инструмента за профил](https://aka.ms/SaRA-OutlookSetupProfile) на Outlook на засегнатата машина.
   
-Ако проблемът е възникнал след актуализация и горните стъпки не работят, може да се наложи да се върнете към предишна компилация. Вижте [как да се върнете към по-стара версия на Office 2016 Click-To-Run](https://support.microsoft.com/help/2770432).
+Ако проблемът е възникнал след актуализация и горните стъпки не работят, ще трябва да се върнете към предишна компилация. Вижте [как да се върнете към по-ранна версия на Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   

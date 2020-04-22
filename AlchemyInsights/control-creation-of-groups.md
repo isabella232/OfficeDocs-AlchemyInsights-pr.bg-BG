@@ -1,9 +1,9 @@
 ---
-title: Създаване на контрола на групи
+title: Управление на създаването на групи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516660"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705614"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Създаване на контрола на Office 365 групи
+# <a name="control-creation-of-office-365-groups"></a>Управление на създаването на групи на Office 365
 
-По подразбиране всички потребители в рамките на компанията са в състояние да създават групи. Ако е необходимо, вие имате възможност да промените това и да присвоите право да създавате групи към набор от хората във вашата фирма. Обърнете внимание, че това ще има въздействие върху създаването на групи от всякакви Office 365 услугата (като Outlook, екипи, планер и т. н.).
+По подразбиране всички потребители в рамките на компанията могат да създават групи. Ако е необходимо, можете да промените това и да зададете правото да създавате групи на група от хора във вашата фирма. Имайте предвид, че това ще окаже влияние върху създаването на групи от всяка услуга на Microsoft 365 (като Например Outlook, Teams, Planner и т.н.).
   
-Инструкции: [управление, които могат да създават групи за Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Инструкции: [Управление на кой може да създава групи в Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

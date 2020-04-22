@@ -1,9 +1,9 @@
 ---
-title: Промяна на домейна за Office 365 група
+title: Промяна на домейн за група На Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3454afe1e39ba7a0aad19a1d6494e56a40ff2e65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706924"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Промяна на домейна за Office 365 Group
+# <a name="change-the-domain-for-office-365-group"></a>Промяна на домейна за Групата на Office 365
 
-Ако искате да промените домейна за Office 365 Group по време на създаването, следвайте стъпките в [Изберете домейна, който да използвате при създаване на office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Ако искате да промените домейна за Група на Office 365 по време на създаването, следвайте стъпките в [Изберете домейна, който да използвате при създаване на групи за Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-След като вече е създадена Office 365 Group, в момента няма начин да промените домейна. Единственият начин е да създадете нов Office 365 Group и да изтриете стария, ако е необходимо (допълнителни имейл адреси могат да бъдат добавени чрез [центъра за администриране на Exchange](https://outlook.office365.com/ecp.aspx)).
+След като вече е създадена групата на Office 365, в момента няма начин да промените домейна. Единственият начин е да създадете нова група на Office 365 и да изтриете старата, ако е необходимо (допълнителни имейл адреси могат да бъдат добавени чрез центъра за администриране на [Exchange](https://outlook.office365.com/ecp.aspx)).

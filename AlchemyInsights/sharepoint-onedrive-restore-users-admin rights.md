@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности достъп отказан съобщения OneDrive за бизнес сайтове
+title: Отстраняване на отказан достъп съобщения до OneDrive за бизнес сайтове
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9d8aba4e53a1e0505a430296bb1c11713ea2ce7b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051594"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692790"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Отстраняване на неизправности достъп отказан съобщения OneDrive за бизнес сайтове
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Отстраняване на отказан достъп съобщения до OneDrive за бизнес сайтове
 
-Този проблем най-често се случва, когато потребител се изтрива и създава отново със същото основно потребителско име (UPN). Нов акаунт се създава с помощта на различен PUID (паспорт Еднозначен ID) стойност. Когато потребителят се опита да получите достъп до колекция от сайтове или техните OneDrive, потребителят е неправилен PUID. Втори сценарий включва указатели с Active Directory организационна единица (ОЕ). Ако потребителите вече са влезли в SharePoint и след това се преместват в друга ОЕ и повторно синхронизиране с SharePoint, те могат да възникнат този проблем.
+Този проблем най-често възниква, когато потребител се изтрива и създава отново с едно и също основно потребителско име (UPN). Новият акаунт се създава чрез различна стойност на PUID (уникален ид на паспорт). Когато потребителят се опита да получите достъп до колекция от сайтове или oneDrive, потребителят има неправилен PUID. Втори сценарий включва синхронизиране на директории с Active Directory организационна единица (ОЕ). Ако потребителите вече са влезли в SharePoint и след това се преместват в друг OU и resynced с SharePoint, те могат да възникнат този проблем.
 
-1. За да разрешите този проблем, трябва да възстановите оригиналния UPN стъпки в статията, [възстановяване на потребител в Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Ако не можете да възстановите първоначалния потребител трябва да премахнете стария потребител от сайта на OneDrive с помощта на тези стъпки, [премахнете потребител от списъка с информация за потребителя](). 
-3. След това се прави, можете да проверите потребителят има администраторски права на сайта на OneDrive като следвате стъпките за добавяне на [администратор за onedrive на потребителя](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. За да разрешите този проблем, трябва да възстановите оригиналния UPN със стъпките в статията, [възстановяване на потребител в Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Ако не можете да възстановите първоначалния потребител, трябва да премахнете стария потребител от oneDrive сайт, като използвате тези стъпки, [Премахнете потребител от списъка с информация за потребителя](). 
+3. След това е направено, можете да проверите потребителят има администраторски права на сайта oneDrive, като следвате стъпките [за Добавяне на администратор за OneDrive на потребителя](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-За повече информация относно нивата на разрешение вижте статията, [разбиране на нивата на разрешение в SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+За повече информация относно нивата на разрешение вижте [статията, разбиране на нивата на разрешение в SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

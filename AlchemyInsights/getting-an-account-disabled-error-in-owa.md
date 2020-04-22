@@ -1,9 +1,9 @@
 ---
-title: 123, получаване на сметка забранени грешка в OWA?
+title: 123 Получаване на акаунт деактивирана грешка в OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708856"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Получаване на сметка забранени грешка в Outlook в мрежата?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Получаване на грешка в профила в Outlook в мрежата?
 
-Ако получите грешка **Вашият акаунт е бил забранен** с `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` , когато се опитате да отворите Outlook в мрежата (известен преди като Outlook Web App), вашата организация администратор може да е забранил достъпа до Outlook в мрежата. Вашият администратор може да поправя тази грешка като следвате стъпките в темата [Разрешаване или забраняване на Outlook Web App за пощенска кутия](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Ако получите грешка вашият акаунт е `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` бил **деактивиран,** когато се опитате да отворите Outlook в уеб (преди известен като Outlook Web App), администраторът на организацията ви може да е забранил достъпа ви до Outlook в мрежата. Вашият администратор може да коригира тази грешка, като следвате стъпките в темата [Разрешаване или забраняване на Outlook Web App за пощенска кутия](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
