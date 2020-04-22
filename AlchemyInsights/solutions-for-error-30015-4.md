@@ -3,7 +3,7 @@ title: Решения за грешка 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 8a45e9c7f75db4f821eda92bc7f8ed290f363708
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501863"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757046"
 ---
 # <a name="solutions-for-error-30015-4"></a>Решения за грешка 30015-4
 
 - Рестартирайте компютъра и опитайте да [инсталирате Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Изтегляне и инсталиране на [поддръжка и възстановяване помощник](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Изтегляне и инсталиране на [Помощника за поддръжка и възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Когато го отвори, от **продукти деинсталирате Office** изберете версията, която искате да деинсталирате и изберете **напред**.
+1. Когато се отвори, от **Деинсталиране на продукти на Office** изберете версията, която искате да деинсталирате и изберете **Напред**.
 
-2. Продължи става чрез екрани и рестартирайте компютъра, когато получите подкана.
+2. Продължете да преминавате през екраните и рестартирайте компютъра си, когато получите подкана.
 
-    След рестартиране, поддръжка и възстановяване помощник автоматично повторно отваря за да завършите процеса на деинсталиране.
+    След рестартиране, поддръжка и възстановяване помощник автоматично се отваря, за да завършите процеса на деинсталиране.
 
-3. Следвайте останалите подсказва и [преинсталирате Office](https://portal.office.com/OLS/MySoftware.aspx) или затворите помощника.
+3. Следвайте останалите подкани и [преинсталирайте Office](https://portal.office.com/OLS/MySoftware.aspx) или затворете помощника.
 
-[Прикрепвам Канцелария инсталация грешки](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Отстраняване на грешки при инсталиране на Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   

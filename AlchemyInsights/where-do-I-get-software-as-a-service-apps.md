@@ -3,7 +3,7 @@ title: Къде мога да получа софтуер като услуга 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e55d8731ad930056975bd2aa36bee2ce781ab720
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558534"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765222"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Къде мога да получа софтуер като услуга (SaaS) приложения от партньори на Microsoft?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Къде мога да получа приложения за софтуер като услуга (SaaS) от партньори на Microsoft?
 
-Потребителите могат да търсят, изследвания и купуват SaaS приложения от [Appsource](http://www.appsource.com/).
+Клиентите могат да търсят, да търсят, да търсят и да закупят SaaS приложения от [AppSource](https://www.appsource.com/).

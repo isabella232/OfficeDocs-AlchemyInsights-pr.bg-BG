@@ -1,9 +1,9 @@
 ---
-title: InTune вътрешна бъг подаване
+title: Intune вътрешна грешка подаване
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663521"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765942"
 ---
-# <a name="intune-insider-bug-filing"></a>InTune вътрешна бъг подаване
+# <a name="intune-insider-bug-filing"></a>Intune вътрешна грешка подаване
 
-Благодарим ви за интереса към InTune програмата. Ако вече сте на борда за програмата InTune лица и трябва да подадете заявка за поддръжка, тогава:
+Благодарим ви за интереса към програмата Intune Insiders. Ако вече сте в системата за програмата Intune Insiders и трябва да подадете заявка за поддръжка, тогава:
 
-1. Опишете проблема си в горното поле.
+1. Опишете проблема си в полето по-горе.
 2. Създайте нова заявка за услуга, като използвате опциите по-долу.
 
-Инженер по поддръжката на InTune ще се свърже с вас.
+Инженер по поддръжка на Intune ще се свърже с вас.
 
-Ако не сте в програмата InTune с, благодаря ви за интереса. В момента не вербуваме нови участници.
+Ако не сте в програмата Intune Insiders, благодаря ви за интереса. В момента не наемаме нови участници.
