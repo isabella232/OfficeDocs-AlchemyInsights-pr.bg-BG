@@ -1,9 +1,9 @@
 ---
-title: Office 365 за правителствените планове и ценообразуването
+title: Office 365 за правителствени планове и ценообразуване
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713347"
 ---
-# <a name="office-365-government-plans"></a>Office 365 правителството планира
+# <a name="office-365-government-plans"></a>Планове за управление на Office 365
 
-Office 365 плановете на правителството на САЩ са предназначени за уникалните нужди на американските правителствени организации. Те предоставят всички функции и възможности на Office 365 услуги в Общността за облак сегментирани правителство, която разрешава на организациите да отговорят САЩ съответствие и стандарти за сигурност.
+Плановете на правителството на Office 365 са предназначени за специфичните нужди на правителствените организации на САЩ. Те предоставят всички функции и възможности на услугите на Office 365 в сегментирана правителствена общност в облака, която позволява на организациите да отговарят на стандартите за съответствие и защита на САЩ.
   
-- [Преглед на плановете на правителството](https://products.office.com/government/compare-office-365-government-plans)
+- [Преглед на правителствените планове](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Сравни всички Office 365 плановете](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Сравнете всички абонаменти за Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

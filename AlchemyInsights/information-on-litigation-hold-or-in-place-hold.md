@@ -1,32 +1,32 @@
 ---
-title: Информация за задържане или в-място-държа
+title: Информация за задържане или задържане на място
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711008"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>За съдебни спорове притежава и трюмовете на място
+# <a name="about-litigation-holds-and-in-place-holds"></a>За задържането и задържането на място на съдебни спорове
 
-- Да приложите исково трюм или in-място държат пощенска кутия, се изисква [обмен онлайн план 2 лиценз](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ако имате всеки друг план, присвоите отделен лиценз за [Онлайн архивиране на Exchange](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) акаунта. 
+- За да приложите задържане на съдебни спорове или задържане на място за пощенска кутия, се изисква [лиценз за Exchange Online план 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Ако имате друг план, задайте отделен [лиценз за архивиране на Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) към акаунта. 
     
-- **За да разрешите задържане** за отделен потребител, следвайте стъпките, описани [тук](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Когато е активирано задържане поради конфликт, цялото съдържание в пощенската кутия се поставя в очакване.
+- **За да разрешите задържане на един** потребител, следвайте стъпките, описани [тук](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Когато е разрешено задържане на съдебни спорове, цялото съдържание в пощенската кутия се поставя на задържане.
     
-- За да приложите **на място държат на единични потребители** или държат **всички пощенски кутии в цялата организация**, можете да използвате правилата за съхранение в центъра на Office 365 защита и съответствие като следвате стъпки очертани [тук](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- За да приложите задържане **на място за един ичен потребител** или задържане на всички пощенски кутии в цялата **организация**, можете да използвате правила за задържане в центъра за защита и съответствие на Microsoft 365 като следвате [стъпките,](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )описани тук .
     
     > [!NOTE]
-    > За орг-широк задържане политика новите потребители ще бъдат добавени автоматично към мястото на задържане. 
+    > За общооглатимите правила за задържане новите потребители ще бъдат добавени автоматично към задържането. 
   
-- За да видите или да открият съдържанието на пощенската кутия, който е поставен на задържане, използвайте **eDiscovery търсене и експортиране**. За информация относно използването на **eDiscovery търсене и износ**следвайте стъпки очертани [тук](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- За да прегледате или откриете съдържанието на пощенската кутия, което е поставено на място, използвайте **eDiscovery Търсене и Експортиране**. За информация относно използването на **eDiscovery Търсене и експортиране**следвайте стъпките, описани [тук](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

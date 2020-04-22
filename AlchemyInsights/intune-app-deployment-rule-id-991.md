@@ -1,8 +1,8 @@
 ---
-title: InTune ап разполагане правило номер 991
+title: Intune приложение правило за разполагане на приложения Id 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498260"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713995"
 ---
-# <a name="intune-app-deployment"></a>InTune ап разполагане
+# <a name="intune-app-deployment"></a>Внедряване на приложения intune
 
-Разполагане на приложения с Intune е на три етапа:
+Разполагане на приложения с Intune е процес с три стъпки:
   
-1. **Добавяне на ап** - можете да добавите ап магазина app или качване на линия на бизнеса ап.
+1. **Добавяне на приложение** - Можете да добавите приложение в App Store или да качите приложение Line of Business.
 
-2. **Присвояване на ап** - определят обхвата на разполагане на заявлението.
+2. **Присвояване на приложение** - Определете обхвата на внедряване на приложението.
 
-3. **Мониторинг приложения** - преглед на състоянието на инсталиране на приложения, списък с намерените apps и управление на приложения, закупени от магазини, ап.
+3. **Мониторинг на приложения** - Преглед на състоянието на инсталиране на приложения, списък на откритите приложения и управление на приложения, закупени от магазини за приложения.
 
-Прочетете [Какво е Intune ап управление](https://docs.microsoft.com/intune/app-management) за walkthroughs и информация за конфигурирането и защита на приложения.
+Прочетете [Какво е Intune App Управление](https://docs.microsoft.com/intune/app-management) за прегледи и информация за конфигуриране и защита на приложения.
   

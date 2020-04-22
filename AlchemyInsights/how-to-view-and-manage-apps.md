@@ -3,7 +3,7 @@ title: Как да преглеждате и управлявате прилож
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539486"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717113"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Как да преглеждате и управлявате приложения
 
-Можете да преглеждате вашите приложения в центъра за администрация на Microsoft 365. 
+Можете да преглеждате приложенията си в Центъра за администриране на Microsoft 365. 
 
-1. В центъра на администратор, отидете на **Фактуриране** > [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. В центъра за администриране отидете на страницата **"Продукти за фактуриране** > [& услуги".](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Страницата на **продукти & услуги** изберете раздела за **приложения** .
+2. На страницата **Продукти & услуги** изберете раздела **Приложения.**

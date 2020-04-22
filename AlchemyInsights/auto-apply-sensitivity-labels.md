@@ -3,7 +3,7 @@ title: Автоматично прилагане на етикети за чув
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050298"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712375"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Автоматично прилагане на етикети за чувствителност
 
 Етикетите за чувствителност могат да се прилагат ръчно към съдържанието от потребителите или можете да ги конфигурирате да се прилагат автоматично към съдържанието.
 
-Автоматичното прилагане на етикетите за чувствителност премахва необходимостта да се обучават потребителите как да класифицират съдържанието и необходимостта да ги уведомят за конфигурации на правила.
+Автоматичното прилагане на етикети за чувствителност премахва необходимостта от обучаване на потребителите за това как да класифицирасъдържанието и необходимостта да бъдат уведомявани за конфигурациите на правилата.
 
-За да приложите етикетите автоматично, се изисква следното:
+За да се прилагат етикети автоматично, е необходимо следното:
 
-- Azure информация защита
-- [Изтеглете и инсталирайте Azure информация защита единен етикет клиент](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Абонамент за защита на информация за Azure P2
+- [Изтеглете и инсталирайте единни клиента за защита на информация за Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Ние работим върху местната поддръжка, която няма да изисква Azure информация защита единни етикет клиент в бъдеще.
+Работим върху основната поддръжка, която няма да изисква унифициран клиент за Защита на информацията за Azure в бъдеще.
 
-В момента само Windows поддържа унифициран етикет клиент.  Функцията все още не се поддържа на Mac, iOS и Android.
+В момента само Windows поддържа единни етикет клиент.  Тази функция все още не се поддържа на Mac, iOS и Android.
 
-За повече информация относно етикетите за чувствителност и тяхното автоматично прилагане към съдържанието вижте:
+За повече информация относно етикетите за чувствителност и автоматичното им прилагане към съдържанието вж.:
 
 - [Преглед на етикетите за чувствителност](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Прилагане на етикет за чувствителност към съдържанието автоматично](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Автоматично прилагане на етикет за чувствителност към съдържание](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

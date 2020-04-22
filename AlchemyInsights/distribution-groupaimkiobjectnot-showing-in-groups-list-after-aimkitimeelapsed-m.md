@@ -1,5 +1,5 @@
 ---
-title: Група за разпространение "{Инаобект}" не се показва в списъка с групи след {Ивревреме} минути
+title: Група за разпространение "{AimKIObject}" не се показва в списъка с групи след {AimKITimeElapsed} минути
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -8,17 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530484"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715031"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Група за разпространение "{Инаобект}" не се показва в списъка с групи след {Ивревреме} минути
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Група за разпространение "{AimKIObject}" не се показва в списъка с групи след {AimKITimeElapsed} минути
 
-Вашата група "{Иимкиобект}" е създадена преди} минути. Обикновено не отнема повече от 60 минути, за да се появи новата група за разпространение в центъра за администриране.
+Вашата група "{AimKIObject}" е създадена {AimKITimeElapsed} преди минути. Обикновено не са повече от 60 минути, за да се появи новата група за разпространение в центъра за администриране.
   
-Може да можете да използвате получателите > групи функция в [центъра за администриране на Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) , за да управлявате вашата група сега, или да използвате опцията "Нека ви наричаме", за да говорите с инженер по поддръжка. 
+Възможно е да можете да използвате функцията получатели > групи в центъра за администриране на [Exchange,](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) за да управлявате вашата група сега, или използвайте опцията "Нека ви се обадим" да говорим с инженер по поддръжката. 
   
-

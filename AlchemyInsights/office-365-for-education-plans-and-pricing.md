@@ -1,9 +1,9 @@
 ---
-title: Office 365 за учебни планове и ценообразуването
+title: Планове и цени за Office 365 за образованието
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389457"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713383"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Добивам свободен Office 365 за си цялото училище
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Получете Microsoft 365 безплатно за цялото ви училище
 
-Подобряване на класната стая и училището сътрудничество с безплатен производителността инструменти. Вие ще трябва да провери дали сте акредитирана академична институция да се възползват от тези предложения.
+Подобряване на класната стая и училищната колаборация с безплатни инструменти за продуктивност. Ще трябва да проверите дали сте акредитирана академична институция, за да се възползвате от тези предложения.
   
-- [Преглед на плановете на образованието](https://products.office.com/academic/compare-office-365-education-plans)
+- [Прегледайте образователните планове](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Сравни всички Office 365 плановете](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Сравнете всички абонаменти за Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -2,7 +2,7 @@
 title: 423 Защита на организацията – EmailAccountCompromised
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712987"
 ---
 # <a name="compromised-email-accounts"></a>Компрометирани имейл акаунти
 
-Има няколко стъпки, които можете да предприемете, за да помогнете за подсилването на защитата във вашата организация на Office 365:
+Има няколко стъпки, които можете да предприемете, за да помогнете за подсилването на защитата във вашата организация:
 
 - **Активиране на многофакторна автентификация (MFA)**: Ако даден акаунт е бил компрометиран, нулирането на паролата, последвано от активиране на MFA е добър начин да се гарантира, че това няма да се случи отново. Ако компрометираният акаунт е бил използван за изпращане на нежелана поща, той вероятно е блокиран и не може да изпраща поща (дори и след като са взети мерки за защитата му). За да премахнете потребител от списъка с блокирани потребители, вижте [тази тема](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
 
@@ -27,4 +27,4 @@ ms.locfileid: "36734478"
 
 - **Разрешаване на записване в регистрационен файл за проверка на пощенска кутия**: Записването в регистрационен файл за проверка на пощенска кутия улеснява проследяването на случилото се във времето, когато даден потребителски акаунт е бил компрометиран.
 
-За повече информация вижте [Пътна карта за защита в Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
+За повече информация вижте [Пътна карта за защита в Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
