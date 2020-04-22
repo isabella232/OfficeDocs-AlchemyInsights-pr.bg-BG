@@ -1,9 +1,9 @@
 ---
-title: Проблеми при отваряне на файлове от SharePoint или OneDrive
+title: Проблеми при отваряне на файлове от Sharepoint или OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: e1aa019f45d16070463567213cb6baaa9766a357
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d4cc404023ab0c5d2fec8731599e06c2d1954c65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698443"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a><span data-ttu-id="5bd69-102">Проблеми при отваряне на файлове от SharePoint или OneDrive</span><span class="sxs-lookup"><span data-stu-id="5bd69-102">Problems opening files from Sharepoint or OneDrive</span></span> 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a><span data-ttu-id="cb1a1-102">Проблеми при отваряне на файлове от Sharepoint или OneDrive</span><span class="sxs-lookup"><span data-stu-id="cb1a1-102">Problems opening files from Sharepoint or OneDrive</span></span> 
 
 
-<span data-ttu-id="5bd69-103">Ако имате проблеми с отварянето на файлове на Office и документи от библиотеки с документи на SharePoint или OneDrive, Ето някои предложения, които ще ви помогнат да ги поправите.</span><span class="sxs-lookup"><span data-stu-id="5bd69-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them.</span></span>
+<span data-ttu-id="cb1a1-103">Ако имате проблеми при отварянето на файлове и документи на Office от библиотеки с документи на SharePoint или OneDrive, ето някои предложения, които да ви помогнат да ги коригирате.</span><span class="sxs-lookup"><span data-stu-id="cb1a1-103">If you have problems opening Office files and documents from SharePoint or OneDrive document libraries, here are some suggestions to help you fix them.</span></span>
 
-- [<span data-ttu-id="5bd69-104">Проверете ограниченията на файловете, за да гарантирате, че файлът се поддържа</span><span class="sxs-lookup"><span data-stu-id="5bd69-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="cb1a1-104">Проверка на ограниченията на файла, за да се гарантира, че файлът се поддържа</span><span class="sxs-lookup"><span data-stu-id="cb1a1-104">Check file limitations to ensure the file is supported</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [<span data-ttu-id="5bd69-105">Изтеглете и проверете за повреда на файла на локалния ви компютър</span><span class="sxs-lookup"><span data-stu-id="5bd69-105">Download and check for file corruption on your local machine</span></span>](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [<span data-ttu-id="cb1a1-105">Изтеглете и проверете за повреда на файлове на вашия локален компютър</span><span class="sxs-lookup"><span data-stu-id="cb1a1-105">Download and check for file corruption on your local machine</span></span>](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [<span data-ttu-id="5bd69-106">Изтриване на кеша за документи на Office</span><span class="sxs-lookup"><span data-stu-id="5bd69-106">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [<span data-ttu-id="cb1a1-106">Изтриване на кеша за документи в офиса</span><span class="sxs-lookup"><span data-stu-id="cb1a1-106">Delete your office document cache</span></span>](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [<span data-ttu-id="5bd69-107">Изпълнение на поправка в Office</span><span class="sxs-lookup"><span data-stu-id="5bd69-107">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [<span data-ttu-id="cb1a1-107">Изпълнение на поправка на Office</span><span class="sxs-lookup"><span data-stu-id="cb1a1-107">Run a repair on Office</span></span>](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-<span data-ttu-id="5bd69-108">За повече информация или подробности, моля, проверете статията [Fix проблеми отваряне на документи в библиотеки на SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="5bd69-108">For more information or details, please check the article [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
+<span data-ttu-id="cb1a1-108">За повече информация или подробности, моля, проверете статията [Отстраняване на проблеми при отваряне на документи в библиотеки на SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span><span class="sxs-lookup"><span data-stu-id="cb1a1-108">For more information or details, please check the article [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)</span></span>
 

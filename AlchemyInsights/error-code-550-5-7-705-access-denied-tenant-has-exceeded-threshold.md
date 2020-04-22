@@ -1,8 +1,8 @@
 ---
-title: Код на грешка 550 5.7.705 достъпът е отказан, наематели е надхвърлил Прага
+title: Код на грешка 550 5.7.705 достъпът е отказан, клиент е надвишен праг
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702979"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="d625d-102">550 5.7.705 достъпът е отказан, наематели е надхвърлил Прага</span><span class="sxs-lookup"><span data-stu-id="d625d-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="ffa25-102">550 5.7.705 достъпът е отказан, клиент е надвишил прага</span><span class="sxs-lookup"><span data-stu-id="ffa25-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="d625d-103">Това съобщение се появява, когато твърде много нежелани или масови имейл е изпратен от вашата организация и ние място блок на изходяща поща.</span><span class="sxs-lookup"><span data-stu-id="d625d-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="d625d-104">Често срещани причини са компрометирани локалните сървъри или компрометирана admin сметка, които са били използвани за създаване на съединители.</span><span class="sxs-lookup"><span data-stu-id="d625d-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="d625d-105">Или условие може да позволи спам да премине през вашата организация.</span><span class="sxs-lookup"><span data-stu-id="d625d-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="ffa25-103">Това съобщение се появява, когато твърде много спам или масова поща е изпратен от вашата организация и ние поставяме блок върху изходящапоща.</span><span class="sxs-lookup"><span data-stu-id="ffa25-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="ffa25-104">Често срещани причини са компрометирани локални сървъри или компрометирани администратор акаунти, които са били използвани за създаване на конектори.</span><span class="sxs-lookup"><span data-stu-id="ffa25-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="ffa25-105">И двете условия могат да позволят спам да преминава през вашата организация.</span><span class="sxs-lookup"><span data-stu-id="ffa25-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="d625d-106">За да премахнете този блок, трябва да разберат и да обясни причината за агент, както и да коригира основния проблем.</span><span class="sxs-lookup"><span data-stu-id="d625d-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="d625d-107">Щракнете върху **свържете се с нас** по-долу, след като сте готови.</span><span class="sxs-lookup"><span data-stu-id="d625d-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="ffa25-106">За да премахнете този блок, трябва да разберете и обясните причината на агент за поддръжка, както и да коригирате основния проблем.</span><span class="sxs-lookup"><span data-stu-id="ffa25-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="ffa25-107">Кликнете върху **Свържете се с нас** по-долу, след като сте готови.</span><span class="sxs-lookup"><span data-stu-id="ffa25-107">Click **Contact us** below once you're ready.</span></span>

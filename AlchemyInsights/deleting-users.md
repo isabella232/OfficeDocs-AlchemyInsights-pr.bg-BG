@@ -12,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7867d31cd3d99d038775150eb69e8d92b77daa32
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740490"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655127"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="ebf8a-102">Изтриване на потребители</span><span class="sxs-lookup"><span data-stu-id="ebf8a-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="d645f-102">Изтриване на потребители</span><span class="sxs-lookup"><span data-stu-id="d645f-102">Deleting users</span></span>
 
-<span data-ttu-id="ebf8a-103">Ако искате незабавно да блокирате потребителския достъп и трябва да запазите информацията си, моля, вижте [блокиране на достъпа на бивш служител до данни на Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span><span class="sxs-lookup"><span data-stu-id="ebf8a-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Office 365 data](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span></span>
+<span data-ttu-id="d645f-103">Ако искате незабавно да блокирате достъпа на потребителя и трябва да запазите информацията, моля, вижте Блокиране на достъпа на бивш служител до данните на [Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span><span class="sxs-lookup"><span data-stu-id="d645f-103">If you want to immediately block user access and need to keep their information, please see [Block a former employee's access to Microsoft 365 data](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).</span></span>
   
-<span data-ttu-id="ebf8a-104">Ако просто искате да изтриете потребителя и не се отнасят до никоя от техните данни, моля, вижте [Изтриване на потребител от вашата организация](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span><span class="sxs-lookup"><span data-stu-id="ebf8a-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="ebf8a-105">Това веднага ще освободи лиценза си.</span><span class="sxs-lookup"><span data-stu-id="ebf8a-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="d645f-104">Ако просто искате да изтриете потребителя и не се интересуватот данните им, моля, вижте [Изтриване на потребител от вашата организация](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span><span class="sxs-lookup"><span data-stu-id="d645f-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://docs.microsoft.com/office365/admin/add-users/delete-a-user).</span></span> <span data-ttu-id="d645f-105">Това веднага ще освободи лиценза си.</span><span class="sxs-lookup"><span data-stu-id="d645f-105">This will immediately free up their license.</span></span>
   

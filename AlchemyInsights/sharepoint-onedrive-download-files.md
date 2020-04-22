@@ -3,7 +3,7 @@ title: Изтегляне или предотвратяване на изтег�
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 89276c911dcfb4e26dce21f3328de0ed0e6dc2ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693006"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a><span data-ttu-id="a41a6-102">Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint</span><span class="sxs-lookup"><span data-stu-id="a41a6-102">Download or Prevent Download of files from OneDrive or SharePoint</span></span>
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a><span data-ttu-id="58cc5-102">Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint</span><span class="sxs-lookup"><span data-stu-id="58cc5-102">Download or Prevent Download of files from OneDrive or SharePoint</span></span>
 
-<span data-ttu-id="a41a6-103">Можете да изтегляте файлове и папки от OneDrive или от SharePoint Online на компютъра само с няколко кликвания.</span><span class="sxs-lookup"><span data-stu-id="a41a6-103">You can download files and folders from OneDrive, or from SharePoint Online to your computer with just a few clicks.</span></span> <span data-ttu-id="a41a6-104">За повече информация относно изтеглянето на файлове, скорости и ограничаване на изтеглянията, моля, посетете връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="a41a6-104">For more information on downloading files, speeds and limiting downloads please visit the links below.</span></span>
+<span data-ttu-id="58cc5-103">Можете да изтеглите файлове и папки от OneDrive или от SharePoint Online на вашия компютър само с няколко щраквания.</span><span class="sxs-lookup"><span data-stu-id="58cc5-103">You can download files and folders from OneDrive, or from SharePoint Online to your computer with just a few clicks.</span></span> <span data-ttu-id="58cc5-104">За повече информация относно свалянето на файлове, скорости и ограничаване на изтеглянията, моля, посетете връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="58cc5-104">For more information on downloading files, speeds and limiting downloads please visit the links below.</span></span>
 
-- [<span data-ttu-id="a41a6-105">Изтегляне на файлове и папки от OneDrive или SharePoint</span><span class="sxs-lookup"><span data-stu-id="a41a6-105">Download files and folders from OneDrive or SharePoint</span></span>](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [<span data-ttu-id="a41a6-106">Блокиране на файл за изтегляне с Azure AD условен достъп</span><span class="sxs-lookup"><span data-stu-id="a41a6-106">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="58cc5-105">Изтегляне на файлове и папки от OneDrive или SharePoint</span><span class="sxs-lookup"><span data-stu-id="58cc5-105">Download files and folders from OneDrive or SharePoint</span></span>](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [<span data-ttu-id="58cc5-106">Блокиране на изтегляне на файлове с условен достъп до Azure AD</span><span class="sxs-lookup"><span data-stu-id="58cc5-106">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 
-- [<span data-ttu-id="a41a6-107">Увеличете скоростта на качване и изтегляне</span><span class="sxs-lookup"><span data-stu-id="a41a6-107">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [<span data-ttu-id="58cc5-107">Увеличете скоростта на качване и изтегляне</span><span class="sxs-lookup"><span data-stu-id="58cc5-107">Maximize upload and download speed</span></span>](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [<span data-ttu-id="a41a6-108">Отстраняване на проблеми при синхронизиране на OneDrive</span><span class="sxs-lookup"><span data-stu-id="a41a6-108">Fix OneDrive Sync Problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [<span data-ttu-id="58cc5-108">Отстраняване на проблеми при синхронизиране на OneDrive</span><span class="sxs-lookup"><span data-stu-id="58cc5-108">Fix OneDrive Sync Problems</span></span>](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [<span data-ttu-id="a41a6-109">Изтегляне на OneDrive за бизнеса</span><span class="sxs-lookup"><span data-stu-id="a41a6-109">Download OneDrive for Business</span></span>](https://onedrive.live.com/about/download/)
+- [<span data-ttu-id="58cc5-109">Изтегляне на OneDrive за бизнеса</span><span class="sxs-lookup"><span data-stu-id="58cc5-109">Download OneDrive for Business</span></span>](https://onedrive.live.com/about/download/)
 
