@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600347"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650557"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Пенсиониране на наследените инструменти за откриване на електронни данни
 
@@ -37,7 +37,7 @@ ms.locfileid: "42600347"
     - [Задаване на пощенски кутии](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Пощенски кутии](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Разширено откриване на електронни данни v1.0 на Office 365](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Разширено откриване на електронни данни v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Времева линия за пенсиониране:**
 - 1 април 2020 г.: Няма да можете да създавате нови търсения и задържания, но все още можете да изпълнявате, редактирате и изтривате съществуващи търсения на свой собствен риск. Поддръжката на Microsoft вече няма да поддържа на място & за откриване на електронни данни в EAC.

@@ -1,5 +1,5 @@
 ---
-title: Разширяване на пробната версия за Office 365 за бизнеса
+title: Разширяване на пробната версия за Microsoft 365 за бизнеса
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
+ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702871"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Разширете пробната си версия за Office 365 за бизнес
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Разширяване на пробната версия за Microsoft 365 за бизнес
 
 Можете да удължите пробната си версия за още 30-дневен период. Можеш да го направиш само веднъж.
   

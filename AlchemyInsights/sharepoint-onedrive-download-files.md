@@ -3,7 +3,7 @@ title: Изтегляне или предотвратяване на изтег�
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 89276c911dcfb4e26dce21f3328de0ed0e6dc2ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693006"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Изтегляне или предотвратяване на изтегляне на файлове от OneDrive или SharePoint
 
-Можете да изтегляте файлове и папки от OneDrive или от SharePoint Online на компютъра само с няколко кликвания. За повече информация относно изтеглянето на файлове, скорости и ограничаване на изтеглянията, моля, посетете връзките по-долу.
+Можете да изтеглите файлове и папки от OneDrive или от SharePoint Online на вашия компютър само с няколко щраквания. За повече информация относно свалянето на файлове, скорости и ограничаване на изтеглянията, моля, посетете връзките по-долу.
 
 - [Изтегляне на файлове и папки от OneDrive или SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Блокиране на файл за изтегляне с Azure AD условен достъп](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Блокиране на изтегляне на файлове с условен достъп до Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 
 - [Увеличете скоростта на качване и изтегляне](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

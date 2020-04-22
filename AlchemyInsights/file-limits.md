@@ -1,34 +1,34 @@
 ---
-title: Ограничения на файловете
+title: Ограничения на файлове
 ms.author: toresing
 author: tomresing
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dc77375a46c3a0973193e2d055fd7ab5ce125500
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525768"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702799"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Ограничения за качване на файлове в SharePoint online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Ограничения за качване на файлове в SharePoint Online
 
-- Библиотеката може да има до 30 000 000 файлове и папки.
+- Една библиотека може да има до 30 милиона файлове и папки.
     
 - Общата дължина на URL адреса, включително името на файла, не може да надвишава 400 знака.
     
-- Всеки файл каша да бъде по-малко от 15 GB. Файлове, прикачени към елементи от списъка може да бъде до 250 МБ по размер.
+- Всеки файл каша да бъде по-малко от 15 GB. Файловете, прикачени към елементите на списъка, могат да бъдат с размер до 250 МБ.
     
-- За оптимално синхронизиране на производителността с новия OneDrive синхронизиране на клиента, препоръчваме да съхранявате не повече от 100 000 файлове в библиотека. 
+- За оптимална производителност синхронизиране с новия oneDrive синхронизиране клиент, препоръчваме да съхранявате не повече от 100 000 файлове в библиотека. 
     
-[Знаци, които не могат да се използват в имена на файлове](https://go.microsoft.com/fwlink/?linkid=866430)
+[Знаци, които не могат да се използват в имената на файловете](https://go.microsoft.com/fwlink/?linkid=866430)
   
 [Типове файлове, които не могат да се добавят към списък или библиотека](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Повече информация за ограниченията на SharePoint online](https://go.microsoft.com/fwlink/?linkid=271273)
+[Повече информация за ограниченията на SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

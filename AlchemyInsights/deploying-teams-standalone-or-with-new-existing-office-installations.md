@@ -1,9 +1,9 @@
 ---
-title: Разполагане на отбора, като самостоятелен или с нов или съществуващ офис инсталации
+title: Разполагане на екипи те са самостоятелни или с нови или съществуващи инсталации на Office
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704622"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Разполагане на отбора, като самостоятелен или с нов или съществуващ офис инсталации
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Разполагане на екипи те са самостоятелни или с нови или съществуващи инсталации на Office
 
-Екипи на Microsoft вече е включена като част от ***нови инсталации*** на Office 365 подпора, Office 365 бизнес и офис за Mac. За повече информация, вижте [Кога ще екипи на Microsoft започне се включват нови инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams вече е включен като част от ***новите инсталации*** на приложенията на Microsoft 365 за предприятие, Microsoft 365 приложения за бизнес а и Office for Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Освен това започвайки с версия 1906 в месечните канал, екипи ще бъдат ***добавени към съществуващите инсталации*** на Office 365 подпора (и Office 365 бизнес) на устройства с Windows, когато актуализирате вашата съществуваща инсталация до последната версия. За повече информация, вижте [какво да кажем за съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
-
-> [!NOTE]
-> Ако не искате да чакам за този внедряването график, можете да разположите отбори като самостоятелен за вашите потребители, като [следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) или можете да накарате вашите потребители да инсталират екипи за себе си от [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
-
-Ако вашата организация не е готова да разположи екипи, ние имаме стъпки можете да предприемете за ***изключване на отбори*** от [нови](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) или [съществуващи](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) инсталации на Office. Ако искате екипи, които да бъдат инсталирани, но не искам отбора да стартира автоматично за потребителя, след като е инсталиран, вижте [Предотвратяване на екипи на Microsoft да се стартира автоматично след инсталацията](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-За да ***деинсталирате екипи*** от устройство с Windows вижте [Деинсталиране на екипи на Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). За почистване на Microsoft отбори от няколко целеви машини или потребители вижте [разполагане на екипи на Microsoft почисти](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-
-Ако използвате споделени компютри, отдалечен работен плот услуги (RDS) или виртуална инфраструктура на работния плот (VDI), вижте [споделени компютър и VDI среда с екипи на Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-Ако използвате Office за Mac, вижте [екипи на Microsoft инсталации на Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Освен това, започвайки с версия 1906 в месечен канал, Екипи ще бъдат ***добавени към съществуващиинсталации*** на Microsoft 365 приложения за предприятие (и Приложения на Microsoft 365 за бизнеса) на устройства, работещи под Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
-> След екипи е инсталиран, то е [автоматично актуализира](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) приблизително на всеки две седмици с нови функции и актуализации на качеството. 
+> Ако не искате да чакате този график за пускане, можете да разположите Teams като самостоятелен за вашите потребители, като [следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) или можете да настроите потребителите си да инсталират Teams за себе си. [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
+
+Ако вашата организация не е готова да разположи Teams, ние имаме стъпките, които можете да предприемете, за да ***изключите Екипи*** от [нови](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) или [съществуващи](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) инсталации на Office. Ако искате да се инсталирате Teams, но не искате Teams да се стартира автоматично за потребителя, след като е инсталиран, вж. [Предотвратете автоматичното стартиране на Microsoft Teams след инсталиране](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+
+За да ***деинсталирайте Teams,*** от устройство, на което се изпълнява Windows, вижте [деинсталиране на Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). За почистване на Microsoft Teams от няколко целеви машини или потребители, вижте [Microsoft Teams разполагане почистване .](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+
+Ако използвате споделени компютри, услуги за отдалечен работен плот (RDS) или инфраструктура за виртуални работния плот (VDI), вижте [Споделен компютър и VDI среди с Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+
+Ако използвате Office за Mac, вижте [Инсталации на Microsoft Teams на Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> След инсталирането на Teams автоматично [се актуализира](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) на всеки две седмици с нови функции и актуализации на качеството. 

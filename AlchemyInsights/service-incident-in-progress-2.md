@@ -1,8 +1,8 @@
 ---
-title: Сервиз инцидент в ход
+title: В ход е инцидент при услугата
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 10/9/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550540"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681633"
 ---
-# <a name="service-incident-in-progress"></a>Сервиз инцидент в ход
+# <a name="service-incident-in-progress"></a>В ход е инцидент при услугата
 
-Можете може да бъдат засегнати от инцидента на услуга или консултативен който в момента се разследва. Можете да проверите последното състояние като отидете на страницата на [Здравни услуги](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Може да сте засегнати от инцидент или консултант, който в момента се разследва. Можете да проверите най-новото състояние, като отидете на страницата ["Състояние на услугата".](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-За ваше удобство можете да намерите обобщение на този инцидент по-долу:
+За Ваше удобство можете да намерите обобщение на този инцидент по-долу:
   
-> **Инцидент номер:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Номер на инцидента:**[{Ид на инцидента}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Описание на въздействието: {ImpactDescription}
+> Описание на въздействието: {ImpactОписание}

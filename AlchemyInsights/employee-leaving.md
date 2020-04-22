@@ -1,9 +1,9 @@
 ---
-title: Служител напуска
+title: Напускане на служителя
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527820"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703704"
 ---
-# <a name="block-access-to-a-former-employee"></a>Блокира достъпа до бивш служител
+# <a name="block-access-to-a-former-employee"></a>Блокиране на достъпа до бивш служител
 
-Има служител, оставяйки и трябва да блокира достъпа до Office 365 данни и електронна поща? Направете следното:
+Имате ли служител, който напуска и трябва да блокира достъпа до данни и имейл? Направете следното.
   
-1. В центъра на администратор, отидете на **потребителите** \> [Активни потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) на страницата.
+1. В центъра за администриране отидете на страницата **Потребители** \> [активни потребители.](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
 2. Изберете името на потребителя, който искате да блокирате.
 
-3. Под името на потребителя изберете **блок този потребител**.
+3. Под името на потребителя изберете **Блокиране на този потребител**.
 
-4. Изберете **блокирате потребителя да влезете в** \> **запишете промените**.
+4. Изберете **Блокиране на потребителя от влизане в** \> **Записване на промените**.
 
-**Забележка**: излизането за някои приложения не може да бъде незабавно. Следвайте с повече действия в тази статия: [Премахване на бивш служител от Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Забележка:** Излизането за някои приложения може да не е незабавно. Последващи действия с повече действия в тази статия: [Премахване на бивш служител](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
