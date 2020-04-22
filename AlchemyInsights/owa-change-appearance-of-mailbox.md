@@ -1,28 +1,28 @@
 ---
-title: Промяна на облика на вашата пощенска кутия в Outlook в мрежата
+title: Промяна на изгледа на пощенската кутия в Outlook в уеб
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743118"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>Промяна на облика на вашата пощенска кутия Outlook
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Промяна на изгледа на пощенската кутия на Outlook
 
-Можете да промените външния вид на прозореца на списъка и четене на съобщения, така че изглежда и се държи по начин, който желаете. Изберете дали вашите съобщения трябва да бъдат показани отделно или като разговори, ако нови съобщения трябва да се появи в горната или долната част на списъка със съобщения и др.
+Можете да промените облика на списъка със съобщения и екрана за четене, така че да изглежда и да се справя по желания от вас начин. Изберете дали съобщенията ви да се показват поотделно или като разговори, дали новите съобщения трябва да се показват в горната или долната част на списъка със съобщения и др.
 
 1. Изберете иконата на зъбно колело <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- в горната част на страницата, за да отворите прозореца на настройките.
-1. Изберете настройки за фокусирани Входящи, покажете плътност, изгледа на разговор и екрана за четене.
-1. На върха на списъка на съобщението, изберете **филтър** > **сортиране по** да изберете как искате да сортирате вашия имейл.
+ в горната част на страницата, за да отворите прозореца настройки.
+1. Изберете настройките си за "Фокусирани входящи", плътност на дисплея, изглед на разговор и прозорец за четене.
+1. В горната част на списъка със съобщения изберете **Филтриране** > **на сортиране по,** за да изберете как искате да сортирате имейла си.
 
-За да научите повече, вижте [Промяна на външния вид на вашата пощенска кутия](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+За да научите повече, вижте [Промяна на изгледа на пощенската кутия](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).

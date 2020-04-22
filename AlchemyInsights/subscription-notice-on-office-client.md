@@ -1,9 +1,9 @@
 ---
-title: Абонамент известие на клиент на Office
+title: Известие за абонамент за клиент на Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559758"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741852"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Абонамент информация във вашия клиент на Office?
+# <a name="subscription-notice-in-your-office-client"></a>Известие за абонамент във вашия клиент на Office?
 
-Тя изглежда като виждате съобщение във вашия клиент на Office, свързани със състоянието на вашия абонамент за Office 365. Можете да намерите информация как да отстраните този проблем в тази статия: [абонамент съобщение се появява, когато отворите Office 365 приложение](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Изглежда, че виждате известие във вашия клиент на Office, свързано със състоянието на абонамента ви. Можете да намерите информация как да отстраните проблема в тази статия: [Абонамент носене се появява, когато отворя приложение на Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Ако абонаментът за Office 365 е актуална, може да имате удари е временен проблем, които предизвикват вашата Office активиране да се провалят. Има прости стъпки можете да предприемете, за да избегнете тези съобщения, като проверка на времето си компютър, работещ офис като администратор и подписването да активирате. Можете да намерите подробни стъпки, за да отстраните тези проблеми в тази статия: [нелицензиран продукт и активиране на грешки в Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Ако абонаментът ви е актуализиран, може да сте показали временен проблем, който е причинил неуспех на активирането на Office. Има прости стъпки, които можете да предприемете, за да избегнете тези съобщения, като например проверка на времето на компютъра ви, изпълнение на Office като администратор и влизане, за да активирате. Можете да намерите подробни стъпки за отстраняване на тези проблеми в тази статия: [Нелицензиран продукт и грешки при активиране](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Ако те не работят за вас, свържете се с нас с връзки по-долу и ние ще се радваме да помогнем.
-  
+Ако те не работят за вас, моля свържете се с нас с линковете по-долу и ние ще се радваме да ви помогнем.

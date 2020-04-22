@@ -1,9 +1,9 @@
 ---
-title: Блок податели в Outlook.com - испански
+title: Блокиране на подателите в Outlook.com - ИСПАНСКИ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 01b8a14bf11a6b32b806997911bb99e8ff45ba5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 00cd42649e62908dc55d8ce45ec311b07d76286f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717587"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear о desbloquear remitentes en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o деблокери те са Outlook.com
 
-Puede bloquear Лос mensajes де Лас direcciones де correo electrónico específica о dominio llegue а ла Bandeja де entrada. Куандо agrega una dirección де correo electrónico о ООН dominio а ла lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente а ла килим correo electrónico не deseado.
+Пуеди блиае лос менсахес де лас диречиони де корео електронико específica о доминио угоете ла Бандея де entrada. Куандо агрега ун диречо в елекро електронико о не доминио а ла литентде remitentes bloqueados, Outlook.com автоманатиката лос менсахес де е ремитенте а ла carpeta correo electrónico не десиадо.
 
-Leer más Ал aprender [Ayudar mantener Ел correo няма deseado y el correo няма deseado fuera де ла bandeja де entrada де Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Параадер малеж [Аюдар е по-малко корео не deseado y el correo не deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

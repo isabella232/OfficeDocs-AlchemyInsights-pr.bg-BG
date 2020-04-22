@@ -3,7 +3,7 @@ title: Повторно влизане, за да отворите _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722763"
 ---
 # <a name="repeated-login-to-open-_vti_rpc"></a>Повторно влизане, за да отворите _vti_rpc
 
-Когато работите с OneDrive файлове с помощта на Office 2016, можете да видите съобщението: "кажете ни профила, който искате да използвате, за да отворите _vti_rpc." Този проблем е решен във версия 1708 (16.0.8431.2094). За да коригирате това, актуализирайте до най-новата версия на Office. Изберете **** \> **** \> **Опции** за \> актуализиране на файла акаунт Update **сега**.
+Когато работите върху файлове на OneDrive с помощта на Office 2016, може да видите съобщението" "Кажете ни акаунта, който искате да използвате за отваряне на _vti_rpc". Този проблем е решен във версия 1708 (16.0.8431.2094). За да решите това, актуализирайте до най-новата версия на Office. Изберете Опции **за** \> актуализиране **на файловия** \> **акаунт** \> **сега.**
   

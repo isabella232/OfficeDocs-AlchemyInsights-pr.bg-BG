@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059869"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720054"
 ---
 # <a name="update-credit-card-information"></a>Актуализиране на информацията за кредитната карта
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059869"
 
 Ако се сблъсквате с проблеми със зареждането на страницата, опитайте да отворите уеб страницата в друг браузър или в частен прозорец на браузъра, като например прозорец InPrivate в Microsoft Edge или прозорец в режим „инкогнито“ в Google Chrome. 
 
-За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) и [Отстраняване на неизправности с кредитни карти или банкови сметки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Microsoft 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) и [Отстраняване на неизправности с кредитни карти или банкови сметки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

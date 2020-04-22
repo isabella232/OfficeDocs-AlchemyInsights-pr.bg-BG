@@ -1,5 +1,5 @@
 ---
-title: 'OneDrive: липсващи файлове или папки'
+title: 'OneDrive: Липсващи файлове или папки'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 0d0d0f726cebfb6e1c78d9c7b89c220758628996
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a8c5dd6e75c35be185cea1bf3ffb733b5f5b61d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761417"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: липсващи файлове или папки
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Липсващи файлове или папки
 
 **Проверете кошчето на сайта**.
 
@@ -22,20 +22,20 @@ ms.locfileid: "40049110"
 - [Възстановяване на изтрити файлове или папки в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Използвайте функцията за възстановяване на файлове в OneDrive**. 
+**Използвайте функцията за възстановяване на файлове на OneDrive**. 
 
-Ако много от файловете ви в OneDrive се изтрият, презаписват, повредят или заразят със злонамерен софтуер, можете да възстановите целия OneDrive до предишно време, като използвате функцията за [възстановяване на файлове в onedrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
-
-
-**Използвайте регистрирането на проверка или прозореца на активността на файла, за да проверите хронологията на файла**.
-
-Проверете [одитните отчети](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) чрез навигиране [тук](https://sip.protection.office.com/).
+Ако много от вашите файлове в OneDrive бъдат изтрити, презаписани, повредени или заразени със злонамерен софтуер, можете да възстановите целия OneDrive до предишно време, като използвате функцията [за възстановяване на файлове на OneDrive.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 
-Използвайте [прозореца на активността на файла](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , за да проверите хронологията на файла.
+**Използвайте проверка на регистрирането или екрана за активност на файла, за да проверите хронологията на файла**.
+
+Проверете [одитните доклади,](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) като навигирате [тук](https://sip.protection.office.com/).
 
 
-**Проверете OneDrive синхронизиране на клиента на вашия локален компютър**.
+Използвайте прозореца за активност на [файла,](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) за да проверите хронологията на файла.
 
-Ако синхронизирате файловете на вашия компютър с помощта на OneDrive Sync клиент, проверете локалната папка за синхронизиране, за да се уверите, че е правилно качен. Уверете се също, че проверявате кошчето на локалния си компютър.
+
+**Проверете клиента за синхронизиране на OneDrive на локалния ви компютър**.
+
+Ако синхронизирате файловете на компютъра си с помощта на клиента OneDrive Sync, проверете локалната папка за синхронизиране, за да се уверите, че е качен правилно. Уверете се, че проверявате кошчето и на местната машина.
 

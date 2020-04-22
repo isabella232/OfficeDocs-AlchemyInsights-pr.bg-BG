@@ -1,9 +1,9 @@
 ---
-title: 8000070 - Outlook.com не може да влезете в - испански
+title: 8000070 - Outlook.com не може да влезете - испански
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "1143"
 - "8000070"
-ms.openlocfilehash: bcad7e739577f7aedee346bb2bb3f304087e1c6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4172fe35783ca6f9d10a467ec71597adbe6150f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746588"
 ---
-# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>¿No puede iniciar sesión en Hotmail o en Outlook.com?
+# <a name="no-puede-iniciar-sesin-en-hotmail-o-en-outlookcom"></a>Не е ли по-добре да се намесиш в хомайла Outlook.com?
 
-Si няма puede iniciar sesión en su cuenta де correo electrónico де Outlook.com, Hotmail, Live o MSN, о не sabe con seguridad cómo iniciar о cerrar sesión, [aquí Мариела algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).
+Si не puede национа ен су куента де correo електронико de Outlook.com, Hotmail, live о MSN, о не сабе кон seguridad cómo сицилианско о церарна sesión, [aquí tienegun alas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).

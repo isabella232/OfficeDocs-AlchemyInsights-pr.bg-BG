@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Facebook кодове
+title: Outlook.com кодове на Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: adaac72e5aadfed79707639cf5bdf4aba0861932
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822295"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760365"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Не получавате Facebook кодове с помощта на Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Не получаване на кодове на Facebook с помощта на Outlook.com
 
-Ако сте поискали нова парола от Facebook, но не сте получили имейл за нулиране на паролата:
+Ако сте поискали нова парола от Facebook, но не сте получили имейла си за нулиране на паролата:
 
-- Проверете папката си за [спам или нежелана поща](https://outlook.live.com/mail/junkemail).
-- Опитайте [отново да нулирате паролата си във Facebook](https://aka.ms/facebook-password-reset).
+- Проверете папката със [спам или нежелана поща](https://outlook.live.com/mail/junkemail).
+- Опитайте отново да [възстановите паролата си във Facebook.](https://aka.ms/facebook-password-reset)
 
-Ако не можете да нулирате паролата си, защото нямате достъп до имейла или номера на мобилния телефон в профила си, изпробвайте [съветите за нулиране на паролата на Facebook](https://aka.ms/facebook-password-help).
+Ако не можете да нулирате паролата си, защото нямате достъп до имейл адреса или мобилния телефонен номер в профила си, опитайте [съветите за възстановяване на паролата на Facebook](https://aka.ms/facebook-password-help).

@@ -2,7 +2,7 @@
 title: Въпроси, свързани с Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719792"
 ---
-# <a name="about-office-2019"></a>За офис 2019
+# <a name="about-office-2019"></a>За Office 2019
 
-Офис 2019 е за клиенти, които все още не са готови за облак или имат специфична нужда за локалните или хибридно разполагане на Office. Тя включва смислен подмножество от функциите, които вече са били добавени към Office 365 през последните три години, но това не е част от Office 365.
+Office 2019 е за клиенти, които не са готови за облака още или имат конкретна нужда от локално или хибридно разполагане на Office. Той включва съдържателна подгрупа от функции, които вече са добавени към Microsoft 365 през последните три години, но това не е част от Microsoft 365.
   
-Office 365 подпора на свързан в облака версия на Office, доставя най-продуктивните и най-сигурните офис опит. Той осигурява достъп до пакет от услуги извън това, което на локалните версии имат и получава нова функция актуализации на текуща база.
+Приложенията на Microsoft 365 за предприятие, свързана с облака версия на Office, осигуряват най-продуктивната и най-сигурната работа на Office. Той предоставя достъп до пакет от услуги, надхвърлящи това, което имат локалните версии и получава нови актуализации на функциите на текуща база.
   
-Така че ако имате офис десктоп приложения като част от вашия абонамент за Office 365 вече имате последната версия на Office.
+Така че, ако имате настолни приложения на Office като част от вашия абонамент за Microsoft 365, вече имате най-новата версия на Office.
   
-За допълнителна информация вижте:
+За повече информация вижте:
   
-[Офис 2019 търговски за Windows и Mac често задавани въпроси](https://support.microsoft.com/help/4133312)
+[Office 2019 търговски за Windows и Mac често задавани въпроси](https://support.microsoft.com/help/4133312)
   
-[Номера на главната версия на Office 2019 е отседнал в 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Основната версия на Office 2019 е 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Година за определяне в Office 2016 и Office 365 клиентски приложения ще бъдат премахнати от Старт меню вписванията](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Година означение в Office 2016 и Microsoft 365 клиентски приложения ще бъдат премахнати от записи в менюто "Старт"](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

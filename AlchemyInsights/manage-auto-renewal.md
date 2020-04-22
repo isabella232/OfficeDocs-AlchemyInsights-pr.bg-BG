@@ -1,9 +1,9 @@
 ---
-title: Управление на автоматично подновяване
+title: Управление на автоматичното подновяване
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661429"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762594"
 ---
-# <a name="manage-recurring-billing"></a>Управление на повтарящи се фактуриране
+# <a name="manage-recurring-billing"></a>Управление на повтарящи се плащания
 
-Можете да включите повтарящи се фактуриране или изключване в центъра за администрация на Microsoft 365.
+Можете да включите или изключите повтарящи се плащания в Център за администриране на Microsoft 365.
   
-1. В центъра на администратор, отидете на **Фактуриране** \> [продукти & услуги](https://go.microsoft.com/fwlink/p/?linkid=842054) страница.
+1. В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. При **Фактуриране**, до **подновява на** или **Expiring на**изберете **Редактиране**.
+2. Под **Таксуване**, до **Обновявания на** или **Изтичане на**, изберете **Редактиране**.
 
-3. В прозореца **периодичен фактуриране настройки** изберете **Изключи** да го изключите. Ако повтарящи фактуриране вече е изключен, изберете **месечно** или **веднъж** да го включите.
+3. В прозореца **Настройки за повтарящи се плащания** изберете **Изключване,** за да го изключите. Ако повтарящите се плащания вече са изключени, изберете **Месечно** или **Еднократно,** за да го включите.
 
-4. Изберете **Промяна на подаване**.
+4. Изберете **Подаване на промяна**.
 
-За да научите повече, вижте [включване повтарящи се фактуриране изключване на](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+За да научите повече вж. [Изключване или включване на периодично фактуриране](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

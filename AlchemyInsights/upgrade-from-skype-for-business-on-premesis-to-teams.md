@@ -1,5 +1,5 @@
 ---
-title: Надграждане от Skype за бизнес в помещения за отбори
+title: Надграждане от Skype за бизнес на помещения за екипи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305251"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727276"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Надграждане от Skype за бизнес в помещения за отбори
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Надграждане от Skype за бизнес на помещения за екипи
 
-Ако сте разположили Skype за бизнес или Microsoft Lync на помещения и вашата организация иска да надстроите до отбори, следвайте указанията в статията по-долу. Ще трябва да настроите хибридна свързаност с вашия клиент на Office 365 и след това да преместите вашите потребители в екипи и да им присвоите подходящо съвместно съществуване и режим на надстройка. 
+Ако сте внедрили Skype за бизнес или Microsoft Lync в помещения и вашата организация иска да надстроите до екипи, следвайте указанията в статията по-долу. Ще трябва да настроите хибридна връзка с вашия клиент и след това да преместите потребителите си в Teams и да им присвоите подходящ режим на съвместно съществуване и надстройка. 
 
-[Надграждане от Skype за бизнес локално за екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Надстройка от Skype за бизнес локална тава екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

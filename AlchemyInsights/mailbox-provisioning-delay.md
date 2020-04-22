@@ -1,25 +1,25 @@
 ---
-title: Пощенска кутия осигуряващия забавяне
+title: Закъснение за осигуряване на пощенска кутия
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762666"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Се създава пощенска кутия на потребител
+# <a name="your-users-mailbox-is-being-created"></a>Създава се пощенската кутия на вашия потребител
 
-Тя може да отнеме до един час преди нова пощенска кутия е готова за използване.
+Това може да отнеме до един час, преди да е готова за използване нова пощенска кутия.
   
-Ако пощенската кутия на потребител е бил "подготовка" за повече от един час, можете да опитате изтриване и след това повторно създаване на потребителя или използвайте опцията за "Нека ви призовавам" да говори с инженер поддръжка.
+Ако пощенската кутия на потребителя е "подготовка" за повече от час, можете да опитате да ги изтриете и след това да създадете отново потребителя или да използвате опцията "Нека ви се обадим" да говорим с инженер по поддръжка.
   
 

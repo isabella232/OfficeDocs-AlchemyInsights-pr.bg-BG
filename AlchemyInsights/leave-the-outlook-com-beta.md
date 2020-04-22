@@ -1,9 +1,9 @@
 ---
-title: 8000035 оставите Outlook.com бета
+title: 8000035 Оставете бета Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762738"
 ---
-# <a name="the-new-outlookcom"></a>Нов Outlook.com
+# <a name="the-new-outlookcom"></a>Новият Outlook.com
 
-Тя вече не е възможно да оставите Outlook.com бета и връщане към класическата версия на Outlook.com.
+Вече не е възможно да се остави Outlook.com бета и да се върнете към класическата версия на Outlook.com.
   
-Ако бихте искали да дадат обратна информация за новите Outlook.com, отидете на [UserVoice форум](https://go.microsoft.com/fwlink/p/?linkid=851599). Можете да гласувате на идеите или въпроси бихте искали да видите, и ще отговорим директно на топ коментари и предложения.
+Ако искате да дадете обратна връзка за новия Outlook.com, отидете на [форума UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Можете да гласувате за идеите или проблемите, които искате да видите, и ние ще отговорим директно на най-важните коментари и предложения.
   
-[Научете повече за новите Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Научете повече за новата Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

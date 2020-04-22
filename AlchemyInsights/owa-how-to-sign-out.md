@@ -1,9 +1,9 @@
 ---
-title: Как да излезете от Outlook в мрежата
+title: Как да излезете от Outlook в интернет
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742938"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Как да излезете от Outlook в мрежата
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Как да излезете от Outlook в интернет
 
-За да влезете от Outlook в мрежата, изберете вашето име или картина в горния десен ъгъл и изберете **изход**.
+За да излезете от Outlook в интернет, изберете името или картината в горния десен ъгъл и изберете **Излизане**.
 
-За да спрете автоматичното влизане профила ви работа или училище:
+За да спрете автоматичното влизане в служебния си или учебен акаунт:
 
-1. Изберете вашето име или картина и изберете **изход**.
-1. Отидете на [Outlook.office.com](https://outlook.office.com/) и изберете **използване на друг акаунт**.
+1. Изберете името или картината и изберете **Изход**.
+1. Отидете на [Outlook.office.com](https://outlook.office.com/) и изберете **Използване на друг акаунт**.
 1. Влезте с имейл адреса, който искате да използвате.
 
-За да научите повече, вижте [как да влезете в, до или от Outlook в мрежата](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+За да научите повече, вижте [Как да влизате или излизате от Outlook в интернет](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

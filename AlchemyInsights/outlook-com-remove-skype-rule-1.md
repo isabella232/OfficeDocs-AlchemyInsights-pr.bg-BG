@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Премествам Skype
+title: Outlook.com Премахване на Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743802"
 ---
-# <a name="skype-icon-missing"></a>Skype икона отсъствуващ
+# <a name="skype-icon-missing"></a>Иконата на Skype липсва
 
-Сме временно премахнали на Skype икона от Outlook.com като част от дизайн обновяване и функцията за актуализация ние сме развълнувани да бъда разлат вън. Ние ценим Вашето търпение, докато ние подготвяме нова и подобрена опит за вас.
+Временно премахнахме иконата на Skype от Outlook.com като част от обновяване на дизайна и актуализиране на функциите, които сме развълнувани да се развличе. Оценяваме вашето търпение, докато подготвяме нов и подобрен опит за вас.
 
-Можете да използвате Skype чрез вашия браузър в [web.skype.com](https://web.skype.com/).
+Все още можете да използвате Skype през браузъра си на [web.skype.com](https://web.skype.com/).

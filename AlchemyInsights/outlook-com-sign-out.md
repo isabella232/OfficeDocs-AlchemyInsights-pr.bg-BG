@@ -1,9 +1,9 @@
 ---
-title: Излезте от Outlook.com
+title: Излизане от Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557755"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743514"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Как да излезете от Outlook.com
 
-1. Изберете вашето име или картина в горния десен ъгъл.
+1. Изберете името или картината в горния десен ъгъл.
 
-    Ако не виждате вашата снимка в горната част на екрана, проверете да видите дали блокиране на реклами е включен. Понякога това предотвратява картина да се показват.
+    Ако не виждате снимката си в горната част на екрана, проверете дали блокирането на рекламите е включено. Понякога това не позволява на картината да се показва.
 
-2. Изберете **изход**.
+2. Изберете **Излизане**.
 
-    За да спрете влезете в автоматично, махнете отметката за **Запомни ме** на страницата, където можете въведете паролата си.
+    За да спрете автоматичното влизане, премахнете отметката от квадратчето за **Запази ме в страницата,** където въвеждате паролата си.
 
-За да научите повече, вижте [как да влезете в, до или извън Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+За да научите повече, вижте [Как да влезете или излезете от Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   
