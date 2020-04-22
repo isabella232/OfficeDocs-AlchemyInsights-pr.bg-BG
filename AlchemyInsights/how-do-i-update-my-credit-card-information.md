@@ -3,7 +3,7 @@ title: Как да актуализирам информацията за кре
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 32aca6055d80a2ab0f9d9a355b4c9f8912c676c1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709856"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="d91ba-102">Как да актуализирам информацията за кредитната си карта?</span><span class="sxs-lookup"><span data-stu-id="d91ba-102">How do I update my credit card information?</span></span>
+# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="e7c2b-102">Как да актуализирам информацията за кредитната си карта?</span><span class="sxs-lookup"><span data-stu-id="e7c2b-102">How do I update my credit card information?</span></span>
 
-1. <span data-ttu-id="d91ba-103">В Центъра за администриране на Microsoft 365 отидете на страницата **Фактуриране** \> [Методи на плащане](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="d91ba-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="e7c2b-103">В Центъра за администриране на Microsoft 365 отидете на страницата **Фактуриране** \> [Методи на плащане](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="e7c2b-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="d91ba-104">На страницата **Методи на плащане** изберете кредитна карта или банкова сметка за актуализиране.</span><span class="sxs-lookup"><span data-stu-id="d91ba-104">On the **Payment methods** page, pick the credit card or bank account to update.</span></span>
+2. <span data-ttu-id="e7c2b-104">На страницата **Методи на плащане** изберете кредитна карта или банкова сметка за актуализиране.</span><span class="sxs-lookup"><span data-stu-id="e7c2b-104">On the **Payment methods** page, pick the credit card or bank account to update.</span></span>
 
-3. <span data-ttu-id="d91ba-105">За да промените информацията за кредитна карта или банкова сметка, изберете **Редактиране на подробности за плащане**.</span><span class="sxs-lookup"><span data-stu-id="d91ba-105">To change the credit card or bank account information, select **Edit payment details**.</span></span>
+3. <span data-ttu-id="e7c2b-105">За да промените информацията за кредитна карта или банкова сметка, изберете **Редактиране на подробности за плащане**.</span><span class="sxs-lookup"><span data-stu-id="e7c2b-105">To change the credit card or bank account information, select **Edit payment details**.</span></span>
 
-4. <span data-ttu-id="d91ba-106">Актуализирайте информацията за своята кредитна карта или банкова сметка (име на кредитна карта или банкова сметка, адрес за фактуриране, телефонен номер или дата на изтичане на срока), ако е необходимо, след което изберете **Запиши** > **Готово**.</span><span class="sxs-lookup"><span data-stu-id="d91ba-106">Update your credit card or bank account information (name on the credit card or bank account, billing address phone number, or expiration date) as needed, then select **Save** > **Done**.</span></span>
+4. <span data-ttu-id="e7c2b-106">Актуализирайте информацията за своята кредитна карта или банкова сметка (име на кредитна карта или банкова сметка, адрес за фактуриране, телефонен номер или дата на изтичане на срока), ако е необходимо, след което изберете **Запиши** > **Готово**.</span><span class="sxs-lookup"><span data-stu-id="e7c2b-106">Update your credit card or bank account information (name on the credit card or bank account, billing address phone number, or expiration date) as needed, then select **Save** > **Done**.</span></span>
 
-<span data-ttu-id="d91ba-107">За да научие повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="d91ba-107">To learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="e7c2b-107">За да научие повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="e7c2b-107">To learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
 
-<span data-ttu-id="d91ba-108">**Забележка**: Ако друг администратор е закупил абонамента, вие няма да можете да актуализирате информацията за кредитна карта или банкова сметка за него.</span><span class="sxs-lookup"><span data-stu-id="d91ba-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="d91ba-109">Ако срокът на кредитната карта е на път да изтече и другият администратор не може да я актуализира, можете да предотвратите прекъсването на услугата, като добавите друга кредитна карта или нова банкова сметка за абонамента.</span><span class="sxs-lookup"><span data-stu-id="d91ba-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>
+<span data-ttu-id="e7c2b-108">**Забележка**: Ако друг администратор е закупил абонамента, вие няма да можете да актуализирате информацията за кредитна карта или банкова сметка за него.</span><span class="sxs-lookup"><span data-stu-id="e7c2b-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="e7c2b-109">Ако срокът на кредитната карта е на път да изтече и другият администратор не може да я актуализира, можете да предотвратите прекъсването на услугата, като добавите друга кредитна карта или нова банкова сметка за абонамента.</span><span class="sxs-lookup"><span data-stu-id="e7c2b-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>

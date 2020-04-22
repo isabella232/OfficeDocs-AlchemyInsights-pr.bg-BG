@@ -1,8 +1,8 @@
 ---
-title: Разширено внедряване улавяне на всички правила
+title: Разширено разполагане улов всички правило
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710900"
 ---
-# <a name="deploy-office-apps"></a><span data-ttu-id="217b3-102">Разполагане на приложения на Office</span><span class="sxs-lookup"><span data-stu-id="217b3-102">Deploy Office apps</span></span>
+# <a name="deploy-office-apps"></a><span data-ttu-id="6817c-102">Разполагане на приложения на Office</span><span class="sxs-lookup"><span data-stu-id="6817c-102">Deploy Office apps</span></span>
 
-<span data-ttu-id="217b3-103">За разполагане на приложения на Office на няколко крайни потребители чрез инструмента за разполагане на Office, Microsoft Endpoint Configuration Manager, като част от дисково изображение на операционната система или в споделен сценарий с помощта на Windows Server с услуги за отдалечен работен плот (RDS) или терминални услуги, помислете за използване стъпка по стъпка ръководство в **съветника за разполагане на Office 365 ProPlus.**</span><span class="sxs-lookup"><span data-stu-id="217b3-103">For deploying Office apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Office 365 ProPlus deployment advisor**.</span></span>
+<span data-ttu-id="6817c-103">За разполагане на приложения на Office на няколко крайни потребители чрез инструмента за разполагане на Office, диспечер на конфигурация на Microsoft endpoint като част от образ на диска на операционната система или в споделен сценарий компютър с помощта на Windows Server с услуги за отдалечен работен плот (RDS) или терминални услуги, помислете за използване на стъпка по стъпка ръководство в **Microsoft 365 приложения за съветника за разполагане на предприятие**.</span><span class="sxs-lookup"><span data-stu-id="6817c-103">For deploying Office apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
   
-<span data-ttu-id="217b3-104">За да започнете, се уверете, че сте влезли като клиент администратор или [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)глобален администратор, след което щракнете тук: .</span><span class="sxs-lookup"><span data-stu-id="217b3-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="6817c-104">За да започнете, уверете се, че сте влезли като администратор на клиент [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)или глобален администратор, след което щракнете тук: .</span><span class="sxs-lookup"><span data-stu-id="6817c-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   

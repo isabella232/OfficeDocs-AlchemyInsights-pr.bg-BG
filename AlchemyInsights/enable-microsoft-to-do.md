@@ -1,9 +1,9 @@
 ---
-title: Разрешаване на Microsoft да прави
+title: Разрешаване на зада-
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5221f9937d46897303bbe02ee4d13cd72ebe9ffb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527532"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703488"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="905c7-102">Как да активирате Microsoft To-do</span><span class="sxs-lookup"><span data-stu-id="905c7-102">How to enable Microsoft To-Do</span></span>
+# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="68dba-102">Как да разрешите microsoft зада-</span><span class="sxs-lookup"><span data-stu-id="68dba-102">How to enable Microsoft To-Do</span></span>
 
-<span data-ttu-id="905c7-103">За да използва Microsoft To-do, администраторът трябва да разреши приложението на профила на всеки потребител.</span><span class="sxs-lookup"><span data-stu-id="905c7-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="905c7-104">Отидете на [страницата с &amp; добавки на услугите](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) на Office 365 Admin настройки на страницата за разрешаване на работа за всеки потребител.</span><span class="sxs-lookup"><span data-stu-id="905c7-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
+<span data-ttu-id="68dba-103">За да използва Microsoft To-Do, администраторът трябва да разреши приложението на всеки потребител акаунт.</span><span class="sxs-lookup"><span data-stu-id="68dba-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="68dba-104">Отидете на [ &amp; страницата "Добавки за услуги"](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) на страницата за настройки за администриране на Microsoft 365, за да разрешите "Задаване" за всеки потребител.</span><span class="sxs-lookup"><span data-stu-id="68dba-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Microsoft 365 admin settings page to enable To-Do for each user.</span></span>
   
-<span data-ttu-id="905c7-105">Microsoft To-do използва функции в Exchange Online за синхронизиране и съхраняване на потребителите на елементи.</span><span class="sxs-lookup"><span data-stu-id="905c7-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="905c7-106">За да използвате Microsoft To-do, потребителят се нуждае от валидна пощенска кутия на Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="905c7-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
+<span data-ttu-id="68dba-105">Microsoft задание използва функции в Exchange Online за синхронизиране и съхраняване на елементите за да направи на потребителите.</span><span class="sxs-lookup"><span data-stu-id="68dba-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="68dba-106">За да използвате Microsoft за да направите, потребителят се нуждае от валиден пощенска кутия на Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="68dba-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
   
-<span data-ttu-id="905c7-107">За допълнителна [информация вж.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)</span><span class="sxs-lookup"><span data-stu-id="905c7-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
+<span data-ttu-id="68dba-107">За допълнителна информация [вж.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)</span><span class="sxs-lookup"><span data-stu-id="68dba-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
   
- <span data-ttu-id="905c7-108">**Забележка**: Ако получите грешка 501, когато се опитвате да влезете в [http://todo.microsoft.com](http://todo.microsoft.com), опитайте [https://to-do.microsoft.com](https://to-do.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="905c7-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
+ <span data-ttu-id="68dba-108">**Забележка:** Ако получите 501 грешка при [https://todo.microsoft.com](https://todo.microsoft.com)опит [https://to-do.microsoft.com](https://to-do.microsoft.com)за влизане в , опитайте .</span><span class="sxs-lookup"><span data-stu-id="68dba-108">**Note**: If you receive a 501 error when trying to log into [https://todo.microsoft.com](https://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
   
 

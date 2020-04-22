@@ -1,9 +1,9 @@
 ---
-title: Алхимия - диагностика и разрешаване на проблеми на връзката с Outlook
+title: Алхимия - диагностика и разрешаване на outlook връзка проблеми
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1c55dd357cbcdb3f9ff634e96f17139c3aeb56ba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708402"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="3bb61-102">Диагностика и решаване на проблеми на връзката с Outlook</span><span class="sxs-lookup"><span data-stu-id="3bb61-102">Diagnose and resolve Outlook connectivity issues</span></span>
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="650ae-102">Диагностика и разрешаване на outlook връзка проблеми</span><span class="sxs-lookup"><span data-stu-id="650ae-102">Diagnose and resolve Outlook connectivity issues</span></span>
 
-<span data-ttu-id="3bb61-103">За да диагностицира и поправи си проблеми на връзката с Outlook, можете да стартирате [Outlook инструмент за свързване](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на засегнатите машина.</span><span class="sxs-lookup"><span data-stu-id="3bb61-103">To diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span>
+<span data-ttu-id="650ae-103">За диагностика и коригиране на проблеми с Outlook връзка, можете да стартирате [инструмента за свързване](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на Outlook на засегнатата машина.</span><span class="sxs-lookup"><span data-stu-id="650ae-103">To diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span>
   
-<span data-ttu-id="3bb61-104">Този инструмент ще извърши диагностика проверки и предлага възможни решения за да разгледа въпроса за свързването на Outlook.</span><span class="sxs-lookup"><span data-stu-id="3bb61-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
+<span data-ttu-id="650ae-104">Този инструмент ще извърши диагностични проверки и предложи възможни решения за справяне с outlook връзка проблем.</span><span class="sxs-lookup"><span data-stu-id="650ae-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
   
