@@ -3,7 +3,7 @@ title: 8000031 не може да изтриете снимки от файло�
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731497"
 ---
-# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="68b4d-102">Не може да изтриете снимки от файлове</span><span class="sxs-lookup"><span data-stu-id="68b4d-102">Unable to delete photos from Files</span></span>
+# <a name="unable-to-delete-photos-from-files"></a><span data-ttu-id="ac4bf-102">Не може да се изтрие снимки от файлове</span><span class="sxs-lookup"><span data-stu-id="ac4bf-102">Unable to delete photos from Files</span></span>
 
-<span data-ttu-id="68b4d-103">За да изтриете снимките от файлове в Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="68b4d-103">To delete the photos from Files in Outlook.com:</span></span>
+<span data-ttu-id="ac4bf-103">За да изтриете снимките от файлове в Outlook.com:</span><span class="sxs-lookup"><span data-stu-id="ac4bf-103">To delete the photos from Files in Outlook.com:</span></span>
   
-1. <span data-ttu-id="68b4d-104">Отидете в папката **Входящи** или **Изпратени** и изтриване на имейл съобщението, те са прикрепени към.</span><span class="sxs-lookup"><span data-stu-id="68b4d-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span>
+1. <span data-ttu-id="ac4bf-104">Отидете във вашата **папка "Входящи"** или **"Изпратени"** и изтрийте имейл съобщението, към което са прикачени.</span><span class="sxs-lookup"><span data-stu-id="ac4bf-104">Go to your **Inbox** or **Sent Items** folder and delete the email message they're attached to.</span></span>
 
-2. <span data-ttu-id="68b4d-105">Премахване на елементи от вашите **Изтрити елементи**.</span><span class="sxs-lookup"><span data-stu-id="68b4d-105">Remove the item(s) from your **Deleted items**.</span></span>
+2. <span data-ttu-id="ac4bf-105">Премахнете елементите от **изтритите елементи**.</span><span class="sxs-lookup"><span data-stu-id="ac4bf-105">Remove the item(s) from your **Deleted items**.</span></span>
 
-<span data-ttu-id="68b4d-106">За повече информация прочетете [как да изтриете файлове или снимки в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span><span class="sxs-lookup"><span data-stu-id="68b4d-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
+<span data-ttu-id="ac4bf-106">За повече информация прочетете [Как да изтриете файлове или снимки в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span><span class="sxs-lookup"><span data-stu-id="ac4bf-106">For more information, read [How to delete files or photos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).</span></span>
   

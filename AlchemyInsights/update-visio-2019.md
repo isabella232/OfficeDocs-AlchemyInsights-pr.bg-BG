@@ -1,9 +1,9 @@
 ---
-title: Надстройка за Visio 2019
+title: Надстройване до Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903675"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720018"
 ---
-# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="6ede6-102">Надстройка за Visio 2019</span><span class="sxs-lookup"><span data-stu-id="6ede6-102">Upgrade to Visio 2019</span></span>
+# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="5c712-102">Надстройване до Visio 2019</span><span class="sxs-lookup"><span data-stu-id="5c712-102">Upgrade to Visio 2019</span></span>
 
-<span data-ttu-id="6ede6-103">Потребителите, които са инсталирали Visio работния плот ап като част от Visio онлайн абонамент вече имат най-новата версия.</span><span class="sxs-lookup"><span data-stu-id="6ede6-103">Users who installed the Visio desktop app as part of a Visio Online subscription already have the latest version.</span></span> 
+<span data-ttu-id="5c712-103">Потребителите, които са инсталирали настолното приложение на Visio като част от абонамент на Visio Online, вече имат най-новата версия.</span><span class="sxs-lookup"><span data-stu-id="5c712-103">Users who installed the Visio desktop app as part of a Visio Online subscription already have the latest version.</span></span> 
 
-<span data-ttu-id="6ede6-104">За да надстроите-абонаментна версия като Visio 2016, трябва да закупите Visio онлайн абонамент или еднократно закупуване на Visio стандарт или зрение специалист 2019.</span><span class="sxs-lookup"><span data-stu-id="6ede6-104">To upgrade a non-subscription version such as Visio 2016, you need to buy a Visio Online subscription or a one-time purchase of Visio Standard or Vision Professional 2019.</span></span> <span data-ttu-id="6ede6-105">Вижте [сравнение на Visio опции](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span><span class="sxs-lookup"><span data-stu-id="6ede6-105">See [Compare Visio options](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span></span>
+<span data-ttu-id="5c712-104">За да надстроите неабонаментна версия, като Visio 2016, трябва да закупите абонамент за Visio Online или еднократна покупка на Visio Standard или Vision Professional 2019.</span><span class="sxs-lookup"><span data-stu-id="5c712-104">To upgrade a non-subscription version such as Visio 2016, you need to buy a Visio Online subscription or a one-time purchase of Visio Standard or Vision Professional 2019.</span></span> <span data-ttu-id="5c712-105">Вижте [Сравняване на опциите на Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span><span class="sxs-lookup"><span data-stu-id="5c712-105">See [Compare Visio options](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span></span>
 
-<span data-ttu-id="6ede6-106">Ако вече сте закупили по-нова версия и вие сте готови да я инсталирате, вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) и следвайте стъпките за вашата версия.</span><span class="sxs-lookup"><span data-stu-id="6ede6-106">If you already purchased a newer version and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version.</span></span> 
+<span data-ttu-id="5c712-106">Ако вече сте закупили по-нова версия и сте готови да я инсталирате, вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) и следвайте стъпките за вашата версия.</span><span class="sxs-lookup"><span data-stu-id="5c712-106">If you already purchased a newer version and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version.</span></span> 
 
-<span data-ttu-id="6ede6-107">За да инсталирате Visio страна-до-страна с Office, вижте [поддържани сценарии за инсталиране на различни версии на Office, проект и Visio на същия компютър](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="6ede6-107">To install Visio side-by-side with Office, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
+<span data-ttu-id="5c712-107">За да инсталирате Visio един до друг с Office, вижте [Поддържани сценарии за инсталиране на различни версии на Office, проекта и Visio на един и същ компютър](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="5c712-107">To install Visio side-by-side with Office, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
 
-<span data-ttu-id="6ede6-108">За допълнителна информация вижте:</span><span class="sxs-lookup"><span data-stu-id="6ede6-108">For more information, see:</span></span><br>
-[<span data-ttu-id="6ede6-109">Ръководство за разполагане за Visio</span><span class="sxs-lookup"><span data-stu-id="6ede6-109">Deployment guide for Visio</span></span>](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[<span data-ttu-id="6ede6-110">Номера на главната версия на Visio 2019 е отседнал в 16,0</span><span class="sxs-lookup"><span data-stu-id="6ede6-110">The major version number of Visio 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[<span data-ttu-id="6ede6-111">Година за определяне в Office 2016 и Office 365 клиентски приложения ще бъдат премахнати от Старт меню вписванията</span><span class="sxs-lookup"><span data-stu-id="6ede6-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[<span data-ttu-id="6ede6-112">Офис 2019 търговски за Windows и Mac често задавани въпроси</span><span class="sxs-lookup"><span data-stu-id="6ede6-112">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312) 
+<span data-ttu-id="5c712-108">За повече информация вижте:</span><span class="sxs-lookup"><span data-stu-id="5c712-108">For more information, see:</span></span><br>
+[<span data-ttu-id="5c712-109">Ръководство за разполагане за Visio</span><span class="sxs-lookup"><span data-stu-id="5c712-109">Deployment guide for Visio</span></span>](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[<span data-ttu-id="5c712-110">Основната версия на Visio 2019 е 16.0</span><span class="sxs-lookup"><span data-stu-id="5c712-110">The major version number of Visio 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[<span data-ttu-id="5c712-111">Година обозначение в Office 2016 и клиентски приложения ще бъдат премахнати от записи в менюто "Старт"</span><span class="sxs-lookup"><span data-stu-id="5c712-111">Year designation in Office 2016 and client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[<span data-ttu-id="5c712-112">Office 2019 търговски за Windows и Mac често задавани въпроси</span><span class="sxs-lookup"><span data-stu-id="5c712-112">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312) 

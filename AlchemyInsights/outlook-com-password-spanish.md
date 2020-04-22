@@ -1,9 +1,9 @@
 ---
-title: Outlook.com парола испански
+title: Outlook.com парола Испански
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,15 +11,15 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6c4e5906f42701bcef2e62e6db51184c646b9c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fb08b3b5034d9cce594b663047570d96149a523
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545896"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745000"
 ---
-# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a><span data-ttu-id="a0ba5-102">Cómo iniciar о cerrar sesión en Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a0ba5-102">Cómo iniciar o cerrar sesión en Outlook.com</span></span>
+# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a><span data-ttu-id="844d9-102">Cómo на оцерарната сесии на Outlook.com</span><span class="sxs-lookup"><span data-stu-id="844d9-102">Cómo iniciar o cerrar sesión en Outlook.com</span></span>
 
-<span data-ttu-id="a0ba5-103">Si не puede iniciar sesión en su cuenta де correo electrónico де Outlook.com Hotmail, живо, о MSN, о не sabe против seguridad cómo iniciar о cerrar sesión, [aquí Мариела algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a0ba5-103">Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguridad cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="844d9-103">Si не puede нанициарна sesión ен су куента де correo електронико de Outlook.com, Hotmail, на живо, о MSN, о не сабе кон seguridad кон серикуларна о церарна sesión, [aquí tiene уви солюциони](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="844d9-103">Si no puede iniciar sesión en su cuenta de correo electrónico de Outlook.com, Hotmail, Live, o MSN, o no sabe con seguridad cómo iniciar o cerrar sesión, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="a0ba5-104">Si todavía Рени проблеми con el inicio де sesión, vea [Cuando няма puede iniciar sesión en su cuenta де Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="a0ba5-104">Si todavía tiene problemas con el inicio de sesión, vea [Cuando no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="844d9-104">Si todavía tiene проблемкато е л инисио де sesión, веа [Cuando не puede сиацин ен су cuenta де Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="844d9-104">Si todavía tiene problemas con el inicio de sesión, vea [Cuando no puede iniciar sesión en su cuenta de Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>

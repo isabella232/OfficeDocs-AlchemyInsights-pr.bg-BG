@@ -1,9 +1,9 @@
 ---
-title: Outlook.com промяна парола - френски
+title: Outlook.com смяна на паролата - ФРЕНСКИ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537408"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721878"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="dc0dc-102">Чейнджър votre mot де остарял ДАНС Outlook.com</span><span class="sxs-lookup"><span data-stu-id="dc0dc-102">Changer votre mot de passe dans Outlook.com</span></span>
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="b79ea-102">Дантели за вот на вот Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b79ea-102">Changer votre mot de passe dans Outlook.com</span></span>
 
-<span data-ttu-id="dc0dc-103">Votre mot де остарял Outlook.com est le même que votre mot де остарял Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="dc0dc-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
+<span data-ttu-id="b79ea-103">Вотре де пас Outlook.com е в отдела за гласуване на де пас на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b79ea-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
 
-1. <span data-ttu-id="dc0dc-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot де остарял**.</span><span class="sxs-lookup"><span data-stu-id="dc0dc-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
-2. <span data-ttu-id="dc0dc-105">Номинална mesure de sécurité, vous pouvez съществуване invité à confirmer votre identité à l'aide d ' код de sécurité.</span><span class="sxs-lookup"><span data-stu-id="dc0dc-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
-3. <span data-ttu-id="dc0dc-106">Entrez votre mot де остарял actuel, votre нуво mot де остарял, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="dc0dc-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
+1. <span data-ttu-id="b79ea-104">Аседез [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) и селектионнез **секуите дьо модеж де пас.**</span><span class="sxs-lookup"><span data-stu-id="b79ea-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
+2. <span data-ttu-id="b79ea-105">Аз съм ти по-добър от този, който е вуйчко, а аз съм сигурен, че е код на секюрите.</span><span class="sxs-lookup"><span data-stu-id="b79ea-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
+3. <span data-ttu-id="b79ea-106">Entrez вот де пасуел, вот nouveau mot de passe, puis sélectionnez **Енреситер**.</span><span class="sxs-lookup"><span data-stu-id="b79ea-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
 
-<span data-ttu-id="dc0dc-107">Si vous avez oublié votre mot де остарял, accédez à la [страница де réinitialisation де mot де остарял де compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les кани.</span><span class="sxs-lookup"><span data-stu-id="dc0dc-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
+<span data-ttu-id="b79ea-107">Si avez авеа вот окраде пас, accédez [а-страница де реинициализация де де пас](https://go.microsoft.com/fwlink/p/?linkid=841909)де компас Microsoft, puis suivez les кани.</span><span class="sxs-lookup"><span data-stu-id="b79ea-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
 
-<span data-ttu-id="dc0dc-108">Si vous pensez que votre Outlook.com интегрирана piraté voir [Mon compte Outlook.com ООН piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="dc0dc-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="b79ea-108">Si vous pensez que вот Outlook.com е été piraté, voir [Mon compte Outlook.com été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b79ea-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

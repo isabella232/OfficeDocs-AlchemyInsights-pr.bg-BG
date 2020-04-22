@@ -1,28 +1,28 @@
 ---
-title: Промяна на облика на вашата пощенска кутия в Outlook в мрежата
+title: Промяна на изгледа на пощенската кутия в Outlook в уеб
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b8e5347285577a8d45cb4f3e5698cfd630d7ea7b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743118"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="516d2-102">Промяна на облика на вашата пощенска кутия Outlook</span><span class="sxs-lookup"><span data-stu-id="516d2-102">Change the look of your Outlook mailbox</span></span>
+# <a name="change-the-look-of-your-outlook-mailbox"></a><span data-ttu-id="56187-102">Промяна на изгледа на пощенската кутия на Outlook</span><span class="sxs-lookup"><span data-stu-id="56187-102">Change the look of your Outlook mailbox</span></span>
 
-<span data-ttu-id="516d2-103">Можете да промените външния вид на прозореца на списъка и четене на съобщения, така че изглежда и се държи по начин, който желаете.</span><span class="sxs-lookup"><span data-stu-id="516d2-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="516d2-104">Изберете дали вашите съобщения трябва да бъдат показани отделно или като разговори, ако нови съобщения трябва да се появи в горната или долната част на списъка със съобщения и др.</span><span class="sxs-lookup"><span data-stu-id="516d2-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
+<span data-ttu-id="56187-103">Можете да промените облика на списъка със съобщения и екрана за четене, така че да изглежда и да се справя по желания от вас начин.</span><span class="sxs-lookup"><span data-stu-id="56187-103">You can change the appearance of the message list and reading pane so it looks and behaves the way you want.</span></span> <span data-ttu-id="56187-104">Изберете дали съобщенията ви да се показват поотделно или като разговори, дали новите съобщения трябва да се показват в горната или долната част на списъка със съобщения и др.</span><span class="sxs-lookup"><span data-stu-id="56187-104">Choose whether your messages should be displayed individually or as conversations, if new messages should appear at the top or bottom of the message list, and more.</span></span>
 
-1. <span data-ttu-id="516d2-105">Изберете иконата на зъбно колело</span><span class="sxs-lookup"><span data-stu-id="516d2-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="516d2-106">в горната част на страницата, за да отворите прозореца на настройките.</span><span class="sxs-lookup"><span data-stu-id="516d2-106">at the top of the page to open the Settings pane.</span></span>
-1. <span data-ttu-id="516d2-107">Изберете настройки за фокусирани Входящи, покажете плътност, изгледа на разговор и екрана за четене.</span><span class="sxs-lookup"><span data-stu-id="516d2-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
-1. <span data-ttu-id="516d2-108">На върха на списъка на съобщението, изберете **филтър** > **сортиране по** да изберете как искате да сортирате вашия имейл.</span><span class="sxs-lookup"><span data-stu-id="516d2-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
+1. <span data-ttu-id="56187-105">Изберете иконата на зъбно колело</span><span class="sxs-lookup"><span data-stu-id="56187-105">Select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="56187-106">в горната част на страницата, за да отворите прозореца настройки.</span><span class="sxs-lookup"><span data-stu-id="56187-106">at the top of the page to open the Settings pane.</span></span>
+1. <span data-ttu-id="56187-107">Изберете настройките си за "Фокусирани входящи", плътност на дисплея, изглед на разговор и прозорец за четене.</span><span class="sxs-lookup"><span data-stu-id="56187-107">Choose your settings for Focused Inbox, display density, conversation view, and reading pane.</span></span>
+1. <span data-ttu-id="56187-108">В горната част на списъка със съобщения изберете **Филтриране** > **на сортиране по,** за да изберете как искате да сортирате имейла си.</span><span class="sxs-lookup"><span data-stu-id="56187-108">At the top of the message list, select **Filter** > **Sort by** to choose how you want to sort your email.</span></span>
 
-<span data-ttu-id="516d2-109">За да научите повече, вижте [Промяна на външния вид на вашата пощенска кутия](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="516d2-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="56187-109">За да научите повече, вижте [Промяна на изгледа на пощенската кутия](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="56187-109">To learn more, see [Change the look of your mailbox](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
