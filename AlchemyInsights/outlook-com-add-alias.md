@@ -1,9 +1,9 @@
 ---
-title: 9000238 Outlook.com Добавяне на псевдоним
+title: 9000238 Outlook.com добавите псевдоним
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 48645126925cd5e40fae435c55847501ec1c17d8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542690"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760941"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="ccbf2-102">Добавяне на имейл псевдоним в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ccbf2-102">Add an email alias in Outlook.com</span></span>
+# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="e023a-102">Добавяне на псевдоним на имейл в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e023a-102">Add an email alias in Outlook.com</span></span>
 
-<span data-ttu-id="ccbf2-103">Псевдоним е допълнителен имейл адрес, който използва същата входяща поща, списък с контакти и настройките на акаунта като основен имейл адрес.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="ccbf2-104">Можете да изберете кой имейл адрес да изпратите и да влезете в профила си в Outlook.com с някой от псевдонимите си – всички те използват една и съща парола.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
+<span data-ttu-id="e023a-103">Псевдонимът е допълнителен имейл адрес, който използва същата входяща кутия, списък с контакти и настройки на акаунта като основния ви имейл адрес.</span><span class="sxs-lookup"><span data-stu-id="e023a-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="e023a-104">Можете да изберете кой имейл адрес да изпращате поща и да влезете в профила си в Outlook.com с някой от псевдонимите си – всички те използват една и съща парола.</span><span class="sxs-lookup"><span data-stu-id="e023a-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
 
-<span data-ttu-id="ccbf2-105">За да добавите имейл адрес:</span><span class="sxs-lookup"><span data-stu-id="ccbf2-105">To add an email address:</span></span>
+<span data-ttu-id="e023a-105">За да добавите имейл адрес:</span><span class="sxs-lookup"><span data-stu-id="e023a-105">To add an email address:</span></span>
 
-1. <span data-ttu-id="ccbf2-106">Отидете да [добавите псевдоним](https://go.microsoft.com/fwlink/p/?linkid=864833).</span><span class="sxs-lookup"><span data-stu-id="ccbf2-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="ccbf2-107">Ако получите подкана, влезте във вашия акаунт в Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-107">Sign in to your Microsoft account, if prompted.</span></span>
-2. <span data-ttu-id="ccbf2-108">Под **Добавяне на псевдоним**или:</span><span class="sxs-lookup"><span data-stu-id="ccbf2-108">Under **Add an alias**, either:</span></span>
-    1. <span data-ttu-id="ccbf2-109">Създайте нов имейл адрес на Outlook.com и го добавете като псевдоним.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-109">Create a new Outlook.com email address and add it as an alias.</span></span>
-    2. <span data-ttu-id="ccbf2-110">Добавяне на съществуващ имейл адрес като псевдоним.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-110">Add an existing email address as an alias.</span></span>
-3. <span data-ttu-id="ccbf2-111">Изберете **Добавяне на псевдоним**.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-111">Select **Add alias**.</span></span>
+1. <span data-ttu-id="e023a-106">Отидете на [Добавяне на псевдоним](https://go.microsoft.com/fwlink/p/?linkid=864833).</span><span class="sxs-lookup"><span data-stu-id="e023a-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="e023a-107">Влезте в акаунта си в Microsoft, ако получите подкана.</span><span class="sxs-lookup"><span data-stu-id="e023a-107">Sign in to your Microsoft account, if prompted.</span></span>
+2. <span data-ttu-id="e023a-108">Под **Добавяне на псевдоним:**</span><span class="sxs-lookup"><span data-stu-id="e023a-108">Under **Add an alias**, either:</span></span>
+    1. <span data-ttu-id="e023a-109">Създайте нов Outlook.com имейл адрес и го добавете като псевдоним.</span><span class="sxs-lookup"><span data-stu-id="e023a-109">Create a new Outlook.com email address and add it as an alias.</span></span>
+    2. <span data-ttu-id="e023a-110">Добавете съществуващ имейл адрес като псевдоним.</span><span class="sxs-lookup"><span data-stu-id="e023a-110">Add an existing email address as an alias.</span></span>
+3. <span data-ttu-id="e023a-111">Изберете **Добавяне на псевдоним**.</span><span class="sxs-lookup"><span data-stu-id="e023a-111">Select **Add alias**.</span></span>
 
-<span data-ttu-id="ccbf2-112">Прочетете повече за това как да [добавите или премахнете имейл псевдоним в Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ccbf2-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
+<span data-ttu-id="e023a-112">Прочетете повече за това как да [добавите или премахнете псевдоним на имейл в Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e023a-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
 
-<span data-ttu-id="ccbf2-113">Прочетете [как да свържете друг имейл акаунт](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) към вашия акаунт в Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ccbf2-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
+<span data-ttu-id="e023a-113">Прочетете [как да свържете друг имейл акаунт](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) с вашия Outlook.com акаунт.</span><span class="sxs-lookup"><span data-stu-id="e023a-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>

@@ -1,24 +1,24 @@
 ---
-title: 1264 IP блокирано за изпращане на твърде много спам (550 5.7.51)
+title: 1264 IP блокиран за изпращане на твърде много спам (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 64a829ed6e5d0d2a15e4eb4dfb5f70c1bd652ed6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 5734a51e78af29244867429af8e29ea4b54aa4cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751656"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765870"
 ---
-# <a name="access-denied-banned-sender"></a><span data-ttu-id="e5af9-102">Достъпът е отказан, забранени подател</span><span class="sxs-lookup"><span data-stu-id="e5af9-102">Access denied, banned sender</span></span>
+# <a name="access-denied-banned-sender"></a><span data-ttu-id="e8295-102">Достъпът е отказан, забранен подател</span><span class="sxs-lookup"><span data-stu-id="e8295-102">Access denied, banned sender</span></span>
 
- <span data-ttu-id="e5af9-103">**Грешка**: SMTP грешка от отдалечен сървър за RCPT да командва, домакин: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) причина: 550 5.7.511 достъп отказан, забранени подател [*xx.xxx.x.xxx*].</span><span class="sxs-lookup"><span data-stu-id="e5af9-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span></span> 
+ <span data-ttu-id="e8295-103">**Грешка:** SMTP грешка от отдалечен сървър за Команда RCPT да, хост: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) причина: 550 5.7.511 Достъпът е отказан, забранен изпращач [*xx.xxx.x.xxx*].</span><span class="sxs-lookup"><span data-stu-id="e8295-103">**Error**: SMTP error from remote server for RCPT TO command, host: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) reason: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*].</span></span> 
 
-<span data-ttu-id="e5af9-104">Ако получите тази грешка при изпращане на имейл към Office 365 получател, премахнете засегнатите акаунт от списъка на блокираните податели в [https://sender.office.com](https://sender.office.com).</span><span class="sxs-lookup"><span data-stu-id="e5af9-104">If you receive this error when sending email to an Office 365 recipient, remove the affected account from the blocked senders list at [https://sender.office.com](https://sender.office.com).</span></span>
+<span data-ttu-id="e8295-104">Ако получите тази грешка при изпращане на имейл до получател на Microsoft 365, премахнете засегнатия акаунт от списъка с блокирани податели на [https://sender.office.com](https://sender.office.com).</span><span class="sxs-lookup"><span data-stu-id="e8295-104">If you receive this error when sending email to a Microsoft 365 recipient, remove the affected account from the blocked senders list at [https://sender.office.com](https://sender.office.com).</span></span>

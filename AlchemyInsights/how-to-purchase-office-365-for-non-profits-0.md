@@ -1,9 +1,9 @@
 ---
-title: Как да закупите Office 365 за не-печалбите
+title: Как да закупите Office 365 за организации с нестопанска цел
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390069"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763602"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="f6f58-102">Как да закупите Office 365 за нестопанските</span><span class="sxs-lookup"><span data-stu-id="f6f58-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="c4fb0-102">Как да закупите Office 365 за организации с нестопанска цел</span><span class="sxs-lookup"><span data-stu-id="c4fb0-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="f6f58-103">Ние прегледахме вашето искане и определя тази организация не е допустимо като Microsoft квалифицирано неправителствена организация.</span><span class="sxs-lookup"><span data-stu-id="f6f58-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="c4fb0-103">Прегледахме заявката ви и определихме, че тази организация не отговаря на условията за квалифицирана организация с нестопанска цел на Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c4fb0-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="f6f58-104">За да закупите Office 365 търговска цел, моля вижте [налични оферти](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="f6f58-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="c4fb0-104">За да закупите Office 365 в търговската си основа, вижте [наличните оферти](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="c4fb0-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
