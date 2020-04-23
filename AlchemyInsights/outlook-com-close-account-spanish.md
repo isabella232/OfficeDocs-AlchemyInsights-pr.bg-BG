@@ -1,25 +1,25 @@
 ---
-title: 8000067 - Outlook.com Закрий акаунта - испански
+title: 8000067 - Outlook.com закриване на сметка - ИСПАНСКИ
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 2742e0efd1e38b0e2dbb5d19f2403e542a908cde
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 926024900c10d75f04596d6f455e63924df630ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35745853"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722149"
 ---
-# <a name="cerrar-la-cuenta-de-outlookcom"></a><span data-ttu-id="c406e-102">Cerrar ла cuenta де Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c406e-102">Cerrar la cuenta de Outlook.com</span></span>
+# <a name="cerrar-la-cuenta-de-outlookcom"></a><span data-ttu-id="4a835-102">Cerrar la cuenta de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="4a835-102">Cerrar la cuenta de Outlook.com</span></span>
 
-<span data-ttu-id="c406e-103">Ал cerrar permanentemente Су cuenta де correo electrónico де Outlook.com, deberá cerrar Су Cuenta де Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c406e-103">Para cerrar permanentemente su cuenta de correo electrónico de Outlook.com, deberá cerrar su Cuenta de Microsoft.</span></span>
+<span data-ttu-id="4a835-103">Парацера на постоянен токенте су куента де корео електронико de Outlook.com, дебери cerrar su Cuenta de Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4a835-103">Para cerrar permanentemente su cuenta de correo electrónico de Outlook.com, deberá cerrar su Cuenta de Microsoft.</span></span>
 
-<span data-ttu-id="c406e-104">Куандо cierre ла Cuenta де Microsoft, Су correo electrónico y sus contactos se eliminarán де nuestros servidores y не se podrán recuperar.</span><span class="sxs-lookup"><span data-stu-id="c406e-104">Cuando cierre la Cuenta de Microsoft, su correo electrónico y sus contactos se eliminarán de nuestros servidores y no se podrán recuperar.</span></span>
+<span data-ttu-id="4a835-104">Куандо сире ла Куента де Майкрос, су correo electrónico y sus контактос се елиминарен де нуестеррос serviores y se podrán recuperar.</span><span class="sxs-lookup"><span data-stu-id="4a835-104">Cuando cierre la Cuenta de Microsoft, su correo electrónico y sus contactos se eliminarán de nuestros servidores y no se podrán recuperar.</span></span>
 
-[<span data-ttu-id="c406e-105">Леа cómo cerrar Су cuenta.</span><span class="sxs-lookup"><span data-stu-id="c406e-105">Lea cómo cerrar su cuenta.</span></span>](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="4a835-105">- Да, сър.</span><span class="sxs-lookup"><span data-stu-id="4a835-105">Lea cómo cerrar su cuenta.</span></span>](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)

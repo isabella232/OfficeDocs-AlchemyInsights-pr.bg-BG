@@ -1,8 +1,8 @@
 ---
-title: Подготовка за използване на TLS 1.2 в Office 365
+title: Подготовка за използване на TLS 1.2 в Microsoft 365
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554754"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666881"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a><span data-ttu-id="6725a-102">Подготовка за използване на TLS 1.2 в Office 365</span><span class="sxs-lookup"><span data-stu-id="6725a-102">Prepare for use of TLS 1.2 in Office 365</span></span>
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a><span data-ttu-id="73236-102">Подготовка за използване на TLS 1.2 в Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="73236-102">Prepare for use of TLS 1.2 in Microsoft 365</span></span>
 
-<span data-ttu-id="6725a-103">Считано от 31 октомври 2018 г., Office 365 ще продължи преминаването към TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="6725a-103">As of October 31st, 2018, Office 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="6725a-104">Това означава, че Microsoft няма да коригира нови проблеми, намерени в клиенти, устройства или услуги, които се свързват с Office 365 чрез TLS 1.0 и 1.1.</span><span class="sxs-lookup"><span data-stu-id="6725a-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="6725a-105">**Това не означава, че Office 365 ще блокира връзките към TLS 1.0 и 1.1.**</span><span class="sxs-lookup"><span data-stu-id="6725a-105">**This does not mean Office 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="6725a-106">Датата на окончателното прекратяване ще бъде определена от използването от клиентите и текущото състояние на наследената защита на TLS.</span><span class="sxs-lookup"><span data-stu-id="6725a-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="6725a-107">След като бъде взето решение, то ще бъде анонсирано с предизвестие шест месеца, освен ако не ни бъде съобщено за известен компромис, в който случай можем да се наложи да действаме в срок под шест месеца, за да защитим клиентите, които използват услугите.</span><span class="sxs-lookup"><span data-stu-id="6725a-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
+<span data-ttu-id="73236-103">Считано от 31 октомври 2018 г., Microsoft 365 ще продължи преминаването към TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="73236-103">As of October 31st, 2018, Microsoft 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="73236-104">Това означава, че Microsoft няма да коригира нови проблеми, намерени в клиенти, устройства или услуги, които се свързват с Office 365 чрез TLS 1.0 и 1.1.</span><span class="sxs-lookup"><span data-stu-id="73236-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Office 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="73236-105">**Това не означава, че Microsoft 365 ще блокира връзките към TLS 1.0 и 1.1.**</span><span class="sxs-lookup"><span data-stu-id="73236-105">**This does not mean Microsoft 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="73236-106">Датата на окончателното прекратяване ще бъде определена от използването от клиентите и текущото състояние на наследената защита на TLS.</span><span class="sxs-lookup"><span data-stu-id="73236-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="73236-107">След като бъде взето решение, то ще бъде анонсирано с предизвестие шест месеца, освен ако не ни бъде съобщено за известен компромис, в който случай можем да се наложи да действаме в срок под шест месеца, за да защитим клиентите, които използват услугите.</span><span class="sxs-lookup"><span data-stu-id="73236-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
   
-<span data-ttu-id="6725a-108">Предполага се с голяма увереност, че всички сървъри и клиенти, свързващи се с Office 365, се нуждаят от разрешаване на TLS 1.2 колкото е възможно по-скоро.</span><span class="sxs-lookup"><span data-stu-id="6725a-108">It is strongly suggested that any servers and clients connecting with Office 365 need to enable TLS 1.2 as soon as possible.</span></span>
+<span data-ttu-id="73236-108">Предполага се с голяма увереност, че всички сървъри и клиенти, свързващи се с Microsoft 365, се нуждаят от разрешаване на TLS 1.2 колкото е възможно по-скоро.</span><span class="sxs-lookup"><span data-stu-id="73236-108">It is strongly suggested that any servers and clients connecting with Microsoft 365 need to enable TLS 1.2 as soon as possible.</span></span>
   
-<span data-ttu-id="6725a-109">За повече информация вижте [Подготовка за TLS 1.2 в Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="6725a-109">For more information see [Preparing for TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
+<span data-ttu-id="73236-109">За повече информация вижте [Подготовка за TLS 1.2 в Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="73236-109">For more information see [Preparing for TLS 1.2 in Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
   
