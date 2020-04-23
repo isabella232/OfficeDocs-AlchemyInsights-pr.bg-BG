@@ -1,9 +1,9 @@
 ---
-title: 8000038 GDPR дете сметка проверка
+title: 8000038 ПРОВЕРКА НА АКАУНТ ЗА ДЕЦА по GDPR
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 13e69ac917a08a338759269df5724c0528dd2eb0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 238d1440438bce2531f1a57f5592a204cf9c3cf3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524400"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764969"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="ba5a7-102">Дата на раждане, показани във вашия акаунт в Microsoft е неправилен</span><span class="sxs-lookup"><span data-stu-id="ba5a7-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a><span data-ttu-id="d4eac-102">Датата на раждане, показана във вашия акаунт в Microsoft, е неправилна</span><span class="sxs-lookup"><span data-stu-id="d4eac-102">Date of birth displayed in your Microsoft account is incorrect</span></span>
 
-<span data-ttu-id="ba5a7-103">Microsoft се много сериозно внимание на сигурността.</span><span class="sxs-lookup"><span data-stu-id="ba5a7-103">Microsoft takes account security very seriously.</span></span> <span data-ttu-id="ba5a7-104">Може да имате наскоро били подкана да предоставят родителско съгласие за детски акаунт в Microsoft.</span><span class="sxs-lookup"><span data-stu-id="ba5a7-104">You may have recently been prompted to provide parental consent for a child's Microsoft account.</span></span> <span data-ttu-id="ba5a7-105">Ако имате нужда от помощ за осигуряване на съгласието на родителите или актуализиране на датата на раждане на акаунт в Microsoft, вижте [проверка на възрастта за родителско съгласие](https://go.microsoft.com/fwlink/p/?linkid=874364).</span><span class="sxs-lookup"><span data-stu-id="ba5a7-105">If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
+<span data-ttu-id="d4eac-103">Microsoft приема защитата на акаунтимного сериозно.</span><span class="sxs-lookup"><span data-stu-id="d4eac-103">Microsoft takes account security very seriously.</span></span> <span data-ttu-id="d4eac-104">Възможно е наскоро да сте подканени да предоставите родителско съгласие за акаунта на дете в Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d4eac-104">You may have recently been prompted to provide parental consent for a child's Microsoft account.</span></span> <span data-ttu-id="d4eac-105">Ако имате нужда от помощ за предоставяне на родителско съгласие или актуализиране на датата на раждане на акаунт в Microsoft, вижте [Потвърждаване на възрастта за родителско съгласие](https://go.microsoft.com/fwlink/p/?linkid=874364).</span><span class="sxs-lookup"><span data-stu-id="d4eac-105">If you need help providing parental consent or updating the date of birth on a Microsoft account, see [Age verification for parental consent](https://go.microsoft.com/fwlink/p/?linkid=874364).</span></span>
   
-<span data-ttu-id="ba5a7-106">Научете повече за [родителско съгласие и Microsoft дете сметки](https://go.microsoft.com/fwlink/p/?linkid=874365).</span><span class="sxs-lookup"><span data-stu-id="ba5a7-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
+<span data-ttu-id="d4eac-106">Научете повече за [родителското съгласие и детските акаунти на Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).</span><span class="sxs-lookup"><span data-stu-id="d4eac-106">Learn more about [Parental consent and Microsoft child accounts](https://go.microsoft.com/fwlink/p/?linkid=874365).</span></span>
   
