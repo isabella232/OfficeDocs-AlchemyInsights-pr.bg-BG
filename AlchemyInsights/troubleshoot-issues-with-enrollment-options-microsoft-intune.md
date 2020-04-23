@@ -1,31 +1,31 @@
 ---
-title: Отстраняване на проблеми с опциите за записване Microsoft Intune
+title: Отстраняване на проблеми с опции за записване Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734621"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Отстраняване на проблеми с опциите за записване Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Отстраняване на проблеми с опции за записване Microsoft Intune
 
-Преглед на ресурси, изброени по-долу да решим вашия проблем сега. Ако тези ресурси не помага, свържете се с подкрепа чрез щракване [тук](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) и изберете "създаване на заявка за поддръжка." 
+Прегледайте ресурсите, изброени по-долу, за да разрешите проблема си сега. Ако тези ресурси не помогнат, свържете се с поддръжката, като кликнете [тук](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) и изберете "Създаване на заявка за поддръжка". 
   
-- [Преглед Intune TechNet да намерите отговори и решения на общи проблеми](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Прегледайте Intune TechNet, за да намерите отговори и решения на често срещани проблеми.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
     
-- Използвате [Intune портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на общи записване неизправности. Преглед на [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности. 
+- Използвайте [Intune портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на общи грешки при записване. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности. 
     
-- Преглед на [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък на често срещани грешки, които пречат записване и резолюции на всеки. 
+- Прегледайте [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък с често срещани грешки, които не позволяват записване и решения за всеки. 
     
-- [Научете за опциите за записване в Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Научете повече за опциите за записване в Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

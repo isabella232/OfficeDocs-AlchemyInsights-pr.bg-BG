@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739425"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Общи проблеми на Teams за клиенти от образованието
 
@@ -45,12 +45,12 @@ ms.locfileid: "42856773"
     6. В центъра за администриране на Skype за бизнеса щракнете върху **Аудиоконференции** и след това върху **Потребители**.
     7. Изберете въпросния потребител и проверете дали потребителят има платен номер по подразбиране.
 
-    За повече информация вижте [Планове за разговори за Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce, за да ви помогне по въпросите, свързани с лицензиране.
+    За повече информация вижте [Планове за разговори](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce, за да ви помогне по въпросите, свързани с лицензиране.
 
     Допълнителни ресурси
 
     - [Събрания и конференции в Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Аудиоконференции в Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Аудиоконференции](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Правила за събрания**: правилата за събрания се използват за управление на функциите, достъпни за участниците в събранието, планирано от потребителите във вашата организация. След като създадете правило и направите промените си, можете да присвоите потребители на правилата.
 

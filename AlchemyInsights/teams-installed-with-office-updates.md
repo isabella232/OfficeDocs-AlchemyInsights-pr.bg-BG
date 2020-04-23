@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
-ms.translationtype: HT
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737641"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams е инсталиран с актуализациите за Office
 
-Microsoft Teams е включен като част от ***нови инсталации*** на Office 365 ProPlus, Office 365 Business и Office за Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams е включен като част от ***новите инсталации*** на приложенията на Microsoft 365 за предприятие, Microsoft 365 приложения за бизнес а и Office for Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Освен това, с версия 1906 в месечен канал, Teams постепенно ще се добави към ***съществуващите инсталации*** на Office 365 ProPlus (и Office 365 Business) на устройства, на които се изпълнява Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Освен това, започвайки с версия 1906 в месечен канал, Teams постепенно ще се добавят към ***съществуващите инсталации*** на Microsoft 365 приложения за предприятие (и Приложения на Microsoft 365 за бизнеса) на устройства, работещи с Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Забележка:** Ако не искате да чакате този график за внедряване, можете да разположите Teams самостоятелно за вашите потребители, като [следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), или можете да направите така, че вашите потребители да инсталират Teams за самите тях от https://teams.microsoft.com/downloads.
 
