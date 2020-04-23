@@ -1,9 +1,9 @@
 ---
-title: Получавате копие от Вашето извлечение по сметка в електронната поща
+title: Получаване на копие на извлечението за фактуриране в имейл
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510072"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724939"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a><span data-ttu-id="462bd-102">Получават копие от вашия Office 365 за плащане изявление в имейл</span><span class="sxs-lookup"><span data-stu-id="462bd-102">Receive copy of your Office 365 billing statement in email</span></span>
+# <a name="receive-copy-of-your-billing-statement-in-email"></a><span data-ttu-id="743ae-102">Получаване на копие на извлечението за фактуриране в имейл</span><span class="sxs-lookup"><span data-stu-id="743ae-102">Receive copy of your billing statement in email</span></span>
 
-<span data-ttu-id="462bd-103">Можете да изберете да получавате копие от Вашето извлечение по сметка като имейл прикачен файл.</span><span class="sxs-lookup"><span data-stu-id="462bd-103">You can choose to receive a copy of your billing statement as an email attachment.</span></span> <span data-ttu-id="462bd-104">Ако ти правя имайте предвид, че:</span><span class="sxs-lookup"><span data-stu-id="462bd-104">If you do, be aware that:</span></span>
+<span data-ttu-id="743ae-103">Можете да изберете да получите копие от извлечението си за фактуриране като прикачен файл към имейл.</span><span class="sxs-lookup"><span data-stu-id="743ae-103">You can choose to receive a copy of your billing statement as an email attachment.</span></span> <span data-ttu-id="743ae-104">Ако го направите, имайте предвид, че:</span><span class="sxs-lookup"><span data-stu-id="743ae-104">If you do, be aware that:</span></span>
   
-- <span data-ttu-id="462bd-105">Имейл ще бъде изпратен на двете първични и алтернативен имейл адрес за всеки човек, изброени като получател на уведомяване.</span><span class="sxs-lookup"><span data-stu-id="462bd-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
+- <span data-ttu-id="743ae-105">Ще бъде изпратен имейл до основния и на алтернативния имейл адрес за всеки човек, посочен като получател на известие.</span><span class="sxs-lookup"><span data-stu-id="743ae-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
 
-- <span data-ttu-id="462bd-106">Вие ще получите две отделни писма: един, който ви позволява да знаете, че сметката ви е готов, с инструкции за влизане в центъра на администратор, за да го видите, и втори имейл, който съдържа изявлението на фактуриране като прикачен файл.</span><span class="sxs-lookup"><span data-stu-id="462bd-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
+- <span data-ttu-id="743ae-106">Ще получите два отделни имейла: един, който ви позволява да знаете, че сметката ви е готова, с инструкции за влизане в центъра за администриране, за да я видите, както и втори имейл, съдържащ извлечението за фактуриране като прикачен файл.</span><span class="sxs-lookup"><span data-stu-id="743ae-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
 
-<span data-ttu-id="462bd-107">За да получите вашето извлечение по сметка в имейл:</span><span class="sxs-lookup"><span data-stu-id="462bd-107">To receive your billing statement in email:</span></span>
+<span data-ttu-id="743ae-107">За да получите извлечението си за фактуриране в имейл:</span><span class="sxs-lookup"><span data-stu-id="743ae-107">To receive your billing statement in email:</span></span>
   
-1. <span data-ttu-id="462bd-108">В центъра на администратор, отидете на **Фактуриране** \> [уведомления за плащане](https://go.microsoft.com/fwlink/p/?linkid=853212) страница.</span><span class="sxs-lookup"><span data-stu-id="462bd-108">In the admin center, go to the **Billing** \> [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
+1. <span data-ttu-id="743ae-108">В центъра за администриране отворете страницата [Известия за таксуване.](https://go.microsoft.com/fwlink/p/?linkid=853212) **Billing** \></span><span class="sxs-lookup"><span data-stu-id="743ae-108">In the admin center, go to the **Billing** \> [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-2. <span data-ttu-id="462bd-109">Под **получи изявлението на фактуриране като имейл прикачен файл?**, превключете превключване към **на**.</span><span class="sxs-lookup"><span data-stu-id="462bd-109">Under **Receive the billing statement as email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="462bd-110">Можете да спрете получаването на плащане изявление имейли по всяко време чрез превключване на смяна да **изключите**.</span><span class="sxs-lookup"><span data-stu-id="462bd-110">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>
+2. <span data-ttu-id="743ae-109">Под **Получаване на отчет за фактуриране като прикачен файл към имейл?**, превключете на **В.**</span><span class="sxs-lookup"><span data-stu-id="743ae-109">Under **Receive the billing statement as email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="743ae-110">Можете да спрете да получавате имейлите с извлечение за фактуриране по всяко време, като превключите превключвателя на **Изкл**.</span><span class="sxs-lookup"><span data-stu-id="743ae-110">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>
