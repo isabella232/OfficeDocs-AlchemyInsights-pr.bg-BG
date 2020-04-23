@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745422"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719293"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Препоръчителни стъпки, които да предприемете, ако акаунт бъде компрометиран
 
-[ВИДЕО: Отстраняване на проблем с компрометиран акаунт на Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[ВИДЕО: Отстраняване на проблем с компрометиран акаунт](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Веднага [Нулирайте паролата на потребителя](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Не съобщавайте новата парола по имейл на крайния потребител.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745422"
 
 5. Премахнете потребителския акаунт от всички [административни ролеви групи](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), докато не се уверите, че акаунтът вече не е компрометиран.
 
-За да намалите възможността за пробив на данни или компрометиране на акаунт в бъдеще, ви препоръчваме да прочетете нашата [Пътна карта за защита на Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+За да намалите възможността за пробив на данни или компрометиране на акаунт в бъдеще, ви препоръчваме да прочетете нашата [Пътна карта за защита на Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
