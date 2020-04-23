@@ -1,9 +1,9 @@
 ---
-title: 973 миграция StalledDueTo * правило
+title: 973 Правило за миграцията в застой
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 392fda3b5e0dc9e625816c5fa3f8dd760924bb7b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4b44e2401f044a6373f545aa9ed418b3ec537c66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762165"
 ---
-# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="76783-102">StalledDueTo грешки по време на миграция</span><span class="sxs-lookup"><span data-stu-id="76783-102">StalledDueTo errors during migration</span></span>
+# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="f14d2-102">Грешки в "ЗастойНапоради" по време на миграция</span><span class="sxs-lookup"><span data-stu-id="f14d2-102">StalledDueTo errors during migration</span></span>
 
-<span data-ttu-id="76783-103">Можете да видите различни грешки, които започват с "StalledDueTo..." по време на мигрирането на Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="76783-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="76783-104">Много от тези грешки са напълно нормално.</span><span class="sxs-lookup"><span data-stu-id="76783-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="76783-105">За повече информация вижте [базирани регулиране на ресурси и приоритизиране в Exchange Online миграции](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="76783-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
+<span data-ttu-id="f14d2-103">Може да видите различни грешки, които започват с "StalledDueTo..." по време на вашата миграция към Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="f14d2-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="f14d2-104">Много от тези грешки са напълно нормални.</span><span class="sxs-lookup"><span data-stu-id="f14d2-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="f14d2-105">За повече информация вижте [ресурс базирани ограничаване и приоритизиране в Exchange Online миграции](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="f14d2-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
