@@ -1,8 +1,8 @@
 ---
-title: Актуализирайте вашият домейн за сървъри за имена към Office 365
+title: Актуализирайте своите сървъри за имена на домейните да сочат към Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742154"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719982"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Актуализирайте вашият домейн за сървъри за имена към Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Актуализирайте своите сървъри за имена на домейните да сочат към Microsoft
 
 Забележка: За разпространението на промените в сървърите за имена понякога може да са необходими до 48 часа.
   
-За да настроите своя домейн в Office 365, сървърите за имена във вашия регистратор трябва да бъдат актуализирани. Създайте или редактирайте своите записи на сървърите за имена при вашия регистратор на домейни.
+За да настроите вашия домейн с Microsoft, ийсървърите във вашия регистратор трябва да бъдат актуализирани. Създайте или редактирайте своите записи на сървърите за имена при вашия регистратор на домейни.
   
 1. Отидете в уеб сайта на регистратора на домейни и намерете областта, където можете да редактирате сървърите за имена.
 
@@ -34,5 +34,5 @@ ms.locfileid: "36742154"
 
 3. Запишете промените.
 
-Можете също да намерите подробни инструкции в тази статия. [Промяна на сървърите за имена за настройване на Office 365 с произволен регистратор на домейни](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Можете също така да намерите подробни инструкции в тази статия: [Промяна на сървърите за имена, за да настроите Microsoft 365 с всеки регистратор на домейни](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
