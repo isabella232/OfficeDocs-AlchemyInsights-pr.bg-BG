@@ -1,9 +1,9 @@
 ---
-title: Инсталирайте Office 2013 уведомяване
+title: Инсталиране на office 2013 уведомяване
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: 6a2151f6baf108e168f2ba2ce2e76b5c1a1c6d22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3b2db50dc62d8aa1884319f474f0f8277fc9b68a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498872"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766014"
 ---
-# <a name="upgrade-to-office-2016"></a>Ъпгрейд към Office 2016
+# <a name="upgrade-to-office-2016"></a>Надграждане до Office 2016
 
-За съжаление офис 2013 не е достъпна за изтегляне вече за Office 365 абонаменти, но можете да надстроите до Office 2016 безплатно! За повече информация и стъпки, за да инсталирате Office 2016 използват тази статия: [инсталирате или надстроите до Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
+За съжаление Office 2013 вече не е достъпен за изтегляне, но можете да надстроите до Office 2016 безплатно! За повече информация и стъпки за инсталиране на Office 2016 използвайте тази статия: [Инсталирайте или надстройте до Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
   

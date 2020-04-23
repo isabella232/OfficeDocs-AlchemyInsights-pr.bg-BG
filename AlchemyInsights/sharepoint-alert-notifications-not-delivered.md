@@ -1,9 +1,9 @@
 ---
-title: Известията за известяване на SharePoint не са доставени
+title: Не доставени известия за предупреждение на SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742036"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Известията за известяване на SharePoint не са доставени
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Не доставени известия за предупреждение на SharePoint
 
-Моля, проверете папката за НЕЖЕЛАНА поща в имейла си, тъй като понякога сигналите могат да отидат там.
+Моля, проверете папката JUNK в имейла си, тъй като понякога предупрежденията могат да отидат там.
 
-Определете дали **всички предупреждения не са доставени** или ако не е доставено **индивидуално предупреждение** от конкретен файл или библиотека.
+Определете дали **не са доставени всички предупреждения** или дали не е **доставено отделно предупреждение** от конкретен файл или библиотека.
 
-- **Индивидуалните предупреждения не се доставят**: Ако не е доставено индивидуално предупреждение от конкретен файл или библиотека, можете да опитате да го изтриете и да го създадете отново. Вижте [управление, преглед или изтриване на предупреждения на SharePoint,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) за да пресъздаде предупреждението.
-- **Всички предупреждения не се доставят**: Ако всички предупреждения от няколко файлове или библиотеки не се доставят, посетете [услугата здраве табло](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) за проверка за всички съвети/инциденти, които може да се случва с SharePoint или Exchange. Проблемът може да бъде с SharePoint възможност за предупреждение или закъснения в имейли чрез Exchange. Също така ще бъде важно да се отбележи дали друг имейл се доставя, и ако не, проблемът е вероятно със закъснения на Exchange.
+- **Индивидуални течения не се доставят:** Ако дадено отделно предупреждение от конкретен файл или библиотека не е доставено, можете да опитате да го изтриете и да го създадете отново. Вижте Управление, преглед или изтриване на сигнали на [SharePoint,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) за да създадете повторно предупреждението.
+- **Всички предупреждения не се доставят:** Ако всички предупреждения от няколко файла или библиотеки не са доставени, посетете [състояние на услугата таблото](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) за проверка за всички съвети/инциденти, които може да се случват с SharePoint или Exchange. Проблемът може да бъде с sharePoint предупреждение възможност или забавяния в имейли чрез Exchange. Също така ще бъде важно да се отбележи дали се доставя друг имейл и ако не, проблемът е вероятно с Exchange закъснения.
 
-ЧЗВ за предупреждения:
+Често задавани въпроси относно сигналите:
 
-- Не е възможно да изпращате предупреждения за група за разпространение, се поддържат само защита и O365 групи.
-- Не можете да персонализирате предупреждения имейл шаблони; трябва да използвате Microsoft FLOW или SharePoint Designer поток за постигане на тези.
+- Не е възможно да изпращате предупреждения до група за разпространение, се поддържат само защита и O365 групи.
+- Не можете да персонализирате шаблони за имейл за известяване; трябва да използвате Microsoft FLOW или работния поток на SharePoint Designer, за да ги постигнете.
 
 Повече информация:
 
-- **Настройка на предупреждението**: за повече информация относно настройването на предупреждения вижте [Създаване на предупреждение за получаване на известие при промяна на файл или папка в SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Отстраняване на предупреждения**: за повече информация относно предупреждения за отстраняване на неизправности вижте [потребителите не получават известия за известяване на SharePoint online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Advanced O365 правила за известяване за съответствие**: за повече информация относно настройването на тези предупреждения вижте [правила за известяване за съответствие](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Дневници за проверка на SharePoint и OneDrive**: за повече информация как да извлечете тези събития вижте [търсене в регистрационния файл на проверката](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Предупреждения, изпратени от разширена защита от заплахи**: вижте [ATP за SharePoint и OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Предупреждения, изпратени от данните за предотвратяване на загуба на данни**: вижте [известия по имейл за DLP правила](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Предупреждение за настройка:** За повече информация относно настройката на предупрежденията вижте [Създаване на предупреждение, за да получите известие, когато файл или папка се промени в SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Отстраняване на предупреждения:** За повече информация относно предупрежденията за отстраняване на неизправности вижте [Потребителите не получават известия за известяване на SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- Разширени правила за **предупреждение за съответствие o365:** За повече информация относно настройването на тези предупреждения вижте [Правила за предупреждения за съответствие.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
+- Регистрационни файлове за **проверка на SharePoint и OneDrive:** За повече информация относно начините за извличане на тези събития вижте [Търсене в регистрационния файл за проверка](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Предупреждения, изпратени от разширена защита на заплахите:** Вижте [ATP за SharePoint и OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Сигнали, изпратени от политики тет, предотвратяване на загуба на данни:** Вижте [имейл известия за DLP политики.](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>Свързани теми
 
-Искате ли да опитате Microsoft Flow в SharePoint online?
+Искате ли да опитате Microsoft Flow в SharePoint Online?
 
 - [Създаване на поток](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 

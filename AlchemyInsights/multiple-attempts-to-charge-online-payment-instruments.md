@@ -1,9 +1,9 @@
 ---
-title: Множество опити да зареждате онлайн платежни инструменти
+title: Множество опити за таксуване на онлайн платежни инструменти
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761983"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Множество опити да зареждате онлайн платежни инструменти
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Множество опити за таксуване на онлайн платежни инструменти
 
-Ние правим няколко опити да удържи онлайн платежни инструменти преди предприемане на всякакво действие на услугата. След плащане е избран метод, всички просрочени суми трябва да бъдат платени с метода на избрания плащане. За да актуализирате текущата плащане информация за вашия абонамент, следвайте стъпките в [добавите, актуализирате, или премахване на кредитна карта или банкова сметка в Office 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ние правим множество опити да таксуваме онлайн платежни инструменти, преди да предприемем каквито и да е действия по отношение на услугата. След като бъде избран начин на плащане, всички просрочени суми трябва да бъдат платени с избрания начин на плащане. За да актуализирате текущата информация за плащане за вашия абонамент, следвайте стъпките в [Добавяне, актуализиране или премахване на кредитна карта или парични средства в Microsoft 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

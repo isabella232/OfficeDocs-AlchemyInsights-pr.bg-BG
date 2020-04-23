@@ -1,9 +1,9 @@
 ---
-title: Отстраняване на проблеми с помощта на Open с Explorer
+title: Отстраняване на проблеми с помощта на Отваряне с Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742722"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759681"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Отстраняване на проблеми с Open с Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Отстраняване на проблеми с Отваряне с Explorer
 
-Отстраняване на често срещани проблеми с отварянето на библиотека с документи в SharePoint или OneDrive с помощта на командата **Open с Explorer** : 
+Отстраняване на често срещани проблеми при отваряне на библиотека с документи в SharePoint или OneDrive с помощта на командата **Отвори с Explorer:** 
   
-- Използвайте Internet Explorer 10 или Internet Explorer 11. **Open с Explorer** не е съвместим с Microsoft Edge, Google Chrome, Firefox и други. **Open с Explorer** е забранена във всички браузъри с изключение на Internet Explorer. 
+- Използване на Internet Explorer 10 или Internet Explorer 11. **Отварянето с Explorer** не е съвместимо с Microsoft Edge, Google Chrome, Firefox и други. **Отварянето с Explorer** е забранено във всички браузъри с изключение на Internet Explorer. 
     
-- **Open с Explorer** не е наличен в съвременното преживяване за библиотеките на SharePoint. Вместо това използвайте **изглед във файловия мениджър** . Изберете изглед на **Опции** \> **за изглед във файловия мениджър**. Изгледът във файловия мениджър не е съвместим с Microsoft Edge, Google Chrome, Firefox и други. **Преглед във файловия мениджър** в наличен само в Internet Explorer. 
+- **Отваряне с Explorer** не е налична в съвременния опит за библиотеки на SharePoint. Вместо това използвайте **изгледа във файловия мениджър.** Изберете **Опции за** \> **изглед в файловия мениджър**. Преглед във файловия мениджър не е съвместим с Microsoft Edge, Google Chrome, Firefox и др. **Преглед на файловия мениджър** в наличност само в Internet Explorer. 
     
-- Уверете се, че услугата WebClient се изпълнява. В полето за търсене на Windows въведете Run, изберете изпълнение на настолното приложение, въведете Services. msc и след това натиснете ENTER. Превъртете надолу до услугата WebClient и се уверете, че колоната **състояние** показва "изпълнение". Ако не, щракнете двукратно върху услугата, щракнете върху **старти**след това щракнете върху **OK**. (Може да се наложи първо да разрешите услугата, като изберете **ръчно** или **автоматично** в полето **тип стартиране** .) 
+- Уверете се, че услугата WebClient се изпълнява. В полето за търсене на Windows въведете изпълнение, изберете изпълнение на работния плот приложение, въведете services.mscи натиснете Enter. Превъртете надолу до услугата WebClient и се уверете, че колоната **състояние** показва "Бягане". Ако не, щракнете двукратно върху услугата, щракнете върху **Старт**и след това щракнете върху **OK**. (Може да се наложи първо да разрешите услугата, като изберете **ръчно** или **автоматично** в полето **Тип стартиране.)** 
     
 > [!NOTE]
-> Отварянето на библиотека във файловия мениджър е удобно, ако трябва да копирате или премествате няколко файла и папки веднъж, но ако искате да работите редовно в библиотеката, ви препоръчваме да го синхронизирате. За отстраняване на проблеми при отваряне на файловия мениджър вижте [Отваряне в Explorer](https://go.microsoft.com/fwlink/?linkid=871665). За информация относно настройването на синхронизацията вижте [Синхронизиране на SharePoint файлове с новия OneDrive синхронизиране на клиента](https://go.microsoft.com/fwlink/?linkid=871666).
+> Отварянето на библиотека във файловия мениджър е удобно, ако трябва да копирате или премествате няколко файла и папки веднъж, но ако искате редовно да работите в библиотеката, препоръчваме да го синхронизирате. За отстраняване на проблеми при отваряне във файловия мениджър, вижте [Отвори в Explorer](https://go.microsoft.com/fwlink/?linkid=871665). За информация относно настройката на синхронизиране, вижте [Синхронизиране на SharePoint файлове с новия oneDrive синхронизиране клиент](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Моля, вижте статията [как да използвате командата "отвори с Explorer" за отстраняване на проблеми в SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) за повече информация. 
+Вижте статията [Как да използвате командата "Отвори с Explorer" за отстраняване на проблеми в SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) за повече информация. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Инсталиране на екипи като самостоятелни или с нови/съществуващи инсталирания на Office
+title: Инсталиране на Екипи те са самостоятелни или с нови/съществуващи инсталирания на Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768862"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763170"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Инсталиране на екипи като самостоятелни или с нови или съществуващи инсталации на Office
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Инсталиране на екипи те са самостоятелни или с нови или съществуващи инсталации на Office
 
-Екипите на Microsoft е включен като част от *нови инсталации* на Office 365 ProPlus, Office 365 Business и Office for Mac. За повече информация вижте [Кога екипите на Microsoft ще започнат да се включват в нови инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams е включен като част от *новите инсталации* на приложенията на Microsoft 365 за предприятие, Microsoft 365 приложения за бизнес а и Office for Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Освен това, започвайки с версия 1906 в месечен канал, екипи ще бъдат *добавени към съществуващите инсталации* на Office 365 ProPlus (и Office 365 Business) на устройства, работещи под Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вижте [Какво ще кажете за съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Освен това, започвайки с версия 1906 в месечен канал, Екипи ще бъдат *добавени към съществуващиинсталации* на Microsoft 365 приложения за предприятие (и Приложения на Microsoft 365 за бизнеса) на устройства, работещи под Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
-Можете да разположите екипите като самостоятелни за вашите потребители, като [следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)или можете да направите вашите потребители да инсталират екипи за себе https://teams.microsoft.com/downloadsси от.
+Можете да разположите Teams като самостоятелен за вашите потребители, [като следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)или можете да настроите вашите потребители да инсталират Teams за себе си от https://teams.microsoft.com/downloads.
 
-След като екипите са инсталирани, той [автоматично се актуализира](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) приблизително на всеки две седмици с нови функции и актуализации на качеството. 
+След инсталирането на Teams автоматично [се актуализира](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) на всеки две седмици с нови функции и актуализации на качеството. 
 

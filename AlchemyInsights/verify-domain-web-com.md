@@ -1,5 +1,5 @@
 ---
-title: Потвърждаване на домейна ви с web.com
+title: Проверете домейна си с web.com
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 81852ff53efd791edb7b6e17ea6e6e327ff52224
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 08e8975b497a949589f063b9bf6901cf77a786f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325941"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765366"
 ---
-# <a name="verify-your-domain-with-webcom"></a>Потвърждаване на домейна ви с web.com
+# <a name="verify-your-domain-with-webcom"></a>Проверете домейна си с web.com
 
-За да проверите домейна си, трябва да добавите TXT запис към регистратора на домейни, за да проверите дали притежавате домейна си. 
+За да проверите домейна си, ще трябва да добавите tXT запис към вашия регистратор на домейн, за да се уверите, че притежавате домейна си. 
 
-Първо следвайте [съветника за добавяне](https://portal.office.com/adminportal/home#/Domains) на домейн, като изберете **Домейни** **на настройките** \> и след това Добавяне на **домейн**.
+Първо следвайте [съветника за добавяне](https://portal.office.com/adminportal/home#/Domains) на домейн, като изберете **Настройки на домейни** \> **Domains**и след това **Добавете домейн**.
   
-Вижте [Създаване на DNS записи в web.com за Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) за инструкции стъпка по стъпка.
+Вижте [Създаване на DNS записи в web.com за Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) за инструкции стъпка по стъпка.

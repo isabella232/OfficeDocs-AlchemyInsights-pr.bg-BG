@@ -1,9 +1,9 @@
 ---
-title: 1800014 Настройване на имейл в мобилното приложение на Outlook
+title: 1800014 настройте имейл в мобилното приложение на Outlook
 ms.author: anahitab
 author: anahitab
 manager: dansimp
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: get-started-article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36734154"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767562"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Настройване на имейл в мобилното приложение на Outlook
 
-1. Изберете "първи **стъпки** ", ако за първи път настройвате имейл в мобилното приложение. В противен случай докоснете **меню** и след това докоснете **Настройки** \> **Добавяне на акаунт** \> за **Добавяне на имейл акаунт**.
+1. Изберете **Първи стъпки,** ако това е вашият първи път настройване на имейл в мобилното приложение. В противен случай докоснете **Меню** и след това натиснете **Настройки** \> **Добави акаунт** \> **Добавяне на имейл акаунт**.
 
-2. Въведете пълния си имейл адрес и докоснете **продължаване** или **Добавяне на акаунт**.
+2. Въведете пълния си имейл адрес и докоснете **Продължи** или **Добавяне на акаунт**.
 
-3. Въведете паролата за вашия имейл акаунт и докоснете **влизане** или **Следваща**.
+3. Въведете паролата за имейл акаунта си и докоснете **Влизане** или **Следваща**.
 
-4. Ако е разрешена [многофакторно удостоверяване](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , проверете използването на метода, който сте задали (6 цифрен код, телефонно обаждане или приложението Microsoft Удостоверител).
+4. Ако е разрешено [удостоверяване с няколко фактора,](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) проверете с помощта на метода, който сте настроили (6-цифрен код, телефонно обаждане или приложение Microsoft Authenticator).
 
-5. Ако са налице допълнителни правила за ИТ администратори, докоснете **Активирай** , за да ги разрешите.
+5. Ако са въведени допълнителни Правила за ИТ администратори, докоснете **Активиране,** за да ги разрешите.
 
-6. Outlook може да поиска разрешение за достъп до вашия календар, контакти и друга информация. Изберете **да** или **Разрешаване**.
+6. Outlook може да поиска разрешение за достъп до вашия календар, контакти и друга информация. Изберете **Да (Yes)** или **Разрешаване на**.
 
-Получете подробни инструкции за настройване на [Outlook за Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) или [Outlook за IOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) тук.
+Получете подробни инструкции за настройване [на Outlook за Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) или Outlook за [iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) тук.
   
- **Имате нужда от помощ?**
+ **Имате ли нужда от помощ?**
   
-- [Отстраняване на неизправности при настройка на имейл на мобилно устройство](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Отстраняване на неизправности при настройването на имейли на мобилни устройства](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Получете помощ в приложението за Outlook за iOS и Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Получаване на помощ в приложението за Outlook за iOS и Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

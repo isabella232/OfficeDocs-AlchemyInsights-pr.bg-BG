@@ -2,7 +2,7 @@
 title: Онлайн ограничаване на SharePoint
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742198"
 ---
 # <a name="sharepoint-online-throttling"></a>Онлайн ограничаване на SharePoint
 
-**Важно**: По време на тези безпрецедентни времена, ние предприемаме стъпки, за да се гарантира, че SharePoint Online и OneDrive услуги остават високо достъпни – посетете [SharePoint Online временни функция корекции](https://aka.ms/ODSPAdjustments) за повече информация.
+**Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **503 сървърът е зает грешка**
 
 Потребителите може да получат 503 сървър е заето грешка при опит да отидете до сайтове на SharePoint или OneDrive. 
 
-Тази грешка може да бъде причинена от ограничаване в рамките на услугата на SharePoint. SharePoint Online използва дроселиране да поддържа оптимално производителност и надеждност на услугата на SharePoint Online. Ограничаването ограничава броя на действията на потребителя или едновременните повиквания (със скрипт или код), за да се предотврати превес на ресурсите. 
+Тази грешка може да бъде причинена от ограничаване в рамките на услугата на SharePoint. SharePoint Online използва регулиране, за да поддържа оптимална производителност и надеждност на услугата SharePoint Online. Регулирането ограничава броя на действията на потребителите или едновременните повиквания (по скрипт или код), за да се предотврати прекомерната употреба на ресурси. 
 
 За повече информация относно ограничаване вижте, [Избягвайте да се дросели или блокирани в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

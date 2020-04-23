@@ -1,9 +1,9 @@
 ---
-title: Проект онлайн често поискани теми
+title: Онлайн често изисквани теми
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 30b13f65b20d88fc691a2d7d5639ce6877039763
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768030"
 ---
-# <a name="project-online-frequently-requested-topics"></a>Проект онлайн често поискани теми
+# <a name="project-online-frequently-requested-topics"></a>Онлайн често изисквани теми
 
-Ето някои често задавани теми с Project:
+Ето някои често изисквани теми с project:
 
-Ето често задавани теми за проекта:
+Ето и често заявени теми за проекта:
 1.  Първи стъпки: 
-    -   [Започнете с проекта онлайн](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [Онлайн администраторската документация на проекта](https://docs.microsoft.com/projectonline/project-online) 
-    -   [Проект онлайн: софтуерни граници и лимити](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Добавяне на хора, групи и ресурси, след което Споделете проект онлайн](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [Настройка на проекта Web App (PWA) производителност в проект онлайн](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Свържете се с [клиента на проекта онлайн десктоп](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [Инсталиране и използване на проект Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) 
+    -   [Първи стъпки с проекта онлайн](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [Документация за администриране на проекти онлайн](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Онлайн проект: ограничения и ограничения на софтуера](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [Добавяне на хора, групи и ресурси, след което споделете проекта онлайн](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [Tune Project Web App (PWA) производителност в онлайн проект](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Свързване с [онлайн настолен клиент на Project](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [Инсталиране и използване на Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

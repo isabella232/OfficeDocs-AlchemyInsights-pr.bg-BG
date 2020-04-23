@@ -2,23 +2,23 @@
 title: Онлайн ограничаване на SharePoint
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6914c8fc6f5856685d2c2cce33255381c358d2bc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fbc72376e90b787d34c6b1606cb977600fab863e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40043996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767634"
 ---
-# <a name="sharepoint-online-throttling"></a>Ограничаване на SharePoint online
+# <a name="sharepoint-online-throttling"></a>Регулиране на SharePoint Online
 
-SharePoint online използва ограничаване за поддържане на оптимална производителност и надеждност на услугата на SharePoint online. Ограничаването на броя на действията на потребителя или едновременни повиквания (със скрипт или код) за предотвратяване на прекомерната употреба на ресурси. Ако получите ограничил, 99% от времето е поради персонализиран код.
+SharePoint Online използва регулиране, за да поддържа оптимална производителност и надеждност на услугата SharePoint Online. Регулирането ограничава броя на действията на потребителите или едновременните повиквания (по скрипт или код), за да се предотврати прекомерната употреба на ресурси. Ако се дрогират, 99% от времето е заради потребителски код.
   
-За повече информация за ограничаване Вижте, [Избягвайте да ограничил или блокирани в SharePoint online](https://go.microsoft.com/fwlink/?linkid=2022019)
+За повече информация относно ограничаване вижте, [избягвайте да се дросели или блокирани в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 

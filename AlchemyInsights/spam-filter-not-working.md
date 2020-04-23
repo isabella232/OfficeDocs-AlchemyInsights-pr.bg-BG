@@ -3,7 +3,7 @@ title: 8000059 спам филтър не работи
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501284"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764070"
 ---
-# <a name="spam-filter-not-working"></a>Спам филтър не работи
+# <a name="spam-filter-not-working"></a>Спам филтърът не работи
 
-Ако смятате, че сте получили в Outlook.com съобщението е фишинг измама или фишинг, изберете съобщението и изберете **нежелана** \> **фишинг** да го маркирате като фишинг измама. За да научите повече за злоупотреба, фишинг и измами, [прочетете това](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). За да блокирате имейл адреси, добавяте адреси или домейни към вашия списък безопасни податели или прилагат други опции за нежелана поща, изберете **Опции за нежелана поща**.
+Ако смятате, че дадено съобщение, което сте получили в Outlook.com е измама с фишинг или измама, изберете съобщението и изберете **"Нежелана** \> **фишинг",** за да го маркирате като фишинг измама. За да научите повече за злоупотребата, фишинга и подправянето, [прочетете това](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). За да блокирате имейл адреси, да добавите адреси или домейни към списъка с безопасни податели или да приложите други опции за нежелана поща, изберете **Опции за нежелана поща**.
   
