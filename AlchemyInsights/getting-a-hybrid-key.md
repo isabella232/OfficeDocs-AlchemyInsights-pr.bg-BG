@@ -1,9 +1,9 @@
 ---
-title: Получаване на хибридни ключ
+title: Получаване на хибриден ключ
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: e679c8cded30048686cd965a2597e0447ecd21fb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d12b8e1a9b94b28d0007065446a1d55ac072e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524040"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721689"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Получаване на Exchange хибридни ключ
+# <a name="getting-an-exchange-hybrid-key"></a>Получаване на хибриден ключ за Exchange
 
-За да свържете вашия локалната организация на Exchange Online в Office 365, трябва да настроите поне един Exchange server в локалната организация. Този сървър се използва за създаване на хибридно разполагане, която свързва вашата локална Exchange организация в Exchange Online. За да получите хибридни ключ за този сървър, следвайте стъпките в [Exchange хибридни продуктов ключ разпределение съветника](https://aka.ms/hybridkey).
+За да свържете вашата локална организация с Exchange Online в Microsoft 365, трябва да настроите поне един Exchange сървър във вашата локална организация. Този сървър се използва за създаване на хибридно разполагане, което свързва вашата локална Exchange организация с Exchange Online. За да получите хибриден ключ за този сървър, следвайте стъпките в [съветника за разпространение на хибриден продуктов ключ](https://aka.ms/hybridkey)на Exchange .
   

@@ -1,9 +1,9 @@
 ---
-title: 646 как да конфигурирате AADConnect
+title: 646 Как да конфигурирате AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541574"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722516"
 ---
-# <a name="configure-sync-features"></a>Конфигуриране на функции в синхронизиране
+# <a name="configure-sync-features"></a>Конфигуриране на функциите за синхронизиране
 
-Лазурно АД свързване включва няколко функции, които са разрешени по подразбиране, или че можете да активирате по-късно. Някои функции изискват допълнителна конфигурация в специфични среди.
+Azure AD свързване включва няколко функции, които са разрешени по подразбиране или можете да разрешите по-късно. Някои функции изискват допълнителна конфигурация в определени среди.
 
-- [Филтрирането](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) граници обектите се синхронизират в лазурно АД. По подразбиране, всички потребители, контакти, групи и Windows 10 Компютърни акаунти са синхронизирани. Можете да включват или изключват обекти, базирани на домейни, OU или други атрибути.
+- [Филтриране](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) граници обекти са синхронизирани Azure AD. По подразбиране се синхронизират всички потребители, контакти, групи и акаунти на компютъра в Windows 10. Можете да включите или изключите обекти на базата на домейни, ous или други атрибути.
 
-- [Парола кълцам синхронизиране](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронизира парола кълцам от локалната Active Directory към лазурните реклама. Това позволява управление на парола в едно място, но използването на една и съща парола в двете локални и облак среди. Тъй като Active Directory е достоверният източник, можете да използвате своя собствена парола политика.
+- [Парола хеш синхронизация](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронизира паролата хеш от локалната Active Directory azure AD. Това позволява управление на пароли на едно място, но използването на една и съща парола както в локалните, така и в облачните среди. Тъй като Active Directory е авторитетен източник, можете да използвате вашите собствени правила за парола.
 
-- [Самообслужване парола проучване (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) позволява на потребителите да сменят паролите си собствени в облака, докато все още се прилага вашата локалната парола политика.
+- [Самостоятелно нулиране на паролата (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) позволява на потребителите да нулират собствените си пароли в облака, като все още прилагат правилата за локална парола.
 
-- [Writeback определителен устройство](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) позволява регистрирани устройства в лазурно Рекламата да се запише обратно в локалната Active Directory, така че те могат да бъдат използвани за условен достъп.
+- [Устройство с отпиване](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) позволява регистрирани те да бъдат записани в Azure AD да бъдат записани обратно в локалната Active Directory, така че те могат да се използват за условен достъп.
 
-- [Предотвратяване на случайно изтриване](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) е активирана по подразбиране за да се предотврати прекалено много едновременни обект делеции (повече от 500 обекта за синхронизация). Можете да промените тази настройка, за да отговори на нуждите на вашата организация.
+- [Предотвратяване на случайни изтривания](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) е разрешена по подразбиране да предотврати твърде много едновременни обекти изтривания (повече от 500 обекти за синхронизация). Можете да промените тази настройка, за да отговаря на нуждите на вашата организация.
 
-- [Автоматичен ъпгрейд](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) е активирана по подразбиране за Експресно инсталации и помага да се гарантира вашата версия на Azure АД свържете е винаги актуална.
+- [Автоматичното надстройване](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) е активирано по подразбиране за експресни инсталации и помага да се гарантира, че вашата версия на Azure AD Connect е винаги актуална.

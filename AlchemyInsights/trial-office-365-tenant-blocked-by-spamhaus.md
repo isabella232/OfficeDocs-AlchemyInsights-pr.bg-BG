@@ -1,8 +1,8 @@
 ---
-title: Пробен Office 365 наемател, блокирани от Spamhaus
+title: Пробният клиент на Microsoft 365, блокиран от спамхаус
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759861"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Грешка, когато Office 365 опит потребител изпраща електронна поща: клиент домакин блокирани използване Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Грешка при microsoft 365 пробна потребител изпраща имейл: клиент хост блокирани с помощта на Spamhaus
 
-Оказва се, че изпращате имейл от нова Office 365 пробен организация. За да предотврати злоупотреба, блокират IP адреси, които са известни да са били предварително компрометирани. Тази конкретна проверка вече не е изпълнено, след като започнете да използвате платени лицензи. Може да успеете да получите временно облекчение от кандидатства за нов IP адрес от вашия интернет доставчик (ISP), или чрез премахване на блок от сайта на [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Изглежда, че изпращате имейл от нова пробна организация на Microsoft 365. За да предотвратим злоупотреба, блокираме IP адреси, за които е известно, че преди това са били компрометирани. Тази конкретна проверка вече не се прилага, след като започнете да използвате платени лицензи. Може да успеете да получите временно облекчение, като поискате нов IP адрес от вашия доставчик на интернет услуги (ISP) или като премахнете блока от сайта на [Спамхаус.](https://go.microsoft.com/fwlink/p/?linkid=123245)

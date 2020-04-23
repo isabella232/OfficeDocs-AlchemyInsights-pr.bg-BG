@@ -1,9 +1,9 @@
 ---
-title: problems-Sharing-with-Outlook-Customer-Manager
+title: споделяне на проблеми с перспективата и клиента-мениджър
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554466"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758815"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми, споделяне с Outlook клиента мениджър
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми при споделяне то с outlook клиента
 
-Ако имате въпроси за споделяне с Outlook клиента мениджър ние препоръчваме, че ви първо опитайте да изчистите кеша на браузъра. Например в Internet Explorer, вие ще:
+Ако имате проблеми с outlook Customer Manager, препоръчваме първо да изчистите кеша на браузъра си. Например в Internet Explorer:
 
-1. Отидете в **Настройки** > **Общи** > настройки под **Хронология на преглеждането** > **Caches и бази данни**.
-2. Изтриване на кеш файлове на сайта "outlookapps.com."
+1. Отидете на **Настройки** > **Общи** > Настройки под Хронология на >  **браузъра****Кешове и бази данни**.
+2. Изтрийте кеш файловете за сайта "outlookapps.com".
 3. Рестартирайте Outlook.
 
-За повече информация относно споделянето вижте [споделяне на информация в Outlook клиента мениджър](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+За повече информация относно [споделянето](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20)вижте Споделяне на информация в Диспечер на клиенти на Outlook .

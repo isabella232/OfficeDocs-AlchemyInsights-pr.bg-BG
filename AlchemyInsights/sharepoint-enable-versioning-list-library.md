@@ -1,8 +1,8 @@
 ---
-title: Версии на SharePoint и OneDrive
+title: Версии в SharePoint и OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044140"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767382"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Версии на SharePoint и OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Версии в SharePoint и OneDrive 
 
 
-Когато версиите са активирани във вашия списък или библиотека на SharePoint, можете да съхранявате, проследявате и възстановявате елементи в списък и файлове в библиотека, когато те се променят. Версиите, съчетани с други настройки, като например поръчка, ви дават много контрол върху съдържанието, което е Публикувано на сайта ви, и могат да предоставят реална стойност, ако някога имате нужда да погледнете или да възстановите стара версия на елемент или файл.
+Когато версията е разрешена във вашия списък или библиотека на SharePoint, можете да съхранявате, проследявате и възстановявате елементи в списък и файлове в библиотека, когато се променят. Версиите, комбинирани с други настройки, като например касата, ви дава много контрол върху съдържанието, публикувано на вашия сайт и може да осигури реална стойност, ако някога имате нужда да погледнете или да възстановите стара версия на елемент или файл.
 
-За повече информация относно версиите, моля, посетете по-долу статии.
+За повече информация относно версиите, моля, посетете статиите по-долу.
 
 - [Как работи версиите в списък или библиотека на SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
@@ -36,9 +36,9 @@ ms.locfileid: "40044140"
 
 - [Преглед на предишни версии на файлове на Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [Лимити на версиите](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [Ограничения за версии](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Ако сте клиент на Office 365, версиите вече са включени по подразбиране, когато създавате нови OneDrive за бизнес библиотеки и тя автоматично ще запише последните 500 версии на документ. Това ще ви помогне да предотвратите загубата на важни документи или данни. Ако имате съществуващи библиотеки на вашия OneDrive за бизнес сайт или на вашия екипен сайт, които не са активирани версии, можете да включите версиите за тях по всяко време.
+>Ако сте клиент на Microsoft 365, версиите вече са включени по подразбиране, когато създавате нов OneDrive за бизнес библиотеки и автоматично ще запише последните версии на документ от 500. Това ще ви помогне да предотвратите загубата на важни документи или данни. Ако имате съществуващи библиотеки на вашия OneDrive за бизнес сайт или на вашия екипен сайт, които нямат поддръжка за версии, можете да включите версиите за тях по всяко време.
 
 

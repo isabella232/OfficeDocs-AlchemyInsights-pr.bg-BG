@@ -1,9 +1,9 @@
 ---
-title: Когато се генерира изявлението на фактуриране?
+title: Кога се генерира отчетът за фактуриране?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530844"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759357"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Когато се генерира изявлението на фактуриране
+# <a name="when-is-the-billing-statement-generated"></a>Кога се генерира отчетът за фактуриране
 
-Всеки месец вие ще получите имейл, който ви казва, че си нов за плащане изявление е наличен в центъра за администрация на Microsoft 365. Фактурата ви съдържа две страници. Страница 1 е обобщена фактура и съдържа обща информация за фактура, поръчка, дължимата сума, как да направите плащане и как да се свържете с поддръжката. Страница 2 съдържа подробности за фактуриране дейност за всеки абонамент.
+Всеки месец ще получавате имейл, който ви казва, че новата ви декларация за плащане е налична в Центъра за администриране на Microsoft 365. Фактурата Ви съдържа две страници. Страница 1 е обобщение на фактурата и съдържа обща информация за фактурата, поръчката, дължимата сума, как да извършите плащане и как да се свържете с поддръжката. Страница 2 съдържа подробности за дейността по таксуване за всеки абонамент.
   
-За да научите повече за фактуриране концепции, вижте [разбирам вашата фактура](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+За да научите повече за концепциите за таксуване, вижте [Разбиране на вашата фактура](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

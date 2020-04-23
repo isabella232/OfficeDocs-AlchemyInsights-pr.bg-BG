@@ -3,7 +3,7 @@ title: Премахване на реклами в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 5c00a7fbcaffc2ca303be44b3e5cba99a82a667c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a7c7c10fb982ab99713a5e35ca6a1b7f63f3f36
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743838"
 ---
 # <a name="remove-ads-in-outlookcom"></a>Премахване на реклами в Outlook.com
 
-Outlook.com е безплатна имейл услуга, която съдържа реклами. Ако искате да премахнете реклами в Outlook.com, Microsoft предлага премия Outlook функции с Office 365 дома или Office 365 лични абонаменти. За повече информация вижте [получи премия Outlook функции с Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
+Outlook.com е безплатна услуга за електронна поща, която съдържа реклами. Ако искате да премахнете реклами те Outlook.com, Microsoft предлага първокласни функции на Outlook с абонаменти за Office 365 Home или Office 365 Personal. За повече информация вижте [Получаване на първокласни функции на Outlook с Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
