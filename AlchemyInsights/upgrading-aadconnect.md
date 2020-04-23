@@ -1,9 +1,9 @@
 ---
-title: 932 надстройка AADConnect
+title: 932 надстройване на AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506072"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766482"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Свързване на ъпгрейд лазурно АД
+# <a name="upgrade-azure-ad-connect"></a>Надграждане Azure AD свързване
 
-По подразбиране автоматичен ъпгрейд е разрешена за Azure АД свържете, която помага да се гарантира, че работите най-новата версия. За да проверите настройките за автоматично ъпгрейд, използвайте кратката команда **Get-ADSyncAutoUpgrade** в Azure АД PowerShell. Кратката команда ще върне един от следните стойности:
+По подразбиране автоматичното надстройване е разрешено за свързване с Azure AD, което помага да се гарантира, че изпълнявате най-новата версия. За да проверите настройките за автоматично надграждане, използвайте кратката команда **Get-ADSyncAutoUpgrade** в Azure AD PowerShell. Кратката команда ще върне една от следните стойности:
 
-- **Активирана**: автоматичен ъпгрейд е разрешено.
+- **Разрешено:** Автоматичното надстройване е разрешено.
 
-- **Забранени**: автоматичен ъпгрейд е забранено.
+- **Забранено:** Автоматичното надстройване е забранено.
 
-- **Окачени**: системата вече има право да получава автоматично ъпгрейди. Не можете да конфигурирате тази стойност; Тя се определя от системата.
+- **Временно:** Системата вече не отговаря на условията за автоматично надстройване. Не можете да конфигурирате тази стойност; тя е зададена от системата.
 
-За повече информация вижте [автоматичен ъпгрейд](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+За повече информация вижте [Автоматично надстройване](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-За да изтеглите последната версия на Azure АД се свърже, отидете на [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+За да изтеглите най-новата версия [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)на Azure AD connect, отидете на .

@@ -1,5 +1,5 @@
 ---
-title: Закупуване на планове на Office 365 Education
+title: Закупуване на плановете на Microsoft 365 Education
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195098"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789363"
 ---
-# <a name="purchase-office-365-education-plans"></a>Закупуване на планове на Office 365 Education
+# <a name="purchase-microsoft-365-education-plans"></a>Закупуване на плановете на Microsoft 365 Education
 
-Одобрени сте за Office 365 Education.  За да закупите:
+Одобрени сте за Microsoft 365 Education.  За да закупите:
 
 1. Отидете на **[Фактуриране > Закупуване на услуги](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "43195098"
 
 **Отдалечено преподаване и обучение**
 
-- Моля, вижте [Отдалечено преподаване и обучение в Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), за да научите за най-новите указания за организиране на планирането на уроци, виртуални събрания и споделяне на съдържание с ученици и студенти.
+- Моля, вижте [Отдалечено преподаване и обучение в Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), за да научите за най-новите указания за организиране на планирането на уроци, виртуални събрания и споделяне на съдържание с ученици и студенти.
 
 - Има допълнителни ИТ указания в [Първи стъпки в Microsoft Teams за отдалечено обучение](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Преход към отдалечено обучение](https://www.microsoft.com/education/remote-learning).

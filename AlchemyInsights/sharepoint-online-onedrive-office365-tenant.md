@@ -10,16 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030353"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43787359"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online или OneDrive "Настройване"
 
-Когато потребител се добавя към съществуващ клиент на Office 365, те могат да видят SharePoint Online или OneDrive за бизнес икони, изброени като "Настройка" или "Ние все още работим по получаване на файлове настройка" до завършване на процеса на осигуряване. За помощ следвайте това ръководство за [отстраняване на неизправности.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Когато потребител се добавя към съществуващ клиент, те могат да видят SharePoint Online или OneDrive за бизнес икони, изброени като "Настройка" или "Ние все още работим за получаване на файлове настройка" докато процесът на осигуряване е завършен. За помощ следвайте това ръководство за [отстраняване на неизправности.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
 Ако са изминали повече от 24 часа, откакто за първи път сте видели този проблем, моля, влезте в случай на поддръжка.
 

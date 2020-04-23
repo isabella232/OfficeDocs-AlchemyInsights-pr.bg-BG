@@ -1,9 +1,9 @@
 ---
-title: Актуализирайте DNS записи, за да поддържате вашия уеб сайт с текущия ви хостинг доставчик
+title: Актуализиране на DNS записите, за да поддържате уебсайта си с текущия хостинг доставчик
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742248"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789399"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Актуализирайте DNS записи, за да поддържате вашия уеб сайт с текущия ви хостинг доставчик
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Актуализиране на DNS записите, за да поддържате уебсайта си с текущия хостинг доставчик
 
-Като част от процеса на преместване на вашия Office 365 публичен уеб сайт на друг хостинг доставчик, най-вероятно ще трябва да направите промени в записите на домейна си.
+Като част от процеса на преместване на вашия публичен уеб сайт на Microsoft 365 на друг доставчик на хостинг, вероятно ще трябва да направите промени в записите на домейни.
   
-1. В центъра за администриране отидете в **Настройка** \> на **домейни** и изберете името на домейна, който искате да промените.
+1. В центъра за администриране отидете на **Настройка** \> **на домейни** и изберете името на домейна, което искате да промените.
 
-2. Въведете информацията, която се изравнява с вашия уеб сайт с новия ви хостинг доставчик.
+2. Въведете информацията, която се подравнява към вашия уеб сайт с новия ви доставчик на хостинг услуги.
 
-За да научите повече, вижте [актуализиране на DNS записи, за да поддържате уебсайта си с текущия ви хостинг доставчик](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+За да научите повече, вижте [Актуализиране на DNS записите, за да запазите уебсайта си с текущия хостинг доставчик](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-За да научите повече за прекратяването на публичен сайт, вижте [SharePoint online публични уебсайтове да бъдат прекратени](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+За да научите повече за прекратяване на публичния сайт, вижте [SharePoint Online публични сайтове да бъде прекратено](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).

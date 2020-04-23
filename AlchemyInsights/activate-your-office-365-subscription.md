@@ -1,5 +1,5 @@
 ---
-title: Активиране на вашия абонамент за Office 365
+title: Активирайте своя абонамент за Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191055"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783996"
 ---
-# <a name="activate-your-office-365-subscription"></a>Активиране на вашия абонамент за Office 365
+# <a name="activate-your-subscription"></a>Активирайте абонамента си
 
 **Активиране на абонамент**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191055"
 
 **Повторно активиране на абонамент**
 
-Ако абонаментът ви изтече или е дезактивиран от Microsoft или ако сте го отменили по средата на срока на абонамента, можете да го активирате повторно в центъра за администриране на Office 365.
+Ако абонаментът ви изтече или е дезактивиран от Microsoft или ако сте го отменили по средата на срока на абонамента, можете да го активирате повторно в центъра за администриране на Microsoft 365.
 
-- В центъра за администриране на Office 365 отидете на страницата [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) (или щракнете върху **Фактуриране > Абонаменти**).
+- В центъра за администриране на Microsoft 365 отидете на страницата [Абонаменти](https://go.microsoft.com/fwlink/p/?linkid=842054) (или щракнете върху **Фактуриране > Абонаменти**).
 
 - Изберете абонамента, който искате да активирате отново, след което щракнете върху **Повторно активиране**. Ако не виждате **Повторно активиране** като възможно действие, [се обадете на поддръжката](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), за да активира повторно абонамента ви.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191055"
 
 **Активиране на нов абонамент с продуктов ключ**
 
-- За да активирате нов абонамент за Office 365 с вашия продуктов ключ, стартирайте [тук](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- За да активирате нов абонамент за Microsoft 365 с вашия продуктов ключ, стартирайте [тук](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Въведете вашия продуктов ключ за Office 365 и следвайте подканите за активиране на абонамента ви. Ако имате проблеми с активирането, вижте този [списък на често срещани грешки с продуктовия ключ и техните решения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Въведете вашия продуктов ключ за Microsoft 365 и следвайте подканите за активиране на абонамента ви. Ако имате проблеми с активирането, вижте този [списък на често срещани грешки с продуктовия ключ и техните решения](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

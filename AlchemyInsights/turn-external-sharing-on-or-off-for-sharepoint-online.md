@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182297"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789471"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Включване или изключване на външно споделяне за SharePoint Online
 
-За да научите как глобалните администратори и администраторите на SharePoint в Office 365 могат да променят настройките за споделяне на организационно ниво за SharePoint и OneDrive, вж. [Включване или изключване на външното споделяне](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+За да научите как глобалните администратори и администраторите на SharePoint могат да променят настройките за споделяне на организационно ниво за SharePoint и OneDrive, вж. [Включване или изключване на външното споделяне](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

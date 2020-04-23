@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784536"
 ---
 # <a name="set-up-insider-risk-management"></a>Настройване на управлението на риска в Insider
 
@@ -26,13 +26,13 @@ ms.locfileid: "43059945"
 
 - **Абонамент за Microsoft 365 E3** с добавката за съответствие E5.
 
-Ако нямате съществуващ **Microsoft 365 E5** план и искате да изпробвате управлението на риска в Insider, можете да добавите Microsoft 365 към вашия съществуващ абонамент за Office 365 или да се запишете за пробна версия на Microsoft 365 Enterprise E5.
+Ако нямате съществуващ **Microsoft 365 E5** план и искате да изпробвате управлението на риска в Insider, можете да добавите Microsoft 365 към вашия съществуващ абонамент или да се запишете за пробна версия на Microsoft 365 Enterprise E5.
 
 Основните стъпки за използване на управлението на риска в Insider включват:
 
 1. Разрешаване на разрешения за управление на риска в Insider.
 
-2. Разрешаване на регистрационния файл за проверка на Office 365.
+2. Разрешаване на регистрационния файл за проверка.
 
 3. Конфигуриране на предпоставките за шаблон (по желание).
 

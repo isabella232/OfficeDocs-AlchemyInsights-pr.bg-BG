@@ -3,7 +3,7 @@ title: Проверка на правописа в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547012"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760581"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Използвайте вашия браузър за проверка на правописа
+# <a name="use-your-browser-to-check-spelling"></a>Използвайте браузъра си за проверка на правописа
 
-Въпреки че Outlook.com не разполага с функция за проверка на правописа, много уеб браузъри автоматично да проверява правописа си, включително Microsoft ръб, Internet Explorer 10 и по-нови версии и актуалните версии на Firefox, Chrome и Safari. Проверете опциите за вашия уеб браузър за да научите повече за това как да проверите правописа.
+Въпреки че Outlook.com няма функция за проверка на правописа, много уеб браузъри автоматично проверяват правописа ви, включително Microsoft Edge, Internet Explorer 10 и по-нови версии, както и текущите версии на Firefox, Chrome и Safari. Проверете опциите за вашия уеб браузър, за да научите повече за това как да проверявате правописа.

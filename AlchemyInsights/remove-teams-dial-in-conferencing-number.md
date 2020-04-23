@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784788"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Премахване на номер за конференция с външно избиране в Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43027878"
 
 Телефонният номер по подразбиране на конферентния мост определя ИД на повикващия, който ще се използва, когато изходящ разговор бъде направен от участник или организатор от събрание.
 
-1. Влезте в Office 365 със своя служебен акаунт.
+1. Влезте със своя служебен акаунт.
 
 2. Отидете на **Център за администриране на Microsoft 365**.
 

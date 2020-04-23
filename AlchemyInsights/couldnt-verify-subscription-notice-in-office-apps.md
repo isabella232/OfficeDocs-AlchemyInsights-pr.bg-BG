@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182322"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788763"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Забележка „Не може да се провери абонамент“ в приложенията на Office
 
 - Уверете се, че [състоянието на абонамента](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) Ви е валидно, че засегнатият потребител има [даден валиден лиценз](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) и е свързан към интернет.
 
-- Проверете [Страницата за състояние на услугата Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
+- Проверете [Страницата за състояние на услугата Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 
 - [Проверете своята защитна стена](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Проверете антивирусния си софтуер](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Проверете настройките си за прокси сървър](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) на засегнатия компютър.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43182322"
 
 - На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-За подробни инструкции, вж.: 
+За подробни инструкции вижте: 
 
 [Показва се забележка за абонамент, когато отворя приложение на Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 

@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 32aca6055d80a2ab0f9d9a355b4c9f8912c676c1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709856"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787899"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Как да актуализирам информацията за кредитната си карта?
 
@@ -30,6 +30,6 @@ ms.locfileid: "43709856"
 
 4. Актуализирайте информацията за своята кредитна карта или банкова сметка (име на кредитна карта или банкова сметка, адрес за фактуриране, телефонен номер или дата на изтичане на срока), ако е необходимо, след което изберете **Запиши** > **Готово**.
 
-За да научие повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка в Office 365 за фирми](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+За да научие повече, вижте [Добавяне, актуализиране или премахване на кредитна карта или банкова сметка](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
 
 **Забележка**: Ако друг администратор е закупил абонамента, вие няма да можете да актуализирате информацията за кредитна карта или банкова сметка за него. Ако срокът на кредитната карта е на път да изтече и другият администратор не може да я актуализира, можете да предотвратите прекъсването на услугата, като добавите друга кредитна карта или нова банкова сметка за абонамента.

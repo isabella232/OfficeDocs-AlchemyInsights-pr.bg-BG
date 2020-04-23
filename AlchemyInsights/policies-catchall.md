@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599941"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765520"
 ---
 # <a name="teams-policies"></a>Политики на екипите
 
@@ -30,5 +30,5 @@ ms.locfileid: "42599941"
 - [Правилата за събрания](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) контролират това, което потребителите могат да правят със срещите на Teams, включително и контролиране на лобито. За помощ с лоби проблеми, като конфигуриране на Teams да признае всички, вижте [Управление на настройките на лобито и нива на участие](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Правилата за съобщения та](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) те контролират какво могат да правят потребителите с чат и съобщения, включително включване или изключване на чата, изтриване на чатове, искане на разписки за прочитане, използване на гифии и стикери и др.
 - [Правилата за настройване на приложения](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) контролират кои приложения са достъпни за потребителите, включително персонализирани приложения и приложения на трети страни, както и реда, в който се показват.  
-- Правила за [запазване](https://docs.microsoft.com/microsoftteams/retention-policies) на данни за екипи се намират в центъра за защита и съответствие на Office 365.
+- Правила за [съхранение](https://docs.microsoft.com/microsoftteams/retention-policies) на данни за Екипи се намират в центъра за защита и съответствие на Microsoft 365.
 - Политиките за адресна книга на екипите се определят чрез [търсене с обхват директория](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

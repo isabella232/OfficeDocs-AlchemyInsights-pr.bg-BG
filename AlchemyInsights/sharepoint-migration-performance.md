@@ -1,5 +1,5 @@
 ---
-title: Производителност при мигриране на SharePoint
+title: Указания за производителността при мигриране на SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537766"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789291"
 ---
-# <a name="sharepoint-migration-performance"></a>Производителност при мигриране на SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Указания за производителността при мигриране на SharePoint
 
-**Важно**: По време на тези безпрецедентни времена, ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Корекции на временни функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
+Производителността при мигриране може да бъде повлияна от мрежовата инфраструктура, размера на файла, времето за мигриране и ограничаването.
 
-**Фактори за производителността при мигриране**
-
-Производителността при мигриране може да бъде повлияна от мрежовата инфраструктура, размера на файла, времето за мигриране и ограничаването. Разбирането на тези неща ще ви помогне да планирате и увеличите ефективността на своята миграция.
-
-За повече информация посетете тази връзките по-долу.
+За повече информация посетете:
 
 - [Общи насоки за производителността при мигриране](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Избягване на регулирането или блокирането в SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Изтегляне и инсталиране на инструмента за мигриране на SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

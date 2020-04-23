@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946585"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766590"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Неочаквано многофакторно удостоверяване
 
-Ако вашият клиент е създадена след 21 октомври, 2019, и неочаквано получите подкана за MFA, вероятно имате [настройки по подразбиране за защита,](http://aka.ms/securitydefaults) разрешени във вашия клиент. 
+Ако вашият клиент е създадена след 21 октомври, 2019, и неочаквано получите подкана за MFA, вероятно имате [настройки по подразбиране за защита,](https://aka.ms/securitydefaults) разрешени във вашия клиент. 
 
 За да управлявате настройките по подразбиране за защита:
 
