@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761983"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799112"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Множество опити за таксуване на онлайн платежни инструменти
 
-Ние правим множество опити да таксуваме онлайн платежни инструменти, преди да предприемем каквито и да е действия по отношение на услугата. След като бъде избран начин на плащане, всички просрочени суми трябва да бъдат платени с избрания начин на плащане. За да актуализирате текущата информация за плащане за вашия абонамент, следвайте стъпките в [Добавяне, актуализиране или премахване на кредитна карта или парични средства в Microsoft 365 за бизнес](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ако зарядът не е успешен, системата ще продължи да се опитва да уреди баланса през следващите няколко седмици. Можете да правите актуализации на данните си за плащане по всяко време, за да сте сигурни, че следващият опит за таксуване е успешен. За повече информация вижте [Добавяне, актуализиране или премахване на кредитна карта или парични средства в Microsoft 365 за бизнеса](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
