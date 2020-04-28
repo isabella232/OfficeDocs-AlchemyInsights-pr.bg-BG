@@ -1,5 +1,5 @@
 ---
-title: Разрешаване на външно споделяне в SharePoint online
+title: Разрешаване на външно споделяне в SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051666"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912175"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="f696f-102">Разрешаване на външно споделяне в SharePoint online</span><span class="sxs-lookup"><span data-stu-id="f696f-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="88204-102">Разрешаване на външно споделяне в SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="88204-102">Enable external sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="f696f-103">Ако вашата организация извършва работа, която включва споделяне на документи или сътрудничество директно с доставчици, клиенти или клиенти, тогава можете да използвате [функциите за външно споделяне на SharePoint online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , за да споделяте съдържание с хора извън вашата организация.</span><span class="sxs-lookup"><span data-stu-id="f696f-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="88204-103">Ако вашата организация извършва работа, която включва споделяне на документи или сътрудничество директно с доставчици, клиенти или клиенти, тогава можете да използвате [функциите за външно споделяне на SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) за споделяне на съдържание с хора извън вашата организация.</span><span class="sxs-lookup"><span data-stu-id="88204-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="f696f-104">За повече информация относно външното споделяне (гости), моля, посетете връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="f696f-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
+<span data-ttu-id="88204-104">За повече информация относно външно споделяне (гости) можете да посетите връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="88204-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
 
-- [<span data-ttu-id="f696f-105">Какво представлява външният потребител?</span><span class="sxs-lookup"><span data-stu-id="f696f-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [<span data-ttu-id="88204-105">Какво представлява външният потребител?</span><span class="sxs-lookup"><span data-stu-id="88204-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [<span data-ttu-id="f696f-106">Какво се случва, когато споделям сайт или документ?</span><span class="sxs-lookup"><span data-stu-id="f696f-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [<span data-ttu-id="88204-106">Какво се случва, когато споделя сайт или документ?</span><span class="sxs-lookup"><span data-stu-id="88204-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [<span data-ttu-id="f696f-107">Включване или изключване на външното споделяне за SharePoint online</span><span class="sxs-lookup"><span data-stu-id="f696f-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="88204-107">Включване или изключване на външно споделяне за SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="88204-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="f696f-108">Включване или изключване на външното споделяне за даден сайт</span><span class="sxs-lookup"><span data-stu-id="f696f-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="88204-108">Включване или изключване на външно споделяне за сайт</span><span class="sxs-lookup"><span data-stu-id="88204-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [<span data-ttu-id="f696f-109">Управление на достъпа за гости в Office 365 групи</span><span class="sxs-lookup"><span data-stu-id="f696f-109">Manage guest access in Office 365 Groups</span></span>](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [<span data-ttu-id="88204-109">Управление на достъпа на гостите в групи те На Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="88204-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [<span data-ttu-id="f696f-110">Използвайте SharePoint online като екстранет решение бизнес-към-бизнес (B2B)</span><span class="sxs-lookup"><span data-stu-id="f696f-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="88204-110">Използване на Sharepoint Online като екстранет решение за бизнес (B2B)</span><span class="sxs-lookup"><span data-stu-id="88204-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [<span data-ttu-id="f696f-111">Споделяне на файлове или папка на SharePoint</span><span class="sxs-lookup"><span data-stu-id="f696f-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="88204-111">Share SharePoint файлове или папка</span><span class="sxs-lookup"><span data-stu-id="88204-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="f696f-112">Спиране на споделянето на файлове или папки на OneDrive или SharePoint или промяна на разрешенията</span><span class="sxs-lookup"><span data-stu-id="f696f-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [<span data-ttu-id="88204-112">Спиране на споделянето на файлове или папки на OneDrive или SharePoint или промяна на разрешенията</span><span class="sxs-lookup"><span data-stu-id="88204-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [<span data-ttu-id="f696f-113">Изтриване на външен потребител</span><span class="sxs-lookup"><span data-stu-id="f696f-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [<span data-ttu-id="88204-113">Изтриване на външен потребител</span><span class="sxs-lookup"><span data-stu-id="88204-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-<span data-ttu-id="f696f-114">**Получаване на грешка с външен потребител (гост)?**</span><span class="sxs-lookup"><span data-stu-id="f696f-114">**Receiving an error with an external user (guest)?**</span></span>
+<span data-ttu-id="88204-114">**Получаване на грешка с външен потребител (гост)?**</span><span class="sxs-lookup"><span data-stu-id="88204-114">**Receiving an error with an external user (guest)?**</span></span>
 
-<span data-ttu-id="f696f-115">Проверете връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="f696f-115">Check the links below.</span></span> 
+<span data-ttu-id="88204-115">Проверете връзките по-долу.</span><span class="sxs-lookup"><span data-stu-id="88204-115">Check the links below.</span></span> 
 
-- [<span data-ttu-id="f696f-116">Грешки при споделяне на OSE в SharePoint или OneDrive</span><span class="sxs-lookup"><span data-stu-id="f696f-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="88204-116">Грешки при споделяне на OSE в Sharepoint или OneDrive</span><span class="sxs-lookup"><span data-stu-id="88204-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [<span data-ttu-id="f696f-117">Съобщение за грешка, когато външен потребител приема покана за SharePoint Online чрез друг акаунт</span><span class="sxs-lookup"><span data-stu-id="f696f-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="88204-117">Съобщение за грешка, когато външен потребител приема покана sharePoint Online с помощта на друг акаунт</span><span class="sxs-lookup"><span data-stu-id="88204-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="f696f-118">Отказан достъп до споделена папка</span><span class="sxs-lookup"><span data-stu-id="f696f-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [<span data-ttu-id="88204-118">Достъпът е отказан за споделена папка</span><span class="sxs-lookup"><span data-stu-id="88204-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

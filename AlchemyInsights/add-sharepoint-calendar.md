@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671338"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910993"
 ---
-# <a name="add-a-sharepoint-calendar"></a><span data-ttu-id="dda7f-102">Добавяне на календар на SharePoint</span><span class="sxs-lookup"><span data-stu-id="dda7f-102">Add a SharePoint Calendar</span></span>
+# <a name="add-a-sharepoint-calendar"></a><span data-ttu-id="21e50-102">Добавяне на календар на SharePoint</span><span class="sxs-lookup"><span data-stu-id="21e50-102">Add a SharePoint Calendar</span></span>
 
-<span data-ttu-id="dda7f-103">Календари на SharePoint са класически типове списъци, които понякога са объркани с календари на Office 365 група.</span><span class="sxs-lookup"><span data-stu-id="dda7f-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
+<span data-ttu-id="21e50-103">Календари на SharePoint са класически типове списъци, които понякога са объркани с Microsoft 365 групови календари.</span><span class="sxs-lookup"><span data-stu-id="21e50-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
  
-<span data-ttu-id="dda7f-104">За да създадете календар на SharePoint, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="dda7f-104">To create a SharePoint Calendar, follow these steps:</span></span>
+<span data-ttu-id="21e50-104">За да създадете календар на SharePoint, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="21e50-104">To create a SharePoint Calendar, follow these steps:</span></span>
  
-1.  <span data-ttu-id="dda7f-105">Изберете иконата на зъбно колело **настройки** и след това изберете **Добавяне на приложение**.</span><span class="sxs-lookup"><span data-stu-id="dda7f-105">Select the **Settings** gear icon, and then select **Add an App**.</span></span>
-2.  <span data-ttu-id="dda7f-106">В полето **търсене на приложение** въведете **календар** и натиснете enter.</span><span class="sxs-lookup"><span data-stu-id="dda7f-106">In the **Find an app** search box, type **Calendar** and press enter.</span></span>
-3.  <span data-ttu-id="dda7f-107">Изберете приложението, озаглавено **Календар**, след което въведете име за календара си.</span><span class="sxs-lookup"><span data-stu-id="dda7f-107">Select the app titled **Calendar**, and then enter a name for your calendar.</span></span>
+1.  <span data-ttu-id="21e50-105">Изберете иконата на зъбно колело **настройки** и след това изберете **Добавяне на приложение**.</span><span class="sxs-lookup"><span data-stu-id="21e50-105">Select the **Settings** gear icon, and then select **Add an App**.</span></span>
+2.  <span data-ttu-id="21e50-106">В полето **търсене на приложение** въведете **календар** и натиснете enter.</span><span class="sxs-lookup"><span data-stu-id="21e50-106">In the **Find an app** search box, type **Calendar** and press enter.</span></span>
+3.  <span data-ttu-id="21e50-107">Изберете приложението, озаглавено **Календар**, след което въведете име за календара си.</span><span class="sxs-lookup"><span data-stu-id="21e50-107">Select the app titled **Calendar**, and then enter a name for your calendar.</span></span>
 
-<span data-ttu-id="dda7f-108">За повече информация относно групи те Office 365 вижте [Научете повече за групите на Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="dda7f-108">For more information about Office 365 Groups, see [Learn about Office 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="21e50-108">За повече информация относно Групи те на Microsoft 365 вижте [Научете повече за Групите на Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="21e50-108">For more information about Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
 
