@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642133"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912955"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Проблеми при създаване на група свързан сайт в SharePoint
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642133"
 
 1. Има различни начини за създаване и използване на съвременни групи с SharePoint.
 
-   - Можете да свържете съществуващи сайтове към група на Office 365. За повече информация вижте [Свързване на група на Office 365 с помощта на потребителския интерфейс на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - За да създадете свързан сайт на група на Office 365, трябва да създадете [екипен сайт](https://admin.microsoft.com/sharepoint).
+   - Можете да свържете съществуващи сайтове към група на Microsoft 365. За повече информация вижте [Свързване на група на Microsoft 365 с помощта на потребителския интерфейс на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - За да създадете свързан сайт на Група на Microsoft 365, трябва да създадете [екипен сайт](https://admin.microsoft.com/sharepoint).

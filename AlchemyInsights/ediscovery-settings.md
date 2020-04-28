@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714391"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911137"
 ---
 # <a name="ediscovery-settings"></a>Настройки за откриване на елиооткрини данни
 
-eDiscovery/съдържание търсенията ви позволяват да търсите, задръжте и експортирате съдържание от пощенски кутии на Exchange Online, SharePoint Online и OneDrive за бизнес сайтове, Skype за бизнес разговори, екипи на Microsoft и групи на Office 365.
+търсене на електронни данни/съдържание ви позволява да търсите, задръжте и експортирате съдържание от пощенски кутии на Exchange Online, SharePoint Online и OneDrive за бизнес сайтове, Skype за бизнес разговори, екипи на Microsoft и Групи на Microsoft 365.
 
 - Ако търсите опциите за менюто за откриване на електронни данни или търсене на съдържание, вижте [проблеми с откриването на електронни данни](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Научете за разрешенията, необходими за извършване на eDiscovery търсения от [Разрешения, необходими за търсене в eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

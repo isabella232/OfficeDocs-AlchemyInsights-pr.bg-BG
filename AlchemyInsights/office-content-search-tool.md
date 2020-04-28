@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787973"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912247"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Инструмент за търсене на съдържание, за да намерите подходяща информация
 
-Използвайте инструмента за търсене на съдържание в центъра за съответствие на защитата & за бързо намиране на имейл в пощенски кутии на Exchange, документи в сайтове на SharePoint и местоположения в OneDrive и незабавни съобщения в Skype за бизнеса. Можете да използвате инструмента за търсене на съдържание за търсене на имейли, документи и разговори с незабавни съобщения в microsoft 365 инструменти за сътрудничество, като например Microsoft Teams и Групи в Office 365.
+Използвайте инструмента за търсене на съдържание в центъра за съответствие на защитата & за бързо намиране на имейл в пощенски кутии на Exchange, документи в сайтове на SharePoint и местоположения в OneDrive и незабавни съобщения в Skype за бизнеса. Можете да използвате инструмента за търсене на съдържание за търсене на имейли, документи и разговори с незабавни съобщения в microsoft 365 инструменти за сътрудничество, като например Microsoft Teams и Microsoft 365 групи.
 
 
 Преди да използвате търсене на [съдържание](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) от [Центъра за съответствие на защитата &](https://sip.protection.office.com/homepage), ще искате да завършите настройките за конфигурация, включително конфигуриране на [разрешения,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [задаване на скорости на изтегляне](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) и настройки за [експортиране](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

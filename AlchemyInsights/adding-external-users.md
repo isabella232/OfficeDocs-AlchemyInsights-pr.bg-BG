@@ -12,12 +12,12 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 954d592f34e92be46bdd56769e2865eeadf4a8af
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709000"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908873"
 ---
 # <a name="adding-external-users"></a>Добавяне на външни потребители
 
@@ -25,6 +25,6 @@ ms.locfileid: "43709000"
   
 - [Преглед на външното споделяне на SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Достъп за гости в групи на Office 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Достъп за гости в групи на Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
 - [Достъп за гости в екипи те на Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

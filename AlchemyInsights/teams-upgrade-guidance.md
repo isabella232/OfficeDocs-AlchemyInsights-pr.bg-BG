@@ -1,5 +1,5 @@
 ---
-title: Насоки за надграждане на екипите
+title: Ръководство за надстройване на екипи
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,25 +11,27 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626301"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908765"
 ---
-# <a name="microsoft-teams-upgrade"></a>Надграждане на екипите на Microsoft
+# <a name="microsoft-teams-upgrade"></a>Надстройка на екипите на Microsoft
 
-Независимо дали току-що започвате с екипите, вече използвате екипи заедно със Skype за бизнеса или сте готови да надстроите, ние искаме да гарантираме, че имате всичко необходимо, за да навигирате в успешното пътуване до отборите. За повече информация, моля, посетете връзките по-долу.
+**Важно:** Ние можем да помогнем да коригирате това за вас с помощта на диагностика на поддръжката, но изглежда, че не използвате новия център за администриране. За да използвате новия център за администриране, плъзнете превключвателя в горния десен, който гласи **нов център за администриране** надясно. С помощта на новия център за администриране, щракнете върху приспособлението **"Нужда от помощ",** въведете "Надграждане на екипи", след което следвайте указанията, за да изпълните диагностиката.
 
-[Първи стъпки с надстройката на вашите екипи в Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+Независимо дали сте само началото с Teams, вече използвате Teams заедно със Skype за бизнеса или сте готови за надграждане, искаме да се уверим, че имате всичко необходимо, за да навигирате успешно в Teams. За повече информация, моля, посетете линковете по-долу.
 
-[Планирайте вашия ъпгрейд](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Първи стъпки с надстройката на Екипа на Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Разбиране на екипите на Microsoft и съвместно съществуване на Skype за бизнеса](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[План за надстройване](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Извършване на надстройка от Skype за бизнес онлайн екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Разбиране на Microsoft екипи и Skype за съвместно съществуване на бизнеса](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Извършване на надстройка от Skype за бизнес локално за екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Извършване на надграждане от Skype за онлайн бизнес екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Извършване на надграждане от Skype за бизнес локалната екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Проверете състоянието на Skype за бизнес онлайн екипи надграждане с PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Проверете състоянието на Skype за бизнес онлайн екипи надстройка с PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

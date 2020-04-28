@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767238"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912991"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Отстраняване на проблеми при споделянето на съдържание на SharePoint с външни потребители
 
@@ -32,7 +32,7 @@ ms.locfileid: "43767238"
     
 2. Изберете сайта или сайтовете и в лентата щракнете върху **Споделяне**.
     
-За екипен сайт, който принадлежи към група на Office 365 или сайт за комуникация:
+За екипен сайт, който принадлежи към група на Microsoft 365 или сайт за комуникация:
   
 - Тези нови типове сайтове имат същата настройка за споделяне като настройката за цялата организация, освен ако настройката на цялата организация позволява споделяне на файлове с помощта на връзки, които не изискват влизане. В този случай сайтовете позволяват споделяне с нови и съществуващи външни потребители, които влизат в. За да промените настройката за определени сайтове, използвайте новия център за администриране на SharePoint или PowerShell. [Научете повече](https://go.microsoft.com/fwlink/?linkid=871863).
     

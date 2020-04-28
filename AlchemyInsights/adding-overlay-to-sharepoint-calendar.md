@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709396"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908837"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Добавяне на наслагване към календар на SharePoint
 
-Календари на SharePoint са класически типове списъци, които понякога са объркани с календари на Office 365 група.
+Календари на SharePoint са класически типове списъци, които понякога са объркани с Microsoft 365 групови календари.
  
 Ако използвате календар на SharePoint на вашия сайт, можете да наслагнете вашия собствен календар на Exchange върху него, за да създадете комбиниран изглед на календар. Освен това можете да наслагнете друг календар на SharePoint, докато и двата календара на SharePoint са в една и съща колекция от сайтове.
  

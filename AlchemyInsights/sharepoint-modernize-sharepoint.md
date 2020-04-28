@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767706"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912811"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Модернизирайте класическата си sharePoint работа
 
 За да преминете към съвременния потребителски интерфейс, прегледайте следните ресурси:
 
 - [Създаване на **модерни сайтове** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (екипен сайт или сайт за комуникация). Използвайте [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) за създаване на красив, мощен интранет, който свързва работното място. Вижте [примери](https://lookbook.microsoft.com/) и да получите [насоки за дизайна](https://spdesign.azurewebsites.net/).
-- [Свържете вашия сайт с **група на Office 365,** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) за да увеличите сътрудничеството в Microsoft 365.
+- [Свържете вашия сайт с **група на Microsoft 365,** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) за да увеличите сътрудничеството в Microsoft 365.
 - Трансформирайте в **съвременния списък и библиотека** опит, като [активирате списъци и библиотеки, за да се покаже в съвременния потребителски интерфейс.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
 - Трансформирайте страниците на **сайта** от класически **уики,** **уеб част**и **начални** страници в съвременни страници от страна [на клиента.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) [Програмата за модернизация на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) предоставя информация за използването на страницата за текущото уики и страници с уеб части, за да ви помогне да приоритизирате трансформацията на страниците.
 
