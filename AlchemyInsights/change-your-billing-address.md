@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198740"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943932"
 ---
-# <a name="change-your-billing-address"></a><span data-ttu-id="0b248-102">Промяна на адреса ви за фактуриране</span><span class="sxs-lookup"><span data-stu-id="0b248-102">Change your billing address</span></span>
+# <a name="change-your-billing-address"></a><span data-ttu-id="815d4-102">Промяна на адреса ви за фактуриране</span><span class="sxs-lookup"><span data-stu-id="815d4-102">Change your billing address</span></span>
 
-<span data-ttu-id="0b248-103">Вашата фактура или фактура съдържа три адреса.</span><span class="sxs-lookup"><span data-stu-id="0b248-103">Your bill or invoice contains three addresses.</span></span> 
+<span data-ttu-id="815d4-103">Вашата фактура или фактура съдържа три адреса.</span><span class="sxs-lookup"><span data-stu-id="815d4-103">Your bill or invoice contains three addresses.</span></span>
 
-<span data-ttu-id="0b248-104">**Промяна на адреса ви за фактуриране**</span><span class="sxs-lookup"><span data-stu-id="0b248-104">**Change your Bill-To address**</span></span>
+<span data-ttu-id="815d4-104">**Промяна на адреса за фактуриране за начин на плащане**</span><span class="sxs-lookup"><span data-stu-id="815d4-104">**Change the billing address for a payment method**</span></span>
 
-1. <span data-ttu-id="0b248-105">В центъра за администриране отидете на страницата Начини на **плащане > плащане [за](https://go.microsoft.com/fwlink/p/?linkid=2018806) таксуване.**</span><span class="sxs-lookup"><span data-stu-id="0b248-105">In the admin center, go to the **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span> 
+1. <span data-ttu-id="815d4-105">В центъра за администриране отидете на **Таксуване > [Методи за плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span><span class="sxs-lookup"><span data-stu-id="815d4-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
+2. <span data-ttu-id="815d4-106">Изберете кредитната карта или банковата сметка, която искате да промените.</span><span class="sxs-lookup"><span data-stu-id="815d4-106">Select the credit card or bank account that you want to change.</span></span>
+3. <span data-ttu-id="815d4-107">На страницата Подробности за **метода на плащане** щракнете върху **Редактиране**.</span><span class="sxs-lookup"><span data-stu-id="815d4-107">On the **Payment method details** page, click **Edit**.</span></span>
+4. <span data-ttu-id="815d4-108">Актуализирайте адреса си за фактуриране, след което кликнете върху **Запазване > Готово**.</span><span class="sxs-lookup"><span data-stu-id="815d4-108">Update your billing address, then click **Save > Done**.</span></span>
 
-2. <span data-ttu-id="0b248-106">Изберете кредитната карта или банковата сметка, която искате да промените.</span><span class="sxs-lookup"><span data-stu-id="0b248-106">Select the credit card or bank account that you want to change.</span></span> 
+<span data-ttu-id="815d4-109">За повече информация относно промените в адрес и уведомяване вижте [Промяна на адресите за фактуриране за Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="815d4-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
 
-3. <span data-ttu-id="0b248-107">На страницата Подробности за **метода на плащане** щракнете върху **Редактиране**.</span><span class="sxs-lookup"><span data-stu-id="0b248-107">On the **Payment method details** page, click **Edit**.</span></span> 
+<span data-ttu-id="815d4-110">**Промяна на информацията за сметката за плащане**</span><span class="sxs-lookup"><span data-stu-id="815d4-110">**Change the billing account information**</span></span>
 
-4. <span data-ttu-id="0b248-108">Актуализирайте адреса си за фактуриране, след което кликнете върху **Запазване > Готово**.</span><span class="sxs-lookup"><span data-stu-id="0b248-108">Update your billing address, then click **Save > Done**.</span></span> 
+1. <span data-ttu-id="815d4-111">В центъра за администриране отидете на **Сметки > сметки за [таксуване.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**</span><span class="sxs-lookup"><span data-stu-id="815d4-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
+2. <span data-ttu-id="815d4-112">Изберете **Редактиране на информацията за акаунта за таксуване**.</span><span class="sxs-lookup"><span data-stu-id="815d4-112">Select **Edit billing account information**.</span></span>
+3. <span data-ttu-id="815d4-113">Актуализирайте информацията за акаунта за фактуриране, след което щракнете върху **Запиши > Готово**.</span><span class="sxs-lookup"><span data-stu-id="815d4-113">Update the billing account information, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="0b248-109">За повече информация относно промените в адрес и известия вижте [Промяна на адресите за фактуриране за Office 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="0b248-109">For more info about address and notification changes, see [Change your billing addresses for Office 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span> 
+<span data-ttu-id="815d4-114">**Забележка:** Не можете да промените страната/региона.</span><span class="sxs-lookup"><span data-stu-id="815d4-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="815d4-115">Ако това поле трябва да бъде променено, ще трябва да закупите нов клиент.</span><span class="sxs-lookup"><span data-stu-id="815d4-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
