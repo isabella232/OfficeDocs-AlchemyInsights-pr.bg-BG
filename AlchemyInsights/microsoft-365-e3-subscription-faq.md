@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912034"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943962"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Често задавани въпроси за абонамент за Microsoft 365 E3 и управлението на лицензи
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912034"
 - За да **отмените** лицензи на Е3, отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Настройки и действия**, след което щракнете върху **Отмени абонамента**. За да научите повече, вижте [Отменете абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - За да **активирате** абонамента за Е3, вижте [Активирайте абонамента си](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - За да **активирате отново** изтекъл абонамент за Е3, вижте [Активирайте повторно абонамента си](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- За да удължите пробната версия на Е3, вижте [Удължете пробната си версия](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- За да **удължите** пробната версия на Е3, вижте [Удължете пробната си версия](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 За повече информация вж. [Управление на лицензи за абонамент](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
