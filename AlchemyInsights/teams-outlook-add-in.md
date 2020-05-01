@@ -1,5 +1,5 @@
 ---
-title: Добавки за екипи на Outlook
+title: Екипи добавка та
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158665"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957931"
 ---
-# <a name="teams-outlook-add-in"></a>Добавки за екипи на Outlook
+# <a name="teams-outlook-add-in"></a>Екипи добавка та
 
-Ако вашите потребители не виждат добавките за Teams Outlook след преместване в поддържан режим на надстройка на Teams (TeamsOnly, SfBWithTeamsCollabAndMeetings, или островите), добавката може да не е успяла да се зареди правилно.  Вижте следната статия за отстраняване на проблема: 
+Има няколко фактора, които могат да причинят несе появяване на вашата добавка за екипи и всички те са изброени [тук](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).
 
-- [Защо не мога да видя добавката за събрание на екипи на Microsoft за Outlook?](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+**Препоръчваме ви първо да проверите дали добавката не е забранена:**
+
+- В Outlook щракнете върху **файл** и след това **върху Опции**.
+- Изберете раздела **Добавки** на диалоговия прозорец **Опции на Outlook.**
+- Потвърдете, че **microsoft Teams среща добавка за Microsoft Office** е в списъка активно приложение **добавки.**
+- Ако teams Meeting добавката е в списъка в списъка **забранени приложения добавки** , изберете COM **добавки** в **управление** и след това щракнете върху **Go ...**
+- Поставете отметка в квадратчето до Добавка за **събрание на екипи те за Microsoft Office**.
+- Щракнете върху **OK** на всички диалогови прозорци и рестартирайте Outlook.
