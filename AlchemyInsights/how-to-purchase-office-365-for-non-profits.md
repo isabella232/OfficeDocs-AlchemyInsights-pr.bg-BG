@@ -1,5 +1,5 @@
 ---
-title: Как да закупите Office 365 за организации с нестопанска цел
+title: Microsoft 365 за организации с нестопанска цел - в ход
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763530"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005211"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Как да закупите Office 365 за организации с нестопанска цел
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 за организации с нестопанска цел - в ход
 
-Вашата допустимост като квалифицирана организация с нестопанска цел на Microsoft е подложена на преглед. Можете да очаквате да получите известие за определянето на условията, преди да изтече пробната ви версия. Можете да проследите състоянието на вашата кандидатура [тук](https://eligibilityweb.azurewebsites.net/).
+Вашата допустимост като квалифицирана организация с нестопанска цел на Microsoft е **подложена на преглед.** Можете да очаквате да получите известие за определянена вашата допустимост **48 часа** от времето на подаване. Моля, изчакайте поне **48 часа,** за да получите това известие, преди да отворите заявка за услуга. 
+
+За повече информация вижте [Microsoft 365 за организации с нестопанска цел](https://www.microsoft.com/nonprofits/microsoft-365). 

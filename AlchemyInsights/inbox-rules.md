@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724545"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005247"
 ---
-# <a name="inbox-rules"></a>Правила за входящата поща
+# <a name="inbox-rules-in-outlook-desktop"></a>Правила за пощенска кутия в outlook настолен компютър
 
-За повече информация относно използването на правилата за входящи във вашата пощенска кутия вижте:
+1. Отидете на **Файл > Управление на правила & предупреждения,** за да отворите диалоговия прозорец Правила и **предупреждения.**
+2. В раздела **Правила за имейл** щракнете върху Ново **правило**.
+3. Изберете един от шаблоните от **стъпка 1**. За да започнете от празно правило, изберете **Прилагане на правило за получените от мен съобщения или Прилагане на правило за съобщенията, които изпращам**.
+4. В **Стъпка 2: Редактирайте описанието на правилата ,** кликнете върху всички подчертани опции, за да ги зададете. Ако например сте избрали **"Маркирай съобщения та" от някого за проследяване** в Стъпка 1, щракнете върху хора или публична **група,** за да изберете кои съобщения на подателя искате да сигнализирате; след това щракнете върху **проследяване в този момент,** за да изберете флаг и последваща дата.
+5. Щракнете върху **Напред**.
 
-- [Управление на имейл съобщения с помощта на правила в Outlook за PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Управление на съобщенията чрез правила за входяща поща в Outlook в мрежата](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Можете също да управлявате правилата на входящата поща в Exchange Online PowerShell. За повече информация вижте [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (изглед), [Нова входящаправило](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (създаване), [Премахване на входящиправило](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (изтриване), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (промяна на съществуващи), [Забраняване на ВходящиПравило](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (забрани съществуващи) и [Разрешаване-ВходящиПравило](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (разрешаване на съществуващите).
+За допълнителна информация относно начина на работа с правилата на входящата поща, моля, вижте [Управление на имейл съобщения та чрез правила](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

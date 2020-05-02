@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702871"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005319"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Разширяване на пробната версия за Microsoft 365 за бизнес
 
-Можете да удължите пробната си версия за още 30-дневен период. Можеш да го направиш само веднъж.
+Можете да удължите пробната си версия за период от 30 дни. След това вашият пробен период преминава в допълнителен 30-дневен [гратисен период](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). За да разширите пробната си версия, изпълнете следните стъпки:
   
 1. В центъра за администриране отидете на **Billing** \> [Products & услуги](https://portal.office.com/adminportal/home#/subscriptions).
 
