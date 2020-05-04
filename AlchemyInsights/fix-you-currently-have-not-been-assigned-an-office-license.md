@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218073"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010171"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Корекция - „В момента не е ви е даден лиценз за Office“
 
-За да инсталирате клиентските приложения на Office, уверете се, че имате абонамент за Office 365 или Microsoft 365, който [включва клиентските приложения на Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), например Office 365 Business Premium, Office 365 Business или Office 365 ProPlus.
+За да инсталирате клиентските приложения на Office, уверете се, че имате абонамент за Office 365 или Microsoft 365, който [включва клиентските приложения на Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 Business Premium, приложенията на Microsoft 365 за бизнеса или приложенията на Microsoft 365 за предприятия.
 
 **Забележка**: [Office Home и Business](https://products.office.com/home-and-business) е [продукт Office за дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), а не част от абонамент за фирми. Project Online Essentials не включва настолната версия на Project, така че не се изисква инсталиране. Потребителите на план 1 на Visio имат достъп до Visio в уеб, тъй като планът не включва настолното на приложение Visio. Настолните приложения на Project и Visio не се предлагат за Mac
 
-Ако имате абонамент, който включва приложенията на Office, няма да виждате опция за инсталирането му, освен ако нямате [даден лиценз за](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ако сте администратор на Office 365, отговорен за даване на лицензи, вижте [Даване на лицензи на потребители](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Ако имате абонамент, който включва приложенията на Office, няма да виждате опция за инсталирането му, освен ако нямате [даден лиценз](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ако сте администратор на Office 365, отговорен за даване на лицензи, вижте [Даване на лицензи на потребители](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Нека всеки потребител:
 
@@ -32,11 +32,11 @@ ms.locfileid: "43218073"
 
 2. Влезте със своя служебен или учебен акаунт, който има присвоен лиценз за Office.
 
-3. Под секцията "Office" изберете желания език. Изберете 32-битовата версия или 64-битовата версия.
+3. Под раздела "Office" изберете желания език. Изберете 32-битовата версия или 64-битовата версия.
 
-4. Щракнете върху **Инсталиране**.
+4. Щракнете върху **Инсталирай**.
 
-За подробни стъпки и отстраняване на неизправности при инсталиране на Office, вижте: [Изтегляне и инсталиране или преинсталиране на Office на компютър PC или на Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). За конкретни инструкции за инсталирането на Visio или Project, вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) или [Инсталиране на Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
+За подробни стъпки и отстраняване на неизправности при инсталиране на Office, вижте: [Изтегляне и инсталиране или преинсталиране на Office на компютър PC или Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA). За конкретни инструкции за инсталирането на Visio или Project, вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) или [Инсталиране на Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).
 
 За решения на конкретни проблеми при инсталиране на Office вижте:
 
