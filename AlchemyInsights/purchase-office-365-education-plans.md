@@ -1,5 +1,5 @@
 ---
-title: Закупуване на плановете на Microsoft 365 Education
+title: Microsoft 365 за образование – одобрено
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789363"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005391"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Закупуване на плановете на Microsoft 365 Education
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 за образование – одобрено
 
 Одобрени сте за Microsoft 365 Education.  За да закупите:
 
@@ -28,6 +28,8 @@ ms.locfileid: "43789363"
 2. Изберете от списъка под **Планове за образование**.
 
 3. Задръжте мишката над абонамента, който искате да закупите, и щракнете върху **Купете сега**.
+
+4. [Настройка на вашия клиент за Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Включване на Teams**
 
