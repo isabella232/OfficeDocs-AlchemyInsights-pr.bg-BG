@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716197"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021523"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a><span data-ttu-id="3e482-102">Корпоративно споразумение за корпоративно лицензиране на обем, активирано на грешен акаунт</span><span class="sxs-lookup"><span data-stu-id="3e482-102">Volume licensing enterprise agreement activated on wrong account</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="3d1cb-102">Корпоративно споразумение за корпоративно корпоративно лицензиране за обем, активирано на грешен акаунт или прехвърляне на лицензи от един акаунт в друг</span><span class="sxs-lookup"><span data-stu-id="3d1cb-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="3e482-103">Ако откриете, че вашите абонаменти, закупени чрез корпоративно споразумение за корпоративно лицензиране на обемно, са активирани на погрешен клиент, моля, използвайте опцията "Нека ви се обадим", за да говорите с инженер по поддръжката.</span><span class="sxs-lookup"><span data-stu-id="3e482-103">If you find your subscriptions purchased through a Volume Licensing Enterprise Agreement have been activated on the wrong tenant, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="3d1cb-103">Ако установите, че вашите абонаменти, закупени чрез **корпоративно споразумение за корпоративно лицензиране на корпоративно лицензиране,** са активирани на **неправилен клиент**или искате да **прехвърлите лицензи** от един клиент на друг, свържете се с [Центъра за обслужване на корпоративно лицензиране на Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span><span class="sxs-lookup"><span data-stu-id="3d1cb-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
