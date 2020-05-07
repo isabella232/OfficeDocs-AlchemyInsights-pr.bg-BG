@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671482"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061985"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавяне, премахване или предотвратяване на потребителите да променят снимки на профили
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671482"
 
 - **Премахване на снимки на потребителски профили:** Снимките на профила могат да бъдат премахнати от администратор в Управлението на потребители на Active Directory в [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или от потребител в потребителския му профил в Microsoft Teams.
 
-- **Блокиране на промени в потребителския профил:** Промените в снимките могат да бъдат блокирани за всички Microsoft 365* чрез добавяне на правила за Outlook Web App за статия, [заключване на снимки или ограничаване на разрешенията за промяна на снимката в профила на Microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Блокиране на промени в потребителския профил:** Промените в снимките могат да бъдат блокирани за всички Microsoft 365* чрез добавяне на правила за Outlook Web App за статия, [заключване на снимки или ограничаване на разрешенията за промяна на снимката в профила на Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 *Моля, имайте предвид, че в момента Microsoft Teams не поддържа правилата на Outlook Web App за блокиране на промени в снимки, но планира да добави поддръжка за тази функция в началото на 2020.
