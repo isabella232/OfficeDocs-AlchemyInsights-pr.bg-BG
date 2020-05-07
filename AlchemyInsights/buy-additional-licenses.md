@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712160"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061696"
 ---
 # <a name="buy-additional-licenses"></a>Купете допълнителни лицензи
 
-1. В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. В центъра за администриране отидете на страницата **Таксуване** \> **[на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Намерете абонамента, към който искате да добавите лицензи, след което изберете **Добавяне/премахване на лицензи**.
 
