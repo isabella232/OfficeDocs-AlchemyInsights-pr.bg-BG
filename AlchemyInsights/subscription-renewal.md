@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741816"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063246"
 ---
 # <a name="subscription-recurring-billing"></a>Абонамент носене на периодични плащания
 
 Ако искате да знаете кога месечният или годишният ви абонамент ще бъде таксуван (ако **повтарящите се плащания** са включени) или изтече (ако **повтарящите се плащания** са изключени):
   
-1. В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. В центъра за администриране отидете на страницата **Таксуване** \> **[на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. За абонамента, за който искате да научите повече в **"Таксуване"** вижте **"Подновявания на** или **изтичане" на** датата.
 

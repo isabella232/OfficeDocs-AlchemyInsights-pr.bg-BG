@@ -13,19 +13,19 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710000"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062417"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Как да променя от плащания с кредитни карти към фактура?
 
 > [!NOTE]
 > Опцията за плащане по фактура е налична само ако абонаментът ви струва определена сума (която варира според местоположението на услугата). Може да се изисква кредитна проверка за по-големи плащания на фактури. За да научите повече, вижте [Плащане за вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. В центъра за администриране отидете на страницата **Таксуване** \> **[на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Изберете абонамента, който искате да промените. В секцията **Таксуване** изберете опцията **Редактиране** за текущия си начин на плащане.
 

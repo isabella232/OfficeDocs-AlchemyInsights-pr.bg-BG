@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912955"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064382"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Проблеми при създаване на група свързан сайт в SharePoint
 
@@ -26,7 +26,7 @@ ms.locfileid: "43912955"
    - За повече информация за първи стъпки с Powershell вижте [Първи стъпки с онлайн обвивката за управление на SharePoint](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Премахване на сайта от изтрити сайтове с помощта на [Remove SPOИзтритиdСайт](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell команда. Powershell е необходимо за постоянно изтриване на групови сайтове.
 
-1. Ако създавате група свързан сайт и получавате предупреждение: **Вече съществува друга група със същия псевдоним**, проверете съществуващите групи от Център за администриране на Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). За да разрешите проблема, изтрийте съществуваща група, ако вече не е необходимо или създайте сайта с друг псевдоним.
+1. Ако създавате група свързан сайт и получавате предупреждение: **Вече съществува друга група със същия псевдоним**, проверете съществуващите групи от центъра за администриране на Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). За да разрешите проблема, изтрийте съществуваща група, ако вече не е необходимо или създайте сайта с друг псевдоним.
 
 1. Има различни начини за създаване и използване на съвременни групи с SharePoint.
 
