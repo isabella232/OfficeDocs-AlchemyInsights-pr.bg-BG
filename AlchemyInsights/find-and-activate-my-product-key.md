@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062453"
 ---
 # <a name="find-and-activate-my-product-key"></a>Намиране и активиране на моя продуктов ключ
@@ -32,7 +32,7 @@ ms.locfileid: "44062453"
 
 **Забележка:** За да използвате продуктов ключ за удължаване на срока на годност или за добавяне на лиценз към съществуващия абонамент за Microsoft 365 Business Premium Standard, ви е необходим нов и неизползван ключ за същия абонамент за Microsoft 365.  Въвеждането на оригиналния продуктов ключ на Microsoft 365 няма да работи, защото ключ, който вече е бил използван, не може да се използва отново.
 
-1. В центъра за администриране отидете на страницата **Таксуване** > **[на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. В центъра за администриране отидете на страницата **Таксуване**  >  **[на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Намерете абонамента, за който искате да удължите срока на валидност или добавете лицензи.  Щракнете върху [разширена дата](https://go.microsoft.com/fwlink/p/?linkid=842054) или [добавете още лицензи](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

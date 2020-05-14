@@ -13,17 +13,17 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063858"
 ---
 # <a name="manage-app-licenses"></a>Управление на лицензи за приложения
 
 ## <a name="to-change-license-quantity"></a>Промяна на количеството на лиценза
 
-1. Отворете страницата **Таксуване** > **[на вашите продукти,](https://go.microsoft.com/fwlink/p/?linkid=842054)** след което изберете раздела **Приложения.**
+1. Отворете **Billing**  >  страницата**[Таксуване на вашите продукти,](https://go.microsoft.com/fwlink/p/?linkid=842054)** след което изберете раздела **Приложения.**
 
 2. Намерете и изберете приложението, което искате да управлявате.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "44063858"
 
 ## <a name="to-assign-app-licenses"></a>За да присвоите лицензи за приложения
 
-1. Отворете страницата **Таксуване** > **[на вашите продукти,](https://go.microsoft.com/fwlink/p/?linkid=842054)** след което изберете раздела **Приложения.**
+1. Отворете **Billing**  >  страницата**[Таксуване на вашите продукти,](https://go.microsoft.com/fwlink/p/?linkid=842054)** след което изберете раздела **Приложения.**
 
 2. Намерете и изберете приложението, което искате да управлявате.  
 
