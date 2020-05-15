@@ -10,26 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b3bcff33fd0fa59b4f660af12cdd2a5c82409d1e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cd281c5f503e5e7f7d4d4012183c173316b7e364
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053934"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235430"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Идентификационни данни съобщения в SharePoint или OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Съобщения за идентификационни данни в SharePoint или OneDrive
 
-Потребителите могат да бъдат периодично подканени от Office за идентификационни данни на SharePoint Online или OneDrive при опит за отваряне на документи.
+Потребителите може периодично да се подканват от Office за идентификационни данни sharePoint Online или OneDrive при опит за отваряне на документи.
 
-Следват някои примери на съобщенията за идентификационни данни:
+Ако имате тези симптоми, опитайте стъпките, намиращи се в [тази статия](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
-- Влезте в профила си с вашия организационен акаунт
-
-- Необходими са идентификационни данни
-
-- В момента не можем да се свържем, Проверете мрежовата си връзка
-
-Ако имате тези симптоми, моля, опитайте стъпките, намиращи се в [тази статия](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
-
-Алтернативно, ако използвате еднократна идентификация (SSO) за удостоверяване, моля, вижте [тази статия](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) .
-
+Освен това ако използвате еднократна идентификация (SSO) за удостоверяване, вижте [тази статия](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) вместо.
