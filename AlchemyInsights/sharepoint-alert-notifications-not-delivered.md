@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742036"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343093"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Не доставени известия за предупреждение на SharePoint
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742036"
 
 - Не е възможно да изпращате предупреждения до група за разпространение, се поддържат само защита и O365 групи.
 - Не можете да персонализирате шаблони за имейл за известяване; трябва да използвате Microsoft FLOW или работния поток на SharePoint Designer, за да ги постигнете.
-
-Повече информация:
-
-- **Предупреждение за настройка:** За повече информация относно настройката на предупрежденията вижте [Създаване на предупреждение, за да получите известие, когато файл или папка се промени в SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Отстраняване на предупреждения:** За повече информация относно предупрежденията за отстраняване на неизправности вижте [Потребителите не получават известия за известяване на SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- Разширени правила за **предупреждение за съответствие o365:** За повече информация относно настройването на тези предупреждения вижте [Правила за предупреждения за съответствие.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
-- Регистрационни файлове за **проверка на SharePoint и OneDrive:** За повече информация относно начините за извличане на тези събития вижте [Търсене в регистрационния файл за проверка](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Предупреждения, изпратени от разширена защита на заплахите:** Вижте [ATP за SharePoint и OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Сигнали, изпратени от политики тет, предотвратяване на загуба на данни:** Вижте [имейл известия за DLP политики.](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>Свързани теми
 
