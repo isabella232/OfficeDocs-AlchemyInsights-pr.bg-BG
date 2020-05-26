@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762882"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373024"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Научете за външните опции за споделяне на календар
+# <a name="exchange-online-collaboration-options"></a>Опции за онлайн сътрудничество на Exchange
 
-Ако трябва да планирате събрания с хора извън вашата организация, Microsoft 365 ви позволява да направите календарите достъпни за "външни потребители", тези, които трябва да виждат заетост, но нямат потребителски акаунти за вашата среда на Microsoft 365. За повече информация вижте [Споделяне на календари с външни потребители](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
+- За да прегледате **споделянето на външен календар,** вижте [Споделяне в Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+
+- За да **споделите календари с друга организация на Office 365**, вижте [връзки на организация в Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+
+- За да **контролирате как вашите потребители споделят календарите си с хора извън вашата организация,** вижте [Споделяне на правила в Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+
+- За да видите **подобренията,** които се правят при споделянето на календар, вижте [Споделяне на календарв Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
