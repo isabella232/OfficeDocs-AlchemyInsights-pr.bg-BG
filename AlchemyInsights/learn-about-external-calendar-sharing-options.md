@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762882"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373024"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="9f0ba-102">Научете за външните опции за споделяне на календар</span><span class="sxs-lookup"><span data-stu-id="9f0ba-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="bc202-102">Опции за онлайн сътрудничество на Exchange</span><span class="sxs-lookup"><span data-stu-id="bc202-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="9f0ba-103">Ако трябва да планирате събрания с хора извън вашата организация, Microsoft 365 ви позволява да направите календарите достъпни за "външни потребители", тези, които трябва да виждат заетост, но нямат потребителски акаунти за вашата среда на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9f0ba-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="9f0ba-104">За повече информация вижте [Споделяне на календари с външни потребители](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="9f0ba-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="bc202-103">За да прегледате **споделянето на външен календар,** вижте [Споделяне в Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="bc202-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="bc202-104">За да **споделите календари с друга организация на Office 365**, вижте [връзки на организация в Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="bc202-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="bc202-105">За да **контролирате как вашите потребители споделят календарите си с хора извън вашата организация,** вижте [Споделяне на правила в Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="bc202-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="bc202-106">За да видите **подобренията,** които се правят при споделянето на календар, вижте [Споделяне на календарв Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="bc202-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
