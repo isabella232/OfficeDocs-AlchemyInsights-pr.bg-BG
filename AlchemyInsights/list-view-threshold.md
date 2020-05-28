@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953723"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343041"
 ---
 # <a name="list-view-threshold"></a>Праг за списъчен изглед
 
-Списъците и библиотеките на SharePoint могат да съдържат до 30 милиона елемента, но когато имат повече от 5000 елемента, е възможно да видите грешка за праг за списъчен изглед, когато се опитате да работите с тях. Този праг е въведен, за да се поддържа производителността на услугата. Той не може да бъде променян. Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка.
+Прагът на списъчен изглед е на място за поддържане на работата на услугата. Прагът не може да се променя в SharePoint Online. За да избегнете удрянето на този праг, вижте [Управление на големи списъци и библиотеки в SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-За да избегнете достигането на този праг, посетете:
-
-- [Управление на големи списъци и библиотеки в SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Грешка при споделяне/прекъсване на наследяване](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка. Вижте [Грешка дял/прекъсване наследяване](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

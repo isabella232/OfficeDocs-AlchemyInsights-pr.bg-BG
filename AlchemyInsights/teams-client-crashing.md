@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030516"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354041"
 ---
 # <a name="teams-client-crashing"></a>Клиент на Teams има проблем със срив?
 
@@ -24,32 +24,26 @@ ms.locfileid: "43030516"
 
 - Ако използвате настолното приложение Teams, [уверете се, че приложението е напълно актуализирано](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Уверете се, че всички [URL и диапазони от адреси за Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) са достъпни.
+- Уверете се, че всички [URL адреси и адресни диапазони](https://docs.microsoft.com/microsoftteams/connectivity-issues) на Microsoft са достъпни.
 
-- Влезте със своя акаунт на администратор и проверете [вашето табло за изправност на услугите](https://docs.microsoft.com/office365/enterprise/view-service-health), за да проверите дали няма прекъсване или влошаване на услугата.
+- Влезте с акаунта си на администратор на клиент и проверете [вашето състояние на услугата табло,](https://docs.microsoft.com/office365/enterprise/view-service-health) за да се уверите, че не съществува прекъсване или деградация на услугата.
 
- - Като последна стъпка можете да се опитате да изчистите кеша на вашия клиент в Teams:
+- Деинсталиране и преинсталиране на приложението Teams (връзка)
+    - Намерете папката %appdata%\Microsoft\teams\ на вашия компютър и изтрийте всички файлове в тази директория.
+    - [Изтеглете и инсталирайте приложението Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)и ако е възможно, инсталирайте Teams като администратор (щракнете с десния бутон върху инсталирането на Teams и изберете "Изпълнявай като администратор", ако е възможно).
 
-    1.  Напълно излезте от настолния клиент на Microsoft Teams. Можете да щракнете с десния бутон на мишката върху **Teams** от иконата в системната област и да щракнете върху **Изход**, или да изпълнете диспечера на задачите, за да прекратите напълно процеса.
+Ако клиентът ви Teams все още се срива, можете ли да възпроизведете проблема? Ако е така:
 
-    2.  Отидете на File Explorer и въведете %appdata%\Microsoft\teams.
+1. Използвайте "Запис на стъпки", за да заснемете стъпките си.
+    - Затворете всички ненужни или поверителни приложения.
+    - Стартирайте steps Recorder и възпроизвеждане на проблема, докато сте влезли с засегнатия потребителски акаунт.
+    - [Съберете отборите регистрационни файлове, които улавят записаните повторения стъпки](https://docs.microsoft.com/microsoftteams/log-files). **Забележка**: Уверете се, че сте снети влизане в адреса на засегнатия потребител.
+    - Събиране на информация за разтоварване и /или повреда кофа (Windows). Стартиране на Windows Powershell на компютъра, където се случва срив и изпълнете следните команди:
 
-    3.  След като влезете в справочния указател, ще видите няколко от следните папки:
-
-         - От **Кеш за приложенията**, отидете на Кеш и изтрийте всеки от файловете в местоположението на кеша: %appdata%\Microsoft\teams\application cache\cache.
-
-        - От **Blob_storage**, изтрийте всички файлове: %appdata%\Microsoft\teams\blob_storage.
-
-        - От **Blob_storage**, изтрийте всички файлове: %appdata%\Microsoft\teams\Cache.
-
-        - От **Бази данни**, изтрийте всички файлове: %appdata%\Microsoft\teams\databases.
-
-        - От **GPUCache**, изтрийте всички файлове: %appdata%\Microsoft\teams\GPUcache.
-
-        - От **IndexedDB**, изтрийте файла .db: %appdata%\Microsoft\teams\IndexedDB.
-
-        - От **Локално място за съхранение**, изтрийте всички файлове: %appdata%\Microsoft\teams\Local Storage.
-
-        - И накрая, от **tmp**, изтрийте всеки файл: %appdata%\Microsoft\teams\tmp.
-
-    4. Рестартирайте своя клиент в Teams.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Прикачете файла към вашия случай на поддръжка.

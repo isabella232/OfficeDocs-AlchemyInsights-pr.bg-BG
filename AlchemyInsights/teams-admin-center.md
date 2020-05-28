@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021629"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354077"
 ---
 # <a name="teams-admin-center"></a>Център за администриране на Teams
 
@@ -30,4 +30,6 @@ ms.locfileid: "44021629"
 Ако потребителите не се показват в Центъра за администриране на Teams, проверете следното:
 
 - Създали ли сте потребители или сте дали лицензи през последните 24 часа? Уверете се, че сте изчакали поне 24 часа, преди да отворите билет за поддръжка.
-- Уверете се, че сте задали подходящи лицензи? 
+- Уверете се, че сте задали подходящи лицензи?
+- Ако имате локална Active Directory, проверете дали [стойността на msRTCSIP-PrimaryUserAddress или SIP адрес в полето ProxyAddresses във вашата локална Active Directory е уникален и формат ът отговаря](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip: потребителско**име** на потребителя от центъра за администриране на [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ако възнамерявате да поддържате Skype за разполагане на бизнес сървър и потребители, които са удоманени локално и онлайн: следвайте **"Настройте хибрид с екипи и Онлайн на Skype за бизнеса"** във вашия Контролен панел на Skype за бизнес сървър и преместете потребителите онлайн.
