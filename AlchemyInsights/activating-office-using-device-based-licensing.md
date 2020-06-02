@@ -1,5 +1,5 @@
 ---
-title: Активиране на Office чрез лицензиране на устройство
+title: Активиране на Office с помощта на лицензиране, базирано на устройство
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010288"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504432"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез лицензиране на устройство
+# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office с помощта на лицензиране, базирано на устройство
 
 > [!NOTE]
-> [Office устройство базирано активиране](https://aka.ms/officedba) за клиенти на образованието в САЩ вече е отхвърлено. Насърчаваме организациите да планират новия лиценз за приложения за обучение на Microsoft 365 (устройство) за клиенти, които се обучават в образованието.
+> Активирането на Office [устройство](https://aka.ms/officedba) за клиенти, свързани с образованието в САЩ, вече е отхвърлено. Насърчаваме организациите да планират новия лиценз за приложения за образование на Microsoft 365 (устройство) за образователни клиенти.
 
-За да активирате Office, като използвате лицензионно обслужване, базирано на устройства, трябва да имате microsoft 365 Приложения за образование (устройство) добавка лиценз, който е достъпен само за клиенти на образованието и е достъпен само чрез Записване за решения в областта на образованието (EES). Вижте [Изисквания за използване на базирано на устройства лицензиране за Приложения на Microsoft 365 за предприятие](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+За да активирате Office, използвайки лицензиране, базирано на устройство, трябва да имате добавка за приложения на Microsoft 365 за образование (устройство), която е налична само за клиенти, които са в сферата на образованието, и е достъпен само чрез Записване за решения за образование (EES). Вижте [Изисквания за използване на базирано на устройство лицензиране за Приложения на Microsoft 365 за корпоративни приложения.](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 
-За подробна информация относно настройката вижте:
+За подробна информация относно настройката, вижте:
 
-- [Стъпки за конфигуриране на устройството лицензиране за Приложения на Microsoft 365 за предприятие](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Управление на лицензи за устройства](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
+- [Стъпки за конфигуриране на лицензиране на устройства за приложения на Microsoft 365 за корпоративни](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Управление на лицензи за устройства](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-За указания за отстраняване на неизправности вижте [Отстраняване на проблеми с лицензиране на устройства за Microsoft 365 приложения за предприятие](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+За указания за отстраняване на неизправности вижте [Отстраняване на неизправности при лицензиране, базирано на устройство за Приложения на Microsoft 365 за корпоративни организации.](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)

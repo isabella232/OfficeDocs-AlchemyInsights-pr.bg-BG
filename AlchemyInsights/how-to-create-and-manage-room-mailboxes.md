@@ -1,5 +1,5 @@
 ---
-title: 614 как да създавате и управлявате стая пощенски кутии
+title: 614 Как да създавате и управлявате пощенски кутии за помещения
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735594"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495760"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Как да създавате и управлявате стая пощенски кутии
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Как да създавате и управлявате пощенски кутии за помещения
 
-За да създадете и модифицирате пощенски кутии за стаи, вижте [Създаване и управление на пощенски кутии за стаи](https://technet.microsoft.com/library/jj215781.aspx).
+За да създадете и модифицирате пощенски кутии за стайци, вижте [Създаване и управление на пощенски кутии за помещения](https://technet.microsoft.com/library/jj215781.aspx).
 
-За да научите повече за пощенски кутии за помещение и оборудване (известен също като пощенски кутии за ресурси), вижте [помещение и оборудване пощенски кутии](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).
+За да научите повече за пощенските кутии за помещения и оборудване (известни също като пощенски кутии за ресурси), вижте [пощенски кутии за стая и оборудване](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).

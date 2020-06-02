@@ -1,5 +1,5 @@
 ---
-title: Търсене на имейл в архивна пощенска кутия
+title: Търсене на имейл в пощенската кутия на Архив
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495580"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>Търсене на имейл в архивната пощенска кутия
 
-Когато архивна пощенска кутия е разрешено за Microsoft 365, можете да използвате **eDiscovery търсене и експортиране** да откриете съдържание в първичната и архивна тави. За информация относно използването на **eDiscovery Search Export** за да намерите това съдържание изпълнете стъпките, описани [тук.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+Когато архивна пощенска кутия е разрешена за Microsoft 365, можете да използвате **търсене и експортиране на eDiscovery** да откриете съдържание в първичната и архивна пощенска кутия. За информация относно използването на **eDiscovery търсене за експортиране** за намиране на това съдържание, следвайте стъпките, описани [тук](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
-Можете също да запазите това съдържание чрез добавяне на пощенска кутия към правило за задържане. Това ще постави съдържанието в първичната и архивната пощенска кутия на задържане. За повече информация за създаване на правила за задържане, за да запазите имейл, вижте [стъпките,](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)описани тук .
+Можете също да запазите това съдържание чрез добавяне на пощенска кутия към правило за задържане. Това ще постави съдържанието в първичната и архивната пощенска кутия на място. За повече информация относно създаването на правила за задържане за запазване на имейл вижте стъпките, описани [тук](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   

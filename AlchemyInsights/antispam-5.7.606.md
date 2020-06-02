@@ -12,14 +12,14 @@ ms.custom:
 - "3155"
 - "9001195"
 ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
-ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/14/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44232318"
 ---
-# <a name="banned-sending-ip"></a>Забранено IP за изпращане
+# <a name="banned-sending-ip"></a>Забранено изпращане на IP адрес
 
-При изпращане до получател на Office 365, подател може да се появи тази грешка. Подателят трябва да посетите [Office 365 анти-спам IP delist портал](https://sender.office.com/) и да предостави своя имейл адрес и IP адрес, който трябва да бъде деписана. Ако не получат имейл за потвърждение от портала, да проверят папката за спам и/или да опитат с друг имейл адрес. 
+При изпращане на получател на Office 365, подателят може да се появи тази грешка. Подателят трябва да посети [Office 365 Анти-спам IP логареста портал](https://sender.office.com/) и да предостави своя имейл адрес и IP адрес, който трябва да бъде дет. Ако не получат имейл за потвърждение от портала, ги накарайте да проверят папката за спам и/или да опитат с друг имейл адрес. 
 
-- За подробни инструкции вижте [Използване на портала за отписване, за да премахнете себе си от списъка с блокирани податели](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
+- За подробни инструкции вижте [Използване на портала за излитания, за да се премахнете от списъка с блокирани податели](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).

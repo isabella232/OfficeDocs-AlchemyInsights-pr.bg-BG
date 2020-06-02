@@ -1,5 +1,5 @@
 ---
-title: 124 Получаване на разрешение за грешка при достъп до споделена пощенска кутия в OWA?
+title: 124 Получаване на грешка при получаване на разрешение при достъп до споделена пощенска кутия в OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9305f9b1ec49ea705450a7fdf04e3e12f3f02649
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708928"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499176"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Получаване на грешка при отваряне на споделена пощенска кутия в Outlook в уеб?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Получаване на грешка разрешение при отваряне на споделена пощенска кутия в Outlook в мрежата?
 
-Ако получите **грешката, нещо се обърка. Нямате разрешение да отваряте тази пощенска кутия.** Когато се опитвате да отворите споделена пощенска кутия в Outlook в уеб, вашият акаунт може да няма разрешение за достъп до споделената пощенска кутия. Вашият администратор на организацията може да присвои разрешения та акаунт на споделената пощенска кутия, като следва инструкциите в темата [Създаване на споделена пощенска кутия](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Ако получите грешка **нещо се обърка. Нямате разрешение да отваряте тази пощенска кутия.** Когато се опитвате да отворите споделена пощенска кутия в Outlook в мрежата, вашият акаунт може да няма разрешение за достъп до споделената пощенска кутия. Администраторът на вашата организация може да присвоите разрешения за акаунта на споделената пощенска кутия, като следвате инструкциите в темата [Създаване на споделена пощенска кутия](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   
