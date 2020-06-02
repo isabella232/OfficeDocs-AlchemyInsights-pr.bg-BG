@@ -11,18 +11,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049794"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507647"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Създаване и използване на споделена пощенска кутия
 
-Споделената пощенска кутия позволява на повече от един човек да изпраща и получава имейл за псевдоним, като sales@contoso.com, без да присвоява друг лиценз.
+Споделената пощенска кутия позволява на повече от един човек да изпраща и получава имейли за псевдоним, като например sales@contoso.com, без да присвоява друг лиценз.
   
-- [Изпълнете следните стъпки](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) в центъра за администриране на Microsoft 365, за да започнете. 
+- [Следвайте тези стъпки](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) в центъра за администриране на Microsoft 365, за да започнете. 
 
-Можете също да прочетете статия за [Създаване на споделена пощенска кутия](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , която ще ви каже всичко, което трябва да знаете за споделените пощенски кутии, включително как да ги използвате.
+Можете също да прочетете статията Създаване на [споделена пощенска кутия,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) която ще ви каже всичко, което трябва да знаете за споделени пощенски кутии, включително как да ги използвате.
   

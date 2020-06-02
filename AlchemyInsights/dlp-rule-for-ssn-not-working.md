@@ -12,44 +12,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788691"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507359"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP проблеми с номера на социална сигурност
+# <a name="dlp-issues-with-social-security-numbers"></a>Проблеми с DLP с номера на социална осигуровка
 
 **Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Проблеми с dlp с SSN**
+**Проблеми с DLP с SSN**
 
-Имате проблеми с **предотвратяване на загуба на данни (DLP)** не работи за съдържание, съдържащо номер за социална сигурност **(SSN),** когато използвате чувствителен тип информация в Microsoft 365? Ако е така, уверете се, че съдържанието ви съдържа необходимата информация за това, което се търси dlp правилата. 
+Имате проблеми с **предотвратяване на загуба на данни (DLP)** не работи за съдържание, съдържащо **социално-осигурителен номер (SSN),** когато използвате чувствителен тип информация в Microsoft 365? Ако е така, уверете се, че съдържанието съдържа необходимата информация за това, което се търси от правилата на DLP. 
   
-Например за SSN правила, конфигурирани с ниво на сигурност 85 %, се оценяват следното и трябва да бъдат открити за правилото за задействане:
+Например за SSN правила конфигурирани с ниво на доверие 85%, се оценяват следното и трябва да бъдат открити за правило за задействане:
   
-- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 цифри, които може да са във формат или неформатиран модел
+- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 цифри, които могат да бъдат във формат или неформатиран модел
 
 - **[Модел:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Четири функции търсят SSN в четири различни модела:
 
-  - Func_ssn намира SSN със силно форматиране преди 2011 г., форматирани с тирета или интервали (ddd-dddddd ddddd ddddd ddddd dddddddddddddddddddddddddddddddddddddddd)
+  - Func_ssn намира SSNs с форматиране преди 2011 г., които са форматирани с тирета или интервали (ddd-dddd ИЛИ DDD ddd dddd)
 
-  - Func_unformatted_ssn открива SSN с предварително 2011 силно форматиране, които са неформатирани като девет последователни цифри (ddddddddddddddddddddddddddddddddddddddddddddddddddd
+  - Func_unformatted_ssn намира SSN с форматиране преди 2011 г., които не са форматирани като девет последователни цифри (ddddddddddddddd)
 
-  - Func_randomized_formatted_ssn намира след 2011 SSN, които са форматирани с тирета или интервали (ddd-dddddd или ddd ddd dddd dddd dddddd)
+  - Func_randomized_formatted_ssn намира след 2011 SSNs, които са форматирани с тирета или интервали (ddd-dddd ИЛИ DDD DDD)
 
-  - Func_randomized_unformatted_ssn намира след 2011 SSN, които са неформатирани като девет последователни цифри (ddddddddddd)
+  - Func_randomized_unformatted_ssn намира след 2011 SSNs, които са неформатирани като девет последователни цифри (ddddddddddddddddd
 
-- **[Контролна сума:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Не, няма чексума
+- **[Контролна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Не, няма контролна сума
 
-- **[Определение:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP политика е 85% уверен, че е открит този тип чувствителна информация, ако в близост до 300 знака:
+- **[Определение:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** DLP политика е 85% уверени, че е открита този тип чувствителна информация, ако в близост до 300 знака:
 
-  - [Функцията Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) намира съдържание, което съответства на шаблона.
+  - [Функцията Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) намира съдържание, което съответства на модела.
 
-  - Намира се ключова дума от [Keyword_ssn.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) Сред ключовите думи са: *Социална сигурност, Социална осигуровка#, Soc Sec, SSN.* Например следната извадка ще предизвика за DLP SSN **политика: SSN: 489-36-8350**
+  - Намерена е ключова дума от [Keyword_ssn.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) Примерите за ключови думи включват: *Социална сигурност, Социална сигурност# Soc Sec, SSN.* Например следната проба ще задейства DLP SSN политика: **SSN: 489-36-8350**
   
-За повече информация за това какво се изисква за SSN да бъдат открити за вашето съдържание вижте следния раздел в тази статия: [Какви типове поверителна информация търси SSN](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+За повече информация относно това, което е необходимо за SSN да бъдат открити за вашето съдържание вижте следния раздел в тази статия: [Какви типове информация за чувствителна изглежда за SSN](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Използвайки друг вграден тип поверителна информация, вижте следната статия за информация за това какво се изисква за други типове: [Какво търсят типовете поверителна информация за](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+С помощта на друг вграден тип поверителна информация вижте следната статия за информация за това какво е необходимо за други типове: [Какво се търси типовете информация за чувствителната информация](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

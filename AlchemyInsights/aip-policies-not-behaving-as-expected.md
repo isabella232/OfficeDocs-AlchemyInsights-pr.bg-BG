@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7926ff9ebbd54969fb5b3ae5d909baffe96a4292
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44492921"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506547"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>ОИП: Политики, които не се държат според очакванията
 
 Защита на информацията за Azure: правила не се държи според очакванията, вижте следните указания за препоръчителни указания за различни проблеми с правилата:
 
 1. Ако имате проблеми с визуални маркировки, моля, прегледайте [Когато се прилагат визуални маркировки.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
-2. Ако имате проблеми с автоматичното етикетиране, прегледайте [Как да конфигурирате условията за автоматична и препоръчителна класификация за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) и Какви типове чувствителна информация [търсите](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+2. Ако имате проблеми с автоматичното етикетиране, прегледайте [Как да конфигурирате условията за автоматична и препоръчителна класификация за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) и Какви типове чувствителна информация [търсите](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 3. Ако имате проблеми със защитата native/Pfile, прегледайте [конфигурацията на API на файла](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
 4. Проверете дали използвате обхват правила, които не са конфигурирани правилно: [как да конфигурирате правилата за защита на информация за конкретен потребител с помощта на правила с обхват](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 5. Ако автоматичното етикетиране не работи за Outlook прикачване на етикетиран документ, проверете дали DRMEncryptProperty не е дефиниран както е описано тук: [IRM настройки на системния регистър за защита](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).

@@ -1,5 +1,5 @@
 ---
-title: DLP правило за САЩ/Великобритания номер на паспорт не работи
+title: DLP правило за US/UK паспорт номер не работи
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,38 +12,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 9d9615eccd1e245bf4ca32742bfc64321dd7a8cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d3b7dc2d9510376bc9eef6ec69b87ad7c681b05
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714975"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507287"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Проблеми с DLP - САЩ /UK номера на паспорти
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Проблеми с DLP - US/UK паспортни номера
 
 **Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP проблеми с американски/великобритания паспортни номера**
+**Проблеми с DLP с американски/британски паспортни номера**
 
-Имате проблеми с **предотвратяване на загуба на данни (DLP)** не работи за съдържание, съдържащо номер на **американски/английски паспорт** при използване на тип на чувствителна тайнствена ИНФОРМАЦИЯ DLP в O365? Ако е така, уверете се, че съдържанието ви съдържа необходимата информация за това, което се търси dlp правила, когато се оценява.
+Имате проблеми с **предотвратяването на загуба на данни (DLP),** което не работи за съдържание, съдържащо номер на паспорт в **САЩ/Великобритания,** когато използвате тип чувствителна информация за DLP в O365? Ако е така, уверете се, че съдържанието съдържа необходимата информация за това, което DLP се търси, когато се оценява.
   
-Например, за политика за **номер на паспорт сащ/Обединеното кралство,** конфигурирана с ниво на сигурност от 75%, се оценяват следните и трябва да бъдат открити, за да се задейства правилото
+Например за правилата за номер на паспорт в **САЩ/Великобритания,** конфигурирани с ниво на достоверност от 75%, се оценяват следните и трябва да бъдат открити, за да се задейства правилото
   
-- **[Формат на](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Девет цифри
+- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Девет цифри
 
-- **[Модел:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Девет последователни цифри
+- **[Модел:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Девет последователни цифри
 
-- **[Контролна сума:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Не, няма чексума
+- **[Контролна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Не, няма контролна сума
 
-- **[Определение:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** DLP политика е 75% уверен, че е открит този тип чувствителна информация, ако в близост до 300 знака:
+- **[Определение:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Правилата на DLP са 75% уверени, че е открита тази информация, ако в близост до 300 знака:
 
-  - Функцията Func_usa_uk_passport намира съдържание, което съответства на шаблона.
+  - Функцията Func_usa_uk_passport намира съдържание, което съответства на модела.
 
-  - Намира се ключова дума от Keyword_passport.
+  - Намерена е ключова дума от Keyword_passport.
 
-    Например следната извадка ще задейства за **САЩ/Великобритания паспорт номер** политика: Номер на паспорт а в САЩ 123456789
+    Например, за правилата за номер на паспорт в **САЩ/Обединеното кралство** ще се задейства следната извадка: паспорт номер 123456789 в САЩ:
 
-За повече информация относно това, което е необходимо за да бъде открит номер на американски/британски паспорт за вашето съдържание, вижте раздела по-долу в тази статия: [Какви типове информация за сащ/Великобритания търсят за сащ/UK Passport Number](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+За повече информация относно това, което е необходимо за да бъде открит номерът на паспорт за САЩ/Обединеното кралство за вашето съдържание, вижте следния раздел в тази статия: [Какво съдържа типовете чувствителни данни за САЩ/Великобритания паспортен номер](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Използвайки друг вграден тип поверителна информация, вижте следната статия за информация за това какво се изисква за други типове: [Какво търсят типовете поверителна информация за](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+С помощта на друг вграден тип поверителна информация вижте следната статия за информация за това какво е необходимо за други типове: [Какво се търси типовете информация за чувствителната информация](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

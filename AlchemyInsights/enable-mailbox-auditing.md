@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2bcfb7cc174cd58b21e1bb0c82f0d7cdb25e2fdd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703560"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506943"
 ---
 # <a name="enable-mailbox-auditing"></a>Разрешаване на проверка на пощенска кутия
 
-За да разрешите проверка на пощенска кутия за един потребител или цялата организация, трябва да се изпълняват следните кратки команди от отдалечен power Shell:
+За да разрешите проверка на пощенска кутия за един потребител или цялата организация следните кратки команди трябва да се изпълняват от отдалечената обвивка на захранването:
   
- **Единичен потребител**
+ **Един потребител**
   
-Задаване-пощенска кутия -самоличност "Джейн Доу" -auditEnabled $true
+Задаване на пощенска кутия -самоличност "Джейн Дау" -ОдитEnabled $true
   
  **Организация**
   
-Get-пощенска кутия -Резултат неограничен -Филтър {RecipientTypeDetails -eq "UserMailbox"} | Set-пощенска кутия -ПроверкаEnabled $true
+Вземи-пощенска кутия -ResultSize неограничен -филтър {RecipientTypeДетайли-eq "UserMailbox"} | Задаване на пощенска кутия -Auditenabled $true
   
-[Научете повече](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
+[Научете повече](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   
 
