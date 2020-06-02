@@ -1,5 +1,5 @@
 ---
-title: Търсене на имейл в архивна пощенска кутия
+title: Търсене на имейл в пощенската кутия на Архив
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495580"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a><span data-ttu-id="30d71-102">Търсене на имейл в архивната пощенска кутия</span><span class="sxs-lookup"><span data-stu-id="30d71-102">Search for email in the Archive mailbox</span></span>
+# <a name="search-for-email-in-the-archive-mailbox"></a><span data-ttu-id="746cc-102">Търсене на имейл в архивната пощенска кутия</span><span class="sxs-lookup"><span data-stu-id="746cc-102">Search for email in the Archive mailbox</span></span>
 
-<span data-ttu-id="30d71-103">Когато архивна пощенска кутия е разрешено за Microsoft 365, можете да използвате **eDiscovery търсене и експортиране** да откриете съдържание в първичната и архивна тави.</span><span class="sxs-lookup"><span data-stu-id="30d71-103">When an Archive mailbox is enabled for Microsoft 365, you can use **eDiscovery Search and Export** to discover content in the both the Primary and Archive mailbox.</span></span> <span data-ttu-id="30d71-104">За информация относно използването на **eDiscovery Search Export** за да намерите това съдържание изпълнете стъпките, описани [тук.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)</span><span class="sxs-lookup"><span data-stu-id="30d71-104">For information on using **eDiscovery Search Export** to find that content, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
+<span data-ttu-id="746cc-103">Когато архивна пощенска кутия е разрешена за Microsoft 365, можете да използвате **търсене и експортиране на eDiscovery** да откриете съдържание в първичната и архивна пощенска кутия.</span><span class="sxs-lookup"><span data-stu-id="746cc-103">When an Archive mailbox is enabled for Microsoft 365, you can use **eDiscovery Search and Export** to discover content in the both the Primary and Archive mailbox.</span></span> <span data-ttu-id="746cc-104">За информация относно използването на **eDiscovery търсене за експортиране** за намиране на това съдържание, следвайте стъпките, описани [тук](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).</span><span class="sxs-lookup"><span data-stu-id="746cc-104">For information on using **eDiscovery Search Export** to find that content, follow the steps outlined [here](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).</span></span>
   
-<span data-ttu-id="30d71-105">Можете също да запазите това съдържание чрез добавяне на пощенска кутия към правило за задържане.</span><span class="sxs-lookup"><span data-stu-id="30d71-105">You can also retain that content by adding the mailbox to a Retention policy.</span></span> <span data-ttu-id="30d71-106">Това ще постави съдържанието в първичната и архивната пощенска кутия на задържане.</span><span class="sxs-lookup"><span data-stu-id="30d71-106">This will place content in both the Primary and Archive mailbox on a hold.</span></span> <span data-ttu-id="30d71-107">За повече информация за създаване на правила за задържане, за да запазите имейл, вижте [стъпките,](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)описани тук .</span><span class="sxs-lookup"><span data-stu-id="30d71-107">For more information on creating Retention Policies to retain email see the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).</span></span>
+<span data-ttu-id="746cc-105">Можете също да запазите това съдържание чрез добавяне на пощенска кутия към правило за задържане.</span><span class="sxs-lookup"><span data-stu-id="746cc-105">You can also retain that content by adding the mailbox to a Retention policy.</span></span> <span data-ttu-id="746cc-106">Това ще постави съдържанието в първичната и архивната пощенска кутия на място.</span><span class="sxs-lookup"><span data-stu-id="746cc-106">This will place content in both the Primary and Archive mailbox on a hold.</span></span> <span data-ttu-id="746cc-107">За повече информация относно създаването на правила за задържане за запазване на имейл вижте стъпките, описани [тук](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).</span><span class="sxs-lookup"><span data-stu-id="746cc-107">For more information on creating Retention Policies to retain email see the steps outlined [here](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).</span></span>
   
