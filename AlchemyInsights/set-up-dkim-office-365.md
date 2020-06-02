@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645661"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509373"
 ---
 # <a name="setup-dkim"></a>Настройка на DKIM
 
-Пълните инструкции за конфигуриране на DKIM за персонализирани домейни в Microsoft 365 са [тук](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Пълните инструкции за конфигуриране на DKIM за потребителски домейни в Microsoft 365 са [тук.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-1. За **всеки** персонализиран домейн трябва да създадете **два** DKIM CNAME записа на DNS хостинг услуга на домейна си (обикновено, регистраторът на домейни). Например contoso.com и fourthcoffee.com изискват четири DKIM CNAME записа: два за contoso.com и два за fourthcoffee.com.
+1. За **всеки** потребителски домейн трябва да създадете **два** DKIM CNAME записа в DNS хостинг услугата на домейна ви (обикновено регистратор на домейни). Например contoso.com и fourthcoffee.com изискват четири DKIM CNAME записа: два за contoso.com и два за fourthcoffee.com.
 
    DKIM CNAME записи за **всеки** домейн използва следните формати:
 
-   - **Име на хоста:**`selector1._domainkey.<CustomDomain>`
+   - **Име на хост**:`selector1._domainkey.<CustomDomain>`
 
      **Точки за адрес или стойност:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: 3600
+     **1000**000 евро
 
-   - **Име на хоста:**`selector2._domainkey.<CustomDomain>`
+   - **Име на хост**:`selector2._domainkey.<CustomDomain>`
 
      **Точки за адрес или стойност:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL**: 3600
+     **1000**000 евро
 
-   \<DomainGUID\> е текст ът `.mail.protection.outlook.com` отляво на потребителски MX запис за домейна по избор (например `contoso-com` домейн contoso.com). \<InitialDomain\> е домейнът, който сте използвали, когато сте се регистрирали за Microsoft 365 (например contoso.onmicrosoft.com).
+   \<DomainGUID\>е текстът отляво на `.mail.protection.outlook.com` персонализирания MX запис за домейна по избор (например `contoso-com` за домейна contoso.com). \<InitialDomain\>е домейнът, който сте използвали при регистрация за Microsoft 365 (например contoso.onmicrosoft.com).
 
-2. След като сте създали CNAME записи за вашите персонализирани домейни, изпълнете следните инструкции:
+2. След като създадете записите CNAME за вашите потребителски домейни, изпълнете следните инструкции:
 
-   A. [влезете в Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с вашия служебен или учебен акаунт.
+   A. [влезте в Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) с вашия служебен или учебен акаунт.
 
-   B. Изберете иконата за стартиране на приложения в горния ляв ъгъл и изберете **Администратор**.
+   B. Изберете иконата на стартера на приложението в горния ляв ъгъл и изберете **Администриране**.
 
-   C. В долната лява навигация разгънете **Администратор** и изберете **Exchange**.
+   C. В навигацията в долния ляв ъгъл разгънете **Администратор** и изберете **Exchange**.
 
-   D. Отидете на **Защита** > **DKIM**.
+   D. Отидете на **Защита**  >  **DKIM**.
 
-   E. Изберете домейна и след това изберете **Разрешаване** за Подписване на **съобщения за този домейн с DKIM подписи**. Повторете тази стъпка за всеки персонализиран домейн.
+   E. Изберете домейна и след това изберете **Разрешаване** за **подписване на съобщения за този домейн с DKIM подписи**. Повторете тази стъпка за всеки домейн по избор.

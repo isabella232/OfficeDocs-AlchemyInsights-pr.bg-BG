@@ -1,5 +1,5 @@
 ---
-title: ATP за SharePoint, OneDrive и екипи на Microsoft
+title: ATP за екипи на SharePoint, OneDrive и Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,25 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e9437d04815d4ca2f55cf9133ef6a4b429cd2476
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712447"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508401"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP за SharePoint, OneDrive и екипи на Microsoft
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP за екипи на SharePoint, OneDrive и Microsoft
 
-Следвайте тези стъпки, за да разрешите разширена защита на заплахите:
+Следвайте тези стъпки, за да разрешите разширена защита срещу заплахи:
 
-1. Отидете [https://protection.office.com](https://protection.office.com) и влезте с глобален администратор или акаунт на администратор на защитата.
+1. Отидете [https://protection.office.com](https://protection.office.com) на и влезте с глобален администратор или акаунт на администратор на защитата.
 
-2. В левия навигационен екран под **Управление на заплахи**изберете **Правила** \> **безопасни прикачени файлове**.
+2. В левия навигационен екран под **Управление на заплахи**изберете Безопасни прикачени файлове за защита на **правилата** \> **Safe Attachments**.
 
 3. Изберете **Включване на ATP за SharePoint, OneDrive и Екипи на Microsoft**.
 
-4. Създаване на правила за [предупреждение за активност,](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) за да получавате известия, когато откриваме злонамерени файлове.
+4. [Създаване на правила за известяване](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) за активност, за да получавате известия, когато откриваме злонамерени файлове.
 
-За пълни инструкции вижте тази [тема](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+За пълни инструкции вижте тази [тема](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Забележка:** По дизайн, ATP не сканира всеки един файл в SharePoint Online, OneDrive за бизнес или Microsoft екипи. Файловете се сканират асинхронно чрез процес, който използва активност за споделяне, активност на гост и сигнали за заплахи за идентифициране на злонамерени файлове. За повече информация вижте тази [тема](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Забележка:** По проект ATP не сканира всеки един файл в SharePoint Online, OneDrive за бизнес или екипи на Microsoft. Файловете се сканират асинхронно от процес, който използва споделяне на активност, активност на гост и заплахи за идентифициране на злонамерени файлове. За повече информация вижте тази [тема](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

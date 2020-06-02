@@ -1,5 +1,5 @@
 ---
-title: Управление на кой може да създава групи на Microsoft 365
+title: Управление на това, кой може да създаде групи на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 1625311e7b47791f15a5eb8b2f057ca0d49c75f1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 220438f71568229c72c9c29117d6f575b03b2c3d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912284"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509301"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Управление на кой може да създава групи на Microsoft 365
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Управление на това, кой може да създаде групи на Microsoft 365
 
 По подразбиране всеки във вашата организация може да създаде O365 групи.
   
-Ако искате да промените това, можете да създадете група за защита с PowerShell, която ограничава групата създаване на подмножество от потребители.
+Ако искате да промените това, можете да създадете група за защита с PowerShell, ограничава създаването на група на подмножество от потребители.
   
-Следвайте стъпка по стъпка инструкции тук: [Управление на кой може да създава Групи на Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Следвайте инструкциите стъпка по стъпка тук: [управление на кой може да създаде Microsoft 365 групи](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
   
 
