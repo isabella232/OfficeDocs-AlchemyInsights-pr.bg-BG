@@ -1,5 +1,5 @@
 ---
-title: Предложения за разрешаване на грешки от типа "Нелицензиран продукт"
+title: Предложения за отстраняване на грешките в "Нелицензиран продукт"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: abc9b394fc54c95a77ca20645c8740bf4a04fc97
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ec9e154a02cc62bb6b8aaa6b510c71d13391ccad
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741770"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509841"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Предложения за решаване на грешки "Нелицензиран продукт"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Предложения за отстраняване на грешки "Нелицензиран продукт"
 
-Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Microsoft 365 Apps за бизнес или Microsoft 365 Business Premium Standard, и [гарантира, че потребителят има присвоен лиценз.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) [Деактивирайте инсталиране,](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) за да проверите дали сте надхвърлили броя инсталирания, поддържани от абонамента.
+Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Приложения на Microsoft 365 за бизнеса или Microsoft 365 Business Premium Standard, и [се уверете, че потребителят има присвоен лиценз.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [Деактивирайте инсталирането,](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) за да проверите дали сте превишили броя инсталирания, поддържани от вашия абонамент.
   
 Уверете се, че потребителят влиза със същия акаунт, който има присвоен лиценз.
   
-Изпълнете програмата за [отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Стартирайте [програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
 Проверете дали състоянието на абонамента ви е изтекло
   
-Проверете [страницата за състояние](https://docs.microsoft.com/office365/enterprise/view-service-health) на услугата, за да видите дали има известни проблеми с услугата.
+Проверете [Страницата за състояние на услугата](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
   
-[Извършване на онлайн ремонт на Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Извършване на онлайн поправка на Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-За допълнителни решения за отстраняване на неизправности вижте: [Нелицензиран продукт и грешки при активиране в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+За допълнителни решения за отстраняване на неизправности вижте: [Нелицензиран продукт и активиране грешки в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

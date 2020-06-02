@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: a8c5dd6e75c35be185cea1bf3ffb733b5f5b61d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8748aaa6e41a138dc8dd9121de92c4097edc5556
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761417"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510885"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: Липсващи файлове или папки
 
@@ -22,20 +22,20 @@ ms.locfileid: "43761417"
 - [Възстановяване на изтрити файлове или папки в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Използвайте функцията за възстановяване на файлове на OneDrive**. 
+**Използвайте функцията за възстановяване на файлове в OneDrive**. 
 
-Ако много от вашите файлове в OneDrive бъдат изтрити, презаписани, повредени или заразени със злонамерен софтуер, можете да възстановите целия OneDrive до предишно време, като използвате функцията [за възстановяване на файлове на OneDrive.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
-
-
-**Използвайте проверка на регистрирането или екрана за активност на файла, за да проверите хронологията на файла**.
-
-Проверете [одитните доклади,](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) като навигирате [тук](https://sip.protection.office.com/).
+Ако много от вашите файлове в OneDrive бъдат изтрити, презаписани, повредени или заразени със злонамерен софтуер, можете да възстановите целия си OneDrive до предишно време с помощта на функцията за възстановяване на [файлове в OneDrive.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 
-Използвайте прозореца за активност на [файла,](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) за да проверите хронологията на файла.
+**Използвайте регистрирането на проверка или екрана за дейност на файл, за да проверите хронологията на файла.**
+
+Проверете [отчетите за проверка,](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) като навигирате [тук](https://sip.protection.office.com/).
 
 
-**Проверете клиента за синхронизиране на OneDrive на локалния ви компютър**.
+Използвайте [екрана](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) за активност на файловете, за да проверите хронологията на файла.
 
-Ако синхронизирате файловете на компютъра си с помощта на клиента OneDrive Sync, проверете локалната папка за синхронизиране, за да се уверите, че е качен правилно. Уверете се, че проверявате кошчето и на местната машина.
+
+**Проверете клиента за синхронизиране на OneDrive на вашия локален компютър.**
+
+Ако синхронизирате файловете на вашия компютър с помощта на oneDrive Sync клиента, проверете папката за локална синхронизация, за да се уверите, че е правилно качен. Проверете и кошчето на вашия локален компютър.
 

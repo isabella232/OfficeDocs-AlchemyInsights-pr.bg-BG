@@ -1,5 +1,5 @@
 ---
-title: Се създава пощенска кутия на потребител
+title: Пощенската кутия на потребителя се създава
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665641"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510057"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Създаване на потребител пощенска кутия е привлекателен дълъг време
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Създаване на пощенска кутия на потребителя отнема много време
 
-Може да отнеме до 24 часа преди нова пощенска кутия е готова за използване.
+Това може да отнеме до 24 часа, преди новата пощенска кутия е готова за използване.
   
-Ако пощенската кутия на потребителя е бил "подготовка" за повече от един час, опитайте да премахнете лиценза на Exchange от потребителя и ре-отдавам го обратно или [се свържете с поддръжката](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Ако пощенската кутия на потребителя е "Подготовка" за повече от час, опитайте да премахнете лиценза на Exchange от потребителя и да го добавите отново или [се свържете с поддръжката](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
