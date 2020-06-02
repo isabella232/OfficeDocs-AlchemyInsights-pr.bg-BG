@@ -1,5 +1,5 @@
 ---
-title: Настройки за откриване на елиооткрини данни
+title: Настройки на Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911137"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507087"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="1ce81-102">Настройки за откриване на елиооткрини данни</span><span class="sxs-lookup"><span data-stu-id="1ce81-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="1ba44-102">Настройки на Ediscovery</span><span class="sxs-lookup"><span data-stu-id="1ba44-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="1ce81-103">търсене на електронни данни/съдържание ви позволява да търсите, задръжте и експортирате съдържание от пощенски кутии на Exchange Online, SharePoint Online и OneDrive за бизнес сайтове, Skype за бизнес разговори, екипи на Microsoft и Групи на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="1ce81-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Microsoft 365 Groups.</span></span>
+<span data-ttu-id="1ba44-103">eDiscovery/Content Searchs ви позволява да търсите, задръжте и да експортирате съдържание от пощенски кутии на Exchange Online, SharePoint Online и OneDrive за бизнес сайтове, Skype за бизнеса разговори, Microsoft Teams и Microsoft 365 Групи.</span><span class="sxs-lookup"><span data-stu-id="1ba44-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Microsoft 365 Groups.</span></span>
 
-- <span data-ttu-id="1ce81-104">Ако търсите опциите за менюто за откриване на електронни данни или търсене на съдържание, вижте [проблеми с откриването на електронни данни](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="1ce81-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="1ce81-105">Научете за разрешенията, необходими за извършване на eDiscovery търсения от [Разрешения, необходими за търсене в eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="1ce81-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="1ce81-106">Ако търсенето ви не връща очакваните резултати, вижте [Търсене не връща очакваните резултати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="1ce81-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="1ba44-104">Ако търсите опциите в менюто за търсене на информация за eDiscovery или търсене на съдържание, вижте [Проблеми с откриването на електронни данни](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="1ba44-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="1ba44-105">Научете за разрешенията, необходими за извършване на търсене на електронни данни от разрешения, необходими за търсене на [eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="1ba44-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="1ba44-106">Ако търсенето не връща очакваните резултати, вижте [Търсене не връща очакваните резултати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="1ba44-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="1ce81-107">За повече информация относно [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery)откриването на елиооткрини данни вж.</span><span class="sxs-lookup"><span data-stu-id="1ce81-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="1ba44-107">За повече информация относно откриването на ediscoy вижте [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="1ba44-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).</span></span>
