@@ -1,5 +1,5 @@
 ---
-title: 712 Преобразуване на списък за разпространение в група на Microsoft 365
+title: 712 Конвертиране на списък за разпространение в група на Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: fc297065b3e1615db0597d7cd3784f8b0ae55b59
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908657"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505892"
 ---
-# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a><span data-ttu-id="84c03-102">Конвертиране на група за разпространение в група на Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="84c03-102">Convert a distribution group to an Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a><span data-ttu-id="f93de-102">Конвертиране на група за разпространение в група на Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f93de-102">Convert a distribution group to an Microsoft 365 Group</span></span>
 
-<span data-ttu-id="84c03-103">Можете да конвертирате групи за разпространение в Групи на Microsoft 365, ако отговарят на определени критерии.</span><span class="sxs-lookup"><span data-stu-id="84c03-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="84c03-104">За да преобразувате група или да отстранявате проблеми с реализациите, вижте [Надграждане списъци за разпространение в Групи на Microsoft 365 в Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="84c03-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="f93de-103">Можете да конвертирате групи за разпространение в Microsoft 365 групи, ако отговарят на определени критерии.</span><span class="sxs-lookup"><span data-stu-id="f93de-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="f93de-104">За да конвертирате група или отстраняване на проблеми с преобразуването, вижте [Надстройка списъци за разпространение на групи в Microsoft 365 в Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="f93de-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
