@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059833"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511425"
 ---
 # <a name="reset-or-change-passwords"></a>Нулиране или промяна на пароли
 
-Потребителят може да промени собствената си парола от **"Моят акаунт** > [Security" & поверителност.](https://portal.office.com/account/#security)
+Потребителят може да промени своята собствена парола от **"Моят акаунт**  >  [сигурност & поверителност"](https://portal.office.com/account/#security).
   
-Ако потребителят е забравил паролата си, администраторът може да нулира паролата, като отиде на **Потребители** > [Активни потребители,](https://portal.office.com/adminportal/home#/users)изберете потребителя(ите) и щракнете върху **Нулиране**на паролата .
+Ако потребителят е забравил паролата си, администратор може да възстанови паролата, като отидете на **Потребители**  >  [активни потребители](https://portal.office.com/adminportal/home#/users), изберете потребителя(ите) и щракнете върху Подновяване на **паролата**.
   
-[Щракнете тук, за да научите повече](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)или да позволите на потребителите да нулират забравените си пароли.
+[Щракнете тук, за да научите повече](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)или да позволите на потребителите да възстановят собствените си забравени пароли.

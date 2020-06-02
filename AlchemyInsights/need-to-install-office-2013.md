@@ -1,5 +1,5 @@
 ---
-title: Необходимо е да инсталирате Office 2013
+title: Трябва да инсталирате Office 2013
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761839"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512037"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 вече не се поддържа в microsoft 365 абонаменти
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 вече не се поддържа в Microsoft 365 абонаменти
 
-От 28 февруари 2017 Office 2013 вече не се поддържа в абонаменти за Microsoft 365.
+От 28 февруари 2017 г. Office 2013 вече не се поддържа в Microsoft 365 абонаменти.
   
-За да осигурите защитата на вашия пакет от Office и да получите всички най-нови функции, инсталирайте безплатно последната версия на Office като част от вашия абонамент за Microsoft 365. Вижте [Надграждане на вашите потребители до най-новия клиент на Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+За да осигурите защитата на вашия пакет от Office и да получите всички най-нови функции, инсталирайте най-новата версия на Office безплатно като част от вашия абонамент за Microsoft 365. Вижте [Надстройване на потребителите до най-новия клиент на Office](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   
