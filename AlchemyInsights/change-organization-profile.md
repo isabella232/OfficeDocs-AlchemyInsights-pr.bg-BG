@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 53d515fe30d9a34b350ee7f767acd83a45501779
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706672"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506036"
 ---
 # <a name="change-organization-profile"></a>Промяна на профила на организацията
 
-Променете името на фирмата, адреса, информацията за технически контакт и други в центъра за администриране на страницата с[профил "Организация](https://go.microsoft.com/fwlink/p/?linkid=2067339) на **настройките".** > 
+Променете името на фирмата, адреса, информацията за техническа **Settings**информация за контакт и други в центъра за администриране на страницата с профил на Организацията на  >  [настройките.](https://go.microsoft.com/fwlink/p/?linkid=2067339)
 
-Не забравяйте да попълните всички задължителни полета, отбелязани с * за да разрешите записването на промените.
+Уверете се, че сте попълнили всички задължителни полета, маркирани с *, за да разрешите записването на промените.
 
-[Вижте повече информация за промените на адрес или адрес за фактуриране](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
+[Вижте повече информация за промените в адреса на адреса или адреса за фактуриране](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

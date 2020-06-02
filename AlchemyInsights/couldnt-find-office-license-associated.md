@@ -1,5 +1,5 @@
 ---
-title: Коригиране на office приложения не може да намери office лицензи свързани съобщение
+title: Коригиране на приложения на Office не може да намери съобщения за свързани лицензи за office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715621"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505856"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Коригиране на office приложения "Не може да намери office лицензи, свързани"
+# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Коригиране на office приложения "Не може да намери свързани office лицензи"
 
-Ако се появи това съобщение, опитайте следното:
+Ако получите това съобщение, опитайте следното:
 
-1. Проверете настройките на защитната стена, антивирусния софтуер и прокси сървъра, за да потвърдите, че те не блокират достъпа до интернет за приложенията на Office. Вижте [диапазоните на URL адресите и IP адресите на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. Премахнете и [повторно присвояване на лиценза на Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) за засегнатия потребител. 
-3. Отворете приложение на Office и [излезте](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) от всички съществуващи потребителски акаунти.
-4. Отидете на Настройки на Windows > **акаунти** > **имейл & акаунти**и премахнете всички работни акаунти с изключение на засегнатия акаунт.
-5. Отидете на Настройки на Windows > **акаунти** > **достъп до работа или училище**и изключете всички работни акаунти с изключение на засегнатия акаунт.
-6. Нулиране на състояние на активиране на Office. [Научете как](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
-7. [Влезте](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) с помощта на засегнатия потребителски акаунт.
+1. Проверете защитната стена, антивирусния софтуер и настройките на прокси сървъра, за да се уверите, че не блокират достъпа до интернет до приложенията на Office. Вижте [URL адресите и диапазоните на IP адресите на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+2. Премахване и [повторно назначане на лиценза на Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) за засегнатия потребител. 
+3. Отворете приложение на Office и [излезте от](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) съществуващите потребителски акаунти.
+4. Отидете в Настройките на **Accounts**Windows >  >  **акаунти имейл & акаунти**и премахнете всички служебни акаунти, с изключение на засегнатия акаунт.
+5. Отидете в Настройките на Windows > **Акаунти**  >  **за достъп до работа или училище**и изключете всички служебни акаунти, с изключение на засегнатия акаунт.
+6. Възстановяване на състоянието на активиране на Office. [Научете как](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+7. [Влезте с](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) помощта на засегнатия потребителски акаунт.
 
-За допълнителни решения за отстраняване на неизправности вижте [Нелицензиран продукт и грешки при активиране в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+За допълнителни решения за отстраняване на неизправности вижте [Нелицензиран продукт и активиране грешки в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

@@ -1,5 +1,5 @@
 ---
-title: 712 Преобразуване на списък за разпространение в група на Microsoft 365
+title: 712 Конвертиране на списък за разпространение в група на Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: fc297065b3e1615db0597d7cd3784f8b0ae55b59
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908657"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505892"
 ---
 # <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Конвертиране на група за разпространение в група на Microsoft 365
 
-Можете да конвертирате групи за разпространение в Групи на Microsoft 365, ако отговарят на определени критерии. За да преобразувате група или да отстранявате проблеми с реализациите, вижте [Надграждане списъци за разпространение в Групи на Microsoft 365 в Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).
+Можете да конвертирате групи за разпространение в Microsoft 365 групи, ако отговарят на определени критерии. За да конвертирате група или отстраняване на проблеми с преобразуването, вижте [Надстройка списъци за разпространение на групи в Microsoft 365 в Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).

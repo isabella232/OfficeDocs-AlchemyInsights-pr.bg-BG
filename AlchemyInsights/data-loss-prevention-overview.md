@@ -1,5 +1,5 @@
 ---
-title: Преглед на предотвратяване на загуба на данни (DLP)
+title: Преглед на защитата от загуба на данни (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053070"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505748"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Преглед на предотвратяване на загуба на данни (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Преглед на защитата от загуба на данни (DLP)
 
 С DLP политика можете да:
 
-- Идентифициране на поверителна информация в много места, като например Exchange Online, SharePoint online и OneDrive за бизнес.
+- Идентифицирайте поверителна информация в много местоположения, като например Exchange Online, SharePoint Online и OneDrive за бизнес.
 
 
-Например можете да идентифицирате всеки документ, съдържащ номер на кредитна карта, който се съхранява в OneDrive за бизнес сайт, или можете да наблюдавате само сайтовете на OneDrive на конкретни хора.
+Например можете да идентифицирате всеки документ, съдържащ номер на кредитна карта, който се съхранява във всеки OneDrive за бизнес сайт, или можете да следите само OneDrive сайтове на определени хора.
 
-- Предотвратяване на случайното споделяне на чувствителна информация.
+- Предотвратяване на случайното споделяне на поверителна информация.
 
 
-За повече информация, моля, прегледайте следната [статия](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+За повече информация прегледайте следната [статия](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
 
