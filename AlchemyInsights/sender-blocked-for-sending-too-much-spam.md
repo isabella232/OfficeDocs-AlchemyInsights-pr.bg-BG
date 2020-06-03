@@ -1,5 +1,5 @@
 ---
-title: Подателят е блокиран поради изпращане на твърде много нежелана поща
+title: Подателят е ограничен за изпращане на твърде много спам
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 23d09bd34ad13bdfce3259afcafb14222920f95f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709144"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511893"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Акаунтът е блокиран поради изпращане на твърде много нежелана поща
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Профилът е ограничен за изпращане на твърде много спам
 
 Като администратор, ако някой от вашите потребители е с ограничен достъп до изпращане на имейл, можете да [разблокирате акаунта си](https://protection.office.com/?hash=/restrictedusers), **без да подавате сигнал до поддръжката**. Потребителят ще може да изпраща имейли до един час след премахването на ограничението.
 
-Услугата не позволява на потребителя да изпраща имейли, след като се установи доказателство за компрометиран акаунт и/или изходяща нежелана поща. Като предпазна мярка, следвайте стъпките в [Реагиране на компрометиран имейл акаунт](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) за потребителя.
+Услугата не позволява на потребителя да изпраща имейли, след като се установи доказателство за компрометиран акаунт и/или изходяща нежелана поща. Като предпазна мярка, следвайте стъпките в [Реагиране на компрометиран имейл акаунт](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) за потребителя.

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 1586cfd72430bd4af75dac1efbf5400fe8a0d9de
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 54e5e807911e365bdec848625d89774782978573
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710216"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499104"
 ---
 # <a name="having-email-delivery-issues"></a>Имате проблеми при доставянето на поща?
 
@@ -21,7 +21,7 @@ ms.locfileid: "43710216"
   
 {HealthCheckString}
   
-NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата на Microsoft. Можете да направите погледнете в [Създаване на DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за подробни инструкции. 
+NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата на Microsoft. Можете да направите погледнете в [Създаване на DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за подробни инструкции. 
   
 За да го коригирате, отидете на страницата [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) в Центъра за администриране на Microsoft 365, и ние ще ви помогнем. 
 

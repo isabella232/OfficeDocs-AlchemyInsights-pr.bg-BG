@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: e045b6845263cfd7f00b409a2bdbc46eb1237a17
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712987"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510525"
 ---
 # <a name="compromised-email-accounts"></a>Компрометирани имейл акаунти
 
@@ -27,4 +27,4 @@ ms.locfileid: "43712987"
 
 - **Разрешаване на записване в регистрационен файл за проверка на пощенска кутия**: Записването в регистрационен файл за проверка на пощенска кутия улеснява проследяването на случилото се във времето, когато даден потребителски акаунт е бил компрометиран.
 
-За повече информация вижте [Пътна карта за защита в Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
+За повече информация вижте [Пътна карта за защита в Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap).

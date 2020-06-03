@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763494"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509121"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Как да активирате абонамента си отново
 
 Ако абонаментът ви е изтекъл, бил е отменен или забранен от Microsoft, може да го активирате отново в Центъра за администриране на Microsoft 365.
   
-1. В центъра за администриране отидете на страницата **Фактуриране** \> [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. В центъра за администриране отидете на страницата **Фактуриране на** \> **[продуктите си.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Намерете абонамента, който искате да активирате повторно. В секцията **Фактуриране** изберете **Повторно активиране**.
 
@@ -32,4 +32,4 @@ ms.locfileid: "43763494"
 
 3. Потвърдете своите данни за плащане. Можете да актуализирате съществуващата информация за плащане тук. Когато приключите с въвеждането на метода на плащане, изберете **Повторно активиране**.
 
-За да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+За да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

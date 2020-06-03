@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 361efbd5ff9b080566d29fd4b9dba106eb111bda
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 5b518b2ab973c578194b4e4e66f642a9f3a06a14
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912104"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511857"
 ---
 # <a name="microsoft-365-a5-faq"></a>Често задавани въпроси за Microsoft 365 A5 
 
@@ -25,7 +25,7 @@ ms.locfileid: "43912104"
 - За да **превключите плановете**, вижте [Ръчно превключване на Microsoft 365 бизнес планове](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - За да **дадете** на потребителите на А5 лицензи, отидете на **Фактуриране > [Лицензи](https://go.microsoft.com/fwlink/p/?linkid=842264)**. За повече информация вижте [Даване на лицензи](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - За да **добавите/премахнете лицензи** на А5 отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Добавяне/Премахване на лицензи**. За повече информация вижте [Добавяне/премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- За да **отмените** лицензи на А5, отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Настройки и действия**, след което щракнете върху **Отмени абонамента**. За да научите повече, вижте [Отменете абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- За да **отмените** лицензи на А5, отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Настройки и действия**, след което щракнете върху **Отмени абонамента**. За да научите повече, вижте [Отменете абонамента си](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - За да **активирате** абонамента за А5, вижте [Активирайте абонамента си](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - За да **активирате отново** изтекъл абонамент за А5, вижте [Активирайте повторно абонамента си](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - За да удължите пробната версия на А5, вижте [Удължете пробната си версия](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

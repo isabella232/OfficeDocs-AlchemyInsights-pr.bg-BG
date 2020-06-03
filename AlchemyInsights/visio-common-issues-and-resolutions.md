@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722535"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505188"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Често срещани проблеми и решения на Visio
 
@@ -24,13 +24,13 @@ ms.locfileid: "43722535"
 
 **Опции за Visio Online**
 
-- Visio се продава като [самостоятелно приложение](https://products.office.com/visio/flowchart-software). Администраторите могат да закупят [абонамент за Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) от Центъра за администриране на Microsoft 365.
+- Visio се продава като [самостоятелно приложение](https://products.office.com/visio/flowchart-software). Администраторите могат да закупят [абонамент за Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) от центъра за администриране на Microsoft 365.
 
 - Visio предлага [различни абонаментни планове](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Ако не намирате функция във Visio, [сравнете опциите за Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), за да научите повече за разликите между план 1 и план 2.  Обърнете внимание, че Visio Online (план 1) не включва настолна версия на Visio.
 
 **Изтегляне, инсталиране и активиране на Visio**
 
-- За да инсталирате и активирате настолното приложение на Visio с Visio Online (план 2), потребителят трябва първо да е получил [лиценз за Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- За да инсталирате и активирате настолното приложение на Visio с Visio Online (план 2), потребителят трябва първо да е получил [лиценз за Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Инсталирайте Visio от своя портал "Моят акаунт", ако той все още не е инсталиран. За помощ вижте [Инсталиране на Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +40,7 @@ ms.locfileid: "43722535"
 
 **Visio на Mac**
 
-Не е налично настолно приложение на Visio за Mac. Въпреки това потребителите с валиден [лиценз за Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)могат да [преглеждат, създават и редактират диаграми](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) във Visio Online в уеб браузър.
+Не е налично настолно приложение на Visio за Mac. Въпреки това потребителите с валиден [лиценз за Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)могат да [преглеждат, създават и редактират диаграми](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) във Visio Online в уеб браузър.
 
 **Диаграми, шаблони, фигури и конектори**
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991034"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512399"
 ---
 # <a name="project-license-management"></a>Управление на лицензи за Project
 
@@ -27,6 +27,6 @@ ms.locfileid: "43991034"
 - За да **превключите плановете**, вижте [Ръчно превключване на Microsoft 365 бизнес планове](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - За да **присвоите** лицензи за Project, отидете на **Фактуриране > [Лицензи](https://go.microsoft.com/fwlink/p/?linkid=842264)**. За повече информация вижте [Даване на лицензи](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - За **Добавяне/премахване** на лицензи на Project, отидете на **Фактуриране > [Закупуване на услуги](https://go.microsoft.com/fwlink/p/?linkid=868433)**. За повече информация вижте [Добавяне/премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- За да **отмените** лицензи за Project, отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Настройки и действия**, след което щракнете върху **Отмени абонамента**. За да научите повече, вижте [Отменете абонамента си](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- За да **отмените** лицензи за Project, отидете на **Фактуриране > [Продукти и услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете **Настройки и действия**, след което щракнете върху **Отмени абонамента**. За да научите повече, вижте [Отменете абонамента си](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 За повече информация вж. [Управление на лицензи за абонамент](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

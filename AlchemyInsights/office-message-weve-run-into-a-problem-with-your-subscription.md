@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787719"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512435"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Съобщение за приложенията на Office – натъкнахме се на проблем с вашия абонамент
 
@@ -24,7 +24,7 @@ ms.locfileid: "43787719"
 
 - Вижте [Грешка на Office "Съобщение за акаунт: Натъкнахме се на проблем с вашия абонамент"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Премахнете и дайте отново [лиценз за Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) за засегнатия потребител. 
+- Премахнете и дайте отново [лиценз за Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) за засегнатия потребител. 
 
 - Отворете приложение на Office, идете на **Файл > Акаунт** и излезте от всички акаунти. Влезте отново с помощта на потребителски акаунт с валиден лиценз. За подробна информация вж. [Акаунти в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 

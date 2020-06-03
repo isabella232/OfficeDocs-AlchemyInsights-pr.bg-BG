@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: e95d25ad0d5d0c839692b1335173e8835d58bbc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499140"
 ---
 # <a name="having-email-delivery-issues"></a>Имате проблеми при доставянето на поща?
 
@@ -26,7 +26,7 @@ ms.locfileid: "43710252"
   
 {HealthCheckString}
   
-NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата ви на Microsoft. Можете да направите справка със [Създаване на DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за подробни инструкции.
+NS или MX записите в настройките на домейна (DNS) не са конфигурирани правилно за доставянето на имейли към услугата ви на Microsoft. Можете да направите справка със [Създаване на DNS записи при доставчик на DNS хостинг](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) за подробни инструкции.
   
 За да го коригирате, отидете на страницата [Домейни](https://admin.microsoft.com/adminportal/home#/Domains) в Центъра за администриране на Microsoft 365, и ние ще ви помогнем.
   
