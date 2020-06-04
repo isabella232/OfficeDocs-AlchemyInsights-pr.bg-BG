@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с регистрирате Windows устройства в Microsoft Intune
+title: Отстраняване на проблеми със записване на устройства с Windows в Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665821"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Отстраняване на проблеми с регистрирате Windows устройства в Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Отстраняване на проблеми със записване на устройства с Windows в Microsoft Intune
 
-Преглед на ресурси, изброени по-долу да решим вашия проблем сега.
+Прегледайте ресурсите, изброени по-долу, за да разрешите проблема си сега.
   
-Някои често срещани съобщения за грешка и разрешаване стъпки:
+Някои често срещани съобщения за грешки и стъпки за разрешаване на проблема:
   
- **Не може да бъде инсталиран софтуер, 0x80cf4017:** Сертификат вашия акаунт е изтекъл. Повторно изтегляне компютър клиент софтуерен пакет в на Intune административната конзола. Прегледайте документацията за повече информация.
+ **Софтуерът не може да бъде инсталиран, 0x80cf4017:** Вашият сертификат за акаунт е изтекъл. Изтеглете отново клиентския пакет за PC в Intune Admin Console. Прегледайте тази документация за повече информация.
   
- **Код на грешка 0x801c0003:** Тази грешка може да възникне в следните сценарии:
+ **Код на грешка 0x801c0003:** Грешка може да възникне в следните ситуации:
   
--  Потребителят има повече устройства, записани от лимита за устройството. Преглед на тези документи, за да [премахнете устройството](https://docs.microsoft.com/intune/devices-wipe) или [променете лимита за устройството](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Потребителят има повече включени устройства от ограничението на устройството. Прегледайте тези [документи, за](https://docs.microsoft.com/intune/devices-wipe) да премахнете устройство или [да промените ограничението на устройството](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Потребителите може да присъедини устройства към лазурните АД" е настроен на "няма." Поставям то към всички или изберете потребители. Прегледайте [документацията](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) за повече информация.
+-  "Потребителите могат да се присъедини устройства Azure AD" е зададена на "няма". Задайте го на всички или изберете потребители. Прегледайте [тази документация](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) за повече информация.
 
--  Устройството вече е записан от друг потребител. Ако случаят е такъв, премахнете устройството от Azure Intune конзола или ръчно unenroll устройство преди да опитате отново.
+-  Устройството вече е записано от друг потребител. Ако случаят е такъв, премахнете устройството от Azure Intune конзолата или ръчно откройте устройството, преди да опитате отново.
 
--  Устройството е Windows 10 Начало. Само Windows 10 Pro, образование и предприятието ие може да обединяват Azure Active Directory.
+-  Устройството е Windows 10 Home. Само Windows 10 Pro, образование и корпоративните skus могат да се присъединят към Azure Active Directory.
 
-Допълнителни ресурси за разрешаване на вашия проблем:
+Допълнителни ресурси за разрешаване на проблема:
   
--  Използвате [Intune портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на общи записване неизправности. Преглед на [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
+-  Използвайте [Intune Отстраняване на неизправности портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на често срещани записване грешки. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
 
--  Преглед на тези документи за списък на често срещани грешки, които пречат на записване и резолюции на всеки: [ръководство за отстраняване на проблеми](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) и [отстраняване на док](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Прегледайте тези документи за списък с често срещани грешки, които пречат на записване и решения за всеки от тях: [Ръководство за отстраняване на неизправности](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) и отстраняване на неизправности [.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
-[Научете как да се запишат устройства с Windows в Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Научете как да записвате устройства с Windows в Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

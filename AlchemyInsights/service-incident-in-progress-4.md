@@ -1,5 +1,5 @@
 ---
-title: В ход е инцидент с услугата
+title: В ход е инцидент със сервиз
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666289"
 ---
-# <a name="service-incident-in-progress"></a>В ход е инцидент с услугата
+# <a name="service-incident-in-progress"></a>В ход е инцидент със сервиз
 
-Може да бъдете засегнати от инцидент с услуга или консултативен процес, който в момента се разследва. Можете да проверите най-новото състояние, като отидете на страницата [здраве на услугата](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Може да бъдете засегнати от инцидент или съветник за услуги, който в момента се разследва. Можете да проверите най-новото състояние, като отидете на страницата [за здраве на услугата.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-За ваше удобство, можете да намерите обобщение на този инцидент по-долу:
+За ваше удобство можете да намерите резюме на този инцидент по-долу:
   
-> **Номер на инцидента:** [Идентификатор](https://admin.microsoft.com/adminportal/home#/servicehealth) на
+> **Номер на инцидента:**[{ИД на инцидент}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Описание на въздействието: {Възвлияние}
+> Описание на въздействието: {Описание на въздействието}

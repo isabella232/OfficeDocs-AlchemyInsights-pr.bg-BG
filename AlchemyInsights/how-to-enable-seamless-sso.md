@@ -1,5 +1,5 @@
 ---
-title: Как да активирате безшевни див
+title: Как да активирате безпроблемна SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663841"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Как да активирате безшевни див
+# <a name="how-to-enable-seamless-sso"></a>Как да активирате безпроблемна SSO
 
-Позволяват безпроблемно SSO чрез [лазурно АД се свържете](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Разрешаване на безпроблемна SSO чрез [Azure AD свързване.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Ако ти сте дела пресен инсталация на Azure АД свържете, изберете [по избор инсталация пътека](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На **потребителя вход** страница изберете опцията **Разреши еднократна идентификация** .
+Ако правите нова инсталация на Azure AD Connect, изберете пътя за [инсталиране по избор](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На **страницата за вход на потребителя** изберете опцията Разрешаване на еднократна **идентификация.**
   
-За да проверите, че сте активирали безшевни SSO правилно:
+За да проверите дали сте разрешили безпроблемно SSO правилно:
   
-1. Влезте в [Azure Active Directory административен център](https://aad.portal.azure.com) като глобален администратор.
+1. Влезте в [администраторския център](https://aad.portal.azure.com) на Azure Active Directory като глобален администратор.
 
 2. Изберете **Azure Active Directory** в левия прозорец.
 
-3. Уверете се, че безшевните еднократна идентификация е **разрешено**.
+3. Проверете дали е **активирана**безпроблемна еднократна идентификация .
 
-За да научите повече, вижте [Azure Active Directory безшевни еднократна идентификация: бърз старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+За да научите повече, вижте [Azure Active Directory безпроблемна еднократна идентификация: бързо стартиране](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
