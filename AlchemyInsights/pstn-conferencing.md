@@ -1,5 +1,5 @@
 ---
-title: PSTN конференции
+title: Конференция на PSTN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316651"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581436"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN повикване със Skype за бизнес онлайн
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN разговори с Skype за бизнес онлайн
 
-За да направите PSTN повиквания в Office 365, имате нужда от [office 365 план за обаждания](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или връзка с вашата локална PSTN телефония инфраструктура. За повече информация вижте следните ресурси: 
+За да осъществите PSTN разговори в Microsoft 365, ви е необходим [Microsoft 365 план за обаждания](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) или връзка с локалната PSTN телефонна инфраструктура. За повече информация вижте следните ресурси: 
 
-- [Наличност на държави и региони за аудиоконференции и планове за обаждания](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Често задавани въпроси за аудио конференции](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Добавяне на средства и управление на кредити за комуникации](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN повиквания не може да се присъедини към Skype за бизнес комутируема връзка конферентен разговор](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Наличност на страна и регион за аудиоконференции и планове за обаждания](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Често задавани въпроси за аудиоконференции](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Добавяне на средства и управление на кредити за съобщения](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [PSTN повиквания не може да се присъедини към Skype за бизнес dial-в конферентен разговор](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

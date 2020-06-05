@@ -2,7 +2,7 @@
 title: 408 RBA
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2e4ba8bf4a63a3368d7a769b3bc844cf788a5d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553493"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581972"
 ---
-# <a name="about-room-mailboxes"></a>За пощенски кутии за зали
+# <a name="about-room-mailboxes"></a>За пощенските кутии за помещения
 
-Стая пощенска кутия е пощенска кутия за ресурси, който е присвоен на физическо място, например Конферентна зала, аудитория или в залата. За повече информация за пощенските кутии за зали, вижте [Създаване и управление пощенски кутии за зали](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Пощенска кутия за помещение е пощенска кутия на ресурс, който е присвоен на физическо място, като например конферентна зала, аудитория или стая за обучение. За повече информация относно пощенски кутии за помещения вижте [Създаване и управление на пощенски кутии за помещения](https://go.microsoft.com/fwlink/p/?linkid=717533).
