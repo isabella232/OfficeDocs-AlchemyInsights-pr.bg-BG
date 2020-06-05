@@ -1,5 +1,5 @@
 ---
-title: Повтаряне на вход подканва / вход цикъл
+title: Повтарящи се подканяния / вход линия
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722727"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582404"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a><span data-ttu-id="f02bd-102">Повтаряне на подкани за влизане в приложения на Office</span><span class="sxs-lookup"><span data-stu-id="f02bd-102">Repeated sign-in prompts in Office apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="eae57-102">Повторното влизане в подканите в приложенията на Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="eae57-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="f02bd-103">За отстраняване на неизправности при повторно влизане подканва в приложения на Office, вижте:</span><span class="sxs-lookup"><span data-stu-id="f02bd-103">To troubleshoot repeated sign-in prompts in Office apps, see:</span></span>
+<span data-ttu-id="eae57-103">За отстраняване на повтарящи се подкани за влизане в приложения на Microsoft 365, вижте:</span><span class="sxs-lookup"><span data-stu-id="eae57-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="f02bd-104">Как да отстранявате приложения, които не са в браузъра, които не могат да влизат в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="f02bd-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="f02bd-105">"Достъпът е отказан" или потребителят многократно се подканва за идентификационни данни при свързване с Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f02bd-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="f02bd-106">Външен потребител е многократно подкана за идентификационни данни по време на влизане в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="f02bd-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="eae57-104">Отстраняване на неизправности при приложения, които не могат да влизат в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="eae57-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="eae57-105">"Достъпът е отказан" или потребителят многократно се подканва за идентификационни данни при свързване с Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="eae57-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="eae57-106">Външен потребител многократно се подканва за идентификационни данни по време на влизане в Microsoft 365, Azure или Intune</span><span class="sxs-lookup"><span data-stu-id="eae57-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
