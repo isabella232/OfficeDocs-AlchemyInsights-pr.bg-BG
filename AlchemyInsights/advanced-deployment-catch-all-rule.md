@@ -1,5 +1,5 @@
 ---
-title: Разширено разполагане улов всички правило
+title: Разширено разгръщане улов всички правило
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710900"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580840"
 ---
-# <a name="deploy-office-apps"></a>Разполагане на приложения на Office
+# <a name="deploy-microsoft-365-apps"></a>Внедряване на приложения на Microsoft 365
 
-За разполагане на приложения на Office на няколко крайни потребители чрез инструмента за разполагане на Office, диспечер на конфигурация на Microsoft endpoint като част от образ на диска на операционната система или в споделен сценарий компютър с помощта на Windows Server с услуги за отдалечен работен плот (RDS) или терминални услуги, помислете за използване на стъпка по стъпка ръководство в **Microsoft 365 приложения за съветника за разполагане на предприятие**.
+За разполагане на приложения на Microsoft 365 на множество крайни потребители чрез инструмента за разполагане на Office, Microsoft Endpoint Configuration Manager, като част от образ на диск на операционната система или в сценарий на споделен компютър, използващ Windows Server с услуги за отдалечен работен плот (RDS) или терминални услуги, използвайте ръководството стъпка по стъпка в **Microsoft 365 приложения за корпоративни разполагане съветник**.
   
-За да започнете, уверете се, че сте влезли като администратор на клиент [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)или глобален администратор, след което щракнете тук: .
+За да започнете, уверете се, че сте влезли като администратор на клиент или глобален администратор, след което щракнете върху тук: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

@@ -1,5 +1,5 @@
 ---
-title: Коригиране на приложения на Office не може да намери съобщения за свързани лицензи за office
+title: Поправяне на microsoft 365 приложения Не може да намери съобщения за лицензи за office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505856"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580430"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Коригиране на office приложения "Не може да намери свързани office лицензи"
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Коригиране на Microsoft 365 приложения "Не може да намери офис лицензи свързани" съобщение
 
 Ако получите това съобщение, опитайте следното:
 
-1. Проверете защитната стена, антивирусния софтуер и настройките на прокси сървъра, за да се уверите, че не блокират достъпа до интернет до приложенията на Office. Вижте [URL адресите и диапазоните на IP адресите на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Проверете защитната стена, антивирусния софтуер и настройките на прокси сървъра, за да се уверите, че не блокират достъпа до интернет до приложенията на Microsoft 365. Вижте [URL адресите и диапазоните на IP адресите на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Премахване и [повторно назначане на лиценза на Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) за засегнатия потребител. 
 3. Отворете приложение на Office и [излезте от](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) съществуващите потребителски акаунти.
 4. Отидете в Настройките на **Accounts**Windows >  >  **акаунти имейл & акаунти**и премахнете всички служебни акаунти, с изключение на засегнатия акаунт.

@@ -1,5 +1,5 @@
 ---
-title: Съобщение за приложенията на Office – натъкнахме се на проблем с вашия абонамент
+title: Съобщение за приложения на Microsoft 365 - Натъкнахме се на проблем с абонамента ви
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512435"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581544"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Съобщение за приложенията на Office – натъкнахме се на проблем с вашия абонамент
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Съобщение за приложения на Microsoft 365 - Натъкнахме се на проблем с абонамента ви
 
 - Ако сте превключили на друг абонамент наскоро, следвайте стъпките в [След смяна на плана на в Office се показва "Съобщение за акаунт"](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), за да преинсталирате или актуализирате Office.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512435"
 
 - Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.
 
-- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 За подробни инструкции вижте: 
 

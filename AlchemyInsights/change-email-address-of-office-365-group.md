@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 0a07e6279f533a4c26a4e90c10651421a5df8860
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282563"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580646"
 ---
-# <a name="change-email-address-of-an-microsoft-365-group"></a>Промяна на имейл адреса на група на Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Промяна на имейл адреса на група на Microsoft 365
 
 Можете да промените имейл адреса на група на Microsoft 365 с помощта на центъра за администриране. Просто изберете групата и изберете @edit имейл адрес.
 
-Можете също да използвате exo PowerShell команда за промяна на основния SMTP адрес на microsoft 365 група:
+Можете да използвате и следната команда EXO PowerShell да промените основния SMTP адрес на група на Microsoft 365:
 
-Задайте-унифицирана група <Group Name> -primarySmtpAddress<new SMTP Address>
+Групи за задаване <Group Name> – основен адрес<new SMTP Address>
 
 Пример:
 

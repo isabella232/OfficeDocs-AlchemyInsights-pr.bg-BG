@@ -1,5 +1,5 @@
 ---
-title: Икони/преки пътища в приложения на Office бели, празни или дублирани
+title: Икони/преки пътища за приложения на Microsoft 365 бяло, празно или дублирано
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 90f9a5ac522f7ec76ed5d52da7f8b11672e8f8b7
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886438"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581112"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Иконите на приложения на Office или преките пътища са бели, празни или дублирани
 
-Ако иконите на приложението на Office се показват празни или бели, опитайте да [поправите приложение на Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b). За да премахнете дублиращи се икони на приложения на Office, вижте [преки пътища до Office след деинсталиране на Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).
+Ако иконите на приложенията на Office се покажат празни или бели, опитайте [да поправите приложение от Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b). За да премахнете дублиращи се икони на приложения на Office, вижте [преки пътища на Office остават след деинсталиране на Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).
 
-За повече информация вижте [иконите на Office са празни след инсталиране на Office от Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).
+За повече информация вижте [Иконите на Office са празни след инсталиране на Office от Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).

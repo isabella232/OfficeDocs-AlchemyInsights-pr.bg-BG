@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511641"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581004"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Етикетите на чувствителността не се появяват
 
 Етикетите за чувствителност ви позволяват да класифицирате и да защитите вашето чувствително съдържание. Те могат да бъдат създадени в центъра за съответствие на Microsoft 365, microsoft 365 център за защита или Microsoft 365 & център за съответствие под Класификация > етикети с чувствителност. За да научите повече за тази функция, вижте [Общ преглед на етикетите на чувствителността](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ако сте конфигурирали вашите етикети за чувствителност, но те не се появяват в приложенията на Office, проверете следното:
+Ако сте конфигурирали вашите етикети за чувствителност, но те не се показват в приложенията на Microsoft 365, проверете следното:
 
 - Потвърдете, че етикетът за чувствителност е [публикуван](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) на потребителите и групите, които искате.
 

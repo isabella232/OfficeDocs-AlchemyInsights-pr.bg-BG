@@ -1,5 +1,5 @@
 ---
-title: Съобщение за приложенията на Office – Не можахме да намерим свързаните лицензите за Office
+title: Съобщение за приложения на Microsoft 365 - Не може да намери свързаните с Office лицензи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505080"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581640"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Съобщение за приложенията на Office – Не можахме да намерим свързаните лицензите за Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Съобщение за приложения на Microsoft 365 - Не може да намери свързаните с Office лицензи
 
 За да коригирате грешката, използвайте стъпките по-долу:
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505080"
 
 - Нулирайте състоянието на активиране на Office. Вижте [Нулиране на приложенията на Microsoft 365 за състоянието на корпоративно активиране](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Проверете своята защитна стена, антивирусния софтуер и настройките за прокси сървъра, за да сте сигурни, че те не блокират достъпа на приложенията на Office до интернет. 
+- Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да се уверите, че не блокират достъпа до интернет на приложения на Microsoft 365. 
 
 За допълнителни решения за отстраняване на проблеми вижте:
 
