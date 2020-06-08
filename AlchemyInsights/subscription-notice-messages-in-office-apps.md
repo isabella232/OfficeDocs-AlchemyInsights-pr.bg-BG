@@ -1,5 +1,5 @@
 ---
-title: Съобщения за известия на абонамент в приложенията на Office
+title: Съобщения за известие за абонамент в приложения на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789183"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582296"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Съобщения за известия на абонамент в приложенията на Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Съобщения за известие за абонамент в приложения на Microsoft 365
 
 - Ако Office е предварително инсталиран на вашето ново устройство, вижте [Активиране на Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) за помощ при активирането на Office на вашето ново устройство.
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789183"
 
 - Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.
 
-- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 За подробни инструкции вижте: 
 

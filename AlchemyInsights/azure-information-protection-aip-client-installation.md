@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944038"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44204298"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Защита на информацията в Azure (AIP): клиентска инсталация на AIP
 
@@ -33,4 +33,8 @@ ms.locfileid: "43944038"
 
 4. Ако все още се сблъсквате с проблеми при инсталирането на клиента след изпълняването на инструмента по-горе, намерете папката **%temp%** и въведете регистрационните файлове на инсталационния файл на клиента, които започват с Microsoft_Azure_Information_Protection_XXXXXXXXXX. log.
 
-5. Ако инсталирането е успешно и все още имате проблеми с AIP, изберете съответната тема за поддръжка за подходящи решения.
+За повече информация:
+
+- Прегледайте [документацията за защита на информацията за Azure (AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection) [изисквания](https://docs.microsoft.com/azure/information-protection/get-started/requirements) за настройка и местоположение за [изтегляне на AIP клиент](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- За информация за абонамент за Azure вижте [Абонаменти и функции за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102525"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418097"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Управление на вашия акаунт и абонаменти
 
@@ -33,13 +33,13 @@ ms.locfileid: "43102525"
 
 - [Отдалечено преподаване и обучение в Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**В рамките на Центъра за администриране на Microsoft 365 можете да**: 
+**В центъра за администриране на Microsoft 365 можете :** 
 
 - [Преглед на вашата сметка](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Разберете вашата сметка](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Добавяне, актуализиране или премахване на вашите методи за плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Управление на начините на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Управление на абонаменти и лицензи** 
 

@@ -11,23 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: aca228c2010b3e3497d75b46a231aa404e4dd324
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: HT
+ms.openlocfilehash: db2a906d9881b2209abbfcffb45e9edbfd9e4ab1
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599307"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062741"
 ---
 # <a name="purchase-visio-subscription"></a>Закупуване на абонамент за Visio
 
-Администраторите могат да закупят абонамент за Visio за своята организация от **Центъра за администриране на Microsoft 365**.
+Администраторите могат да закупят абонамент за Visio за своята организация от центъра за администриране на **Microsoft 365**.
 
-1. Щракнете върху **Фактуриране**.
+1. Отидете на страницата **Услуги за плащане**  >  **[покупка,](https://go.microsoft.com/fwlink/p/?linkid=868433)** за да видите наличните абонаменти за закупуване за вашата организация.
 
-2. Щракнете върху **[Услуги за покупки](https://go.microsoft.com/fwlink/p/?linkid=868433)**, за да видите наличните абонаменти за закупуване за вашата организация.
+2. Намерете плановете на Visio, като търсите за "Visio".
 
-3. Намерете плановете на Visio, като търсите за "Visio".
+3. Изберете **Visio (план 1)** или **Visio (план 2)**. И двата плана предлагат месечен или годишен абонамент.
 
-4. Изберете **Visio (план 1)** или **Visio (план 2)**. И двата плана предлагат месечен или годишен абонамент.
-
-Вижте [Сравняване на опциите за Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options), за да научите повече за разликите между план 1 и план 2 на Visio. 
+Вижте [Сравняване на опциите за Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options), за да научите повече за разликите между план 1 и план 2 на Visio.

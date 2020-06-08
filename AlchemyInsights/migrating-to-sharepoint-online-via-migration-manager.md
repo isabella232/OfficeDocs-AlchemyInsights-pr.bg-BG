@@ -11,21 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552699"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268725"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Мигриране към SharePoint Online чрез диспечера за миграция
-
-**Диспечер за миграция**
 
 Разположен в модерния център за администриране на SharePoint, Диспечерът за миграция ви напътства, докато настройвате вашите клиенти и създавате вашите задачи. Можете да зададете настройки за глобално ниво или ниво на задача, да прегледате напредъка задача и да изтеглите обобщени отчети и отчети на ниво задача.
 
 - [Първи стъпки в Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [Настройка на клиенти в Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [Настройка на Диспечера за миграция](https://docs.microsoft.com/sharepointmigration/mm-settings)

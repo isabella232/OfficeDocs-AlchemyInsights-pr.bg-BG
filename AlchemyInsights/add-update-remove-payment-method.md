@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002348"
 - "4574"
-ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 3208773c9c78b7312f0dbc70f6b5cf369db61ef0
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708712"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417917"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Добавяне, актуализиране или премахване на метод за плащане.
 
 Можете да закупите продукти и услуги от Microsoft с кредитна или дебитна карта, или по банкова сметка (директен дебит).
 
-- За да добавите банкова сметка като начин на плащане, вижте [Добавяне на метод на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
+- За да добавите банкова сметка като начин на плащане, вижте [Добавяне на метод на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- За да актуализирате информацията в банкова сметка, вижте [Актуализиране на съществуващ метод за плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- За да актуализирате информацията за банкова сметка, вижте [Актуализиране на подробностите за начина](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)на плащане .
 
-- За да промените метода на плащане на или от банкова сметка, вижте [Промяна на метода на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+- За да промените начина на плащане на или от банкова сметка, вижте [Замяна на начин на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- За да премахнете банкова сметка като начин на плащане, вижте [Добавяне на метод на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#remove-a-payment-method). 
+- За да премахнете банкова сметка като начин на плащане, вижте [Изтриване на начин на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-За още информация вижте[Добавяне, актуализиране или премахване на вашите методи за плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide). 
+За повече информация вижте [Управление на начини на плащане.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

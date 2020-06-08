@@ -1,5 +1,5 @@
 ---
-title: Съобщение "Абонаментът е изтекъл" в приложенията на Office
+title: Известие за изтекъл абонамент в приложения на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789255"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576693"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Съобщение "Абонаментът е изтекъл" в приложенията на Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Известие за "Абонаментът е изтекъл" в приложения на Microsoft 365
 
 - Проверете [Страницата за състояние на услугата](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789255"
 
 - Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.
 
-- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 За подробни инструкции вижте: 
 

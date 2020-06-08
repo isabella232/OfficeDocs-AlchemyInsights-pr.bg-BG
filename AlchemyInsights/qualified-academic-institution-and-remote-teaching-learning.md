@@ -10,22 +10,22 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764681"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44062705"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Квалифицирана академична институция на Microsoft и отдалечено преподаване и обучение
 
-За да започнете „Microsoft за образование“, посетете този [сайт](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) и се регистрирайте.
+За да започнете работа с Office 365 за образование, посетете този [сайт](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) и се регистрирайте.
 
-Ще имате пробна версия на Office 365 А1 за преподаватели и пробна версия на Office 365 А1 за ученици и студенти, докато чакате да бъде разгледано дали вашата организация отговаря на условията.  Непременно добавете домейн, тъй като това може да спомогне за ускоряване на процеса на одобрение.
+Ще имате пробна версия на Office 365 А1 за преподаватели и пробна версия на Office 365 А1 за ученици и студенти, докато чакате да бъде разгледано дали вашата организация отговаря на условията. Непременно добавете домейн, тъй като това може да спомогне за ускоряване на процеса на одобрение.
 
 Ще получите имейл, който ви уведомява дали вашата организация отговаря на условията.  
 
-Когато бъдете одобрени, можете да отидете в раздела [Закупуване на услуги](https://admin.microsoft.com/Adminportal/Home#/catalog) на центъра за администриране на Microsoft, за да закупите абонаменти.
+Когато сте одобрени, можете да отидете в раздела "Закупуване на [услуги"](https://admin.microsoft.com/Adminportal/Home#/catalog) на центъра за администриране на Microsoft 365, за да закупите абонаменти.
 
 **Отдалечено преподаване и обучение**
 

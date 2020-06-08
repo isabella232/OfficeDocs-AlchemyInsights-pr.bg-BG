@@ -1,5 +1,5 @@
 ---
-title: 'Съобщение от приложенията на Office: "Продуктите, които открихме в акаунта ви, не могат да бъдат използвани за активиране"'
+title: Съобщение за приложения на Microsoft 365 - Продуктите, които открихме във вашия акаунт, не могат да се използват за активиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010711"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581604"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Съобщение от приложенията на Office: "Продуктите, които открихме в акаунта ви, не могат да бъдат използвани за активиране"
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Съобщение за приложения на Microsoft 365 - Продуктите, които открихме във вашия акаунт, не могат да се използват за активиране
 
 - Уверете се, че [състоянието на абонамента](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) ви за е валидно и че засегнатият потребител има [присвоен валиден лиценз](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) и е свързан към интернет. 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010711"
 
 - Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.
 
-- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 За сценарии за споделен компютър вж. [Отстраняване на проблеми с активиране на споделен компютър за приложения на Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

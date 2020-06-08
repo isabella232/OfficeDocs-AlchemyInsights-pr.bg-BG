@@ -12,18 +12,18 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
-ms.translationtype: HT
+ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005391"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062814"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 за образование – одобрено
 
-Одобрени сте за Microsoft 365 Education.  За да закупите:
+Одобрени сте за Office 365 Education.  За да закупите:
 
-1. Отидете на **[Фактуриране > Закупуване на услуги](https://portal.office.com/AdminPortal/Home#/catalog)**.
+1. Навигирайте до **Billing**  >  [Услуги за плащане покупка](https://portal.office.com/AdminPortal/Home#/catalog).
 
 2. Изберете от списъка под **Планове за образование**.
 
@@ -33,10 +33,10 @@ ms.locfileid: "44005391"
 
 **Включване на Teams**
 
-- За да включите Microsoft Teams за всички потребители, отидете на **[Настройки > Настройки > Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)** и щракнете върху квадратчето за отметка **Включване на Microsoft Teams за всички потребители**.  Щракнете върху **Запиши промените**.
+- За да включите Microsoft Teams за всички потребители, отидете на **Настройки за настройки**  >  **на**Microsoft Екипи на  >  [Microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) и щракнете в квадратчето **Включи microsoft Teams за всички потребители.** Щракнете върху **Запиши промените**.
 
 **Отдалечено преподаване и обучение**
 
-- Моля, вижте [Отдалечено преподаване и обучение в Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), за да научите за най-новите указания за организиране на планирането на уроци, виртуални събрания и споделяне на съдържание с ученици и студенти.
+- Моля, вижте [Отдалечено преподаване и обучение в Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), за да научите за най-новите указания за организиране на планирането на уроци, виртуални събрания и споделяне на съдържание с ученици и студенти.
 
 - Има допълнителни ИТ указания в [Първи стъпки в Microsoft Teams за отдалечено обучение](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Преход към отдалечено обучение](https://www.microsoft.com/education/remote-learning).
