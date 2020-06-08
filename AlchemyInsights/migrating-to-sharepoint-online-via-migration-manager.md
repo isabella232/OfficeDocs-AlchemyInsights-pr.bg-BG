@@ -11,21 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552699"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268725"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="43fba-102">Мигриране към SharePoint Online чрез диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="43fba-102">Migrating to SharePoint Online via Migration Manager</span></span>
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="c0f11-102">Мигриране към SharePoint Online чрез диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="c0f11-102">Migrating to SharePoint Online via Migration Manager</span></span>
 
-<span data-ttu-id="43fba-103">**Диспечер за миграция**</span><span class="sxs-lookup"><span data-stu-id="43fba-103">**Migration Manager**</span></span>
+<span data-ttu-id="c0f11-103">Разположен в модерния център за администриране на SharePoint, Диспечерът за миграция ви напътства, докато настройвате вашите клиенти и създавате вашите задачи.</span><span class="sxs-lookup"><span data-stu-id="c0f11-103">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="c0f11-104">Можете да зададете настройки за глобално ниво или ниво на задача, да прегледате напредъка задача и да изтеглите обобщени отчети и отчети на ниво задача.</span><span class="sxs-lookup"><span data-stu-id="c0f11-104">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
 
-<span data-ttu-id="43fba-104">Разположен в модерния център за администриране на SharePoint, Диспечерът за миграция ви напътства, докато настройвате вашите клиенти и създавате вашите задачи.</span><span class="sxs-lookup"><span data-stu-id="43fba-104">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="43fba-105">Можете да зададете настройки за глобално ниво или ниво на задача, да прегледате напредъка задача и да изтеглите обобщени отчети и отчети на ниво задача.</span><span class="sxs-lookup"><span data-stu-id="43fba-105">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
-
-- [<span data-ttu-id="43fba-106">Първи стъпки в Диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="43fba-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [<span data-ttu-id="43fba-107">Настройка на клиенти в Диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="43fba-107">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [<span data-ttu-id="43fba-108">Настройка на Диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="43fba-108">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
+- [<span data-ttu-id="c0f11-105">Първи стъпки в Диспечера за миграция</span><span class="sxs-lookup"><span data-stu-id="c0f11-105">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
