@@ -1,5 +1,5 @@
 ---
-title: Съхранение в OneDrive
+title: Място за съхранение в OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049038"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667837"
 ---
-# <a name="manage-your-onedrive-storage"></a>Управление на хранилището ви в OneDrive
+# <a name="manage-your-onedrive-storage"></a>Управление на вашето място за съхранение в OneDrive
 
-OneDrive пространство за съхранение не се брои за обща квота за клиент. 
+Можете да управлявате своя OneDrive за бизнеса, за да видите колко пространство използвате и да освободите място.  За повече информация посетете линковете по-долу.
 
-Научете [как се разпределя пространството за съхранение в OneDrive на потребител/план](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Научете [колко място за съхранение използвате в OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Научете [как да получите квота за съхранение в OneDrive с помощта на PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Microsoft първоначално ще предостави 1 ТБ на потребител, което администраторите могат да увеличат до 5 TB на потребител. Научете как да [зададете място за съхранение по подразбиране за потребителите в OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Научете [как да промените пространството за съхранение на конкретен потребител в OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Научете [как глобалните администратори могат да определят квота за съхранение в OneDrive за всички потребители, използващи PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Управление на вашето място за съхранение в OneDrive за бизнеса](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Промяна на пространството за съхранение в OneDrive на конкретен потребител](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Задаване на място за съхранение по подразбиране за потребителите на OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
