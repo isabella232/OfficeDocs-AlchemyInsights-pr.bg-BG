@@ -1,5 +1,5 @@
 ---
-title: Съхранение в OneDrive
+title: Място за съхранение в OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049038"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667837"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="fc55a-102">Управление на хранилището ви в OneDrive</span><span class="sxs-lookup"><span data-stu-id="fc55a-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="52aaf-102">Управление на вашето място за съхранение в OneDrive</span><span class="sxs-lookup"><span data-stu-id="52aaf-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="fc55a-103">OneDrive пространство за съхранение не се брои за обща квота за клиент.</span><span class="sxs-lookup"><span data-stu-id="fc55a-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="52aaf-103">Можете да управлявате своя OneDrive за бизнеса, за да видите колко пространство използвате и да освободите място.</span><span class="sxs-lookup"><span data-stu-id="52aaf-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="52aaf-104">За повече информация посетете линковете по-долу.</span><span class="sxs-lookup"><span data-stu-id="52aaf-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="fc55a-104">Научете [как се разпределя пространството за съхранение в OneDrive на потребител/план](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="fc55a-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="fc55a-105">Научете [колко място за съхранение използвате в OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="fc55a-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="fc55a-106">Научете [как да получите квота за съхранение в OneDrive с помощта на PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="fc55a-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="fc55a-107">Microsoft първоначално ще предостави 1 ТБ на потребител, което администраторите могат да увеличат до 5 TB на потребител.</span><span class="sxs-lookup"><span data-stu-id="fc55a-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="fc55a-108">Научете как да [зададете място за съхранение по подразбиране за потребителите в OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="fc55a-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="fc55a-109">Научете [как да промените пространството за съхранение на конкретен потребител в OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="fc55a-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="fc55a-110">Научете [как глобалните администратори могат да определят квота за съхранение в OneDrive за всички потребители, използващи PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="fc55a-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="52aaf-105">Управление на вашето място за съхранение в OneDrive за бизнеса</span><span class="sxs-lookup"><span data-stu-id="52aaf-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="52aaf-106">Промяна на пространството за съхранение в OneDrive на конкретен потребител</span><span class="sxs-lookup"><span data-stu-id="52aaf-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- [<span data-ttu-id="52aaf-107">Задаване на място за съхранение по подразбиране за потребителите на OneDrive</span><span class="sxs-lookup"><span data-stu-id="52aaf-107">Set the default storage space for OneDrive users</span></span>](https://docs.microsoft.com/onedrive/set-default-storage-space)
