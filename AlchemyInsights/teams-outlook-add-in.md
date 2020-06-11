@@ -1,5 +1,5 @@
 ---
-title: Екипи добавка та
+title: Добавка за Outlook за екипи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021487"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702195"
 ---
-# <a name="teams-outlook-add-in"></a>Екипи добавка та
+# <a name="teams-outlook-add-in"></a>Добавка за Outlook за екипи
 
-Има няколко фактора, които могат да причинят несе появяване на вашата добавка за екипи и всички те са изброени [тук](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+За отстраняване на липсващи екипи Outlook добавка, първо се уверете, че да изпълните диагностика на услуги тук в портала за администриране.  Ако диагностика на услугата показва никакви проблеми, преминете към изтегляне и стартирайте [Microsoft поддръжка и възстановяване помощник екипи](https://aka.ms/SaRA-TeamsAddInScenario) Outlook сценарий за **добавките** на засегнатите потребителски машини за диагностициране и коригиране на проблеми с клиента.
 
-**Препоръчваме ви първо да проверите дали добавката не е забранена:**
-
-- В Outlook щракнете върху **файл** и след това **върху Опции**.
-- Изберете раздела **Добавки** на диалоговия прозорец **Опции на Outlook.**
-- Потвърдете, че **microsoft Teams среща добавка за Microsoft Office** е в списъка активно приложение **добавки.**
-- Ако teams Meeting добавката е в списъка в списъка **забранени приложения добавки** , изберете COM **добавки** в **управление** и след това щракнете върху **Go ...**
-- Поставете отметка в квадратчето до Добавка за **събрание на екипи те за Microsoft Office**.
-- Щракнете върху **OK** на всички диалогови прозорци и рестартирайте Outlook.
+За ръчно отстраняване на проблема, прегледайте списъка с потенциални фактори, които могат да причинят вашата добавка екипи да не се появяват [тук](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
