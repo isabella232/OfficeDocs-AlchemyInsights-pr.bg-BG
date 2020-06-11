@@ -1,5 +1,5 @@
 ---
-title: Екипи добавка та
+title: Добавка за Outlook за екипи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021487"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702195"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="1cbbb-102">Екипи добавка та</span><span class="sxs-lookup"><span data-stu-id="1cbbb-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="aab9d-102">Добавка за Outlook за екипи</span><span class="sxs-lookup"><span data-stu-id="aab9d-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="1cbbb-103">Има няколко фактора, които могат да причинят несе появяване на вашата добавка за екипи и всички те са изброени [тук](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="1cbbb-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="aab9d-103">За отстраняване на липсващи екипи Outlook добавка, първо се уверете, че да изпълните диагностика на услуги тук в портала за администриране.</span><span class="sxs-lookup"><span data-stu-id="aab9d-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="aab9d-104">Ако диагностика на услугата показва никакви проблеми, преминете към изтегляне и стартирайте [Microsoft поддръжка и възстановяване помощник екипи](https://aka.ms/SaRA-TeamsAddInScenario) Outlook сценарий за **добавките** на засегнатите потребителски машини за диагностициране и коригиране на проблеми с клиента.</span><span class="sxs-lookup"><span data-stu-id="aab9d-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="1cbbb-104">**Препоръчваме ви първо да проверите дали добавката не е забранена:**</span><span class="sxs-lookup"><span data-stu-id="1cbbb-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="1cbbb-105">В Outlook щракнете върху **файл** и след това **върху Опции**.</span><span class="sxs-lookup"><span data-stu-id="1cbbb-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="1cbbb-106">Изберете раздела **Добавки** на диалоговия прозорец **Опции на Outlook.**</span><span class="sxs-lookup"><span data-stu-id="1cbbb-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="1cbbb-107">Потвърдете, че **microsoft Teams среща добавка за Microsoft Office** е в списъка активно приложение **добавки.**</span><span class="sxs-lookup"><span data-stu-id="1cbbb-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="1cbbb-108">Ако teams Meeting добавката е в списъка в списъка **забранени приложения добавки** , изберете COM **добавки** в **управление** и след това щракнете върху **Go ...**</span><span class="sxs-lookup"><span data-stu-id="1cbbb-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="1cbbb-109">Поставете отметка в квадратчето до Добавка за **събрание на екипи те за Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="1cbbb-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="1cbbb-110">Щракнете върху **OK** на всички диалогови прозорци и рестартирайте Outlook.</span><span class="sxs-lookup"><span data-stu-id="1cbbb-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="aab9d-105">За ръчно отстраняване на проблема, прегледайте списъка с потенциални фактори, които могат да причинят вашата добавка екипи да не се появяват [тук](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="aab9d-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
