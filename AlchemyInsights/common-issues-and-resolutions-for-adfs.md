@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580538"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797960"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Често срещани проблеми и решения за ADFS
 
 Конфигурацията на външния домейн може да бъде актуализирана, както е описано в следните статии в базата знания на Microsoft.
+
+- [Изтичане на сертификат за ADFS федерация](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898) "Възникна проблем с достъпа до сайта" грешка от AD FS при външен потребител влиза в Microsoft 365, Azure или Intune.
 
