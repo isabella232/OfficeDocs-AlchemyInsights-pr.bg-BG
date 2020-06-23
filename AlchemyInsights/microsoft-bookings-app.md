@@ -1,5 +1,5 @@
 ---
-title: 597 Приложение за резервации на Microsoft
+title: 597 Приложението за резервации на Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,31 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 9e2d785810ad764809348d1bb716346964baee74
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 67baa4065b3b95d659a501daf6919dd0c3d772a0
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698731"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850725"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="48d3e-102">Приложение за резервации на Microsoft</span><span class="sxs-lookup"><span data-stu-id="48d3e-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="5aec0-102">Приложението за резервации на Microsoft</span><span class="sxs-lookup"><span data-stu-id="5aec0-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="48d3e-103">Резервациите от Microsoft са приложение за планиране на срещи, което ви помага да следите вашите резервации, служители и клиенти.</span><span class="sxs-lookup"><span data-stu-id="48d3e-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="48d3e-104">За информация или отстраняване на неизправности в приложението Резервации вижте [Статии за резервации](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="48d3e-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+- [<span data-ttu-id="5aec0-103">Включване или изключване на резервации на Microsoft за вашата организация</span><span class="sxs-lookup"><span data-stu-id="5aec0-103">Turn Microsoft Bookings On or Off for your Organization</span></span>](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
+- [<span data-ttu-id="5aec0-104">Получете достъп до Microsoft Bookings</span><span class="sxs-lookup"><span data-stu-id="5aec0-104">Get access to Microsoft Bookings</span></span>](https://support.microsoft.com/office/5382dc07-aaa5-45c9-8767-502333b214ce)
+- [<span data-ttu-id="5aec0-105">Публикуване на бизнес календара онлайн с Microsoft Bookings</span><span class="sxs-lookup"><span data-stu-id="5aec0-105">Publish your business calendar online with Microsoft Bookings</span></span>](https://support.microsoft.com/office/47403d64-a067-4754-9ae9-00157244c27d)
+- [<span data-ttu-id="5aec0-106">Въведете информацията за бизнеса си</span><span class="sxs-lookup"><span data-stu-id="5aec0-106">Enter your business information</span></span>](https://support.microsoft.com/office/828a17db-956a-401e-bb62-d153b6dffd53)
+- [<span data-ttu-id="5aec0-107">Задаване на правила за планиране</span><span class="sxs-lookup"><span data-stu-id="5aec0-107">Set your scheduling policies</span></span>](https://support.microsoft.com/office/4b2c84ec-64d3-4027-af4c-40f69e7b37c9)
+- [<span data-ttu-id="5aec0-108">Определете предлаганите от вас услуги</span><span class="sxs-lookup"><span data-stu-id="5aec0-108">Define your service offerings</span></span>](https://support.microsoft.com/office/4a1c391e-524f-48e0-bef8-185df3a9634b)
+- [<span data-ttu-id="5aec0-109">Създайте си списък с персонал</span><span class="sxs-lookup"><span data-stu-id="5aec0-109">Create your staff list</span></span>](https://support.microsoft.com/office/298c529b-407b-4a2b-b2c5-6e77a9d1f07f)
+- [<span data-ttu-id="5aec0-110">Задаване на работно време на служителите</span><span class="sxs-lookup"><span data-stu-id="5aec0-110">Set employee working hours</span></span>](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [<span data-ttu-id="5aec0-111">Планиране на неработни дни, почивки и почивки</span><span class="sxs-lookup"><span data-stu-id="5aec0-111">Schedule business closures, off time, and vacations</span></span>](https://support.microsoft.com/e3c0a4ee-e3d8-4fbe-bd8f-16d1c712d1f4)
+- [<span data-ttu-id="5aec0-112">Свързване на резервациите на Microsoft към вашата страница във Facebook</span><span class="sxs-lookup"><span data-stu-id="5aec0-112">Connect Microsoft Bookings to your Facebook page</span></span>](https://support.microsoft.com/office/858db050-3d10-4bb5-82f1-df6ebeda2685)
+- [<span data-ttu-id="5aec0-113">Публикуване или премахване на публикацията на вашата страница за резервации</span><span class="sxs-lookup"><span data-stu-id="5aec0-113">Publish or unpublish your booking page</span></span>](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
+- [<span data-ttu-id="5aec0-114">Създаване и персонал на вашите резервации</span><span class="sxs-lookup"><span data-stu-id="5aec0-114">Create and staff your bookings</span></span>](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)
+- [<span data-ttu-id="5aec0-115">Получаване на приложението за резервации на Microsoft</span><span class="sxs-lookup"><span data-stu-id="5aec0-115">Get the Microsoft Bookings app</span></span>](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
+- [<span data-ttu-id="5aec0-116">Синхронизиране на личния календар на персонала с резервациите на Microsoft</span><span class="sxs-lookup"><span data-stu-id="5aec0-116">Sync staff's personal calendar with Microsoft Bookings</span></span>](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
+- [<span data-ttu-id="5aec0-117">Персонализирайте страницата си за резервации</span><span class="sxs-lookup"><span data-stu-id="5aec0-117">Customize your booking page</span></span>](https://support.microsoft.com/office/116d7a84-a7a0-4911-a1e9-debb2cca7c43)
+- [<span data-ttu-id="5aec0-118">Задаване на буферно време за срещи в резервации</span><span class="sxs-lookup"><span data-stu-id="5aec0-118">Set a buffer time for appointments in Bookings</span></span>](https://support.microsoft.com/office/271f43e4-b8f7-4d63-8059-b5747679bb7e)
+- [<span data-ttu-id="5aec0-119">Информация за отчитане за резервации на Microsoft</span><span class="sxs-lookup"><span data-stu-id="5aec0-119">Reporting information for Microsoft Bookings</span></span>](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
+- [<span data-ttu-id="5aec0-120">Задаване на език и часови зони</span><span class="sxs-lookup"><span data-stu-id="5aec0-120">Set language and time zones</span></span>](https://support.microsoft.com/office/94af3e22-aca6-4e91-8b91-1cd5a02a9ea8)
+- [<span data-ttu-id="5aec0-121">Използвайте PowerShell за изтриване на календар за резервация</span><span class="sxs-lookup"><span data-stu-id="5aec0-121">Use PowerShell to delete a booking calendar</span></span>](https://support.microsoft.com/office/8c3a913c-2247-4519-894d-b6263eeb9920)
