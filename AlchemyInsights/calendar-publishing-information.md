@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506144"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840894"
 ---
-# <a name="calendar-publishing-information"></a>Информация за публикуване на календар
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Разрешаване на споделяне на календари с помощта на центъра за администриране на Microsoft 365
 
-- Администраторите на Microsoft 365 могат да разрешават или забраняват публикуването на календари и споделянето на календари за дадена организация. За повече информация вижте [Включване на публикуването на календари, така че хората да могат да споделят информация](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) и споделяне на [календари с външни потребители.](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
+1. В центъра за администриране **Settings**отидете на   >   **Настройки Org Settings**.
+2. В раздела **Услуги** изберете **Календар**.
+3. На страницата **"Календар",** която се отваря, изберете дали искате да позволите на потребителите да споделят календарите си с хора извън вашата организация, които имат Microsoft 365 или Exchange.
+4. Изберете дали искате да разрешите на анонимни потребители (потребители без идентификационни данни за влизане) да имат достъп до календари чрез имейл покана.
+5. Изберете какъв тип календарна информация да се предостави на потребителите. Можете да разрешите цялата информация или да я ограничите само до време или време, тема и местоположение.
 
-- Потребителите на Outlook могат да споделят собствените си календари. За повече информация вижте [Споделяне на календар на Outlook с други хора](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Допълнителна информация: [Споделяне на календари с външни потребители](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
