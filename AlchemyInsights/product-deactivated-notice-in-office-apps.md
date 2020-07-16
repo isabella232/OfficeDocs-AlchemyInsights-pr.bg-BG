@@ -1,5 +1,5 @@
 ---
-title: Известието за продукта е деактивирано в приложения на Microsoft 365
+title: Съобщение, че продуктът е дезактивиран в приложенията на Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: efc63ebbd585e7eb78f6ba41db79883671b2e779
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43785364"
 ---
-# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Известие за "Продуктът е деактивиран" в приложения на Microsoft 365
+# <a name="product-deactivated-notice-in-office-apps"></a>Съобщение „Продуктът е дезактивиран“ в приложенията на Office
 
 - Проверете [Страницата за състояние на услугата](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44581792"
 
 - Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.
 
-- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
 За подробни инструкции вижте: 
 
