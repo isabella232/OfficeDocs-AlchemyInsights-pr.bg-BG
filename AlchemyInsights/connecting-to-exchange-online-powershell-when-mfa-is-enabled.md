@@ -1,5 +1,5 @@
 ---
-title: 761 Свързване към Exchange Онлайн PowerShell, когато MFA е разрешена
+title: 761 свързване към Exchange Online PowerShell, когато е разрешена МР
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705794"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205292"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Свързване с Exchange онлайн PowerShell, когато Е активирана МВНР
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Свързване към Exchange Online PowerShell, когато е разрешена ТНР
 
-Ако вашият акаунт е многофакторно удостоверяване (МВНР) поддръжка, трябва да следвате тези инструкции, за да се свържете с Exchange Online PowerShell: [свързване към Exchange Online PowerShell с помощта на удостоверяване](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)с много фактор .
-
-**Забележка:** Дори ако сте свързани с Exchange Online PowerShell в миналото с [помощта на инструкциите за редовна връзка,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)трябва да използвате инструкциите за свързване на МВНР след MFA е разрешено за вашия акаунт.
+Ако вашият акаунт е разрешено удостоверяване (МРН), трябва да следвате тези инструкции, за да се свържете с Exchange Online PowerShell: [използвайте Exchange Online PowerShell с модерна удостоверяване с помощта на V2 модул](https://aka.ms/exops-docs). Моля, потърсете инструкциите за МРН/ многофакторно удостоверяване на тази страница.
