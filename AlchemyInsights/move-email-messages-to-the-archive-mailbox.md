@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511029"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522760"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Преместване на имейл в архивната пощенска кутия
+
+Ако искате да стартираме автоматизирани проверки за настройките, посочени по-долу, изберете бутона за връщане <-- в горната част на тази страница, и след това въведете имейл адреса на потребителя, който има проблеми при преместването на имейл в архивната пощенска кутия.
 
 1. Потвърдете, че **архивна пощенска кутия** е разрешена. Ако не, използвайте стъпките в [тази статия,](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) за да разрешите архивна пощенска кутия.
 

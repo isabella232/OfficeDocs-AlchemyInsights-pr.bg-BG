@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508797"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522832"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Увеличаване на размера на архивната пощенска кутия
+
+
+Ако искате да стартираме автоматизирани проверки за настройките, посочени по-долу, изберете бутона за връщане <-- в горната част на тази страница, след което въведете имейл адреса на потребителя, който се нуждае от увеличаване размера на пощенската кутия на архива.
 
 Microsoft 365 [ограничава](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) размера на архивни пощенски кутии въз основа на лиценза, който е присвоен на потребителския акаунт. Когато архивната пощенска кутия достигне 90% от разрешения размер, потребителят получава имейл известие. Когато архивна пощенска кутия достигне лимита си размер, потребителят не може да преместите повече елементи в архивна пощенска кутия. Microsoft 365 няма да увеличи размера на архивна пощенска кутия, след като ограничението за размера е достигнато. Вместо това потребителите могат да предприемат следните действия, за да освободите място в архивната пощенска кутия:
 
