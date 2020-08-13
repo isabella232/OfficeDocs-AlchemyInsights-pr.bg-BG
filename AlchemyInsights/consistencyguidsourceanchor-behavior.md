@@ -1,9 +1,9 @@
 ---
-title: Съвместимост с Последователиguid/източник
+title: ConsistencyGuid/sourceAnchor поведение
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516959"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705722"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Съвместимост с Последователиguid/източник
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor поведение
 
-Azure AD свързване (версия 1.1.524.0 и след) сега улеснява използването на МСС Последователстенguid като sourceAnchor атрибут. Когато използвате тази функция, Azure AD Connect автоматично конфигурира правилата за синхронизация на:
+Azure AD Connect (версия 1.1.524.0 и After) сега улеснява използването на МСС – ConsistencyGuid като sourceAnchor атрибут. При използването на тази функция Azure AD Connect автоматично конфигурира правилата за синхронизиране с:
   
-- Използване на МСС съгласуваност Иguid като sourceAnchor атрибут за обекти на потребителя. Обектguid се използва за други типове обекти.
+- Използвайте МСС – ConsistencyGuid като атрибут sourceAnchor за потребителските обекти. ObjectGUID се използва за други типове обекти.
     
-- За всеки даден локален AD потребителски обект, чиято МСС съгласуваност Encyguid атрибут не се попълва, Azure AD свързване записва Обектаguid стойност обратно МСС съгласуваност Encyguid атрибут в локалната Active Directory. След като МСС съгласуваност Encyguid атрибут се попълва, Azure AD свързване след експортира обекта Azure AD.
+- За всеки даден локален РЕКЛАМен потребителски обект, чийто атрибут на ConsistencyGuid не е попълнен, Azure AD Connect записва своята objectGUID стойност обратно към МСС – ConsistencyGuid атрибут в локален Active Directory. След като МСС – ConsistencyGuid атрибутът е населен, Azure AD Connect и експортира обекта в Azure AD.
     
- **Забележка:** След като локалния AD обект се импортира в Azure AD свързване (т. е. импортирани в AD конектор пространство и планирани в Метастих), не можете да променяте стойността му вече. За да укажете стойността sourceAnchor за даден локален AD обект, конфигурирайте МСС съгласуваност Encyguid атрибут, преди да се импортира в Azure AD свързване. 
+ **Забележка:** След като локален РЕКЛАМен обект бъде импортиран в Azure AD Connect (който е внесен в РЕКЛАМното поле за конектор и е прожектиран в Metaverse), повече не можете да променяте стойността на sourceAnchor. За да зададете стойността на sourceAnchor за даден локален РЕКЛАМен обект, конфигурирайте неговия ConsistencyGuid атрибут за msDS, преди да бъде импортиран в Azure AD Connect. 
   
-За повече информация относно източник на котва и съвместимост, вижте следното: [AZURE ad свързване: дизайн концепции](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+За повече информация относно SourceAnchor и ConsistencyGuid вижте следното: [AZURE ad Connect: концепции за проектиране](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

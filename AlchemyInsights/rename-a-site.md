@@ -10,16 +10,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: cc0a4bcdd0290b7c4d4d26531e8043a7feaf0f50
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5388df7a36652e3da9163d82dbb2be86823e3
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048857"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343123"
 ---
 # <a name="rename-a-sharepoint-site"></a>Преименуване на сайт на SharePoint
 
-Следвайте стъпките в [тази статия](https://docs.microsoft.com/sharepoint/change-site-address) , за да промените името на сайт--например от https://contoso.sharepoint.com/sites/sample1 до. https://contoso.sharepoint.com/sites/sample2
+Стъпките за промяна/Преименуване на URL адрес на сайт са документирани в [Промяна на адрес на сайт](https://docs.microsoft.com/sharepoint/change-site-address); например, за да промените от https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
 
-**Забележка:** Не можете да промените името на домейна (в примера по-горе, contoso част на URL) в SharePoint online URL. Вижте [Промяна на домейните](https://go.microsoft.com/fwlink/?Linkid=2018696) за повече информация.
-  
+За известни грешки при преименуване вижте [грешки при преименуването на адрес на сайт на SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+
+За известни ефекти след преименуване вижте [ефекти на промяна на адрес на сайт](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+
+**Забележка:** Не можете да промените името на домейна (в примера по-горе – частта "contoso" на URL адреса) в URL адрес на SharePoint online. 
+
+За повече информация вижте:
+
+- [Промяна на името на домейна на SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Грешки при преименуване на адреса на сайт на SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
