@@ -1,5 +1,5 @@
 ---
-title: Местоположение на данните
+title: Местоположение на данни
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655271"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665487"
 ---
-# <a name="data-location"></a>Местоположение на данните
+# <a name="data-location"></a>Местоположение на данни
 
-Можете да видите местоположението на вашия клиент в центъра за администриране или чрез свързване към Exchange Online чрез PowerShell.
+Можете да видите местоположението на своя клиент в центъра за администриране, като отидете на [страницата **профил на организацията** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) и изберете местоположение на **данните**.
 
-
-**Център за администриране:**
-1. Влезте в [центъра за администриране](https://admin.microsoft.com/Adminportal/Home).
-2. Изберете **Настройки на** > **организацията профил**.
-3. Под **Местоположение на данните**изберете Преглед на подробни **данни**.
-
-
-**Powershell:**
-1. Свързване с Exchange Online чрез Windows PowerShell.
-2. Изпълнение на кратката команда [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) да покаже списък на свойствата на вашия клиент. 
-3. Погледнете свойството OrganizationId.
-
-Когато имате местоположението на данните за EXO и SPO, можете да определите местоположението на данните за други услуги, които можете да използвате от [Мястото, където се намират данните ви](https://products.office.com/where-is-your-data-located).
+За приложенията, за които не сте абонирани, вижте [къде се съхраняват вашите клиентски данни на Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
