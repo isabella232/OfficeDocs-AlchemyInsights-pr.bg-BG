@@ -1,7 +1,7 @@
 ---
-title: Онлайн често изисквани теми
-ms.author: v-todmc
-author: todmccoy
+title: Project online често задавани теми
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c69725e296c9142c4c9034800f647df69873394f
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768030"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787454"
 ---
-# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="cfbaa-102">Онлайн често изисквани теми</span><span class="sxs-lookup"><span data-stu-id="cfbaa-102">Project Online Frequently Requested Topics</span></span>
+# <a name="project-online-frequently-requested-topics"></a><span data-ttu-id="4a2f2-102">Project online често задавани теми</span><span class="sxs-lookup"><span data-stu-id="4a2f2-102">Project Online Frequently Requested Topics</span></span>
 
-<span data-ttu-id="cfbaa-103">Ето някои често изисквани теми с project:</span><span class="sxs-lookup"><span data-stu-id="cfbaa-103">Here are some frequently requested topics with Project:</span></span>
+<span data-ttu-id="4a2f2-103">Ето някои често задавани теми с Project:</span><span class="sxs-lookup"><span data-stu-id="4a2f2-103">Here are some frequently requested topics with Project:</span></span>
 
-<span data-ttu-id="cfbaa-104">Ето и често заявени теми за проекта:</span><span class="sxs-lookup"><span data-stu-id="cfbaa-104">Here are frequently requested topics for Project:</span></span>
-1.  <span data-ttu-id="cfbaa-105">Първи стъпки:</span><span class="sxs-lookup"><span data-stu-id="cfbaa-105">Getting started:</span></span> 
-    -   [<span data-ttu-id="cfbaa-106">Първи стъпки с проекта онлайн</span><span class="sxs-lookup"><span data-stu-id="cfbaa-106">Get started with Project Online</span></span>](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [<span data-ttu-id="cfbaa-107">Документация за администриране на проекти онлайн</span><span class="sxs-lookup"><span data-stu-id="cfbaa-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
-    -   [<span data-ttu-id="cfbaa-108">Онлайн проект: ограничения и ограничения на софтуера</span><span class="sxs-lookup"><span data-stu-id="cfbaa-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [<span data-ttu-id="cfbaa-109">Добавяне на хора, групи и ресурси, след което споделете проекта онлайн</span><span class="sxs-lookup"><span data-stu-id="cfbaa-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [<span data-ttu-id="cfbaa-110">Tune Project Web App (PWA) производителност в онлайн проект</span><span class="sxs-lookup"><span data-stu-id="cfbaa-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  <span data-ttu-id="cfbaa-111">Свързване с [онлайн настолен клиент на Project](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="cfbaa-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
-5.  [<span data-ttu-id="cfbaa-112">Инсталиране и използване на Project Professional</span><span class="sxs-lookup"><span data-stu-id="cfbaa-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+<span data-ttu-id="4a2f2-104">Ето някои често задавани теми за Project:</span><span class="sxs-lookup"><span data-stu-id="4a2f2-104">Here are frequently requested topics for Project:</span></span>
+1.  <span data-ttu-id="4a2f2-105">Първи стъпки:</span><span class="sxs-lookup"><span data-stu-id="4a2f2-105">Getting started:</span></span> 
+    -   [<span data-ttu-id="4a2f2-106">Първи стъпки в Project online</span><span class="sxs-lookup"><span data-stu-id="4a2f2-106">Get started with Project Online</span></span>](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [<span data-ttu-id="4a2f2-107">Документация за администратора на Project online</span><span class="sxs-lookup"><span data-stu-id="4a2f2-107">Project Online Admin Documentation</span></span>](https://docs.microsoft.com/projectonline/project-online) 
+    -   [<span data-ttu-id="4a2f2-108">Project Online: софтуерни ограничения</span><span class="sxs-lookup"><span data-stu-id="4a2f2-108">Project Online: software boundaries and limits</span></span>](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [<span data-ttu-id="4a2f2-109">Добавяне на хора, групи и ресурси, а след това споделяне на Project online</span><span class="sxs-lookup"><span data-stu-id="4a2f2-109">Add people, groups, and resources, then share Project Online</span></span>](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [<span data-ttu-id="4a2f2-110">Настройване на производителността на Project Web App (PWA) в Project online</span><span class="sxs-lookup"><span data-stu-id="4a2f2-110">Tune Project Web App (PWA) performance in Project Online</span></span>](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  <span data-ttu-id="4a2f2-111">Свързване с [настолния клиент на Project online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span><span class="sxs-lookup"><span data-stu-id="4a2f2-111">Connect with the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)</span></span> 
+5.  [<span data-ttu-id="4a2f2-112">Инсталиране и използване на Project Professional</span><span class="sxs-lookup"><span data-stu-id="4a2f2-112">Install and use Project Professional</span></span>](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
