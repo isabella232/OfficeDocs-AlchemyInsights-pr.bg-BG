@@ -1,7 +1,7 @@
 ---
-title: Споделяне на сайт на SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: Как да споделите сайт на SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 61f24094e88745421f2e2885ec2ff03045fd9f07
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763350"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787274"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>Споделяне на сайт на SharePoint
+# <a name="how-to-share-a-sharepoint-site"></a>Как да споделите сайт на SharePoint
 
 Ако сте собственик на сайт, можете да дадете достъп на други хора до сайта, като ги добавите като собственици, членове или посетители. ([Искате ли вместо това да споделите файл или папка?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
 
