@@ -1,5 +1,5 @@
 ---
-title: Пенсиониране на наследените инструменти за откриване на електронни данни
+title: Оттегляне на стари инструменти за откриване на електронни данни
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650557"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902609"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Пенсиониране на наследените инструменти за откриване на електронни данни
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Оттегляне на стари инструменти за откриване на електронни данни
 
-В резултат на новите и подобрени функции за откриване на електронни данни в центъра за съответствие на Microsoft 365, следните стари инструменти и командни елементи ще се оттеглеят през следващите месеци:
+Като резултат от новата и усъвършенстваната функционалност на откриването на електронни данни в центъра за съответствие на Microsoft 365, следните инструменти за откриване на електронни данни и кратки команди ще бъдат оттеглени през следващите месеци:
 
-- [Откриването на електронни данни](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) на място и [задържането на място](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) в центъра за администриране на Exchange.
+- [Откриване](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) на електронни данни и [задържане](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) на места в центъра за администриране на Exchange.
 
-- Кратки команди на Exchange Online PowerShell, които поддържат на място eDiscovery и задържа. (Тези кратки команди са общо идентифицирани като *-MailboxSearch кратки команди.) Това включва следните кратки команди:
+- Кратките команди на PowerShell на Exchange Online, които поддържат откриването на електронни данни и задържане на места. (Тези кратки команди се идентифицират общо като *-MailboxSearch кратки команди.) Това включва следните кратки команди:
 
-    - [Търсене на нова пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Търсене на начална пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Търсене на стоп-пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Търсене на set-пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Стоп-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Пощенска [кутия за търсене](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) команда в Exchange Онлайн PowerShell.
-- Следните операции в API на уеб услуги на Exchange:
-    - [Получаване на пощенски кутии за търсене](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [Задаване на пощенски кутии](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [Пощенски кутии](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Кратката команда [търсене – пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) в Exchange Online PowerShell.
+- Следните операции в API на уеб услугите на Exchange:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Разширено откриване на електронни данни v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Разширено откриване на електронни данни v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Времева линия за пенсиониране:**
-- 1 април 2020 г.: Няма да можете да създавате нови търсения и задържания, но все още можете да изпълнявате, редактирате и изтривате съществуващи търсения на свой собствен риск. Поддръжката на Microsoft вече няма да поддържа на място & за откриване на електронни данни в EAC.
+**Времева линия за пенсиониране**:
+- **1 юли 2020 г.** Вече не можете да създавате нови търсения и трюмове, но можете да изпълнявате, редактирате и изтривате съществуващи търсения на свой собствен риск. Поддръжката на Microsoft вече не поддържа откриване на електронни данни на места & съдържа в EAC.
+    
+- **1 октомври 2020 г.** Откриване на електронни данни на място & съдържа функционалност в EAC ще бъдат поставени в режим само за четене, така че да можете да премахвате съществуващите търсения и съдържания.
 
-- 1 юли 2020 г.: & за откриване на електронни данни на място притежава функции в EAC ще бъдат поставени в режим само за четене. Това означава, че ще можете да премахвате само съществуващи търсения и задържания.
+**За повече информация вижте**:
 
-**За повече информация вижте:**
-
- - [Мигриране на следене на откриването на електронни данни и задържане в центъра за съответствие на Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Пенсиониране на наследените инструменти за откриване на електронни данни](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Често задавани въпроси за откриването на електронни данни на място и задържанията на място](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Мигриране на стари търсения на откриване на електронни данни и задържане в центъра за съответствие на Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Оттегляне на стари инструменти за откриване на електронни данни](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [ЧЗВ за откриване на електронни данни на места и задържане на места](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
