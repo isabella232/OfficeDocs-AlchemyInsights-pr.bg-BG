@@ -1,5 +1,5 @@
 ---
-title: Публични папки не могат да бъдат достъпни
+title: Нямате достъп до публични папки
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891738"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341392"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не може да се свърже с публични папки
 
-Ако достъпът до публична папка не работи за някои потребители, опитайте следното:
+Ако достъпът до публични папки не работи за някои потребители, опитайте следното:
 
-Свързване с EXO PowerShell и конфигуриране на параметъра DefaultPublicFolderMailbox на потребителския акаунт на проблема да съответства на параметъра на работещ потребителски акаунт.
+Свързване към ЕКСО PowerShell и конфигуриране на параметъра DefaultPublicFolderMailbox на потребителския акаунт за проблем, за да съответства на параметъра на работен потребителски акаунт.
 
-Пример:
+Например
 
-Потребител на работа с пощенски кутии | фута по подразбиранеПубличнапапка,ефективнапубличнапапкаПощенска кутия
+Получаване на пощенска кутия WorkingUser | Ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Задаване на пощенска кутия за \<проблемПотребител -DefaultPublicFolderMailbox стойност от предишна команда>
+Set-пощенска кутия ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
-Изчакайте поне един час, за да влязат в сила промяната.
+Изчакайте поне един час, за да влезе в сила промяната.
 
-Ако проблемът остава, моля, следвайте [тази процедура](https://aka.ms/pfcte) за отстраняване на проблеми с публична папка достъп с помощта на Outlook.
+Ако проблемът остава, следвайте [тази процедура](https://aka.ms/pfcte) , за да отстраните проблеми с достъпа до публични папки, като използвате Outlook.
+ 
+**За да контролирате кои потребители да имат достъп до публични папки чрез Outlook**:
+
+1.  Използвайте Set-CASMailbox <mailboxname> -PublicFolderClientAccess $TRUE или $FALSE  
+      
+    $true: Позволяване на достъп на потребителите до публични папки в Outlook  
+      
+    $false: предотвратяване на достъпа на потребителите до публични папки в Outlook. Това е стойността по подразбиране.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Забележка** Тази процедура може да управлява връзките само с настолната версия на Outlook за клиенти на Windows. Потребителят може да продължи да отваря публични папки, като използва OWA или Outlook for Mac.
+ 
+За повече информация вижте [обявяване на поддръжката за контролирани връзки с публични папки в Outlook](https://aka.ms/controlpf).
