@@ -1,28 +1,29 @@
 ---
-title: Анализ на екипите и отчети в Центъра за администриране на екипи
+title: Анализи и отчети на Teams в центъра за администриране на Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 938e8f8020090510529738f7f2308923c6f67a11
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564115"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670137"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Анализ на екипите и отчети в Центъра за администриране на екипи
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Анализи и отчети на Teams в центъра за администриране на Teams
 
-Има редица отчети за **използване и активност,** налични в Центъра за администриране на екипи, включително активността на потребителите, използването на устройството и използването на събития на живо. За подробности вижте [Анализ и отчитане на Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Има редица **отчети за използването и дейността** в центъра за администриране на Teams, включително дейността на потребителите, използването на устройството и използването на събития на живо. За подробности вижте [анализи на Microsoft Teams и отчети](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
 
-**Моля, обърнете внимание на:** Има допълнителни отчети за използването на екипи те и дейности в центъра за администриране на Microsoft 365. Вижте [Как да преглеждате отчетите за екипи те в таблото за отчети](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Моля, имайте предвид:** В центъра за администриране на Microsoft 365 има допълнителни отчети за използването и дейността в Teams. Вижте [как да преглеждате отчетите за Teams в таблото за отчети](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Ако търсите отчет или анализ, свързани с **обаждания** или **качество на обажданията,** вижте [Внедрете QoS и Качеството на монитора на обажданията в Екипите на Microsoft](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) за свързаната с това документация.
+Ако търсите отчети или анализи, свързани с **разговорите** или **качеството на повикванията**, вижте [прилагане на QoS и наблюдение на качеството на повикването в Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) за свързана документация.
 
