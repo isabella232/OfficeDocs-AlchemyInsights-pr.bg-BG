@@ -1,26 +1,27 @@
 ---
-title: Проверете домейна си с 1&1 IONOS
+title: Проверка на вашия домейн с 1&1 IONOS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5edd62e7de77cba6d05da9272521e82d3ff81dce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726129"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664699"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="707cb-102">Проверете домейна си с 1&1 IONOS</span><span class="sxs-lookup"><span data-stu-id="707cb-102">Verify your domain with 1&1 IONOS</span></span>
+# <a name="verify-your-domain-with-11-ionos"></a><span data-ttu-id="62ed4-102">Проверка на вашия домейн с 1&1 IONOS</span><span class="sxs-lookup"><span data-stu-id="62ed4-102">Verify your domain with 1&1 IONOS</span></span>
 
-<span data-ttu-id="707cb-103">За да проверите домейна си, ще трябва да добавите tXT запис към вашия регистратор на домейн, за да се уверите, че притежавате домейна си.</span><span class="sxs-lookup"><span data-stu-id="707cb-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="62ed4-103">За да потвърдите домейна си, ще трябва да добавите TXT запис към вашия регистратор на домейни, за да се уверите, че сте собственик на вашия домейн.</span><span class="sxs-lookup"><span data-stu-id="62ed4-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="707cb-104">Първо следвайте [съветника за добавяне](https://portal.office.com/adminportal/home#/Domains) на домейн, като изберете **Настройки на домейни** \> **Domains**и след това **Добавете домейн**.</span><span class="sxs-lookup"><span data-stu-id="707cb-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="62ed4-104">Първо, следвайте [съветника за добавяне на домейн](https://portal.office.com/adminportal/home#/Domains) , като изберете **Настройки** на \> **домейни**и след това **Добавяне на домейн**.</span><span class="sxs-lookup"><span data-stu-id="62ed4-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="707cb-105">Вижте [Създаване на DNS записи в 1&1 IONOS за Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) за инструкции стъпка по стъпка.</span><span class="sxs-lookup"><span data-stu-id="707cb-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>
+<span data-ttu-id="62ed4-105">Вижте [Създаване на DNS записи в 1&1 IONOS за Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) за инструкции "стъпка по стъпка".</span><span class="sxs-lookup"><span data-stu-id="62ed4-105">See [Create DNS records at 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for step-by-step instructions.</span></span>

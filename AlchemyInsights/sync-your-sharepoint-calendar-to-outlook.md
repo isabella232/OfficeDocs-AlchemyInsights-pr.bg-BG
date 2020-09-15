@@ -1,36 +1,37 @@
 ---
-title: Синхронизиране на календара на SharePoint с Outlook
+title: Синхронизиране на вашия календар на SharePoint с Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912847"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659155"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="d0595-102">Проблеми при синхронизиране на календара с устройства</span><span class="sxs-lookup"><span data-stu-id="d0595-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="56674-102">Проблеми при синхронизиране на вашия календар с устройства</span><span class="sxs-lookup"><span data-stu-id="56674-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="d0595-103">Календари на SharePoint са класически типове списъци, които понякога са объркани с Microsoft 365 групови календари.</span><span class="sxs-lookup"><span data-stu-id="d0595-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
+<span data-ttu-id="56674-103">Календарите на SharePoint са класически типове списъци, които понякога се объркват с календарите на Microsoft 365 Group.</span><span class="sxs-lookup"><span data-stu-id="56674-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
 
-<span data-ttu-id="d0595-104">За да синхронизирате календар на SharePoint в Outlook, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="d0595-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
+<span data-ttu-id="56674-104">За да синхронизирате календар на SharePoint с Outlook, изпълнете следните стъпки:</span><span class="sxs-lookup"><span data-stu-id="56674-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
 
-1. <span data-ttu-id="d0595-105">Щракнете върху иконата **на** настройки тела и след това щракнете върху **Съдържание на сайта**.</span><span class="sxs-lookup"><span data-stu-id="d0595-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
-2. <span data-ttu-id="d0595-106">Отворете календара, който искате да синхронизирате (което е тип на списък със събития).</span><span class="sxs-lookup"><span data-stu-id="d0595-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
-3. <span data-ttu-id="d0595-107">В менюто на класическата лента щракнете върху **календар**, след което щракнете върху **Свързване към Outlook**.</span><span class="sxs-lookup"><span data-stu-id="d0595-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
-4. <span data-ttu-id="d0595-108">В изскачащия прозорец, който ви моли да потвърдите синхронизирането, щракнете върху **Разреши**.</span><span class="sxs-lookup"><span data-stu-id="d0595-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
+1. <span data-ttu-id="56674-105">Щракнете върху иконата на зъбно колело **Настройки** и след това щракнете върху **съдържание на сайта**.</span><span class="sxs-lookup"><span data-stu-id="56674-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
+2. <span data-ttu-id="56674-106">Отворете календара, който искате да синхронизирате (който е тип списък със събития).</span><span class="sxs-lookup"><span data-stu-id="56674-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
+3. <span data-ttu-id="56674-107">В класическото меню на лентата щракнете върху **Календар**и след това щракнете върху **Свързване с Outlook**.</span><span class="sxs-lookup"><span data-stu-id="56674-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
+4. <span data-ttu-id="56674-108">В изскачащия прозорец, който ви подканва да потвърдите синхронизирането, щракнете върху **Разреши**.</span><span class="sxs-lookup"><span data-stu-id="56674-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
 
 >[!Note]
-> <span data-ttu-id="d0595-109">Когато направите промяна в синхронизирания календар на Outlook, тя ще се появи в календара на SharePoint и обратно.</span><span class="sxs-lookup"><span data-stu-id="d0595-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
+> <span data-ttu-id="56674-109">Когато направите промяна в синхронизирания календар на Outlook, тя ще се появи в календара на SharePoint и обратно.</span><span class="sxs-lookup"><span data-stu-id="56674-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
 
-<span data-ttu-id="d0595-110">За повече информация относно Групите на Microsoft 365 вижте тази [статия](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="d0595-110">For more information about Microsoft 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="56674-110">За повече информация за групите на Microsoft 365 вижте тази [статия](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="56674-110">For more information about Microsoft 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
