@@ -1,10 +1,11 @@
 ---
-title: Как да направите покупка на Microsoft 365
+title: Как се прави покупка на Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509193"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703866"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Как да направите покупка на Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Как се прави покупка на Microsoft 365
 
-Покупки в Microsoft 365 могат да бъдат направени в центъра за администриране.
+Покупките в Microsoft 365 могат да бъдат правени в центъра за администриране.
   
-- За да закупите план, отидете на **Billing** \> страницата Услуги за плащане [за покупка.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+- За да закупите план, отидете на страницата за услуги за закупуване на **фактури** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- За да закупите допълнителни лицензи, отидете на страницата **Фактуриране на** \> **[продуктите си.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Изберете абонамента, към който искате да добавите лицензи, след което изберете **Добавяне/премахване на лицензи**.
+- За да закупите допълнителни лицензи, отидете на страницата **Фактуриране** на \> **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Изберете абонамента, към който искате да добавите лицензи, и след това изберете **Добавяне/премахване на лицензи**.
   
-За да научите повече, вижте [Закупуване на лицензи за вашия Microsoft 365 за бизнес абонамент](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+За да научите повече, вижте [закупуване на лицензи за вашия абонамент за Microsoft 365 за фирми](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Отстраняване на неизправности**
 
@@ -35,6 +36,6 @@ ms.locfileid: "44509193"
 
 **Допълнителни ресурси**
   
-- [Присвояване на лицензи на потребители в Microsoft 365 за бизнес](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Даване на лицензи на потребители в Microsoft 365 за фирми](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Отмяна на Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Отказ от Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
