@@ -1,31 +1,32 @@
 ---
-title: Достъпът е отказан при преглед на работен поток
+title: Отказан достъп при преглед на работен поток
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687319"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688791"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="13e27-102">Достъпът е отказан при преглед на работен поток</span><span class="sxs-lookup"><span data-stu-id="13e27-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="9d23c-102">Отказан достъп при преглед на работен поток</span><span class="sxs-lookup"><span data-stu-id="9d23c-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="13e27-103">SharePoint 2013 работни потоци, които се опитват да изпратите имейл до група на SharePoint може да се провали с съобщение за грешка "Достъпът е отказан", ако членството на групата на SharePoint не е зададена на всеки.</span><span class="sxs-lookup"><span data-stu-id="13e27-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="9d23c-103">Работните потоци на SharePoint 2013, които се опитват да изпратят имейл до група на SharePoint, може да не успеят с съобщение за грешка "отказан достъп", ако членството в групата на SharePoint не е зададено на всеки.</span><span class="sxs-lookup"><span data-stu-id="9d23c-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="13e27-104">**За да разрешите този проблем, направете следните стъпки:**</span><span class="sxs-lookup"><span data-stu-id="13e27-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="9d23c-104">**За да отстраните този проблем, изпълнете следните стъпки:**</span><span class="sxs-lookup"><span data-stu-id="9d23c-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="13e27-105">Позволявана на всички да виждат членовете на групата на SharePoint.</span><span class="sxs-lookup"><span data-stu-id="13e27-105">Allow everybody to see the members of the SharePoint group.</span></span>
+ 1. <span data-ttu-id="9d23c-105">Позволете на всички да виждат членовете на групата на SharePoint.</span><span class="sxs-lookup"><span data-stu-id="9d23c-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="13e27-106">Премахнете групата на SharePoint от реда до или як на имейла.</span><span class="sxs-lookup"><span data-stu-id="13e27-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
+ 2. <span data-ttu-id="9d23c-106">Премахнете групата на SharePoint от реда "до" или "Як" на имейла.</span><span class="sxs-lookup"><span data-stu-id="9d23c-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="13e27-107">Изрично добавете потребителите към или як ред, ако не може да се промени членството за SharePoint група.</span><span class="sxs-lookup"><span data-stu-id="13e27-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
+ 3. <span data-ttu-id="9d23c-107">Изрично добавете потребителите към реда "до" или "Як", ако видимостта на членството не може да бъде променена за групата на SharePoint.</span><span class="sxs-lookup"><span data-stu-id="9d23c-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="13e27-108">За да видите повече подробности, моля, вижте [HTTP Неоторизиран достъп до /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="13e27-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="9d23c-108">За да видите повече подробности, вижте [http неоторизирани за/_vti_bin/client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9d23c-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   

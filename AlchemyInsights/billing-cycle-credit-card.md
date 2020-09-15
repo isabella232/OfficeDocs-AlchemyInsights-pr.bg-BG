@@ -1,10 +1,11 @@
 ---
-title: Кредитна карта за платежния цикъл
+title: Кредитна карта за цикъла на плащане
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 1fbf68cf83567f2d6d9024f5a2d8d83e4e7198bc
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417557"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685983"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a><span data-ttu-id="ab9d5-102">Начини на плащане за Microsoft за бизнеса</span><span class="sxs-lookup"><span data-stu-id="ab9d5-102">Payment methods for Microsoft for business</span></span>
+# <a name="payment-methods-for-microsoft-for-business"></a><span data-ttu-id="f56cd-102">Начини за плащане за Microsoft за бизнеса</span><span class="sxs-lookup"><span data-stu-id="f56cd-102">Payment methods for Microsoft for business</span></span>
 
-<span data-ttu-id="ab9d5-103">Когато купувате Microsoft 365 за бизнес абонамент директно от Microsoft, можете да платите с кредитна или дебитна карта.</span><span class="sxs-lookup"><span data-stu-id="ab9d5-103">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="ab9d5-104">В някои страни или региони можете да плащате и с банкова сметка.</span><span class="sxs-lookup"><span data-stu-id="ab9d5-104">In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="f56cd-103">Когато купувате абонамент за Microsoft 365 за фирми директно от Microsoft, можете да платите с кредитна или дебитна карта.</span><span class="sxs-lookup"><span data-stu-id="f56cd-103">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="f56cd-104">В някои държави или региони можете също да платите с банкова сметка.</span><span class="sxs-lookup"><span data-stu-id="f56cd-104">In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="ab9d5-105">Ако изберете да използвате кредитна карта като метод на плащане, можете да научите как да управлявате и отстранявате неизправности от [Управление на начини на плащане.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="ab9d5-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="f56cd-105">Ако сте избрали да използвате кредитна карта като метод на плащане, можете да научите как да управлявате и отстранявате неизправности при [управление на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="f56cd-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
   
-<span data-ttu-id="ab9d5-106">Тази статия включва и предложения за отстраняване на неизправности за това кога кредитната ви карта е отхвърлена, както и информация за промяна на информацията за кредитната карта, така че картата да бъде приета.</span><span class="sxs-lookup"><span data-stu-id="ab9d5-106">This article also includes troubleshooting suggestions for when your credit card is declined and information about changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="f56cd-106">Тази статия включва и предложения за отстраняване на неизправности, когато кредитната ви карта е отхвърлена, и информация за промяна на информацията за кредитната карта, така че да бъде приета.</span><span class="sxs-lookup"><span data-stu-id="f56cd-106">This article also includes troubleshooting suggestions for when your credit card is declined and information about changing credit card information so that the card is accepted.</span></span>
