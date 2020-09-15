@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7e6bb8098bce2565101e6e05565d0c16af2ba8dd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b627cf304081ff9e7f9fc093dc4cccaee47ba301
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703812"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710435"
 ---
-# <a name="editing-files-in-sharepoint"></a><span data-ttu-id="cba48-102">Редактиране на файлове в SharePoint</span><span class="sxs-lookup"><span data-stu-id="cba48-102">Editing files in SharePoint</span></span>
+# <a name="editing-files-in-sharepoint"></a><span data-ttu-id="57630-102">Редактиране на файлове в SharePoint</span><span class="sxs-lookup"><span data-stu-id="57630-102">Editing files in SharePoint</span></span>
 
-<span data-ttu-id="cba48-103">Можете да редактирате файлове и страници бързо и лесно, и изглеждат страхотно на всяко устройство.</span><span class="sxs-lookup"><span data-stu-id="cba48-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> 
+<span data-ttu-id="57630-103">Можете бързо и лесно да редактирате файлове и страници и те изглеждат прекрасно на всяко устройство.</span><span class="sxs-lookup"><span data-stu-id="57630-103">You can edit files and pages quickly and easily, and they look great on any device.</span></span> 
 
-<span data-ttu-id="cba48-104">За повече информация вижте следните статии:</span><span class="sxs-lookup"><span data-stu-id="cba48-104">For more information, see the following articles:</span></span>
+<span data-ttu-id="57630-104">За повече информация вижте статиите по-долу:</span><span class="sxs-lookup"><span data-stu-id="57630-104">For more information, see the following articles:</span></span>
 
-- [<span data-ttu-id="cba48-105">Създаване и редактиране на съвременни страници в сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="cba48-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- [<span data-ttu-id="cba48-106">Създаване и редактиране на класически страници в сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="cba48-106">Create and edit classic pages on a SharePoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
-- [<span data-ttu-id="cba48-107">Редактиране на документ в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="cba48-107">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
-- [<span data-ttu-id="cba48-108">Типове файлове, поддържани за визуализация на файлове в OneDrive, SharePoint и Teams</span><span class="sxs-lookup"><span data-stu-id="cba48-108">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
-- [<span data-ttu-id="cba48-109">Невалидни имена на файлове и типове файлове в OneDrive, OneDrive за бизнеса и SharePoint</span><span class="sxs-lookup"><span data-stu-id="cba48-109">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [<span data-ttu-id="57630-105">Създаване и редактиране на модерни страници в сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="57630-105">Create and edit modern pages on a SharePoint site</span></span>](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [<span data-ttu-id="57630-106">Създаване и редактиране на класически страници в сайт на SharePoint</span><span class="sxs-lookup"><span data-stu-id="57630-106">Create and edit classic pages on a SharePoint Site</span></span>](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- [<span data-ttu-id="57630-107">Редактиране на документ в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="57630-107">Edit a document in a document library</span></span>](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
+- [<span data-ttu-id="57630-108">Типове файлове, поддържани за визуализиране на файлове в OneDrive, SharePoint и Teams</span><span class="sxs-lookup"><span data-stu-id="57630-108">File types supported for previewing files in OneDrive, SharePoint, and Teams</span></span>](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [<span data-ttu-id="57630-109">Невалидни имена на файлове и типове файлове в OneDrive, OneDrive за бизнеса и SharePoint</span><span class="sxs-lookup"><span data-stu-id="57630-109">Invalid file names and file types in OneDrive, OneDrive for Business, and SharePoint</span></span>](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
