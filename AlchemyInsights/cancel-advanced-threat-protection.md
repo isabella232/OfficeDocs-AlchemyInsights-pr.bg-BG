@@ -1,33 +1,34 @@
 ---
-title: Отмяна на разширена защита на заплахи
+title: Отмяна на разширена защита от заплахи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707622"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683679"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Отмяна на разширена защита на заплахи
+# <a name="cancel-advanced-threat-protection"></a>Отмяна на разширена защита от заплахи
 
-Разширена защита от заплахи може да бъде отменена в центъра за администриране на **Microsoft 365**.
+Разширена защита от заплахи може да бъде отменена в **центъра за администриране на Microsoft 365**.
 
-1. Отидете на страницата **Фактуриране на**  >  [продуктите си.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Намерете разширения план за защита на заплахите за отмяна.
-3. Щракнете върху **Отмяна на абонамента**.
+1. Отидете на страницата **Фактуриране**на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Намерете план за Разширено защита от заплахи, за да отмените.
+3. Щракнете върху **отмяна на абонамента**.
 
-Възстановяване на сумата: Всеки проверен кредит ще ви бъде върнат в рамките на следващия цикъл на таксуване.
+Възстановяване: всеки един пропорционално кредитиран кредит ще ви бъде връщан в рамките на следващия цикъл на фактуриране.
 
-**Забележка:** Ако не виждате опцията за отказ, кликнете върху абонамента, за да видите подробностите и трябва да видите опцията Отмяна на **абонамента** в **Настройки & действия**.
+**Забележка**: Ако не виждате опцията за отказ, щракнете върху абонамента, за да видите подробните данни, и би трябвало да видите опцията **Отмени абонамента** в **Настройки & действия**.
 
-За да научите повече, вижте [Отмяна на абонамента си](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+За да научите повече, вижте [отмяна на абонамента ви](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
