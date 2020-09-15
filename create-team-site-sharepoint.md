@@ -1,11 +1,12 @@
 ---
-title: Как да създадете екипен сайт в SharePoint
+title: Създаване на екипен сайт в SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: eecc92a4851fa7164b5b509c08ab300acef27c25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676810"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653313"
 ---
-# <a name="how-to-create-a-team-site-in-sharepoint"></a>Как да създадете екипен сайт в SharePoint
+# <a name="how-to-create-a-team-site-in-sharepoint"></a>Създаване на екипен сайт в SharePoint
 
-Създайте сайт на [екипа](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) на SharePoint Online, за да осигурите местоположение, където вие и вашият екип можете да работите по проекти и да споделяте информация от всяко място на всяко устройство.
+Създайте [екипен сайт](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) на SharePoint Online, за да предоставите местоположение, където вие и вашият екип можете да работите по проекти и да споделяте информация от всяко място на всяко устройство.
 
 * [Създаване на екипен сайт в SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
