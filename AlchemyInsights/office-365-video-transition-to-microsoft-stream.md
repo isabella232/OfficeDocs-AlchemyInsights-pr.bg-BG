@@ -1,28 +1,29 @@
 ---
-title: Преход на видео към Microsoft поток
+title: Видео преход за Office 365 в Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: 9f338a2e222789adb757f38c77f65ab2e2c9b76c
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600049"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666571"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a>Преход на видео към Microsoft поток
+# <a name="office-365-video-transition-to-microsoft-stream"></a>Видео преход за Office 365 в Microsoft Stream
 
-За подробна информация за миграцията от Office 365 видео към Microsoft поток вижте:
+За подробна информация относно мигрирането от Office 365 Video към Microsoft Stream вижте:
 
-- [Преглед на миграцията](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [Подробности за миграцията](https://docs.microsoft.com/stream/migration-experience)
-- [Настройка за време на миграция](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
-- [Преплитане на миграцията](https://docs.microsoft.com/stream/migration-o365video-prep)
+- [Общ преглед на мигрирането](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Подробни данни за мигриране](https://docs.microsoft.com/stream/migration-experience)
+- [Настройка на времето за мигриране](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
+- [Скрипт за подготовка за мигриране](https://docs.microsoft.com/stream/migration-o365video-prep)

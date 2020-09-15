@@ -1,23 +1,24 @@
 ---
-title: Прилагане на QoS и наблюдение на качеството на обажданията в Teams
+title: Внедряване на QoS и наблюдение на качеството на обажданията в Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599977"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667939"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Прилагане на QoS и наблюдение на качеството на обажданията в Teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Внедряване на QoS и наблюдение на качеството на обажданията в Teams
 
-Call Analytics и таблото за качество на обажданията могат да се използват за отстраняване на проблеми с качеството на обажданията в Екипи на Microsoft. За да научите повече за качеството на услугата (QoS), Call Analytics и таблото за качество на обажданията (CQD), вижте [Внедряване на QoS и Наблюдение на качеството на обажданията в екипите на Microsoft](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Анализи за обаждания и информационното табло за качество на повикването могат да бъдат използвани за отстраняване на проблеми с качеството на разговора в Microsoft Teams За да научите повече за качеството на услугата (QoS), анализите на повиквания и информационното табло за качество на повикването (CQD), вижте [прилагане на QoS и наблюдение на качеството на обажданията в Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
