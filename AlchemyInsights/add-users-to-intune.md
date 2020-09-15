@@ -1,29 +1,30 @@
 ---
-title: Добавяне на потребители към InTune
+title: Добавяне на потребители към настройки
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39625797"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687469"
 ---
-# <a name="add-users-to-intune"></a>Добавяне на потребители към InTune
+# <a name="add-users-to-intune"></a>Добавяне на потребители към настройки
 
-Можете ръчно да добавите потребители към вашия абонамент за InTune с помощта на [центъра](https://admin.microsoft.com/) за администриране на Microsoft 365 или [портала InTune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+Можете да добавите ръчно потребители към вашия абонамент за настройване, като използвате [центъра за администриране на Microsoft 365](https://admin.microsoft.com/)   или [портала за настройване](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
 
-Администраторът може да редактира потребителските акаунти, за да присвоява InTune лицензи. Можете да присвоите лицензи или в центъра за администриране на Microsoft 365, или в портала InTune.
+Администраторите могат да редактират потребителски акаунти, за да присвояват лицензи за поднастройване. Можете да присвоявате лицензи в центъра за администриране на Microsoft 365 или в портала за настройване.
 
-За повече информация относно използването на центъра за администриране на Microsoft 365 вижте [Добавяне на потребители поотделно или в насипно състояние към центъра за администриране на microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+За повече информация относно използването на центъра за администриране на Microsoft 365 вижте [Добавяне на потребители поотделно или групово към центъра за администриране на microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-За повече информация относно използването на портала InTune вижте [Добавяне на потребители и предоставяне на администраторски права на InTune](https://docs.microsoft.com/intune/fundamentals/users-add).
+За повече информация относно използването на портала за настройване вижте [Добавяне на потребители и даване на разрешения на администратор за](https://docs.microsoft.com/intune/fundamentals/users-add)включване.

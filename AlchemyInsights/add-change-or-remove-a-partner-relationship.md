@@ -1,29 +1,30 @@
 ---
-title: Добавяне, промяна или премахване на взаимоотношение между партньори
+title: Добавяне, промяна или премахване на релация на партньор
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "43955442"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688430"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Добавяне, промяна или премахване на взаимоотношение между партньори
+# <a name="add-change-or-remove-a-partner-relationship"></a>Добавяне, промяна или премахване на релация на партньор
 
-Като администратор можете да работите с партньор за закупуване, активиране и подновяване на абонаменти за Microsoft 365. 
+Като администратор, можете да работите с партньор, който да закупува, активира и подновява абонаменти за Microsoft 365. 
 
-- Ако искате да редактирате съществуващите си взаимоотношения с партньори, вижте [Добавяне, промяна или изтриване на абонаментен консултативен партньор](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Ако искате да редактирате вашите съществуващи партньорски отношения, вижте [Добавяне, промяна или изтриване на консултативен партньор за абонамент](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
 
-- Ако искате да намерите партньор на Microsoft, вижте [Намерете вашия партньор или дистрибутор на Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Ако търсите за намиране на партньор на Microsoft, вижте [намиране на вашия партньор или риселър на microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
 
-Ако сте съществуващ партньор на Microsoft или искате да станете такъв, вижте Центъра за партньори на [Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) за повече информация относно предимствата или как да получите помощ от [поддръжката на партньори на Microsoft](https://aka.ms/partnersupport).
+Ако сте съществуващ партньор на Microsoft или искате да станете такъв, вижте центъра за [партньори на Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) за повече информация относно ползите или как да получите помощ от [поддръжката за партньори на Microsoft](https://aka.ms/partnersupport).

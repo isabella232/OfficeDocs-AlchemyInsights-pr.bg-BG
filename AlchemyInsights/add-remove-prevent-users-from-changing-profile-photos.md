@@ -1,29 +1,30 @@
 ---
-title: Добавяне, премахване или предотвратяване на промяна на потребителските снимки от потребителите
+title: Добавяне, премахване или забраняване на потребителите да променят снимките на профила
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44061985"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687783"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавяне, премахване или предотвратяване на промяна на потребителските снимки от потребителите
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавяне, премахване или забраняване на потребителите да променят снимките на профила
 
-- **Добавяне на снимки на потребителския профил:** Снимките на профила могат да бъдат добавени от администратор в [център за администриране на Microsoft 365, Активни потребители](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) или Управление на потребители на Active Directory на [Azure.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  Ако не виждате опцията "промяна на снимката", уверете се, че лицензът е присвоен на този потребител. Снимки могат да бъдат добавени или променени от потребител в потребителския си профил от всеки Microsoft 365 услуга, като кликнете върху техните инициали / снимка в горния десен ъгъл на екрана. За повече информация относно добавянето на снимка на профил вижте [Добавяне на снимка на потребителския си профил в Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Добавяне на снимки на профил:** Снимките в профила могат да бъдат добавяни от администратор в [центъра за администриране на Microsoft 365, активните потребители](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) или  [управлението на потребители в Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Ако не виждате опцията "промяна на снимката", се уверете, че за този потребител е присвоен лиценз. Снимките могат да бъдат добавяни или променени от потребител в потребителския му профил от произволна услуга на Microsoft 365, като щракнете върху техните инициали/снимка в горния десен ъгъл на екрана. За повече информация относно добавянето на снимка на профила вижте [Добавяне на снимка на профила ви в Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- **Премахване на снимки на потребителски профили:** Снимките на профила могат да бъдат премахнати от администратор в управлението на потребители на [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или от потребител в потребителския му профил на Microsoft Teams.
+- **Премахване на снимка на профила:** Снимките в профила могат да бъдат премахнати от администратор в [Azure Active Directory за управление на потребители](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или от потребител в техния потребителски профил в Microsoft Teams.
 
-- **Промени в снимките на профила за блокиране:** Фото промени могат да бъдат блокирани за всички от Microsoft 365* чрез добавяне на правила за Outlook Web App за статия, [Заключване на снимки или ограничаване на разрешенията за промяна на microsoft 365 профил снимка](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Блокиране на промените на снимката на профила:** Промените в снимката могат да бъдат блокирани за всички Microsoft 365 *, като добавите правила за Outlook Web App за статията, като [заключвате снимките или ограничавате разрешенията, за да промените снимката на профила в microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Моля, имайте предвид, че Microsoft Teams в момента не поддържа правилата на Outlook Web App за блокиране на промените в снимките, но планира да добави поддръжка за тази функция в началото на 2020 г.
+* Имайте предвид, че Microsoft Teams в момента не поддържа правилата за Outlook Web App, за да блокира промените в снимката, но планира да добави поддръжка за тази функция в ранния 2020.
