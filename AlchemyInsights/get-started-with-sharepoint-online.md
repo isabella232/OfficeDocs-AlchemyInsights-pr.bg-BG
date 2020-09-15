@@ -1,25 +1,26 @@
 ---
-title: Първи стъпки с SharePoint Online
+title: Първи стъпки в SharePoint online
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: cc4fcbb4e1485bac7b788236f28d6c4afaed18dc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720836"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707232"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Първи стъпки с SharePoint Online
+# <a name="get-started-with-sharepoint-online"></a>Първи стъпки в SharePoint online
 
-Вземете и се спуснете с нашето [видео обучение на SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866438) и ръководство за бърз [старт.](https://go.microsoft.com/fwlink/?linkid=866437) Ако търсите по-изчерпателен, стъпка по стъпка ръководство следвайте стъпките в [SharePoint Online разполагане съветник.](https://portal.office.com/onboarding/sharepointonline#/)
+Започнете работа с нашето [видео обучение за SharePoint online](https://go.microsoft.com/fwlink/?linkid=866438) и [ръководство за бърз старт](https://go.microsoft.com/fwlink/?linkid=866437). Ако търсите по-всеобхватно ръководство "стъпка по стъпка", следвайте стъпките в [съветника за разполагане на SharePoint online.](https://portal.office.com/onboarding/sharepointonline#/)
   
 
