@@ -1,26 +1,27 @@
 ---
-title: Разширено разгръщане улов всички правило
+title: Разширено разполагане за захващане на всички правила
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580840"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696681"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Внедряване на приложения на Microsoft 365
+# <a name="deploy-microsoft-365-apps"></a>Разполагане на приложения на Microsoft 365
 
-За разполагане на приложения на Microsoft 365 на множество крайни потребители чрез инструмента за разполагане на Office, Microsoft Endpoint Configuration Manager, като част от образ на диск на операционната система или в сценарий на споделен компютър, използващ Windows Server с услуги за отдалечен работен плот (RDS) или терминални услуги, използвайте ръководството стъпка по стъпка в **Microsoft 365 приложения за корпоративни разполагане съветник**.
+За разполагането на приложения на Microsoft 365 до множество крайни потребители чрез инструмента за разполагане на Office, Диспечерът на конфигурационна точка на Microsoft, като част от изображение на диск на операционната система или в сценарий за споделен компютър, използващ Windows Server с отдалечен работен плот (RDS) или терминални услуги, обмислете дали да не използвате ръководството "стъпка по стъпка" в **365 Office Microsoft Apps за Enterprise**.
   
-За да започнете, уверете се, че сте влезли като администратор на клиент или глобален администратор, след което щракнете върху тук: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+За да започнете, уверете се, че сте влезли като администратор на клиент или глобален администратор, и след това щракнете тук: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   
