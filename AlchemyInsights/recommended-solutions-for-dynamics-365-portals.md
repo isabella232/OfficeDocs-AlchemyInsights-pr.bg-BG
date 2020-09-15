@@ -1,9 +1,10 @@
 ---
-title: Препоръчани решения за портали за Dynamics 365
+title: Препоръчителни решения за Dynamics 365 Portals
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693040"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Препоръчителни решения за портали на Dynamics 365
+# <a name="dynamics-365-portals-recommended-solutions"></a>Препоръчителни решения за Dynamics 365 Portals
 
-* [Как да видите подробни грешка на сървъра, показан на моя портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Как да видите подробна грешка на сървъра, показана на моя портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Как да възстановите портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Как се нулира портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Как да изчистите кеша на сървъра за портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Как да промените аудиторията и типа на портал на Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Как да промените аудиторията и типа на портала на Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Как да промените основния URL адрес на портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Как да промените URL адреса на базата на портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Как да конфигурирате външен доставчик на самоличност с портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Как се конфигурира доставчик на външни самоличност с портал](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Често задавани въпроси](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Първи стъпки с портала "Моят Dynamics 365"](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Първи стъпки в моя портал за Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

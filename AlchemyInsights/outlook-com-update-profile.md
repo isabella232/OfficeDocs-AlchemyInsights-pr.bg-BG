@@ -1,24 +1,25 @@
 ---
-title: 8000036 Промяна на снимка/име на профил в Outlook.com
+title: 8000036 промяна на профила за PIC/Name в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662674"
 ---
 # <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Промяна на снимката или името на профила ми в Outlook.com
 
-1. Отидете на [Информацията за Вашия акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Изберете **Редактиране на име** или Промяна на **картината**.
+1. Отидете в [своята информация за акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Изберете **Редактиране на име** или **Промяна на картина**.
 
-Моля, изчакайте до 24 часа, за да влязат в сила промените в снимката на вашия профил или името.
+Моля, изчакайте до 24 часа, за да влязат в сила промените в снимката или името на профила ви.
