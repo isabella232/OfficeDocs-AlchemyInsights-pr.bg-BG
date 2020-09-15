@@ -1,46 +1,47 @@
 ---
-title: Отстраняване на проблеми при записване на android устройства в Microsoft Intune
+title: Отстраняване на проблеми при записването на устройства с Android в Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759609"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689943"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Отстраняване на проблеми при записване на android устройства в Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Отстраняване на проблеми при записването на устройства с Android в Microsoft
 
-Прегледайте ресурсите, изброени по-долу, за да разрешите проблема си сега.
+Прегледайте ресурсите, изброени по-долу, за да решите проблема си сега.
   
 Някои често срещани проблеми и стъпки за разрешаване:
   
- **Устройство не шифрована грешка в портала на компанията:** По-новите версии на Android, особено като се започне с v7.0, изискват стартова парола, за да се уверите, че устройството ви е напълно шифровано. Общите решения са да се даде възможност на стартовия щифт или да се криптира напълно устройството. Прегледайте [този документ](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) за повече информация.
+ **Устройството не е шифровано грешка във фирмения портал:** По-новите версии на Android, по-специално започвайки с v 7.0, изискват парола при стартиране, за да се уверите, че вашето устройство е напълно шифровано. Общи решения са за разрешаване на ПИН код за стартиране или за пълно шифроване на устройството. Прегледайте [този документ](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) за повече информация.
   
- **Устройства не успее да се провери с Intune услуга или се показва като "нездравословни" в intune администратор конзола:** Някои устройства Samsung 4.4 и 5.5 може да не се регистрират в услугата. Има 3 възможни решения на този проблем:
+ **Устройства не успяват да се вкарат при настройването на услугата или да се показват като "нездравословен" в конзолата за администриране на администратора:** Някои устройства Samsung 4,4 и 5,5 може да не проверяват услугата. Има три възможни решения за този проблем:
   
-1. Ръчно отворете приложението Intune Company Portal, което автоматично ще започне синхронизиране на устройство.
+1. Ръчно отваряте приложението за въвеждане на фирмения портал, което автоматично ще инициира синхронизиране на устройството.
 
-2. Актуализирайте устройството до Android 6.0 или по-нова версия.
+2. Актуализирайте устройството с Android 6,0 или по-нова версия.
 
-3. Деактивирайте Samsung Smart Manager от управлението на портала на Intune компанията. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) за повече подробности по тези въпроси и решения.
+3. Забранете Samsung Smart Manager от управлението на портала за фирми за настройване. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) за повече подробности относно тези проблеми и резолюции.
 
- **Невалиден тип потребителски лиценз** или **потребителско име не е разпознат грешка:** Потребителят трябва да бъде присвоен Intune или EMS лиценз. Прегледайте тези документи, за да присвоите лиценз чрез: Център за администриране на Office или Портал на Azure.
+ **Невалиден тип потребителски лиценз** или **потребителско име не е разпозната грешка:** потребителят трябва да получи лиценз за настройване или EMS. Прегледайте тези документи, за да дадете лиценз чрез: център за администриране на Office или портал на Azure.
   
-Допълнителни ресурси за разрешаване на проблема:
+Допълнителни ресурси, които да ви помогнат да отстраните проблема:
   
-1. Използвайте [Intune портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за диагностика и разрешаване на общи грешки при записване. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
+1. Използвайте [портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , за да диагностицирате и отстраните чести неуспешни записвания. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
 
-2. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък с често срещани грешки, които не позволяват записване и решения за всеки.
+2. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък с често срещани грешки, които забраняват записването и резолюциите във всеки от тях.
 
-3. [Научете как да запишете Android устройства в Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Научете как да запишете устройства с Android в Microsoft](https://docs.microsoft.com/intune/android-enroll).
