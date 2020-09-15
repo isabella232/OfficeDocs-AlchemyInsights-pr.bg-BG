@@ -1,27 +1,28 @@
 ---
-title: Проучване на екипи от Microsoft
+title: Проучвателна среда за Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674927"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Проучване на екипи от Microsoft
+# <a name="microsoft-teams-exploratory-experience"></a>Проучвателна среда за Microsoft Teams
 
-Опитът за проучване на екипи на Microsoft позволява на потребителите във вашата организация, които имат Azure Active Directory (AAD) и не са лицензирани за Teams, да инициират проучвателно изживяване на Teams. Администраторите могат да превключват или изключват тази функция за потребители в тяхната организация. (По-ранният търговски облак пробен период на Microsoft вече се нарича "Изследователски опит на екипите".)
+Работата на Microsoft Teams проучвателно позволява на потребителите във вашата организация, които имат Azure Active Directory (пад), и не са лицензирани за Teams, инициират проучвателно преживяване за Teams. Администраторите могат да включват или изключват тази функция за потребителите в своята организация. (По-ранното изпробване в облака на Microsoft сега се нарича екипна проучвателна среда.)
 
-Проучвателното изживяване на Microsoft Teams е достъпно без допълнително заплащане до следващата годишнина или подновяване на споразумението за предприятието на или след януари 2021 г. По това време крайните потребители на лиценз за проучвателна работа на Microsoft ще трябва да преминат към платен лиценз, който включва Teams.
+Изследователската работа в Microsoft Teams е налична без допълнителни разходи до вашата следваща годишнина в корпоративната спогодба или подновяване на или след 2021 януари. В този момент крайните потребители на лиценз за опит с Microsoft проучвателно ще трябва да се придвижат към платен лиценз, включващ Teams.
 
-За повече информация вижте [Управление на лицензите на Microsoft Teams за изследване](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+За повече информация вижте [управление на изследователския лиценз за Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).

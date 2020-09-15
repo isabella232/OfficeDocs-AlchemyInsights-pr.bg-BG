@@ -1,36 +1,39 @@
 ---
-title: Проблеми при влизане в приложения на Office
+title: Проблеми при влизане в приложенията на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762964"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676943"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Проблеми при влизане в приложения на Office
+# <a name="issues-signing-into-microsoft-365-apps"></a>Проблеми при влизане в приложенията на Microsoft 365
 
-За да отстраните проблеми с влизането с приложенията на Office, опитайте следното:
+За да коригирате проблеми с влизането с Microsoft 365 приложения, изпробвайте следните опции на засегнатата машина:  
 
-- Премахнете всички работни акаунти, с изключение на засегнатия акаунт, като използвате Windows Settings > **Достъп до работа или училище**.
-- [Изчистване на идентификационни данни за Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) чрез диспечера за идентификационни данни на Windows.<br/>
-    **Забележка:** Пътищата от системния регистър за Office 2016 са променени на 16.0. (Преди: \Софтуер\Microsoft\Office\16.0\Common\Identity\)
-- Отворете приложение на Office, изберете **Изход от файлов** > **акаунт** > **.** След това влезте с потребителски акаунт с валиден лиценз. За подробна информация вж. [Акаунти в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- За Mac вж. [Не можете да влезете в приложение на Office 2016 за Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Ако грешки при свързване към Microsoft 365 с помощта на Office 2013, разрешаване на съвременни удостоверяване за клиент на Office.
+- За Windows вижте [препоръки относно отстраняване на често срещани проблеми при влизане](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- За Mac Вижте  [не можете да влезете в приложението Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-За повече информация вижте:
-- [Не можете да влезете в Microsoft 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Проблеми с връзката в влизане след актуализация на Office 2016 компилация 16.0.7967 на Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["За съжаление, друг акаунт от вашата организация вече е влязъл в този компютър" в Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Отстраняване на проблеми с влизане в Office съвременни удостоверяване, когато използвате ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Забележка:** Забраняването на модерното удостоверяване (ADAL) или управлението на уеб акаунти за отстраняване на проблеми с влизането или активирането  **не се препоръчва**. Ако възникват грешки при свързване с Microsoft 365 чрез Office 2013, уверете се, че сте [разрешили модерното удостоверяване](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  за клиента на Office.
+
+За конкретни действия за отстраняване на неизправности вижте:
+
+[Проблеми с връзката при влизане след актуализиране до Office 2016 компилация 16.0.7967 в Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Не можете да влезете в своя организационен акаунт, като например Office 365, Azure или ненастроин](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Отстраняване на неизправности с небраузърни приложения, които не могат да влязат в Office 365, Azure или в "Настройки"](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Неколкократно подкана за идентификационни данни в Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
