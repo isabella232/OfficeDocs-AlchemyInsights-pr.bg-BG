@@ -1,29 +1,30 @@
 ---
-title: Няма резултати от търсене на съдържание
+title: Търсене на съдържание няма резултати
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516768"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680636"
 ---
-# <a name="no-results-from-content-searchexports"></a>Няма резултати от съдържание търсене/износ
+# <a name="no-results-from-content-searchexports"></a>Няма резултати от търсенето/експортиране на съдържание
 
-Проблеми със съдържание търсене/износ не връща никакви данни може да се дължи филтър за защита някои съответствието, който е настройка от един определен администратор и не се свързва към всички администратори.
+Проблемите при търсене/Експортиране на съдържание, които не връщат каквито и да е данни, може да се дължат на определен филтър за защита на съответствието, който е инсталирал от конкретен администратор и не го е информирал за всички администратори.
 
-За да разрешите този проблем, проверете да видите дали има някакви съответствие защитни филтри, които могат да се причинява това:
-1. Свързване към сигурността и съответствието център Powershell
+За да отстраните това, проверете дали има филтри за защита за съответствие, които може да причиняват това:
+1. Свързване към центъра за сигурност и съответствие на PowerShell
 2. Изпълнете следните кратки команди:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-организация $org
+<br>Get-ComplianceSecurityFilter-$org за организация
