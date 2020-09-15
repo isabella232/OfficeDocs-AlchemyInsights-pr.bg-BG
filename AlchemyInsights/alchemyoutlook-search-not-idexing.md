@@ -1,35 +1,36 @@
 ---
-title: Алхимия - търсене в Outlook не idexing
+title: Алхимията – търсенето в Outlook не idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: cc05a72ac0a79e285271d72b6670c547e1ff481e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708308"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718466"
 ---
-# <a name="outlook-search-not-indexing"></a>Търсене в Outlook не индексиране
+# <a name="outlook-search-not-indexing"></a>Търсенето на Outlook не индексира
 
-Ние сме наясно с проблеми с търсенето в Outlook, свързани с последните актуализации на защитата за Windows.
+Наясно сме с проблемите в търсенето на Outlook, свързани с последните актуализации на защитата за Windows.
   
-Когато търсите в Outlook, може да получите една от тези грешки: **нещо се обърка и търсенето ви не може да бъде завършено**или резултатите от търсенето може да са **непълни, защото елементите все още се индексират**. Корекцията е издаден като допълнителна актуализация на Windows. Инсталирайте тази, която отговаря на версията на Windows, която виждате на този проблем на: 
+Когато търсите в Outlook, можете да получите една от следните грешки: **нещо се обърка и търсенето не можа да бъде завършено**или **резултатите от търсенето може да са непълни, защото елементите все още се индексират**. Корекцията е издадена като опционална Windows Update. Моля, инсталирайте този, който отговаря на версията на Windows, на която виждате този проблем: 
   
-> [Актуализация на Windows 7 - 27 юни 2017 г.](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 – актуализация от 27 юни, 2017](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1 - 27 юни 2017 актуализация](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1 – актуализация от 27 юни, 2017](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 версия 1703 - 27 юни 2017 актуализация](https://support.microsoft.com/kb/4022716.aspx)
+> [Версия на Windows 10 1703 – актуализация от 27 юни 2017](https://support.microsoft.com/kb/4022716.aspx)
     
-За най-новата информация вижте статията: [Outlook известни проблеми в юни 2017 актуализации на защитата](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Проблем #5. 
+За най-новата информация вижте статията: [известни проблеми в Outlook в #5 на актуализациите на защитата за юни 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
   
 
