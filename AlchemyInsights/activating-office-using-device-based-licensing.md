@@ -1,34 +1,35 @@
 ---
-title: Активиране на Office с помощта на лицензиране, базирано на устройство
+title: Активиране на Office чрез базирано на устройства лицензиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504432"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697870"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office с помощта на лицензиране, базирано на устройство
+# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез базирано на устройства лицензиране
 
 > [!NOTE]
-> Активирането на Office [устройство](https://aka.ms/officedba) за клиенти, свързани с образованието в САЩ, вече е отхвърлено. Насърчаваме организациите да планират новия лиценз за приложения за образование на Microsoft 365 (устройство) за образователни клиенти.
+> [Активирането на Office базирано на устройства](https://aka.ms/officedba) за клиенти в САЩ вече не е одобрено. Насърчаваме организациите да планират нови приложения на Microsoft 365 за образование (устройство) за клиенти в образованието.
 
-За да активирате Office, използвайки лицензиране, базирано на устройство, трябва да имате добавка за приложения на Microsoft 365 за образование (устройство), която е налична само за клиенти, които са в сферата на образованието, и е достъпен само чрез Записване за решения за образование (EES). Вижте [Изисквания за използване на базирано на устройство лицензиране за Приложения на Microsoft 365 за корпоративни приложения.](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+За да активирате Office, като използвате базираното на устройства лицензиране, трябва да разполагате с лиценз за добавката Microsoft 365 за образование (устройство), която е достъпна само за клиенти в образованието и е достъпна само чрез записвания за образователни решения (ЕСЗ). Вижте [изисквания за използването на базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
 
 
-За подробна информация относно настройката, вижте:
+За по-подробна информация за инсталиращата програма вижте:
 
-- [Стъпки за конфигуриране на лицензиране на устройства за приложения на Microsoft 365 за корпоративни](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Стъпки за конфигуриране на базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Управление на лицензи за устройства](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-За указания за отстраняване на неизправности вижте [Отстраняване на неизправности при лицензиране, базирано на устройство за Приложения на Microsoft 365 за корпоративни организации.](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+За указания за отстраняване на неизправности вижте [отстраняване на неизправности при лицензиране на устройства за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
