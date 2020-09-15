@@ -1,27 +1,28 @@
 ---
-title: Липсва бележник
+title: Липсващ бележник
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800196"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667147"
 ---
-# <a name="recover-missing-notebook"></a><span data-ttu-id="21641-102">Възстановяване на липсващите бележник</span><span class="sxs-lookup"><span data-stu-id="21641-102">Recover Missing Notebook</span></span>
+# <a name="recover-missing-notebook"></a><span data-ttu-id="d6bec-102">Възстановяване на липсващ бележник</span><span class="sxs-lookup"><span data-stu-id="d6bec-102">Recover Missing Notebook</span></span>
 
-<span data-ttu-id="21641-103">Ако бележника на OneDrive е бил случайно изтрит, можете да го възстановите, като следвате стъпките в [възстановяване на изтрити файлове или папки в OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="21641-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
+<span data-ttu-id="d6bec-103">Ако Бележникът в OneDrive е случайно изтрит, можете да го възстановите, като следвате стъпките в [възстановяване на изтрити файлове или папки в onedrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="d6bec-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
 
-<span data-ttu-id="21641-104">Можете да възстановите бележник в изтрит OneDrive в срок от 30 дни по подразбиране от followings стъпките в [възстановяване на изтрити OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="21641-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
+<span data-ttu-id="d6bec-104">Можете да възстановите бележник на изтрит OneDrive до 30 дни по подразбиране, като следвате стъпките в [възстановяване на изтрит OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="d6bec-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
 
-<span data-ttu-id="21641-105">OneNote може да използвате акаунт, различен от очакваното.</span><span class="sxs-lookup"><span data-stu-id="21641-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="21641-106">Ако имате работа или училище-при условие акаунт в допълнение към вашия личен акаунт в Microsoft, трябва да добавите другия акаунт да видите всички вашите бележници (вижте инструкции за това как да [Добавите акаунт в OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="21641-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
+<span data-ttu-id="d6bec-105">За OneNote може да се използва различен акаунт, отколкото очаквате.</span><span class="sxs-lookup"><span data-stu-id="d6bec-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="d6bec-106">Ако имате служебен или учебен акаунт в допълнение към своя личен акаунт в Microsoft, ще трябва да добавите своя акаунт, за да видите всички бележници (вижте указания за [Добавяне на акаунт в OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="d6bec-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
