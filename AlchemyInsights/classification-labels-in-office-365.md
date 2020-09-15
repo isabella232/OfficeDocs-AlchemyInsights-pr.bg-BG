@@ -1,21 +1,22 @@
 ---
-title: Етикети за класификация
+title: Етикети за групиране
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 3d4ebee3a7aca37b3de14c8f4acd51f33881b55f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b81f2915a3b8674dcbe30b735fc10858956ba94e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505928"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681465"
 ---
-# <a name="classification-labels"></a><span data-ttu-id="49048-102">Етикети за класификация</span><span class="sxs-lookup"><span data-stu-id="49048-102">Classification labels</span></span>
+# <a name="classification-labels"></a><span data-ttu-id="89f48-102">Етикети за групиране</span><span class="sxs-lookup"><span data-stu-id="89f48-102">Classification labels</span></span>
 
-<span data-ttu-id="49048-103">С чувствителността или етикетите за класификация можете да класифицирате и да защитите вашето чувствително съдържание, като същевременно се уверите, че производителността и способността на хората ви да работят съвместно не са възпрепятствани.</span><span class="sxs-lookup"><span data-stu-id="49048-103">With sensitivity or classification labels, you can classify and help protect your sensitive content, while making sure that your people's productivity and ability to collaborate isn't hindered.</span></span>
+<span data-ttu-id="89f48-103">С етикети за чувствителност или класификация можете да класифицирате и да защитите вашето чувствително съдържание, като същевременно се уверите, че производителността на вашите хора и възможностите за съвместна работа не се затрудняват.</span><span class="sxs-lookup"><span data-stu-id="89f48-103">With sensitivity or classification labels, you can classify and help protect your sensitive content, while making sure that your people's productivity and ability to collaborate isn't hindered.</span></span>
 
-<span data-ttu-id="49048-104">За повече информация прегледайте следната [статия](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="49048-104">For more information please review the following [article](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span></span>
+<span data-ttu-id="89f48-104">За повече информация вижте [статията](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)по-долу.</span><span class="sxs-lookup"><span data-stu-id="89f48-104">For more information please review the following [article](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span></span>

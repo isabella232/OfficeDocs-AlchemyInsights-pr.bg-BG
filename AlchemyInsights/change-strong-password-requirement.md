@@ -1,30 +1,31 @@
 ---
-title: Промяна на изискването за сигурна парола
+title: Промяна на изискването за силна парола
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: a054735a0c139c90d76098297bb9984d37464d3b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706550"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681861"
 ---
-# <a name="change-strong-password-requirement"></a><span data-ttu-id="50778-102">Промяна на изискването за сигурна парола</span><span class="sxs-lookup"><span data-stu-id="50778-102">Change strong password requirement</span></span>
+# <a name="change-strong-password-requirement"></a><span data-ttu-id="7aeaa-102">Промяна на изискването за силна парола</span><span class="sxs-lookup"><span data-stu-id="7aeaa-102">Change strong password requirement</span></span>
 
-<span data-ttu-id="50778-103">Microsoft изисква надеждни пароли по подразбиране.</span><span class="sxs-lookup"><span data-stu-id="50778-103">Microsoft requires strong passwords by default.</span></span> 
+<span data-ttu-id="7aeaa-103">Microsoft изисква сигурни пароли по подразбиране.</span><span class="sxs-lookup"><span data-stu-id="7aeaa-103">Microsoft requires strong passwords by default.</span></span> 
 
-<span data-ttu-id="50778-104">С помощта на PowerShell можете да забраните силни пароли за определени потребители с тази команда:</span><span class="sxs-lookup"><span data-stu-id="50778-104">Using PowerShell, you can disable strong passwords for specific users with this command:</span></span><br>
-<span data-ttu-id="50778-105">*Задаване на msolUser -Потребителскоиме–силнапаролазадължителна <UserPrincipalName> $false*</span><span class="sxs-lookup"><span data-stu-id="50778-105">*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false*</span></span>
+<span data-ttu-id="7aeaa-104">С помощта на PowerShell можете да забраните сигурните пароли за определени потребители с тази команда:</span><span class="sxs-lookup"><span data-stu-id="7aeaa-104">Using PowerShell, you can disable strong passwords for specific users with this command:</span></span><br>
+<span data-ttu-id="7aeaa-105">*Set-MsolUser-UserPrincipalName <UserPrincipalName> -StrongPasswordRequired $FALSE*</span><span class="sxs-lookup"><span data-stu-id="7aeaa-105">*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false*</span></span>
 
-- [<span data-ttu-id="50778-106">Повече информация за правилата за пароли</span><span class="sxs-lookup"><span data-stu-id="50778-106">More information on password policy</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [<span data-ttu-id="50778-107">Как да се свържете с Microsoft 365 с PowerShell</span><span class="sxs-lookup"><span data-stu-id="50778-107">How to connect to Microsoft 365 with PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [<span data-ttu-id="50778-108">Повече информация за командите на PowerShell MsolUser</span><span class="sxs-lookup"><span data-stu-id="50778-108">More information on PowerShell MsolUser commands</span></span>](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [<span data-ttu-id="7aeaa-106">Още информация за правилата за пароли</span><span class="sxs-lookup"><span data-stu-id="7aeaa-106">More information on password policy</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [<span data-ttu-id="7aeaa-107">Как да се свържете с Microsoft 365 с PowerShell</span><span class="sxs-lookup"><span data-stu-id="7aeaa-107">How to connect to Microsoft 365 with PowerShell</span></span>](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [<span data-ttu-id="7aeaa-108">Още информация за командите на PowerShell MsolUser</span><span class="sxs-lookup"><span data-stu-id="7aeaa-108">More information on PowerShell MsolUser commands</span></span>](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
