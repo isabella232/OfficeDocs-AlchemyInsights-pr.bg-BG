@@ -1,22 +1,23 @@
 ---
-title: Разрешения при мигриране
+title: Проблеми с разрешенията при мигриране
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: e337cad7b1015711f53960d6a1832fd38519e14f
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 8b3929eb44730e1ff384407ba4b35b6746a0d756
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582584"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721364"
 ---
-# <a name="permissions-issues-while-migrating"></a>Разрешения проблеми при мигриране
+# <a name="permissions-issues-while-migrating"></a>Проблеми с разрешенията при мигриране
 
-За информация относно често срещани проблеми с разрешенията по време на мигриране на SharePoint Online вижте ["Разбиране на разрешенията и инструмента за мигриране на SharePoint".](https://go.microsoft.com/fwlink/?linkid=2019753)
+За информация относно често срещани проблеми с разрешенията по време на мигрирането към SharePoint online вижте [разбиране на разрешенията и инструмента за мигриране на SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 
