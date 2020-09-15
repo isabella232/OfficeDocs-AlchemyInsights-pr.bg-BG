@@ -1,32 +1,33 @@
 ---
-title: 'Защита от фалшифициране на клиенти '
+title: 'Защита срещу фалшифициране на клиент на защитник '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738488"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680493"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="e30a7-102">Защита срещу подправяне</span><span class="sxs-lookup"><span data-stu-id="e30a7-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="9be7e-102">Защита срещу фалшифициране на защитник</span><span class="sxs-lookup"><span data-stu-id="9be7e-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="e30a7-103">При защита срещу подправяне злонамерени приложения не могат да предприемат действия като тези:</span><span class="sxs-lookup"><span data-stu-id="e30a7-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="9be7e-103">Със защита срещу фалшифициране злонамерени приложения не могат да предприемат действия, като например следните:</span><span class="sxs-lookup"><span data-stu-id="9be7e-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="e30a7-104">Деактивиране на защитата от вируси и заплахи</span><span class="sxs-lookup"><span data-stu-id="e30a7-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="e30a7-105">Деактивиране на защитата в реално време</span><span class="sxs-lookup"><span data-stu-id="e30a7-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="e30a7-106">Изключване на следенето на поведението</span><span class="sxs-lookup"><span data-stu-id="e30a7-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="e30a7-107">Деактивиране на антивирусната програма (напр.</span><span class="sxs-lookup"><span data-stu-id="e30a7-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="e30a7-108">Деактивиране на защитата, доставена в облака</span><span class="sxs-lookup"><span data-stu-id="e30a7-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="e30a7-109">Премахване на актуализациите на разузнаването за защита</span><span class="sxs-lookup"><span data-stu-id="e30a7-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="9be7e-104">Забраняване на защита от вируси и заплахи</span><span class="sxs-lookup"><span data-stu-id="9be7e-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="9be7e-105">Забрана на защитата в реално време</span><span class="sxs-lookup"><span data-stu-id="9be7e-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="9be7e-106">Изключване на контрола за поведението</span><span class="sxs-lookup"><span data-stu-id="9be7e-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="9be7e-107">Забраняване на антивирусната програма (например IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="9be7e-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="9be7e-108">Забраняване на предоставената от облака защита</span><span class="sxs-lookup"><span data-stu-id="9be7e-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="9be7e-109">Премахване на актуализации на разузнаването за защита</span><span class="sxs-lookup"><span data-stu-id="9be7e-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="e30a7-110">За повече подробности вижте [защита на настройките за защита със защита срещу подправяне](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="e30a7-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="9be7e-110">За повече информация вижте [защита на настройките за защита със защита от злонамерени настройки](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="9be7e-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
