@@ -1,33 +1,34 @@
 ---
-title: Актуализиране на информацията за профила ми или промяна на снимката
+title: Актуализиране на информацията за моя профил или смяна на моята картина
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720090"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796925"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Актуализиране на информацията за профила ми или промяна на снимката
+# <a name="update-my-profile-information-or-change-my-picture"></a>Актуализиране на информацията за моя профил или смяна на моята картина
 
-В момента не е възможно да редактирате и актуализирате информацията за потребителския си профил директно от Outlook за iOS, но е възможно да редактирате тази информация на друго място. 
+В момента не е възможно да редактирате и актуализирате информацията в профила си директно от Outlook за iOS, но е възможно да редактирате тази информация другаде. 
 
-Можете да правите актуализации на вашия профил в Outlook за Windows или Outlook в уеб (OWA). 
+Можете да правите актуализации за своя профил в Outlook за Windows или Outlook в уеб (OWA). 
 
-** Изглед към Windows Ако сте** 
+**Outlook за Windows**: 
 
-- **Файл** > **Офис акаунт** > **Потребителски информация** > **За мен** (ви носи в профила на Microsoft 365 онлайн) > Актуализиране **на профила** или кликнете върху иконата на камерата, за да промените снимката си  
+- **Файл**  >  **Акаунт**  >  за Office **Информация**  >  за потребителя **За мен** (ви отвежда до Microsoft 365 profile online) > **актуализирайте профила** си или щракнете върху иконата на камерата, за да смените снимката си  
   
-Изглед и изглед **в мрежата (OWA):** 
+**Outlook в уеб (OWA)**: 
 
-- **Профил на изображението** > **Профил** > **Актуализиране профил**
+- **Изображение**  >  на профил **Моят профил**  >  **Актуализиране на профил**
