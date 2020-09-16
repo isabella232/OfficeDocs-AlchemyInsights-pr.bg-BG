@@ -1,23 +1,24 @@
 ---
-title: Не може да се добави прикачен файл към външно лице формуляр
+title: Не можете да добавите прикачен файл към външно ориентиран формуляр
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 80736dc1e6ee5e18dbec0ddb816fbf0e5f34c588
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846846"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749395"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="7487c-102">Не може да се добави прикачен файл към външно лице формуляр</span><span class="sxs-lookup"><span data-stu-id="7487c-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="f5db0-102">Не можете да добавите прикачен файл към външно ориентиран формуляр</span><span class="sxs-lookup"><span data-stu-id="f5db0-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="7487c-103">Ако се опитвате да добавите прикачен файл към проучване на външни формуляри на Microsoft, тази функция все още не е налична.</span><span class="sxs-lookup"><span data-stu-id="7487c-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="7487c-104">За да проследите състоянието на тази заявка за функция, отидете на [този запис UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)и добавете гласа си.</span><span class="sxs-lookup"><span data-stu-id="7487c-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="f5db0-103">Ако се опитвате да добавите прикачен файл към външно проучване на Microsoft Forms, тази функция все още не е налична.</span><span class="sxs-lookup"><span data-stu-id="f5db0-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="f5db0-104">За да проследите състоянието на това искане за функция, отидете на [този запис за UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)и добавете своя вот.</span><span class="sxs-lookup"><span data-stu-id="f5db0-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
