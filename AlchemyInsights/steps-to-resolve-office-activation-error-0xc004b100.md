@@ -1,28 +1,28 @@
 ---
-title: Стъпки за отстраняване на грешка при активиране на Office 0xc004b100
+title: Стъпки за отстраняване на грешки при активиране на Office 0xc004b100
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 4ac4692a9e0af76ce1516882177ab3b8cc61c20c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 2873e504262c0476face918ed7c2f281d124db12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763936"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737762"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Стъпки за отстраняване на грешка при активиране на Office 0xc004b100
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Стъпки за отстраняване на грешки при активиране на Office 0xc004b100
 
-Опитайте тези решения, за да отстраните грешката за активиране на Office 0xc004b100:
+Изпробвайте тези решения, за да коригирате грешката в 0xc004b100 за активиране на Office:
   
-1. Извършване [на онлайн ремонт на Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+1. Изпълнение на [онлайн поправка на Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-2. Изтеглете и инсталирайте [помощника за поддръжка и възстановяване](https://aka.ms/SARA-OfficeActivation-Alchemy) и изпълнете програмата за отстраняване на неизправности при **активиране**.
+2. Изтеглете и инсталирайте [помощника за поддръжка и възстановяване](https://aka.ms/SARA-OfficeActivation-Alchemy) и изпълнете програмата за **отстраняване на неизправности при активиране**.
