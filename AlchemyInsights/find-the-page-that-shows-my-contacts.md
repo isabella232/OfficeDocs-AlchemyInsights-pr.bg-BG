@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: ae9d45741f5bdd8ab6df1bc35c51663f7b937a47
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573446"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745263"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Намиране на страницата, която показва контактите ми
 
-Можете да търсите контактите си по същия начин, по който търсите имейлите си.
+Можете да потърсите абонатите си по същия начин, по който търсите имейлите си.
  
-Докоснете иконата за търсене с лупа, след което въведете заявката за търсене на контакт в полето в горната част на екрана. (**Protip:** Можете да докоснете двукратно върху лупа, за да се фокусирате върху полето за търсене.) Резултатите ви ще се появят в секцията Контакти.
+Докоснете иконата за търсене с лупа и след това въведете вашата заявка за търсене в полето в горния край на екрана. (**PROTIP**: можете да докоснете двукратно върху увеличителното стъкло, за да се фокусирате върху полето за търсене.) Вашите резултати ще се появят в секцията абонати.
