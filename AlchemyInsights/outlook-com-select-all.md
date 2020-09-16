@@ -1,28 +1,29 @@
 ---
-title: 8000090 Outlook.com изберете всички
+title: 8000090 Outlook.com изберете ALL
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743586"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722802"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a><span data-ttu-id="d5cdf-102">Как да "изберете всички" в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d5cdf-102">How to "select all" in Outlook.com</span></span>
+# <a name="how-to-select-all-in-outlookcom"></a><span data-ttu-id="ee439-102">Как да "Избери всички" в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ee439-102">How to "select all" in Outlook.com</span></span>
 
-<span data-ttu-id="d5cdf-103">Можете да изберете всички само ако всички съобщения са видими.</span><span class="sxs-lookup"><span data-stu-id="d5cdf-103">You can only select all if all messages are visible.</span></span> <span data-ttu-id="d5cdf-104">Това е, за да се предотвратят случайни действия върху съобщения, които не можете да видите.</span><span class="sxs-lookup"><span data-stu-id="d5cdf-104">This is to prevent accidental actions on messages you cannot see.</span></span>
+<span data-ttu-id="ee439-103">Можете да изберете всички, ако всички съобщения са видими.</span><span class="sxs-lookup"><span data-stu-id="ee439-103">You can only select all if all messages are visible.</span></span> <span data-ttu-id="ee439-104">Това е за предотвратяване на неочаквани действия за съобщения, които не можете да видите.</span><span class="sxs-lookup"><span data-stu-id="ee439-104">This is to prevent accidental actions on messages you cannot see.</span></span>
 
-<span data-ttu-id="d5cdf-105">**CTRL + кликване** избира няколко отделни съобщения.</span><span class="sxs-lookup"><span data-stu-id="d5cdf-105">**CTRL + click** selects multiple individual messages.</span></span>
+<span data-ttu-id="ee439-105">**CTRL + щракнете върху** избира множество отделни съобщения.</span><span class="sxs-lookup"><span data-stu-id="ee439-105">**CTRL + click** selects multiple individual messages.</span></span>
 
-<span data-ttu-id="d5cdf-106">**SHIFT + кликване** избира всички съобщения между първото и последното съобщение, което сте избрали.</span><span class="sxs-lookup"><span data-stu-id="d5cdf-106">**SHIFT + click** selects all messages between the first and last message you select.</span></span>
+<span data-ttu-id="ee439-106">**SHIFT + щракнете върху** избира всички съобщения между първото и последното съобщение, което изберете.</span><span class="sxs-lookup"><span data-stu-id="ee439-106">**SHIFT + click** selects all messages between the first and last message you select.</span></span>
