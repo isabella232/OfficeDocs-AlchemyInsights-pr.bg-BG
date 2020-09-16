@@ -1,10 +1,11 @@
 ---
-title: Улавяне на всички проблеми при синхронизиране
+title: Улов на всички проблеми при синхронизиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506279"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757037"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Основни Outlook синхронизиране отстраняване на неизправности
+# <a name="basic-outlook-sync-troubleshooting"></a>Отстраняване на неизправности при синхронизиране на Outlook
 
-Ако имате проблеми със синхронизирането, опитайте следното:
+Ако имате проблеми при синхронизирането, опитайте следното:
 
-- Стартирайте [този диагностичен инструмент](https://aka.ms/sara-outlooksendreceive) на засегнатата машина.
-- Намаляване на броя на папките в основната или споделената пощенска кутия. Вижте [проблеми с производителността на Outlook, когато има твърде много елементи или папки в кеширан режим .ost или .pst файл папка](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
-- Забраняване на кеширането на всички споделени папки.
-- Промяна на конфигурацията на вторичната пощенска кутия на Exchange на втори акаунт в Exchange във вашия профил.
+- Изпълнете [този диагностичен инструмент](https://aka.ms/sara-outlooksendreceive) на засегнатата машина.
+- Намалете броя на папките в основната или споделената пощенска кутия. Вижте [проблемите с производителността на Outlook, когато има твърде много елементи или папки в кеширан режим. ost или. pst файл](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Забраняване на кеширане на всички споделени папки.
+- Промяна на конфигурацията на вторичната пощенска кутия на Exchange във втория акаунт за Exchange във вашия профил.
 - Уверете се, че потребителят може да се свърже с интернет. 
-- [Проверете дали сте онлайн.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
-- [Определете дали дадено правило се прилага](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Уверете се, че **Изтегляне на споделени папки** е активирана, като отидете на Настройки на**акаунта** > настройки на **файла** > **Настройки** > на акаунта**Още настройки Разширени настройки** > **Advanced**.
+- [Уверете се, че сте онлайн](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
+- [Определяне дали се прилага правило](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
+- Уверете се, че е активирана опцията **Изтегляй споделените папки** , като отидете на настройки на акаунт за **файл**, за да се включат  >  **Account Settings**  >  **Account Settings**  >  **Още настройки**  >  **Advanced**.

@@ -1,39 +1,40 @@
 ---
-title: Поправяне на Приложения на Microsoft 365 Съжаляваме, имаме съобщение за временни проблеми със сървъра
+title: Поправяне на приложения на Microsoft 365 Съжаляваме, имаме съобщение за временен проблем със сървъра
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582692"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758234"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Коригиране на Microsoft 365 приложения "Съжаляваме, имаме временни проблеми със сървъра" съобщение
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Поправяне на приложенията на Microsoft 365 "за съжаление, имаме съобщение за временен проблем със сървъра"
 
 Ако получите това съобщение, опитайте следното:
 
-1. Проверете защитната стена, антивирусния софтуер и настройките на прокси сървъра, за да се уверите, че не блокират достъпа до интернет до приложенията на Microsoft 365. Вижте [URL адреси и диапазони на IP адреси](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да потвърдите, че не блокират достъпа до интернет за приложенията на Microsoft 365. Вижте [диапазони от URL и IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)адреси.
 
-2. Отидете в **Старт**  >  **изпълнение**и след това въведете **services.msc**. Уверете се, че всички услуги се изпълняват следните:
-    - Автоматично настройване на свързани в мрежа устройства
-    - Услуга за списък на мрежи
-    - Осведоменост за местоположението на мрежата
+2. Отидете на **Старт**  >  **Run**и след това въведете **Services. msc**. Уверете се, че се изпълняват следните услуги:
+    - Автоматично настройване на свързаните с мрежата устройства
+    - Услуга за списък с мрежи
+    - Информиране за местоположения в мрежата
     - Регистър на събитията в Windows
 
-Ако една от тези услуги не се изпълнява, опитайте да го стартирате. Ако имате проблем при стартиране на услугата, изпълнете следната команда, като отворите командния ред с повишени разрешения:
+Ако една от тези услуги не се изпълнява, опитайте да я стартирате. Ако имате проблем при стартирането на услугата, изпълнете следната команда, като отворите команден прозорец с повишени разрешения:
 
-**SFC / сканиране**
+**SFC за разлагане**
 
 След като тази команда завърши, рестартирайте компютъра.
 
-За подробна информация вижте ["Съжаляваме, не можем да се свържем с профила ви. Моля, опитайте отново по-късно"грешка при активиране.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+За по-подробна информация вижте ["за съжаление не можем да се свържем с вашия акаунт. Моля, опитайте отново по-късно "грешка при активиране](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
