@@ -1,23 +1,24 @@
 ---
-ms.author: peddy
+ms.author: pebaum
 title: Бележките за контакт на Outlook не могат да се редактират
-author: peddy
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: baec4baff6d3a7e13c15815cd413394e057428be
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 114c0b3765bf6f09c4368fd51e34509672d54c56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582008"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722372"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Не може да редактирате полето за бележки за контакт в Outlook
-Това е известен проблем. Ние работим, за да го поправи и състоянието ще се актуализира в [Не може да редактирате полето бележки за контакт](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Не можете да редактирате полето за бележки за контакт в Outlook
+Това е известен проблем. Работим, за да го поправим и състоянието ще бъде актуализирано в [не може да се редактира полето за бележки за даден контакт](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Заобиколно решение:** Ако използвате акаунт в Microsoft 365 или Outlook.com, можете да редактирате контактите си с помощта на уеб. Ако използвате IMAP или POP акаунт, в момента няма заобиколно решение.
+**Заобиколно решение**: Ако използвате Microsoft 365 или акаунт за Outlook.com, можете да редактирате контактите си, като използвате уеб. Ако използвате IMAP или POP акаунт, в момента не се предлага заобиколно решение.
