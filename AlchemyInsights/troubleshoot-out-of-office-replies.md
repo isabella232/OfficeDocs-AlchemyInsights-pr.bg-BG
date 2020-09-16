@@ -1,25 +1,26 @@
 ---
-title: Отстраняване на неизправности в автоматични отговори извън офиса
+title: Отстраняване на неизправности при отсъствие на автоматични отговори за Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 761ce82515eb264ea3266ccf20948a5ca470a1ec
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707617"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664951"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="92772-102">Отстраняване на неизправности в автоматични отговори извън офиса</span><span class="sxs-lookup"><span data-stu-id="92772-102">Troubleshooting Out Of Office automatic replies</span></span>
+# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="45231-102">Отстраняване на неизправности при отсъствие на автоматични отговори за Office</span><span class="sxs-lookup"><span data-stu-id="45231-102">Troubleshooting Out Of Office automatic replies</span></span>
 
-<span data-ttu-id="92772-103">Голямо разнообразие от възможни причини може да бъде причина за проблеми в зависимост от това как сте конфигурирали автоматичните отговори от "Извън офиса".</span><span class="sxs-lookup"><span data-stu-id="92772-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
+<span data-ttu-id="45231-103">Най-голямото разнообразие от възможни причини може да бъде причината за проблемите в зависимост от това как сте конфигурирали автоматичните отговори "извън офиса".</span><span class="sxs-lookup"><span data-stu-id="45231-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
 
-<span data-ttu-id="92772-104">За по-дълбоко разбиране на проблема, моля прочетете [Разбиране и отстраняване на неизправности извън офиса (OOF) отговори](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span><span class="sxs-lookup"><span data-stu-id="92772-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
+<span data-ttu-id="45231-104">За по-задълбочено разбиране на мястото, където е проблемът, прочетете  [разбиране и отстраняване на неизправности при отсъствие от офиса](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span><span class="sxs-lookup"><span data-stu-id="45231-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
