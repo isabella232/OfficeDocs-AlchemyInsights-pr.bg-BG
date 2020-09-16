@@ -1,41 +1,41 @@
 ---
-title: Етикетите на чувствителността не се появяват
+title: Етикетите за чувствителност не се показват
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581004"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801173"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Етикетите на чувствителността не се появяват
+# <a name="sensitivity-labels-not-appearing"></a>Етикетите за чувствителност не се показват
 
-Етикетите за чувствителност ви позволяват да класифицирате и да защитите вашето чувствително съдържание. Те могат да бъдат създадени в центъра за съответствие на Microsoft 365, microsoft 365 център за защита или Microsoft 365 & център за съответствие под Класификация > етикети с чувствителност. За да научите повече за тази функция, вижте [Общ преглед на етикетите на чувствителността](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Етикетите за чувствителност ви позволяват да класифицирате и да защитавате чувствителното съдържание. Те могат да бъдат създадени в центъра за съответствие на Microsoft 365, в центъра за защита на Microsoft 365 или в центъра за защита на & на Microsoft 365 под класификация > етикети за чувствителност. За да научите повече за тази функция, вижте [общ преглед на етикетите за чувствителност](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Ако сте конфигурирали вашите етикети за чувствителност, но те не се показват в приложенията на Microsoft 365, проверете следното:
 
-- Потвърдете, че етикетът за чувствителност е [публикуван](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) на потребителите и групите, които искате.
+- Уверете се, че етикетът за чувствителност е [публикуван](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) за потребителите и групите, които искате.
 
-- Уверете се, че потребителят използва приложение, което поддържа етикети за чувствителност - вижте [етикетите на чувствителността във вашия документ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Уверете се, че потребителят използва приложение, което поддържа етикети за чувствителност – вижте [етикети за чувствителност във вашия документ](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Ако [мигрирате етикетите за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), имайте предвид съображенията, изброени [тук](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Ако [мигрирате етикети на Azure за защита на информацията](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), имайте предвид съображенията, описани [тук](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Защита от загуба на данни (DLP) поддръжка: В момента само етикети за задържане може да се използва като условие в DLP правила.  Поддръжката на етикети за чувствителност в DLP политика все още не е налична, но работим по него.
+- Поддръжка за предотвратяване на загуба на данни (DLP): в момента само етикети за съхранение могат да бъдат използвани като условие в DLP правила.  Поддръжката за етикети за чувствителност в DLP правилата все още не е налична, но работим по него.
 
-- Когато шифроването е разрешено на етикет с чувствителност, можете да изберете или да:
+- Когато шифроването е разрешено на етикет за чувствителност, можете да изберете:
     - Присвояване на разрешения сега
-    - Позволи на потребителите да присвояват разрешения
+    - Позволяване на потребители да присвояват разрешения
 
 
-За повече информация относно възможни проблеми вижте [Известни проблеми с етикети за чувствителност](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+За повече информация относно възможните проблеми вижте [известни проблеми с етикети за чувствителност](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
