@@ -1,35 +1,36 @@
 ---
-title: 9000239 Outlook.com спедиция
+title: 9000239 Outlook.com препращане
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 076495158637543eebced2a11cfb0e8468626450
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 02e797f26e35a4da446921a3fcbdc3a7475f862c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581076"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751880"
 ---
-# <a name="forwarding-email-in-outlookcom"></a><span data-ttu-id="de4dd-102">Препращане на имейл в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="de4dd-102">Forwarding email in Outlook.com</span></span>
+# <a name="forwarding-email-in-outlookcom"></a><span data-ttu-id="7242c-102">Препращане на имейл в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7242c-102">Forwarding email in Outlook.com</span></span>
 
-<span data-ttu-id="de4dd-103">За да препратите едно съобщение едновременно:</span><span class="sxs-lookup"><span data-stu-id="de4dd-103">To forward one message at a time:</span></span>
+<span data-ttu-id="7242c-103">За да препращате едно съобщение наведнъж:</span><span class="sxs-lookup"><span data-stu-id="7242c-103">To forward one message at a time:</span></span>
 
-1. <span data-ttu-id="de4dd-104">В списъка със съобщения изберете съобщението, което искате да препратите.</span><span class="sxs-lookup"><span data-stu-id="de4dd-104">In your message list, choose the message that you want to forward.</span></span>
-2. <span data-ttu-id="de4dd-105">В горния ъгъл на прозореца на съобщението изберете стрелката **напред**</span><span class="sxs-lookup"><span data-stu-id="de4dd-105">At the top corner of the message pane, select the **Forward** arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
-<span data-ttu-id="de4dd-106">.</span><span class="sxs-lookup"><span data-stu-id="de4dd-106">.</span></span>
-3. <span data-ttu-id="de4dd-107">Въведете съобщението си, след което изберете **Изпращане**.</span><span class="sxs-lookup"><span data-stu-id="de4dd-107">Type your message and then select **Send**.</span></span>
+1. <span data-ttu-id="7242c-104">В списъка със съобщения изберете съобщението, което искате да препратите.</span><span class="sxs-lookup"><span data-stu-id="7242c-104">In your message list, choose the message that you want to forward.</span></span>
+2. <span data-ttu-id="7242c-105">В горния ъгъл на прозореца на съобщението изберете стрелката **напред**</span><span class="sxs-lookup"><span data-stu-id="7242c-105">At the top corner of the message pane, select the **Forward** arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
+<span data-ttu-id="7242c-106">.</span><span class="sxs-lookup"><span data-stu-id="7242c-106">.</span></span>
+3. <span data-ttu-id="7242c-107">Въведете съобщението си и след това изберете **Изпрати**.</span><span class="sxs-lookup"><span data-stu-id="7242c-107">Type your message and then select **Send**.</span></span>
 
-<span data-ttu-id="de4dd-108">За да препратите автоматично всички съобщения:</span><span class="sxs-lookup"><span data-stu-id="de4dd-108">To automatically forward all messages:</span></span>
+<span data-ttu-id="7242c-108">За да препращате автоматично всички съобщения:</span><span class="sxs-lookup"><span data-stu-id="7242c-108">To automatically forward all messages:</span></span>
 
-1. <span data-ttu-id="de4dd-109">Отворете настройките за [пренасочване](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span><span class="sxs-lookup"><span data-stu-id="de4dd-109">Open your [Forwarding settings](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span></span>
-2. <span data-ttu-id="de4dd-110">Изберете **Разрешаване на препращане**, въведете имейл адреса за препращане и изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="de4dd-110">Select **Enable forwarding**, enter the forwarding email address, and select **Save**.</span></span>
+1. <span data-ttu-id="7242c-109">Отворете вашите [Настройки за препращане](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span><span class="sxs-lookup"><span data-stu-id="7242c-109">Open your [Forwarding settings](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span></span>
+2. <span data-ttu-id="7242c-110">Изберете **Разрешаване на препращане**, въведете имейл адреса за препращане и изберете **Запиши**.</span><span class="sxs-lookup"><span data-stu-id="7242c-110">Select **Enable forwarding**, enter the forwarding email address, and select **Save**.</span></span>
 
-<span data-ttu-id="de4dd-111">Научете повече за [автоматичното препращане в Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="de4dd-111">Learn more about [automatic forwarding in Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="7242c-111">Научете повече за [автоматичното препращане в Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7242c-111">Learn more about [automatic forwarding in Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

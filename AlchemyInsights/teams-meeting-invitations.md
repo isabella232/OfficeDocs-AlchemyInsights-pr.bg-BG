@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 2c332abe8c525012f4d6b2cd8c3f7054ccc8933e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553156"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736205"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="dcbea-102">Покани за събрания в Teams</span><span class="sxs-lookup"><span data-stu-id="dcbea-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="c103c-102">Покани за събрания в Teams</span><span class="sxs-lookup"><span data-stu-id="c103c-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="dcbea-103">Трябва да знаете как да [създадете покана за събрание в Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span><span class="sxs-lookup"><span data-stu-id="dcbea-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="c103c-103">Имате нужда от помощ за персонализирането на покани за събрания на Teams за вашата организация?</span><span class="sxs-lookup"><span data-stu-id="c103c-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="c103c-104">Не забравяйте да преглеждате [персонализираните покани за събрания](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="c103c-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="dcbea-104">В момента поканите за събрания в Teams **не могат да се персонализират**.</span><span class="sxs-lookup"><span data-stu-id="dcbea-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="dcbea-105">Моля [да гласувате за Teams UserVoice в Teams](https://microsoftteams.uservoice.com/), за да се добави този проблем към пътната карта.</span><span class="sxs-lookup"><span data-stu-id="dcbea-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="c103c-105">За допълнителна информация вижте [управление на настройките за събрание в Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="c103c-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>

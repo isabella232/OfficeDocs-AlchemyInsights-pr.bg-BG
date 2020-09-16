@@ -5,23 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 4821fb67a95264c5258d265b9f1d13cea0a321d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944032"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736052"
 ---
-# <a name="teams-notifications"></a><span data-ttu-id="08408-102">Известия за Teams</span><span class="sxs-lookup"><span data-stu-id="08408-102">Teams notifications</span></span>
+# <a name="teams-notifications-faq"></a><span data-ttu-id="df714-102">ЧЗВ за известията за Teams</span><span class="sxs-lookup"><span data-stu-id="df714-102">Teams notifications FAQ</span></span>
 
-<span data-ttu-id="08408-103">В настолното приложение за Teams има много начини за достъп и управление на известията.</span><span class="sxs-lookup"><span data-stu-id="08408-103">In the Teams desktop app, there are multiple ways to access and manage notifications.</span></span> <span data-ttu-id="08408-104">За по-нататъшно персонализиране на настройките за известията изберете своята снимка на профила в горния десен ъгъл на Teams, след което отидете на **Настройки > Известия за дейността**.</span><span class="sxs-lookup"><span data-stu-id="08408-104">To further customize your notification settings, select your profile picture at the top, right corner of Teams, then go to **Settings > Activity Notifications**.</span></span> <span data-ttu-id="08408-105">Оттам можете да прецизирате какви известия получавате и къде да се показват тези известия.</span><span class="sxs-lookup"><span data-stu-id="08408-105">From there you can fine-tune what notifications you receive and where those notifications show up.</span></span> 
 
-<span data-ttu-id="08408-106">В приложенията за iOS и Android докоснете **Повече > Настройки > Известия**, за да персонализирате известията си.</span><span class="sxs-lookup"><span data-stu-id="08408-106">In iOS and Android apps, tap **More > Settings > Notifications** to customize your notifications.</span></span>
+- <span data-ttu-id="df714-103">Уведомленията се [задават от потребители](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d), а администраторите не могат да променят настройките за известяване от името на потребителите.</span><span class="sxs-lookup"><span data-stu-id="df714-103">Notifications are [set by users](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d), and Admins cannot change notification settings on users' behalf.</span></span> <span data-ttu-id="df714-104">В настолното приложение Teams изберете снимката на профила си в горния десен ъгъл на Teams, след което отидете в настройки>уведомления за дейности</span><span class="sxs-lookup"><span data-stu-id="df714-104">In the Teams Desktop App, select your profile picture at the top right Corner of Teams then go to Settings>Activity Notifications</span></span>
 
-<span data-ttu-id="08408-107">За повече информация вижте [Шест неща, които трябва да знаете за известията](https://support.microsoft.com/bg-BG/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) и [Управление на известията в Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span><span class="sxs-lookup"><span data-stu-id="08408-107">For more information, please see [Six things to know about notifications](https://support.microsoft.com/bg-BG/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) and [Manage notifications in Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span></span>
+- <span data-ttu-id="df714-105">[Отстраняване на неизправности с известия за мобилни приложения за Teams](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).</span><span class="sxs-lookup"><span data-stu-id="df714-105">[Troubleshoot notifications for Teams mobile apps](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).</span></span>
+
+- <span data-ttu-id="df714-106">Можете да получавате известия по четири начина: чрез информационния канал за активност, чата, банерните уведомления и имейла.</span><span class="sxs-lookup"><span data-stu-id="df714-106">You can receive notifications four ways: through the Activity feed, Chat, Banner notifications, and Email.</span></span> <span data-ttu-id="df714-107">Имейлът с пропуснати дейности се изпраща, когато не сте активни в Teams за определен период от време.</span><span class="sxs-lookup"><span data-stu-id="df714-107">The missed activity email is sent when you are inactive on Teams for a period of time.</span></span> <span data-ttu-id="df714-108">Вижте [шест неща, които трябва да знаете за известията](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) за повече информация</span><span class="sxs-lookup"><span data-stu-id="df714-108">See [Six Things to know about notifications](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) for more information</span></span>
+
+<span data-ttu-id="df714-109">За повече информация за известията за Teams вижте  [управление на известия в Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span><span class="sxs-lookup"><span data-stu-id="df714-109">For more information on Teams notifications, see  [Manage notifications in Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span></span>
