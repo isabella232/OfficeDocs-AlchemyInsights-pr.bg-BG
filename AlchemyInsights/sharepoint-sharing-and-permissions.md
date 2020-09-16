@@ -1,27 +1,28 @@
 ---
-title: SharePoint Онлайн споделяне и разрешения
+title: Споделяне и разрешения на SharePoint online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5803"
-ms.openlocfilehash: 101fbb19031524d632efcfbef46635e3af1aaf98
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: bd1f69fe13d7d1a0c997df8e489466ee8cc4ca7d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569905"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770612"
 ---
-# <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Онлайн споделяне и разрешения
+# <a name="sharepoint-online-sharing-and-permissions"></a>Споделяне и разрешения на SharePoint online
 
-Ето някои често поискани теми за SharePoint Online споделяне и разрешения
+Ето някои често задавани теми за споделяне и разрешения на SharePoint online
 
-- [Споделяне и разрешения в съвременния опит на SharePoint](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions)
-- [Разрешения за сайтове на SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Споделяне и разрешения в съвременната среда за работа в SharePoint](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions)
+- [Разрешения за сайт на SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 - [Включване или изключване на външното споделяне](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
