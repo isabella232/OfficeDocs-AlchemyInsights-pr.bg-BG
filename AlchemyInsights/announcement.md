@@ -1,24 +1,25 @@
 ---
-title: Обявяване
+title: Известие
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5152"
 - "9002660"
-ms.openlocfilehash: de64c897f9518d20ef9ac09b2ae1e0e784b92673
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: 734aa1628b866d6fe34bfdfa63dd4de36976d2c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45423345"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717818"
 ---
-# <a name="announcement"></a><span data-ttu-id="61aff-102">Обявяване</span><span class="sxs-lookup"><span data-stu-id="61aff-102">Announcement</span></span>
+# <a name="announcement"></a><span data-ttu-id="357ab-102">Известие</span><span class="sxs-lookup"><span data-stu-id="357ab-102">Announcement</span></span>
 
-<span data-ttu-id="61aff-103">Поддържайте връзка и бъдете продуктивни с Teams и Microsoft 365 дори когато работите дистанционно.</span><span class="sxs-lookup"><span data-stu-id="61aff-103">Keep in touch and stay productive with Teams and Microsoft 365, even when you're working remotely.</span></span> <span data-ttu-id="61aff-104">За да научите повече, вижте [Работа дистанционно с Microsoft 365](https://aka.ms/remote-work).</span><span class="sxs-lookup"><span data-stu-id="61aff-104">To learn more, see [Work remotely with Microsoft 365](https://aka.ms/remote-work).</span></span>
+<span data-ttu-id="357ab-103">Поддържайте връзка и оставате продуктивни с Teams и Microsoft 365, дори когато работите отдалечено.</span><span class="sxs-lookup"><span data-stu-id="357ab-103">Keep in touch and stay productive with Teams and Microsoft 365, even when you're working remotely.</span></span> <span data-ttu-id="357ab-104">За да научите повече, вижте [работа отдалечено с Microsoft 365](https://aka.ms/remote-work).</span><span class="sxs-lookup"><span data-stu-id="357ab-104">To learn more, see [Work remotely with Microsoft 365](https://aka.ms/remote-work).</span></span>
