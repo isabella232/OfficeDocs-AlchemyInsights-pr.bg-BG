@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: c33d696ef4993f7c4ce304e2e7209c3860299275
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062777"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693292"
 ---
 # <a name="purchase-project-subscription"></a>Закупуване на абонамент за Project
 
-Администраторите могат да закупят абонамент за проект за своята организация от центъра за администриране на **Microsoft 365**.
+Администраторите могат да закупят абонамент за Project за своята организация от **центъра за администриране на Microsoft 365**.
 
-1. Отидете на страницата **Услуги за плащане**  >  **[покупка,](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** за да видите наличните абонаменти за закупуване за вашата организация.
+1. Отидете на страницата "Услуги за закупуване на **плащане**",  >  **[Purchase services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** за да видите налични абонаменти за закупуване за вашата организация.
 
 2. Намерете плановете на Project чрез търсене на "Project".
 

@@ -1,27 +1,28 @@
 ---
-title: Задачи на екипите
+title: Възложени задачи на Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 3674ecfca87525cf062a1e4d7397205ec6bd050a
-ms.sourcegitcommit: 9d1d2f0aa59256bec426f4fccea75df30261f6d0
+ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46554834"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669849"
 ---
-# <a name="teams-assignments"></a>Задачи на екипите
+# <a name="teams-assignments"></a>Възложени задачи на Teams
 
-Задачите са задачи или единици работа, възложени на ученик или член на екипа в даден клас като част от тяхното изучаване. Можете да създавате задачи в рамките на вашия клас Teams.
+Възложените задачи са задачи или единици за работа, присвоени на ученик или член на екипа в клас като част от тяхното проучване. Можете да създадете възложени задачи в класа на вашите екипи.
 
-- За да научите повече за задачи, вижте [Microsoft Екипи задачи](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
-- За да научите повече за управлението на функциите за задачи в центъра за администриране на Microsoft Teams, вижте [Задачи в Екипи за образование](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
+- За да научите повече за възложените задачи, вижте [възлагания на Microsoft Teams](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
+- За да научите повече за функциите за управление на възложени задачи в центъра за администриране на Microsoft Teams, вижте [задачи в Teams за образование](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).

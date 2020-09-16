@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: a92bb161142f79a4288aa8f3b456b5223a90bc51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343041"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675611"
 ---
 # <a name="list-view-threshold"></a>Праг за списъчен изглед
 
-Прагът на списъчен изглед е на място за поддържане на работата на услугата. Прагът не може да се променя в SharePoint Online. За да избегнете удрянето на този праг, вижте [Управление на големи списъци и библиотеки в SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
+Прагът за списъчен изглед е налице, за да се поддържа производителността на услугата. Прагът не може да се промени в SharePoint online. За да избегнете натискането на този праг, вижте [управление на големи списъци и библиотеки в SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка. Вижте [Грешка дял/прекъсване наследяване](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
+Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка. Вижте [споделяне на грешки/прекъсване на наследяването](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

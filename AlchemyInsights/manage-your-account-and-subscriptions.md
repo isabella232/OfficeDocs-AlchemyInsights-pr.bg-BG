@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703072"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Управление на вашия акаунт и абонаменти
 
@@ -33,13 +34,13 @@ ms.locfileid: "44418097"
 
 - [Отдалечено преподаване и обучение в Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**В центъра за администриране на Microsoft 365 можете :** 
+**В центъра за администриране на Microsoft 365 можете да направите**следното: 
 
 - [Преглед на вашата сметка](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Разберете вашата сметка](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Управление на начините на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+- [Управление на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Управление на абонаменти и лицензи** 
 

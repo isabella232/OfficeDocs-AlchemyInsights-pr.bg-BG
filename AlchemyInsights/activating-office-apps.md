@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581400"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697978"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активиране на приложения на Microsoft 365
 
@@ -25,6 +26,8 @@ ms.locfileid: "44581400"
 - [Активиране на Office на PC](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
 - [Активиране на Office на Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+
+**Забележка:**  Уверете се, че имате абонамент за Office 365 или Microsoft 365, който [включва клиентски приложения на Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 Business Standard, приложения на Microsoft 365 за фирми или приложения на Microsoft 365 за Enterprise. Освен това се уверете, че потребителският акаунт, който използвате за влизане в приложения на Office, има [присвоен лиценз](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 За да коригирате проблеми с активирането на Office, вижте:
 

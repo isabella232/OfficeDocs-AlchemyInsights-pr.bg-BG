@@ -1,29 +1,30 @@
 ---
-title: Проблеми с бордовите машини
+title: Проблеми с вградените машини
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676871"
 ---
-# <a name="issues-with-onboarding-machines"></a>Проблеми с бордовите машини
+# <a name="issues-with-onboarding-machines"></a>Проблеми с вградените машини
 
-Може да имате проблеми с бордовите машини за MDATP услуга. Ако имате достъп до машината на крайния потребител, изпълнете следните стъпки:
+Възможно е да имате проблеми с вградените машини към услугата MDATP. Ако имате достъп до крайния потребител, изпълнете следните стъпки:
 
-1. Изтеглете инструмента за диагностика на [клиент връзка анализатор.](https://aka.ms/mdatpanalyzer)
-2. Извличане и изпълнение MDATPAnalyzer.cmd.
-3. Намерете диагностичен регистрационен файл в папката, наречена MDATPClientAnalyzerResult, същата папка, където инструментът анализатор се изтегля.
-4. Прегледайте регистрационния файл, MDATPClientAnalyzer.txt, да намерите проблеми с връзката или интернет прокси настройките.
+1. Изтеглете диагностичния инструмент за [анализатор на свързването на клиенти](https://aka.ms/mdatpanalyzer) .
+2. Extract и Run MDATPAnalyzer. cmd.
+3. Намерете диагностичния регистрационен файл в папката, наречена MDATPClientAnalyzerResult, в същата папка, където се изтегля инструментът Analyzer.
+4. Прегледайте регистрационния файл MDATPClientAnalyzer.txt, за да намерите проблеми с настройките за свързване или интернет прокси сървъра.

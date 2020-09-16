@@ -1,24 +1,25 @@
 ---
-title: Мулти-географски възможности в Exchange Online
+title: Възможности за много Гео в Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: 7c002b523cb8f2b796f69dd0dfc2fb61a4594ff2
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: d3c189d29e36ec013c4a0ee08bf6d253cc00b4ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702496"
 ---
-# <a name="multi-geo-capabilities-in-exchange-online"></a>Мулти-географски възможности в Exchange Online
+# <a name="multi-geo-capabilities-in-exchange-online"></a>Възможности за много Гео в Exchange Online
 
-В мулти-гео среда можете да изберете местоположението на съдържанието на пощенскакутия на Exchange Online (данни в покой) на база на потребител.
-- [Мулти-географски възможности в Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+В мултигео среда можете да изберете местоположението на съдържанието на пощенската кутия на Exchange Online (данни в покой) за всеки потребител.
+- [Възможности за много Гео в Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)

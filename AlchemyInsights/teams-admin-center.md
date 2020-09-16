@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670353"
 ---
 # <a name="teams-admin-center"></a>Център за администриране на Teams
 
@@ -31,5 +32,5 @@ ms.locfileid: "44354077"
 
 - Създали ли сте потребители или сте дали лицензи през последните 24 часа? Уверете се, че сте изчакали поне 24 часа, преди да отворите билет за поддръжка.
 - Уверете се, че сте задали подходящи лицензи?
-- Ако имате локална Active Directory, проверете дали [стойността на msRTCSIP-PrimaryUserAddress или SIP адрес в полето ProxyAddresses във вашата локална Active Directory е уникален и формат ът отговаря](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip: потребителско**име** на потребителя от центъра за администриране на [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ако възнамерявате да поддържате Skype за разполагане на бизнес сървър и потребители, които са удоманени локално и онлайн: следвайте **"Настройте хибрид с екипи и Онлайн на Skype за бизнеса"** във вашия Контролен панел на Skype за бизнес сървър и преместете потребителите онлайн.
+- Ако имате локален Active Directory, проверете дали [стойността на msRTCSIP-PrimaryUserAddress или SIP адреса в полето ProxyAddresses във вашия локален Active Directory е уникална и форматът съвпада с](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**потребителско име** за потребителя от [центъра за администриране на Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ако възнамерявате да запазите разгръщане на Skype за бизнеса сървър и да накарате потребителите да се придържат локално и онлайн: Следвайте **"Настройване на хибридно разполагане с Teams и Skype за бизнеса онлайн"** в контролния панел на вашия Skype за бизнеса сървър и преместване на потребители онлайн.

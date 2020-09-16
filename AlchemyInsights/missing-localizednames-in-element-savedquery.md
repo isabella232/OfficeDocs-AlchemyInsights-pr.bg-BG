@@ -1,26 +1,27 @@
 ---
-title: Липсващи "Локализирани имена" в елемент "запазено кърстине"
+title: Липсващ "LocalizedNames" в елемент "savedquery"
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: a891b31e90951be8349a7fda705a14320e22fb3a
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423287"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667111"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Липсващи "Локализирани имена" в елемент "запазено кърстине"
+# <a name="missing-localizednames-in-element-savedquery"></a>Липсващ "LocalizedNames" в елемент "savedquery"
 
-За помощ при липсващи "LocalizedNames" вижте ["Елементът "запазено"има непълна съдържание. Списък на възможните елементи очаква: "Локализирани имена""грешка при импортиране на решение на Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+За помощ при липса на "LocalizedNames" вижте ["елементът" savedquery "съдържа незавършено съдържание. Списък на очакваните елементи: "LocalizedNames" възниква грешка, когато импортирате решение за Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
 
-Потърсете специални знаци в името на изгледа, които могат да причинят проблема. Премахнете всички специални знаци в името на изгледа и експортирайте решението отново.
+Потърсете специални знаци в името на изгледа, което може да предизвика проблема. Премахнете специалните знаци в име на изгледа и експортирайте решението отново.

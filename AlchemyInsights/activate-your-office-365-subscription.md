@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 10d57dea43a08dcdec334b7c8e37dce05e6460fc
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417989"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698050"
 ---
 # <a name="activate-your-subscription"></a>Активирайте абонамента си
 
@@ -32,7 +33,7 @@ ms.locfileid: "44417989"
 
 Ако абонаментът ви изтече или е дезактивиран от Microsoft или ако сте го отменили по средата на срока на абонамента, можете да го активирате повторно в центъра за администриране на Microsoft 365.
 
-- В центъра за администриране на Microsoft 365 отидете на страница **Фактуриране**  >  **[на продуктите си.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+- В центъра за администриране на Microsoft 365 отидете на страницата **Фактуриране**на  >  **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 - Изберете абонамента, който искате да активирате отново, след което щракнете върху **Повторно активиране**. Ако не виждате **Повторно активиране** като възможно действие, [се обадете на поддръжката](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), за да активира повторно абонамента ви.
 
