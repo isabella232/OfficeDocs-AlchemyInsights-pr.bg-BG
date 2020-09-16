@@ -1,26 +1,27 @@
 ---
-title: Надграждане от Skype за бизнес на помещения за екипи
+title: Надстройване от Skype за бизнеса към Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43727276"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734756"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Надграждане от Skype за бизнес на помещения за екипи
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Надстройване от Skype за бизнеса към Teams
 
-Ако сте внедрили Skype за бизнес или Microsoft Lync в помещения и вашата организация иска да надстроите до екипи, следвайте указанията в статията по-долу. Ще трябва да настроите хибридна връзка с вашия клиент и след това да преместите потребителите си в Teams и да им присвоите подходящ режим на съвместно съществуване и надстройка. 
+Ако сте разположили Skype за бизнеса или Microsoft Lync в помещенията и вашата организация иска да надстрои до Teams, следвайте указанията в статията по-долу. Ще трябва да настроите хибридно свързване с вашия клиент и след това да прехвърлите потребителите си към Teams и да им присвоите подходящо съвместно съществуване и режим на надстройка. 
 
-[Надстройка от Skype за бизнес локална тава екипи](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Надстройване от Skype за бизнеса локален за Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

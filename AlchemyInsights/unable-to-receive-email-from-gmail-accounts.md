@@ -1,33 +1,34 @@
 ---
-title: Не може да се получи имейл от акаунти в Gmail
+title: Не можете да получавате имейли от акаунти за Gmail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: dd3ebda3f835edd9f15fee096476273ad4249baf
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558872"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735440"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Не може да се получи имейл от акаунти в Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Не можете да получавате имейли от акаунти за Gmail
 
-**Въпрос**
+**ВЪПРОС**
 
-Известно ни е, че някои потребители може да не могат да получават имейли от профили в Gmail. Разследваме възможен проблем.
+Ние сме наясно, че някои потребители може да не могат да получават имейли от акаунти за Gmail. Ние разследваме възможен проблем.
 
-**Workaround**
+**ЗАОБИКОЛНО решение**
 
-Проверете дали не сте блокирали случайно домейна gmail, когато блокирате един потребител на Gmail.
+Проверете дали не сте блокирали неволно домейна на Gmail, когато блокирате един потребител на Gmail.
 
-1. Отворете списъка с [блокирани податели](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Отворете вашия [списък с блокирани податели](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Ако Gmail.com в списъка, щракнете върху иконата на кошчето до записа и натиснете **Запиши**.
+2. Ако Gmail.com е в списъка, щракнете върху иконата на Trash до записа и натиснете **Запиши**.

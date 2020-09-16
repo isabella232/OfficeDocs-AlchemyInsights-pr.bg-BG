@@ -1,39 +1,40 @@
 ---
-title: Не може да се зададе или да се визуализира правилата на AllowSelfServicePurchase
+title: Не можете да задавате или преглеждате правилата за AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735188"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Не може да се зададе или да се визуализира правилата на AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Не можете да задавате или преглеждате правилата за AllowSelfServicePurchase
 
-При опит за задаване или преглед на AllowSelfServicePurchase политика, получавате следното съобщение за грешка:
+Когато се опитвате да зададете или видите правилата за AllowSelfServicePurchase, получавате следното съобщение за грешка:
 
-*HandleError: Неуспешно извличане на продуктови правила с PolicyId "AllowSelfServicePurchase", съобщение за грешка - основната връзка е прекъсната: възникна неочаквана грешка при изпращане.*
+*HandleError: неуспех при извличане на правилата за продукти с PolicyId "AllowSelfServicePurchase", ErrorMessage – основната връзка е затворена: неочаквана грешка при изпращане.*
 
-Това може да се дължи на по-стара версия на защита на транспортния слой (TLS). За да свържете MSCommerce услугата, трябва да използвате TLS 1.2 или по-нова версия.  
+Това може да се дължи на по-стара версия на защитата на транспортния слой (TLS). За да свържете услугата MSCommerce, трябва да използвате TLS 1,2 или по-нова версия.  
 
-Опитайте следните стъпки, за да разрешите/зададете TLS протокола 1.2, проверете и опитайте отново.
- 1. В командния ред на PowerShell\) (PS C: въведете следната команда, за да зададете протокола TLS версия 1.2:
+Изпробвайте следните стъпки, за да разрешите/зададете TLS протокола към 1,2, проверете и опитайте отново.
+ 1. В командния прозорец на PowerShell (PS C: \) Въведете следната команда, за да зададете ПРОТОКОЛА TLS към версия 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Проверете TLS протокола, които се използват, със следната команда:
+2. Проверете използвания TLS протокол (и) със следната команда:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Опитайте отново да получите или актуализирате командите, ако е необходимо.
+3. Опитайте отново с командите получаване или актуализиране, ако е необходимо.
 

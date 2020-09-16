@@ -1,32 +1,33 @@
 ---
-title: 902 (грешки при синхронизиране поради дублиращи се обекти)
+title: 902 (грешки при синхронизиране поради дублирани обекти)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 6ea833e0c4aebe72bc5c02e3dc10c1edc4136dcc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33b8ad0a33eb02eb9ec5bd26f94b00e5645b3fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737330"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Грешки при синхронизиране поради дублиращи се обекти
+# <a name="sync-errors-due-to-duplicate-objects"></a>Грешки при синхронизиране поради дублирани обекти
 
-Може да получите едно от следните съобщения за грешка при синхронизиране на директории в Microsoft 365:
+Възможно е да получите едно от следните съобщения за грешка, когато синхронизирането на справочен указател завърши в Microsoft 365:
 
-- Не може да актуализира този обект в онлайн услугите на Microsoft, защото следните атрибути, свързани с този обект, имат стойности, които вече могат да са свързани с друг обект във вашата локална директория.
+- Не можете да актуализирате този обект в Microsoft Online Services, тъй като следните атрибути, свързани с този обект, имат стойности, които вече може да са свързани с друг обект в локалния указател.
 
-- Синхронизиран обект със същия прокси адрес вече съществува във вашата директория на онлайн услугите на Microsoft.
+- Синхронизиран обект със същия адрес за прокси сървър вече съществува във вашия указател на Microsoft Online Services.
 
-- Не може да актуализира този обект, защото следните атрибути, свързани с този обект, имат стойности, които вече могат да бъдат свързани с друг обект във вашата локална справочна услуга: UserPrincipalName.
+- Не можете да актуализирате този обект, тъй като следните атрибути, свързани с този обект, имат стойности, които вече може да са свързани с други обекти във вашите локални справочни услуги: UserPrincipalName.
 
-За да идентифицирате и решите проблема, изтеглете и изпълнете инструмента за отстраняване на [грешки IdFix DirSync.](https://www.microsoft.com/download/details.aspx?id=36832)
+За да идентифицирате и коригирате проблема, изтеглете и изпълнете [инструмента за отстраняване на грешки в IdFix](https://www.microsoft.com/download/details.aspx?id=36832).
 
 За повече информация вижте [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
