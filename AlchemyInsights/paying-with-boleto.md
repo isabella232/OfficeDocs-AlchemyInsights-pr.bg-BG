@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: f390c2415e6638b90336c456bd11065bf8d7bc53
-ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
+ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37976080"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751736"
 ---
-# <a name="como-pagar-com-boleto"></a>Комо pagar com Boleto
+# <a name="como-pagar-com-boleto"></a>Como pagar com Boleto
 
-**Комо папар минха**
+**Комо pagar мин. fatura**
 
-"PDE pagar The fatura com Boleto Bancário към профила OU трансферêнЦиа банкáриа eletrônica".
+Você Pode pagar SUA fatura com Boleto Bancário OU transferência bancária eletrônica.
 
-**Комо pagar com Boleto**
+**Como pagar com Boleto**
 
-Това е всичко, което трябва да направим, за да се измъкнем от тази информация........... "Esse Boleto terá vencimento de 30 Dias Após" данни правят педидо e Pode Ser Pago EM-банка, корреиос, каса Лоти. 
+Ao escolher ESTA opção de pagamento, você receberá о Boleto EM Seu е-поща ЕМ Até 10 Диас úteis Após данни do pedido. Ессе Boleto terá vencimento de 30 Диас Após данни pedido е Pode ДОИ Pago EM Banco, Correios, Casa lotérica е algunsи. 

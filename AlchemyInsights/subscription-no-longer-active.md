@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063282"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737546"
 ---
 # <a name="subscription-no-longer-active"></a>Абонаментът вече не е активен
 
@@ -24,11 +25,11 @@ ms.locfileid: "44063282"
 
 **Повторно активиране на абонамент**
 
-1. В центъра за администриране отидете на страницата **Фактуриране на**  >  **[продуктите си.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. В центъра за администриране отидете на страницата **Фактуриране**на  >  **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Намерете абонамента, който искате да активирате повторно.
 
-3. В секцията **Фактуриране** щракнете върху **Повторно активиране сега**.  Ако сте в изгледа **Карти,** щракнете върху многоточие между **име** и **Налично количество** и изберете **Повторно активиране** от менюто.
+3. В секцията **Фактуриране** щракнете върху **Повторно активиране сега**.  Ако сте в изглед на **карти** , щракнете върху Многоточието между **името** и **наличното количество** и изберете **Активирай повторно** от менюто.
 
 **Забележка**: Ако не виждате абонамента, който търсите, може да се наложи да регулирате филтъра за **Състоянието на абонамента** близо до горния край на страницата до **Всички**.
 

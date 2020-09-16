@@ -1,24 +1,25 @@
 ---
-title: Хибридно съединение с windows стари устройства
+title: Хибридно съединение с наследени устройства на Windows
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: b57a9f41c104c7b77955cd9eff482d7b5debb91d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554824"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743706"
 ---
-# <a name="hybrid-join-with-windows-legacy-devices"></a>Хибридно съединение с windows стари устройства
+# <a name="hybrid-join-with-windows-legacy-devices"></a>Хибридно съединение с наследени устройства на Windows
 
-За указания как да разрешите потенциални проблеми с хибрид azure Active Directory (Azure AD) стари устройства вижте [Отстраняване на хибрид Azure Active Directory присъединени ниво устройства](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy). 
+За насоки как да разрешите потенциални проблеми с устройства с Windows Legacy на хибридни Azure Active Directory (Azure AD), вижте [отстраняване на неизправности в хибридни Azure Active Directory, свързани с устройства с ниво](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy)на достъп. 

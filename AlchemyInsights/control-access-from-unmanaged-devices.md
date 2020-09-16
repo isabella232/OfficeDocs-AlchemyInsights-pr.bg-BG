@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: 3a354f432c7742ba829759edb83ae66bb1326939
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: db9a9338d02a566dd1552347d946fa5180ff6de0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747801"
 ---
 # <a name="control-access-from-unmanaged-devices"></a>Управление на достъпа от неуправлявани устройства
 
-Като SharePoint или глобален администратор в Microsoft 365 можете да блокирате или ограничите достъпа до съдържанието на SharePoint и OneDrive от неуправлявани устройства.
+Като администратор на SharePoint или глобален в Microsoft 365, можете да блокирате или да ограничите достъпа до съдържание на SharePoint и OneDrive от неуправлявани устройства.
 
 - [Управление на достъпа от неуправлявани устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
