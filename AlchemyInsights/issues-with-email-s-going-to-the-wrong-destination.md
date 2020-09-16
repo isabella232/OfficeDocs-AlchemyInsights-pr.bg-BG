@@ -1,22 +1,23 @@
 ---
-title: 324 проблеми с имейл(и) ще грешен местоназначение
+title: проблемите с 324 с имейлите отиват към грешното местоназначение
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: f7ab266b363c9e7df7de9208720558fea1ed6e37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716269"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769784"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>Имейл съобщения та ще грешен местоназначение
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>Имейл съобщенията отиват в погрешна посока
 
-Изглежда, че имате проблем с пощата. Имаме диагностика, която ще помогне да се идентифицират много често проблеми с пощенски поток. Кликнете **върху Изпълнение на диагностиката** по-долу.
+Изглежда имате проблем с пощенския поток. Имаме диагностика, която ще ви помогне да идентифицирате много често срещани проблеми с пощенския поток. Щракнете върху **изпълнение на диагностиката** по-долу.
