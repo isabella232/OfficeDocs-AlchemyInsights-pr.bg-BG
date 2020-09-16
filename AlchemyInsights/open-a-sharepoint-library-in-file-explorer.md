@@ -1,30 +1,31 @@
 ---
-title: Отваряне на библиотека на SharePoint във файловия мениджър
+title: Отваряне на библиотека на SharePoint във File Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698479"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729068"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Отваряне на библиотека на SharePoint във файловия мениджър
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Отваряне на библиотека на SharePoint във File Explorer
 
-1. Намерете библиотеката в Internet Explorer 10 или Internet Explorer 11. 
+1. Отидете до библиотеката в Internet Explorer 10 или Internet Explorer 11. 
     
-2. Щракнете върху иконата изглед в горния десен и след това щракнете върху **изглед в file Explorer**.
+2. Щракнете върху иконата изглед в горния десен ъгъл и след това щракнете върху **Преглед във файловия мениджър**.
     
 > [!NOTE]
-> Отварянето на библиотека във файловия мениджър е удобно, ако трябва да копирате или премествате няколко файла и папки веднъж, но ако искате редовно да работите в библиотеката, препоръчваме да го синхронизирате. За отстраняване на проблеми при отваряне във файловия мениджър, вижте [Отвори в Explorer](https://go.microsoft.com/fwlink/?linkid=871665). За информация относно настройката на синхронизиране, вижте [Синхронизиране на SharePoint файлове с новия oneDrive синхронизиране клиент](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Отварянето на библиотека във файловия мениджър е удобно, ако трябва да копирате или да местите няколко файла и папки веднъж, но ако искате да работите редовно в библиотеката, ви препоръчваме да го синхронизирате. За отстраняване на проблеми при отваряне във File Explorer вижте [Отваряне в Explorer](https://go.microsoft.com/fwlink/?linkid=871665). За информация относно настройването на синхронизирането вижте [Синхронизиране на файлове на SharePoint с новия клиент за синхронизиране на OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

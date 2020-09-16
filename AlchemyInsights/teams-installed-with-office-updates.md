@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617931"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736493"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams е инсталиран с актуализациите за Office
 
-Microsoft Teams е включен като част от ***новите инсталации*** на приложенията на Microsoft 365 за корпоративни, приложения на Microsoft 365 за фирми и Office за Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams е включен като част от ***новите инсталации*** на приложенията на Microsoft 365 за Enterprise, приложенията Microsoft 365 за фирми и Office for Mac. За повече информация вж. [Кога ще започе Microsoft Teams да бъде включен с новите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Освен това, започвайки с версия 1906 в текущия канал , Екипите постепенно ще бъдат добавени към ***съществуващите инсталации*** на приложенията на Microsoft 365 за предприятие (и Приложения на Microsoft 365 за фирми) на устройства, работещи с Windows, когато актуализирате съществуващата инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Освен това, като започнете с версия 1906 в текущия канал, Teams постепенно ще бъде добавен към ***съществуващи инсталации*** на приложения на Microsoft 365 за Enterprise (и приложенията на Microsoft 365 за фирми) на устройства, на които се изпълнява Windows, когато актуализирате вашата съществуваща инсталация до най-новата версия. За повече информация вж. [Какво става със съществуващите инсталации на Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 **Забележка:** Ако не искате да чакате този график за внедряване, можете да разположите Teams самостоятелно за вашите потребители, като [следвате тези инструкции](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), или можете да направите така, че вашите потребители да инсталират Teams за самите тях от https://teams.microsoft.com/downloads.
 
