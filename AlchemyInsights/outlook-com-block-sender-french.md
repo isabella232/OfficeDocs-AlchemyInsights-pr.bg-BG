@@ -1,30 +1,31 @@
 ---
-title: Outlook.com блокиране на подателя - ФРЕНСКИ
+title: Outlook.com Block Sender-френски
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: 2c8adbba7117fec22105f28fc74505f0fd9565ff
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707792"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753500"
 ---
-# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Да, но не е Outlook.com
+# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer OU débloquer expéditeurs ДАНС Outlook.com
 
-Si vous recevez на courrier невъобразим, вулв е проклятизиран blovez ле adresses de messagerie et des домейн и vous voulez пас recevoir на съобщения. Ажурна съобщение за съобщения та в списъка с избирателни списъци и съобщения за насочване на съобщенията за контрол на вота courrier, които са неразбираеми.
+Recevez Du куриери indésirable, за да преследвате pouvez bloquer Les адресанти de messagerie et Des Domains Que преследване на voulez Pas recevoir Des messages. Ajouter Une адрес дьо messagerie OU Un Domaine Votre list Des expéditeurs bloqués изливат déplacer CES съобщения directement обратно Votre досие куриери indésirable.
 
-1. **Courrier indésirable**Авадна таралеж Афишер, **Paramètres** > за да ни**пречупи.** > 
-1. Sous **Domaines et expéditeurs bloqués** селектионнез **Ajouter**.
-1. " Анте на електион незе, **енресиър"**.
+1. Accédez à **Paramètres**  >  **afficher Tous Les Paramètres d'Outlook**  >  **куриери indésirable**.
+1. Sous **Domains et expéditeurs bloqués** sélectionnez **Ajouter**.
+1. Entrez L'Adresse de messagerie et sélectionnez **Enregistrer**.
 
-Налива те плюс d'informations, Лизес [Блокер ou деблокер експеритьори теста Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Наливаме плюс d'informations, lisez [Bloquer OU débloquer expéditeurs данс Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

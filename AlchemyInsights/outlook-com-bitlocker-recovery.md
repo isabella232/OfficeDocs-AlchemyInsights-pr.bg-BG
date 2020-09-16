@@ -1,26 +1,27 @@
 ---
-title: Outlook.com възстановяване на защитеното стартиране
+title: Outlook.com за възстановяване на BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681885"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753716"
 ---
-# <a name="bitlocker-recovery"></a>Възстановяване на защитено стартиране
+# <a name="bitlocker-recovery"></a>Възстановяване на BitLocker
 
-Отидете на ["Устройства",](https://account.microsoft.com/devices/recoverykey) за да видите ключовете за възстановяване на Защитеното стартиране.
+Отидете на [устройства](https://account.microsoft.com/devices/recoverykey) , за да видите вашите ключове за възстановяване на BitLocker.
 
-Вижте Намиране на моя ключ за възстановяване на [BitLocker](https://support.microsoft.com/help/4026181)за повече информация.
+Вижте [намиране на моя ключ за възстановяване на BitLocker](https://support.microsoft.com/help/4026181)   за повече информация.
