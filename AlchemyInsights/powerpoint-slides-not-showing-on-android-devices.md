@@ -1,26 +1,27 @@
 ---
-title: PowerPoint слайдове не се показват в Skype за бизнес на устройства с Android
+title: Слайдове на PowerPoint, които не се показват в Skype за бизнеса на устройства с Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: d659c88fc3436a2020693cfc355e1c127f125825
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 180161ebea6ee9cf80c2921c022583481617b015
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693904"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a><span data-ttu-id="a5430-102">PowerPoint слайдове не се показват в Skype за бизнес на устройства с Android</span><span class="sxs-lookup"><span data-stu-id="a5430-102">PowerPoint slides not showing in Skype for Business on Android devices</span></span>
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a><span data-ttu-id="3227d-102">Слайдове на PowerPoint, които не се показват в Skype за бизнеса на устройства с Android</span><span class="sxs-lookup"><span data-stu-id="3227d-102">PowerPoint slides not showing in Skype for Business on Android devices</span></span>
 
-<span data-ttu-id="a5430-103">Ако имате проблем с слайдове на PowerPoint, които не се показват на устройства с Android, това може да се дължи на грешка в браузъра Chrome.</span><span class="sxs-lookup"><span data-stu-id="a5430-103">If you experience a problem with PowerPoint slides not displaying on Android devices, this might be due to a bug in the Chrome browser.</span></span>
+<span data-ttu-id="3227d-103">Ако имате проблем с слайдове на PowerPoint, които не се показват на устройства с Android, това може да се дължи на грешка в браузъра Chrome.</span><span class="sxs-lookup"><span data-stu-id="3227d-103">If you experience a problem with PowerPoint slides not displaying on Android devices, this might be due to a bug in the Chrome browser.</span></span>
 
-<span data-ttu-id="a5430-104">Опитайте да деактивирате и деинсталирате, Chrome.</span><span class="sxs-lookup"><span data-stu-id="a5430-104">Try disabling, and then uninstalling, Chrome.</span></span> <span data-ttu-id="a5430-105">След деинсталирането на Chrome, активирайте отново Chrome, за да получите фабричната версия (74.0.3729.136), където проблемът е разрешен.</span><span class="sxs-lookup"><span data-stu-id="a5430-105">After Chrome is uninstalled, re-enable Chrome to get the factory version (74.0.3729.136) where the issue is resolved.</span></span>
+<span data-ttu-id="3227d-104">Опитайте да забраните и след това деинсталиране, Chrome.</span><span class="sxs-lookup"><span data-stu-id="3227d-104">Try disabling, and then uninstalling, Chrome.</span></span> <span data-ttu-id="3227d-105">След като Chrome се деинсталира, активирайте отново Chrome, за да получите версията на фабриката (74.0.3729.136), където е разрешен проблемът.</span><span class="sxs-lookup"><span data-stu-id="3227d-105">After Chrome is uninstalled, re-enable Chrome to get the factory version (74.0.3729.136) where the issue is resolved.</span></span>

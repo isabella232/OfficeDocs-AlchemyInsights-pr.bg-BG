@@ -1,26 +1,27 @@
 ---
-title: Промяна на сървърните на имената в "Мидомейн"
+title: Промяна на сървърите за имена в MyDomain
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5862"
 - "14"
-ms.openlocfilehash: 61c49004b1ce08c2eb4e28e47d8f503e50932e1c
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: f3c2750f77b88b94d2eeadfe3740d325c3d39e23
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748690"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682257"
 ---
-# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="8b443-102">Промяна на сървърните на имената в "Мидомейн"</span><span class="sxs-lookup"><span data-stu-id="8b443-102">Change nameservers at MyDomain</span></span>
+# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="b3f9c-102">Промяна на сървърите за имена в MyDomain</span><span class="sxs-lookup"><span data-stu-id="b3f9c-102">Change nameservers at MyDomain</span></span>
 
-[<span data-ttu-id="8b443-103">Промяна на сървъра за имена за настройка на Microsoft 365 с "Моят домейн"</span><span class="sxs-lookup"><span data-stu-id="8b443-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
+[<span data-ttu-id="b3f9c-103">Промяна на сървърите за имена за настройване на Microsoft 365 чрез MyDomain</span><span class="sxs-lookup"><span data-stu-id="b3f9c-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
 
-<span data-ttu-id="8b443-104">За други домейни проблеми опитайте [домейните често задавани въпроси](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="8b443-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="b3f9c-104">За други проблеми с домейни Изпробвайте [ЧЗВ за домейни](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="b3f9c-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
