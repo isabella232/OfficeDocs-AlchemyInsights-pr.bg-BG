@@ -1,30 +1,31 @@
 ---
-title: 9000198 Outlook.com календар бета
+title: 9000198 Outlook.com календар Beta
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753356"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Нови календари, идващи в Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Нов календар, който идва към Outlook.com
 
-Новият облик носи най-добрите дизайни и знания от "Мейл" към календара.
+Новият облик носи най-добрия дизайн и поуки от работата с поща в календара.
 
-Ще се насладите на модерен дизайн, който намалява визуалното претрупване и ви дава по-бързи начини за навигация в календара ви. Също така е по-лесно да намерите интересни календари за любимите си дейности – от телевизионни предавания до спортни отбори и събития.
+Ще се насладите на модерен дизайн, който намалява визуалната бъркотия и ви дава по-бърз начин да навигирате в календара си. Също така е по-лесно да намирате интересни календари за любимите си дейности – от ТЕЛЕВИЗИОННИ предавания до спортни екипи и събития.
 
-Разширихме колекцията си от икони на събития и актуализирахме облика и усещането на съществуващите – и сега автоматично добавяме подходящи икони към събитията ви, за да можете лесно да видите какво се случва с един поглед.
+Ние разширихме нашата колекция от икони за събития и обновихме изгледа и усещането на съществуващите такива – и сега автоматично добавяме подходящи икони към вашите събития, за да можете лесно да видите какво се случва с един поглед.
 
-Можете да дадете обратна връзка за нови функции чрез [Outlook.com Календар UserVoice канал](https://go.microsoft.com/fwlink/?linkid=2103075).
+Можете да давате обратна връзка за нови функции през [Outlook.com календар на UserVoice канал](https://go.microsoft.com/fwlink/?linkid=2103075).
