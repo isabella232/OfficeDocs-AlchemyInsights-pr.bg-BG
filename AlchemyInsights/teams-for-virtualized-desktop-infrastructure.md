@@ -1,27 +1,28 @@
 ---
-title: Екипи за виртуализирана десктоп инфраструктура
+title: Teams за виртуализирана работна инфраструктура
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599437"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736421"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="7ac70-102">Екипи за виртуализирана десктоп инфраструктура</span><span class="sxs-lookup"><span data-stu-id="7ac70-102">Teams for Virtualized Desktop Infrastructure</span></span>
+# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="90fb5-102">Teams за виртуализирана работна инфраструктура</span><span class="sxs-lookup"><span data-stu-id="90fb5-102">Teams for Virtualized Desktop Infrastructure</span></span>
 
-<span data-ttu-id="7ac70-103">За подробна информация за Екипи те за виртуализирани работни среди, вижте [Екипи за виртуализирана десктоп инфраструктура](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="7ac70-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
+<span data-ttu-id="90fb5-103">За по-подробна информация за екипите за виртуализирана среда на работния плот вижте [Teams за виртуализирана работна инфраструктура](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="90fb5-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
 
-<span data-ttu-id="7ac70-104">Известни проблеми и ограничения в среди те са описани в раздела [известни проблеми и ограничения](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) на същата статия, която включва следните теми:</span><span class="sxs-lookup"><span data-stu-id="7ac70-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
- - <span data-ttu-id="7ac70-105">Разполагане, инсталиране и настройка на клиента</span><span class="sxs-lookup"><span data-stu-id="7ac70-105">Client deployment, installation, and setup</span></span>
- - <span data-ttu-id="7ac70-106">Разговори и срещи</span><span class="sxs-lookup"><span data-stu-id="7ac70-106">Calling and meetings</span></span>
+<span data-ttu-id="90fb5-104">Познатите проблеми и ограничения в VDI среда са описани подробно в секцията [известни проблеми и ограничения ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) на една и съща статия, която включва следните теми:</span><span class="sxs-lookup"><span data-stu-id="90fb5-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
+ - <span data-ttu-id="90fb5-105">Разполагане на клиент, инсталиране и настройка</span><span class="sxs-lookup"><span data-stu-id="90fb5-105">Client deployment, installation, and setup</span></span>
+ - <span data-ttu-id="90fb5-106">Обаждания и събрания</span><span class="sxs-lookup"><span data-stu-id="90fb5-106">Calling and meetings</span></span>
