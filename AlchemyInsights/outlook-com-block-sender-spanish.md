@@ -1,25 +1,26 @@
 ---
-title: Блокиране на подателите в Outlook.com - ИСПАНСКИ
+title: Блокиране на податели в Outlook.com – испански
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 00cd42649e62908dc55d8ce45ec311b07d76286f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717587"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753536"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a><span data-ttu-id="f5b24-102">Bloquear o деблокери те са Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f5b24-102">Bloquear o desbloquear remitentes en Outlook.com</span></span>
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a><span data-ttu-id="b7a0c-102">Bloquear o desbloquear remitentes EN Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b7a0c-102">Bloquear o desbloquear remitentes en Outlook.com</span></span>
 
-<span data-ttu-id="f5b24-103">Пуеди блиае лос менсахес де лас диречиони де корео електронико específica о доминио угоете ла Бандея де entrada.</span><span class="sxs-lookup"><span data-stu-id="f5b24-103">Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada.</span></span> <span data-ttu-id="f5b24-104">Куандо агрега ун диречо в елекро електронико о не доминио а ла литентде remitentes bloqueados, Outlook.com автоманатиката лос менсахес де е ремитенте а ла carpeta correo electrónico не десиадо.</span><span class="sxs-lookup"><span data-stu-id="f5b24-104">Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.</span></span>
+<span data-ttu-id="b7a0c-103">Puede bloquear Los Mensajes de Las direcciones de correo electrónico específica о Dominio llegue a La Bandeja de Entrada.</span><span class="sxs-lookup"><span data-stu-id="b7a0c-103">Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada.</span></span> <span data-ttu-id="b7a0c-104">Cuando agrega UNA Dirección de correo electrónico о Un Dominio а La list de remitentes bloqueados, Outlook.com mueve automáticamente Los Mensajes de Юи remitente a La килими correo electrónico No deseado.</span><span class="sxs-lookup"><span data-stu-id="b7a0c-104">Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.</span></span>
 
-<span data-ttu-id="f5b24-105">Параадер малеж [Аюдар е по-малко корео не deseado y el correo не deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f5b24-105">Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="b7a0c-105">Para Aprender más Leer [Ayudar mantener El correo No deseado y El correo No deseado fuera De La bandeja de Entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b7a0c-105">Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
