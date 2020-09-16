@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: db2a906d9881b2209abbfcffb45e9edbfd9e4ab1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062741"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662341"
 ---
 # <a name="purchase-visio-subscription"></a>Закупуване на абонамент за Visio
 
-Администраторите могат да закупят абонамент за Visio за своята организация от центъра за администриране на **Microsoft 365**.
+Администраторите могат да закупят абонамента за Visio за своята организация от **центъра за администриране на Microsoft 365**.
 
-1. Отидете на страницата **Услуги за плащане**  >  **[покупка,](https://go.microsoft.com/fwlink/p/?linkid=868433)** за да видите наличните абонаменти за закупуване за вашата организация.
+1. Отидете на страницата "Услуги за закупуване на **плащане**",  >  **[Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** за да видите налични абонаменти за закупуване за вашата организация.
 
 2. Намерете плановете на Visio, като търсите за "Visio".
 

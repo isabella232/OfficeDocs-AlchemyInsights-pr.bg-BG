@@ -1,10 +1,11 @@
 ---
-title: Преглед на активността на приложенията на Microsoft 365 на потребителите ви
+title: Преглед на дейността на приложенията на Microsoft 365 за вашите потребители
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -17,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: c4561c32a68bcaeb806e5fd40cc1c3ea4e522f21
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44263902"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664627"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Преглед на активността на приложенията на Microsoft 365 на потребителите ви
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Преглед на дейността на приложенията на Microsoft 365 за вашите потребители
 
-[Отчетът за активиране](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) на Office ви дава изглед кои потребители са инсталирали и активирали своите приложения на Microsoft 365 на поне едно устройство.
+[Докладът за активиране на Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) ви дава представа за това кои потребители са инсталирали и активирали своите приложения на Microsoft 365 поне на едно устройство.
 
-Освен това можете да получите изглед в Microsoft 365 приложения на потребителите си чрез използване на отчета за използване на приложения на [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).
+Освен това можете да получите представа за дейността на потребителите на Microsoft 365 за приложения с помощта на [отчета за използване на приложения на microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).

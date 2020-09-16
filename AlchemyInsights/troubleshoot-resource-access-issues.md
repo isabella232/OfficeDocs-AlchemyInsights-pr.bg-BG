@@ -1,33 +1,34 @@
 ---
-title: Отстраняване на проблеми с достъпа до ресурси
+title: Отстраняване на проблеми с достъпа до ресурсите
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 1dca00b98749868a417d22f6fcb5d99652f89a6f
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46554785"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664879"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>Отстраняване на проблеми с достъпа до ресурси
+# <a name="troubleshoot-resource-access-issues"></a>Отстраняване на проблеми с достъпа до ресурсите
 
-За информация относно типовете профили Intune поддържа да се даде възможност на потребителите достъп до корпоративна инфраструктура и ресурси, вижте:
+За информация относно типовете профили, които се поддържат, за да разрешите достъпа на потребителите до корпоративна инфраструктура и ресурси, вижте:
 
-- [Добавяне на настройки за имейл към устройства с помощта на Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Създаване на VPN профили, за да се свържете с VPN сървъри в Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [Добавяне и използване на настройките за Wi-Fi на вашите устройства в Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Използване на сертификати за удостоверяване в Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
+- [Добавяне на имейл настройки към устройства чрез настройка](https://docs.microsoft.com/intune/email-settings-configure)
+- [СЪЗДАЙТЕ VPN профили, за да се свържете с VPN сървърите в съзвучие](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Добавяне и използване на Wi-Fi настройки на вашите устройства в Microsoft](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Използвайте сертификатите за удостоверяване в Microsoft](https://docs.microsoft.com/intune/certificates-configure)
 
-За повече информация относно профилите на Устройствата intune вижте [Общи въпроси и отговори с правила и профили на устройства в Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+За повече информация относно настройването на профили на устройства вижте [често задавани въпроси и отговори с правилата и профилите на устройството в Microsoft](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-За допълнителна информация за отстраняване на неизправности относно профили за достъп до ресурси вижте [Често срещани кодове на грешки и описания в Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+За допълнителна информация за отстраняване на неизправности в профилите за достъп до ресурси вижте [Общи кодове на грешки и описания в Microsoft](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).

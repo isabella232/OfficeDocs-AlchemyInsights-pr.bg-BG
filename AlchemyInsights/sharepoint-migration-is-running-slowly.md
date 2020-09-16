@@ -5,20 +5,21 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: aa27d36a4a16eb43c2879b6ecbd03069d567de4e
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 56031848ef23fb4823327970efa65b00d0bf9218
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236308"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47661981"
 ---
-# <a name="sharepoint-migration-is-running-slowly"></a>Мигриране на SharePoint работи бавно
+# <a name="sharepoint-migration-is-running-slowly"></a>Мигрирането на SharePoint се изпълнява бавно
 
 Производителността при мигриране може да бъде повлияна от мрежовата инфраструктура, размера на файла, времето за мигриране и ограничаването. Разбирането на тези неща ще ви помогне да планирате и увеличите ефективността на своята миграция.
 
