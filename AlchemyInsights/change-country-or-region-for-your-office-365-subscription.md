@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: 4b1a6b5f4d24a3ffad4f521df16c25e780f4b8c4
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: acccd8f3b656fbb7fee0d474cae1263cff076932
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799004"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748314"
 ---
-# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a><span data-ttu-id="8c72f-102">Промяна на страната или региона за вашия абонамент за Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="8c72f-102">Change the country or region for your Microsoft 365 subscription</span></span>
+# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a><span data-ttu-id="70687-102">Промяна на страната или региона за вашия абонамент за Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="70687-102">Change the country or region for your Microsoft 365 subscription</span></span>
 
-<span data-ttu-id="8c72f-103">**Не можете да промените** страната или региона за абонамента си.</span><span class="sxs-lookup"><span data-stu-id="8c72f-103">You **can't change** the country or region for your subscription.</span></span> <span data-ttu-id="8c72f-104">Причината е, че държавата или региона, където е седалището на вашата организация, определя кои услуги са достъпни за вас, данъците и валутата на фактуриране и местоположението на центъра за данни.</span><span class="sxs-lookup"><span data-stu-id="8c72f-104">That's because the country or region where your organization is headquartered determines which services are available to you, the taxes and billing currency, and the location of the data center.</span></span> <span data-ttu-id="8c72f-105">За да промените държавата или региона на вашата организация, регистрирайте се за нов акаунт, изберете желаната страна или регион и купете нов абонамент.</span><span class="sxs-lookup"><span data-stu-id="8c72f-105">To change your organization's country or region, sign up for a new account, choose the desired country or region, and purchase a new subscription.</span></span>
+<span data-ttu-id="70687-103">**Не можете да променяте** страна или регион за абонамента си.</span><span class="sxs-lookup"><span data-stu-id="70687-103">You **can't change** the country or region for your subscription.</span></span> <span data-ttu-id="70687-104">Това е така, защото страната или регионът, където организацията ви е със седалище, определя кои услуги са достъпни за вас, валутата за данъци и фактуриране и местоположението на центъра за данни.</span><span class="sxs-lookup"><span data-stu-id="70687-104">That's because the country or region where your organization is headquartered determines which services are available to you, the taxes and billing currency, and the location of the data center.</span></span> <span data-ttu-id="70687-105">За да промените страната или региона на вашата организация, се регистрирайте за нов акаунт, изберете желаната страна или регион и Купете нов абонамент.</span><span class="sxs-lookup"><span data-stu-id="70687-105">To change your organization's country or region, sign up for a new account, choose the desired country or region, and purchase a new subscription.</span></span>
 
-<span data-ttu-id="8c72f-106">За повече информация вижте [Промяна на адреса на вашата организация, технически контакт и др](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="8c72f-106">For more info, see [Change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span> <span data-ttu-id="8c72f-107">Ако искате да промените свързания адрес за фактуриране или абонамент, вижте [Промяна за адреси за фактуриране за Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="8c72f-107">If you're looking to change the associated billing or subscription address, see [Change for billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span> 
+<span data-ttu-id="70687-106">За повече информация вижте [Промяна на адреса, техническия контакт и др](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="70687-106">For more info, see [Change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span> <span data-ttu-id="70687-107">Ако искате да промените свързания адрес за фактуриране или абонамент, вижте [промяна за адреси за фактуриране за Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="70687-107">If you're looking to change the associated billing or subscription address, see [Change for billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span> 

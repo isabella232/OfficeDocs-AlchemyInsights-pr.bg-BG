@@ -1,28 +1,29 @@
 ---
-title: Как да анулирате приложение
+title: Как се отменя приложение
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062489"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780984"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="32e5c-102">Как да отмените софтуерни приложения като услуги</span><span class="sxs-lookup"><span data-stu-id="32e5c-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="b7f17-102">Как да отмените приложения за софтуер като услуга</span><span class="sxs-lookup"><span data-stu-id="b7f17-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="32e5c-103">В Център за администриране на Microsoft 365, към **страницата Фактуриране**на  >  **[вашите продукти,](https://go.microsoft.com/fwlink/p/?linkid=842054)** след което изберете раздела **Приложения.**</span><span class="sxs-lookup"><span data-stu-id="32e5c-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="b7f17-103">В центъра за администриране на Microsoft 365, към страницата **Фактуриране**на  >  **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** и след това изберете раздела **приложения** .</span><span class="sxs-lookup"><span data-stu-id="b7f17-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="32e5c-104">Намерете и изберете приложението, което искате да управлявате.</span><span class="sxs-lookup"><span data-stu-id="32e5c-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="b7f17-104">Намерете и изберете приложението, което искате да управлявате.</span><span class="sxs-lookup"><span data-stu-id="b7f17-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="32e5c-105">Под **Настройки & действия**изберете Отказ на **абонамент**.</span><span class="sxs-lookup"><span data-stu-id="32e5c-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="b7f17-105">Под **настройки & действия**изберете **прекратяване на абонамента**.</span><span class="sxs-lookup"><span data-stu-id="b7f17-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
