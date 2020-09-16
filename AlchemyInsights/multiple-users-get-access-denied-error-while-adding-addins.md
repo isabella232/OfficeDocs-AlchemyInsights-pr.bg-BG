@@ -1,41 +1,42 @@
 ---
-title: Много потребители получават грешка отказан достъп, докато добавят добавки в Outlook
+title: Грешка "много потребители получавате отказан достъп" при добавяне на добавки в Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 624d880c535b7d8888b676ff23c774c6d138a75a
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45423361"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724352"
 ---
-# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Много потребители получават грешка отказан достъп, докато добавят добавки в Outlook
+# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Грешка "много потребители получавате отказан достъп" при добавяне на добавки в Outlook
 
-Можете да укажете кои администратори във вашата организация да имат разрешения за инсталиране и управление на добавки за Outlook. Можете също да укажете кои потребители във вашата организация имат разрешение да инсталират и управляват добавки за тяхна собствена употреба.
+Можете да зададете кои администратори във вашата организация да имат разрешения за инсталиране и управление на добавки за Outlook. Можете също да укажете кои потребители във вашата организация да имат разрешение за инсталиране и управление на добавки за тяхна собствена употреба.
 
-За подробности вижте [Указване на администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+За подробности вижте [Задаване на администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
 
-За да проверите дали сте присвоили разрешения за потребител, заменя <Role Name> с името на ролята за проверка и изпълнете следната команда в Exchange Online PowerShell:
+За да се уверите, че сте задали успешно разрешения за потребител, заменете <Role Name> с името на ролята за проверка и изпълнете следната команда в PowerShell на Exchange Online:
 
-<Role Name>1000000000000000000000000000000000000000000000000000000000000
+Get-ManagementRoleAssignment-роля " <Role Name> "-GetEffectiveUsers
 
-Този пример ви показва как да проверите на кого сте присвоили разрешения за инсталиране на добавки от Office хранилището за организацията.
+Този пример ви показва как да проверите кого сте задали разрешения за инсталиране на добавки от Office магазина за организацията.
 
-Powershell
+PowerShell
 
--Роля "Орг пазара приложения" -GetЕfectiveUsers
+-Роля "приложения за пазара на org" – GetEffectiveUsers
 
-В резултатите Get-ManagementRoleПодписване, прегледайте записите в колоната "Ефективни потребители".
+В резултатите Получете ManagementRoleAssignment, прегледайте записите в колоната за ефективни потребители.
 
-За подробна информация за синтаксиса и параметрите вижте [Получаване на управлениеRoleПодписване](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
+За подробен синтаксис и информация за параметрите вижте [get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
  

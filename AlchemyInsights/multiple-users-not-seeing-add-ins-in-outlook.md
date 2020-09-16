@@ -1,26 +1,27 @@
 ---
-title: Много потребители, които не виждат добавки в Outlook
+title: Много потребители не виждат добавки в Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 18d3fa535a88af18d8c4b02a5371d0a81c8d28c0
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729860"
 ---
-# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Много потребители, които не виждат добавки в Outlook
+# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Много потребители не виждат добавки в Outlook
 
-Ако тествате Outlook добавки и никой не се появи, като първата стъпка за отстраняване на неизправности, използвайте кратката команда **Get-OrganizationConfig** PowerShell да _заявката за параметъра AppsForOfficeEnabled._ Ако заявката връща стойност на **false**, задайте този параметър **true** чрез кратката команда **Set-OrganizationConfig,** така добавки се появяват според очакванията.
+Ако тествате добавки на Outlook и нито едно не се показва, като първа стъпка за отстраняване на неизправности, използвайте кратката команда **get-OrganizationConfig** PowerShell, за да заявите параметъра _AppsForOfficeEnabled_ . Ако заявката връща стойност **FALSE**, настройте този параметър на **TRUE** с помощта на кратката команда **Set-OrganizationConfig** , така че добавките да се показват по очаквания начин.
 
-Не препоръчваме параметърът _AppsForOfficeEnabled_ да е зададен **на False.** Стойността на **False** отменя всички горепосочени административни и потребителски настройки за роли и предотвратява активирането на всички нови приложения от всеки потребител в организацията.
+Не препоръчваме параметърът _AppsForOfficeEnabled_ е зададен на **FALSE**. Стойността на **FALSE** отменя всички настройки по-горе за администриране и потребители и позволява на всички нови приложения да бъдат активирани от всеки потребител в организацията.
 
-За повече информация вж. [Указване на администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
+За повече информация вижте [Задаване на администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).

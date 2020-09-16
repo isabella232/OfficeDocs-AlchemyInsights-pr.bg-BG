@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 16dc0db4b871426d18fca4341f7ea8e97c5e1f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8a8ed7918fecd863f0477fba544f55cea6421267
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44282560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708888"
 ---
 # <a name="export-a-notebook"></a>Експортиране на бележник
 
-В настолно приложение на OneNote 2016:
+В настолното приложение на OneNote 2016:
 
-1. На страницата, която искате да експортирате, щракнете върху **Файл > експортиране**.
-2. Под **Експортиране на текущия**щракнете върху това, което искате да експортирате (страница, раздел или бележник).
-3. Щракнете върху **Експортиране**.
+1. На страницата, която искате да експортирате, щракнете върху файл, за **> експортирате**.
+2. Под **експортиране на текущ**щракнете върху това, което искате да експортирате (страница, секция или бележник).
+3. Щракнете върху **експортиране**.
  
-За да прехвърлите собствеността върху файл, съхранен в облака, можете да използвате **функциите "Споделяне/копиране",** за да мигрирате съдържанието на бележници. **Move/Copy**  
+За да прехвърлите собствеността върху файл, съхранен в облака, можете също да използвате функциите за **споделяне** или **Преместване/копиране** , за да мигрирате съдържанието на бележниците.  
 
-- В горния десен ъгъл на прозореца на приложението щракнете върху или докоснете **Споделяне**.
-- За да преместите бележника, вижте [Преместване на oneNote за Windows бележник, който сте споделили с други .](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US)
+- В горния десен ъгъл на прозореца на приложението щракнете върху или докоснете **споделяне**.
+- За да прехвърлите бележника, вижте [преминаване на бележник на OneNote за Windows, който сте споделили с други хора](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).

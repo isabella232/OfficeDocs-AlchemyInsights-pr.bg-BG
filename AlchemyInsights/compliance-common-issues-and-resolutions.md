@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231531"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713588"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Често срещани проблеми и решения при съответствие
 
@@ -31,5 +32,7 @@ ms.locfileid: "43231531"
 - Проверка в O365: [Търсене на Регистър за проверка в O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Защита от загуба на данни (DLP): Вижте [Oбщ преглед на защита от загуба на данни (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) за повече информация.
+ 
+- Етикети за чувствителност: за да научите повече, вижте [Създаване и конфигуриране на етикети за чувствителност и правилата за тях](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **Забележка**: за по-конкретен отговор относно проблем за съответствие, накратко перифразирайте въпроса си и включете всички грешки, които виждате или функции, които използвате.

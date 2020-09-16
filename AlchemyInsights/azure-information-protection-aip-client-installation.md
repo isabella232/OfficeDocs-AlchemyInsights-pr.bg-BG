@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204298"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714893"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Защита на информацията в Azure (AIP): клиентска инсталация на AIP
 
@@ -35,6 +36,6 @@ ms.locfileid: "44204298"
 
 За повече информация:
 
-- Прегледайте [документацията за защита на информацията за Azure (AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection) [изисквания](https://docs.microsoft.com/azure/information-protection/get-started/requirements) за настройка и местоположение за [изтегляне на AIP клиент](https://www.microsoft.com/download/details.aspx?id=53018).
+- Прегледайте [документацията за Azure Information Protection (ПДИ)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), [изисквания](https://docs.microsoft.com/azure/information-protection/get-started/requirements) за настройка и местоположение, за да [изтеглите клиента на ПДИ](https://www.microsoft.com/download/details.aspx?id=53018).
 
-- За информация за абонамент за Azure вижте [Абонаменти и функции за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection).
+- За информация за абонамента за Azure вижте поддръжка [и функции за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection).

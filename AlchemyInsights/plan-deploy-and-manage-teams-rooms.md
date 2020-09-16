@@ -4,27 +4,24 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
-ms.translationtype: HT
+ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946586"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728636"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Планиране, разполагане и управление на Teams Rooms
 
-Настройте и използвайте Microsoft Teams Rooms във вашата организация, като следвате тези стъпки: 
+- [План](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  за Microsoft Teams Room. Това включва[актуализацията на лицензи](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing), [хардуерните изисквания и поддържаните системи за стаи на Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
+- [Конфигуриране на акаунти](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  за стая в Microsoft Teams.
+- [Управлявайте устройства](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  с помощта на центъра за администриране на Teams (трябва да имате администратор на услугата Teams или глобален администратор) и прегледайте [списък с известни проблеми](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-- [Планирайте своята среда и прегледайте изискванията](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Конфигурирайте акаунти и разполагайте с вашата среда](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Управлявайте, отстранявайте неизправности](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) и бъдете информирани за [известни проблеми](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-За повече информация вижте [Microsoft Teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).
+За повече информация относно планирането, разполагането и управлението на стаи на Microsoft Teams вижте [стая в Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).
