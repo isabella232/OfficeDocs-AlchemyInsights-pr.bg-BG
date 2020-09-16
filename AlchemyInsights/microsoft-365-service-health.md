@@ -1,32 +1,33 @@
 ---
-title: 'Преглед на оригиналната статия на английски: 3054404'
+title: Изправност на услугите на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762378"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742732"
 ---
-# <a name="microsoft-365-service-health"></a>Преглед на оригиналната статия на английски: 3054404
+# <a name="microsoft-365-service-health"></a>Изправност на услугите на Microsoft 365
 
 
-Проверете изправността на услугата на всяка услуга от [таблото за изправност](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)на услугата . Като изберете **Новия център за администриране** в горния десен ъгъл, ще видите нови опции за здравето на услугата.
+Проверете изправността на услугата за всяка услуга от [таблото за изправност на услугите](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Чрез избиране **на новия център за администриране** в горния десен ъгъл ще видите нови опции за изправност на услугите.
 
-- Изберете **Предпочитания,** за да получавате известия за **изправността на**услугата .
+- Изберете **Preferences (предпочитания** ), за да получавате **имейл известия**за изправност на услугите.
 
-- Изберете **Съобщаване за проблем,** ако имате проблем с услугата.
+- Изберете **Съобщаване за проблем** , ако имате проблем с услугата.
 
-- Изберете **Хронология,** за да прегледате хронологията на услугата за изправност на вашата организация. 
+- Изберете **Хронология** , за да прегледате хронологията на изправността на услугите на вашата организация. 
 
-За повече информация вижте [Как да проверите здравето на услугата на Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+За повече информация вижте [как да проверите изправността на услугите на Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
