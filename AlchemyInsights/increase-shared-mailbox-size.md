@@ -1,22 +1,23 @@
 ---
-title: 1815 увеличаване на размера на споделена пощенска кутия
+title: 1815 увеличаване на размера на споделената пощенска кутия
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711152"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755876"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Увеличаване на размера на споделена пощенска кутия
 
-Можете да увеличите размера на споделена пощенска кутия от размера по подразбиране от 50 GB до 100 GB чрез присвояване на споделената пощенска кутия лиценз за Exchange Online P2 (който е включен в E3 и E5 лицензи). Когато присвоите P2 лиценз за споделена тава в [активни потребители](https://portal.office.com/adminportal/home), размерът ще се увеличи автоматично в рамките на 15 минути.
+Можете да увеличите размера на споделена пощенска кутия от размера по подразбиране на 50 ГБ към 100 ГБ, като разпределите споделената пощенска кутия с лиценз за Р2 за Exchange Online (която е включена в лицензите за E3 и E5). Когато дадете лиценза за P2 за споделената пощенска кутия в [активни потребители](https://portal.office.com/adminportal/home), размерът ще бъде автоматично увеличен в рамките на 15 минути.
