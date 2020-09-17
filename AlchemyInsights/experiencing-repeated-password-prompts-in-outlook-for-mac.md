@@ -1,26 +1,27 @@
 ---
-title: Изпитвате повтарящи се подкани за парола в Outlook за Mac?
-ms.author: v-crytho
+title: Изпитвате повтарящи се подкани за парола в Outlook for Mac?
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 63dfac8c97246082ceaa4c532b4aba82596e5ffa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702943"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783000"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Изпитвате повтарящи се подкани за парола в Outlook за Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Изпитвате повтарящи се подкани за парола в Outlook for Mac?
 
-Ние можем да помогнем да се осигури по-специализиран Outlook за Mac помощ директно от приложението.
+Ние можем да ви помогнем да осигурите по-специализирана помощ за Outlook for Mac директно от приложението.
   
-Моля, отидете на засегнатия потребител Mac, отворете Outlook и кликнете върху **Помощ** \> **Свържете поддръжка .**
+Отидете на компютъра, на който е засегнат потребителят, отворете Outlook и щракнете върху **помощ, за да** \> **се свържете с поддръжката**.
   
-За да научите повече за използването на Outlook за Mac в приложението за поддръжка на клиенти, вижте тази статия: [Нова функция за поддръжка на контакти в Outlook 2016 за Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+За да научите повече за използването на поддръжката за клиенти на Outlook for Mac, вижте тази статия: [нова функция за свързване с поддръжката в Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
