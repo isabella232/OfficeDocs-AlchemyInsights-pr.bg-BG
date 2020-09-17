@@ -1,24 +1,25 @@
 ---
-title: Съобщение за приложения на Microsoft 365 - Не може да намери свързаните с Office лицензи
+title: Съобщение за приложенията на Microsoft 365 – не можа да намери свързаните лицензи за Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581640"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802766"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Съобщение за приложения на Microsoft 365 - Не може да намери свързаните с Office лицензи
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Съобщение за приложенията на Microsoft 365 – не можа да намери свързаните лицензи за Office
 
 За да коригирате грешката, използвайте стъпките по-долу:
 
@@ -38,10 +39,10 @@ ms.locfileid: "44581640"
 
 - Нулирайте състоянието на активиране на Office. Вижте [Нулиране на приложенията на Microsoft 365 за състоянието на корпоративно активиране](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да се уверите, че не блокират достъпа до интернет на приложения на Microsoft 365. 
+- Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да потвърдите, че не блокират достъпа до интернет на приложенията на Microsoft 365. 
 
 За допълнителни решения за отстраняване на проблеми вижте:
 
 [Грешки поради нелицензиран продукт и грешки при активиране на Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[URL адреси и диапазони на IP адреси на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Диапазони от URL и IP адреси на Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

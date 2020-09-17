@@ -1,23 +1,24 @@
 ---
-title: Връщане към класическия Outlook в мрежата
+title: Връщане към класическата версия на Outlook в уеб
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 5fe1b04c69527cc12902f6d33fee50d6b1673f49
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765618"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805848"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Новият Outlook в мрежата
+# <a name="the-new-outlook-on-the-web"></a>Новата страница на Outlook в уеб
 
-Вече не е възможно да се върнете към класическия Outlook в уеб среда. Ако искате да дадете обратна връзка за новия опит, отидете на [Форума UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). Можете да гласувате за идеите или проблемите, които искате да видите, и ние ще отговорим директно на най-важните коментари и предложения.
+Вече не е възможно да се върнете към класическата версия на Outlook в уеб. Ако искате да дадете обратна връзка за новата среда за работа, отидете на [форума на UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). Можете да гласувате за идеите или проблемите, които бихте искали да видите адресирани, и ще отговорим директно на най-важните коментари и предложения.
 
-[Получаване на помощ за новия Outlook в мрежата](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Получаване на помощ за новия Outlook в уеб](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
