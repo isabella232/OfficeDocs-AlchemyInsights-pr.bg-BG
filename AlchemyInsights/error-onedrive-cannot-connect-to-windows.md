@@ -5,20 +5,21 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b0cf0e7e1a8eb3b80deac47a9639ddd23f1b864d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714283"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783720"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="fc3f7-102">Грешка: OneDrive не може да се свърже с Windows</span><span class="sxs-lookup"><span data-stu-id="fc3f7-102">Error: OneDrive cannot connect to Windows</span></span>
+# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="6aa05-102">Грешка: OneDrive не може да се свърже с Windows</span><span class="sxs-lookup"><span data-stu-id="6aa05-102">Error: OneDrive cannot connect to Windows</span></span>
 
-<span data-ttu-id="fc3f7-103">За да разрешите съобщението за грешка, потърсете файла на cldflt.sys, за да видите дали работи и ако не е, го разрешете.</span><span class="sxs-lookup"><span data-stu-id="fc3f7-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
+<span data-ttu-id="6aa05-103">За да отстраните съобщението за грешка, потърсете файла cldflt.sys, за да видите дали се изпълнява, и ако не е, го Активирайте.</span><span class="sxs-lookup"><span data-stu-id="6aa05-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
   
-<span data-ttu-id="fc3f7-104">За допълнителна информация относно разрешаването на файла cldflt.sys вижте [OneDrive не може да се свърже с Windows" грешка при достъп до файлове в OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span><span class="sxs-lookup"><span data-stu-id="fc3f7-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
+<span data-ttu-id="6aa05-104">За допълнителна информация относно това как да разрешите файла на cldflt.sys, вижте [грешката в onedrive не може да се свърже с Windows "при достъп до файлове в OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span><span class="sxs-lookup"><span data-stu-id="6aa05-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
   
 
