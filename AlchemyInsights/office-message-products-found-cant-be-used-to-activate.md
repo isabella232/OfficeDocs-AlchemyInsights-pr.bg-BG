@@ -1,39 +1,40 @@
 ---
-title: Съобщение за приложения на Microsoft 365 - Продуктите, които открихме във вашия акаунт, не могат да се използват за активиране
+title: Съобщение за приложенията на Microsoft 365 – продуктите, които открихме в акаунта ви, не могат да се използват за активиране
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581604"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802730"
 ---
-# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a><span data-ttu-id="4a6de-102">Съобщение за приложения на Microsoft 365 - Продуктите, които открихме във вашия акаунт, не могат да се използват за активиране</span><span class="sxs-lookup"><span data-stu-id="4a6de-102">Microsoft 365 apps message - The products we found in your account can't be used to activate</span></span>
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a><span data-ttu-id="4b5a3-102">Съобщение за приложенията на Microsoft 365 – продуктите, които открихме в акаунта ви, не могат да се използват за активиране</span><span class="sxs-lookup"><span data-stu-id="4b5a3-102">Microsoft 365 apps message - The products we found in your account can't be used to activate</span></span>
 
-- <span data-ttu-id="4a6de-103">Уверете се, че [състоянието на абонамента](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) ви за е валидно и че засегнатият потребител има [присвоен валиден лиценз](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) и е свързан към интернет.</span><span class="sxs-lookup"><span data-stu-id="4a6de-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid and that the affected user has a [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) and is connected to the Internet.</span></span> 
+- <span data-ttu-id="4b5a3-103">Уверете се, че [състоянието на абонамента](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) ви за е валидно и че засегнатият потребител има [присвоен валиден лиценз](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) и е свързан към интернет.</span><span class="sxs-lookup"><span data-stu-id="4b5a3-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid and that the affected user has a [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) and is connected to the Internet.</span></span> 
 
-- <span data-ttu-id="4a6de-104">Отворете приложение на Office, щракнете върху **Файл > Акаунт** и излезте от всички акаунти.</span><span class="sxs-lookup"><span data-stu-id="4a6de-104">Open an Office App, click **File > Account** and Sign Out of all accounts.</span></span> <span data-ttu-id="4a6de-105">Влезте отново с помощта на потребителски акаунт с валиден лиценз.</span><span class="sxs-lookup"><span data-stu-id="4a6de-105">Sign In again using a user account with a valid license.</span></span> <span data-ttu-id="4a6de-106">За подробна информация вж. [Акаунти в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="4a6de-106">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
+- <span data-ttu-id="4b5a3-104">Отворете приложение на Office, щракнете върху **Файл > Акаунт** и излезте от всички акаунти.</span><span class="sxs-lookup"><span data-stu-id="4b5a3-104">Open an Office App, click **File > Account** and Sign Out of all accounts.</span></span> <span data-ttu-id="4b5a3-105">Влезте отново с помощта на потребителски акаунт с валиден лиценз.</span><span class="sxs-lookup"><span data-stu-id="4b5a3-105">Sign In again using a user account with a valid license.</span></span> <span data-ttu-id="4b5a3-106">За подробна информация вж. [Акаунти в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="4b5a3-106">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
 
-- <span data-ttu-id="4a6de-107">Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.</span><span class="sxs-lookup"><span data-stu-id="4a6de-107">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- <span data-ttu-id="4b5a3-107">Изпълнете [Програмата за отстраняване на неизправности при активиране](https://aka.ms/SARA-OfficeActivation-Alchemy) и рестартирайте компютъра.</span><span class="sxs-lookup"><span data-stu-id="4b5a3-107">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
 
-- <span data-ttu-id="4a6de-108">На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="4a6de-108">On the affected machine, [Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
+- <span data-ttu-id="4b5a3-108">На засегнатия компютър [Нулирайте състоянието на активиране на Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="4b5a3-108">On the affected machine, [Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-<span data-ttu-id="4a6de-109">За сценарии за споделен компютър вж. [Отстраняване на проблеми с активиране на споделен компютър за приложения на Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span><span class="sxs-lookup"><span data-stu-id="4a6de-109">For Shared Computer Scenarios, see [Troubleshoot issues with shared computer activation for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span></span>
+<span data-ttu-id="4b5a3-109">За сценарии за споделен компютър вж. [Отстраняване на проблеми с активиране на споделен компютър за приложения на Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span><span class="sxs-lookup"><span data-stu-id="4b5a3-109">For Shared Computer Scenarios, see [Troubleshoot issues with shared computer activation for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span></span>
 
-<span data-ttu-id="4a6de-110">За повече информация вижте:</span><span class="sxs-lookup"><span data-stu-id="4a6de-110">For more information, see:</span></span> 
+<span data-ttu-id="4b5a3-110">За повече информация вижте:</span><span class="sxs-lookup"><span data-stu-id="4b5a3-110">For more information, see:</span></span> 
 
-- [<span data-ttu-id="4a6de-111">Отстраняване на неизправности при активиране на Office</span><span class="sxs-lookup"><span data-stu-id="4a6de-111">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [<span data-ttu-id="4b5a3-111">Отстраняване на неизправности при активиране на Office</span><span class="sxs-lookup"><span data-stu-id="4b5a3-111">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-- [<span data-ttu-id="4a6de-112">Грешка на Office: "Продуктите, които открихме в акаунта ви, не могат да бъдат използвани за активиране"</span><span class="sxs-lookup"><span data-stu-id="4a6de-112">Office error "The products we found in your account can't be used to activate"</span></span>](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+- [<span data-ttu-id="4b5a3-112">Грешка на Office: "Продуктите, които открихме в акаунта ви, не могат да бъдат използвани за активиране"</span><span class="sxs-lookup"><span data-stu-id="4b5a3-112">Office error "The products we found in your account can't be used to activate"</span></span>](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
 
-- <span data-ttu-id="4a6de-113">[Показва се забележка за абонамент, когато отворя приложение на Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="4a6de-113">[A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
+- <span data-ttu-id="4b5a3-113">[Показва се забележка за абонамент, когато отворя приложение на Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="4b5a3-113">[A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
