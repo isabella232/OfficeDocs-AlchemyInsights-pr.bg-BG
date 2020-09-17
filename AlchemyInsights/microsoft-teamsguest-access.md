@@ -1,10 +1,10 @@
 ---
-title: Екипи на Microsoft-достъп за гости
+title: Microsoft Teams – достъп за гости
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 4d1210df5614901b4525ee1c8be32db61a46a179
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627491"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777629"
 ---
-# <a name="microsoft-teams---guest-access"></a>Екипи на Microsoft-достъп за гости
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – достъп за гости
 
-Нуждаете се от помощ при включване и настройване на функцията за достъп на гости в екипите на Microsoft?  
+Имате нужда от помощ за включване и настройване на функцията за достъп на гости в Microsoft Teams?  
 
-Първо, уверете се, че сте следвали всички стъпки в [контролния списък за достъп за гости](https://docs.microsoft.com/microsoftteams/guest-access-checklist). След като всички тези стъпки са завършени, трябва да [изчакате до 24 часа](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , за да влязат в сила настройките.
+Първо, уверете се, че сте следвали всички стъпки в [контролния списък за достъп на гости](https://docs.microsoft.com/microsoftteams/guest-access-checklist). След като сте завършили всички стъпки, трябва да [изчакате до 24 часа](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , за да влязат в сила настройките.
 
-Ако сте уверени, че сте завършили всички стъпки в контролния списък, и това е било повече от 24 часа, продължете напред и се опитайте да [добавите гост към вашия екип](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Ако сте сигурни, че сте извършили всички стъпки в контролния списък и е било повече от 24 часа, продължете напред и опитайте да [добавите гост към екипа си](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-За повече информация, включително видео клипове, вижте [достъп за гости в екипите на Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
+За повече информация, включително видео "как да", вижте [достъп на гости в Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

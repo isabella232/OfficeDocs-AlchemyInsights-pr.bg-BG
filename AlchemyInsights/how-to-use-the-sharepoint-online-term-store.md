@@ -1,28 +1,29 @@
 ---
-title: Как да използвате хранилището на SharePoint онлайн изрази
+title: Как се използва хранилището за изрази на SharePoint online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717365"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779076"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Как да използвате хранилището на SharePoint онлайн изрази
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Как се използва хранилището за изрази на SharePoint online
 
-Хранилището на изрази е достъпно за глобален администратор, администратор на SharePoint и администратори на хранилище тонаж и може да бъде намерено в новия център за администриране на SharePoint Online.
+Хранилището за изрази е достъпно за глобален администратор, администратор на SharePoint и администратори на хранилище за изрази и може да бъде намерен в новия център за администриране на SharePoint online.
   
-За повече информация как да използвате хранилището на SharePoint Online термин и класификация в Рамките на SharePoint Online вижте [въведение в управлявани метаданни](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+За повече информация как да използвате хранилището за изрази на SharePoint online и класификацията в SharePoint Online, вижте [Въведение в управляваните метаданни](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Ако имате проблем с термини, които не се появяват или се появяват периодично, препоръчваме да изчакате 24 часа и след това влезте заявка за поддръжка, ако проблемът продължава. Въпреки че 24 часа може да бъде дълго време, може да има проблем с кеширане или вече може да работим върху решение на този проблем.
+Ако имате проблем с изрази, които не се показват периодично или не се появяват, ви препоръчваме да изчакате 24 часа и след това да регистрирате заявка за поддръжка, ако проблемът продължава. Въпреки че 24 часа може да са много време, е възможно да има проблем с кеширането или може вече да работим върху решение на този проблем.
   
