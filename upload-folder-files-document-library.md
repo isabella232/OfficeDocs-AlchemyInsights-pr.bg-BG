@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ac6bc3ff7b3abffe3f31f67d168e51d6b779daa0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707140"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796025"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="3ecc3-102">Качване на папка или файлове в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="3ecc3-102">Upload a folder or files to a document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-document-library"></a><span data-ttu-id="fa6a1-102">Качване на папка или файлове в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="fa6a1-102">Upload a folder or files to a document library</span></span>
 
-<span data-ttu-id="3ecc3-103">Можете да качвате файлове в библиотека с документи в SharePoint, като ги плъзнете от вашия компютър и ги пуснете в библиотеката с документи.</span><span class="sxs-lookup"><span data-stu-id="3ecc3-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
+<span data-ttu-id="fa6a1-103">Можете да качвате файлове в библиотека с документи в SharePoint, като ги плъзнете от компютъра си и ги пуснете в библиотеката с документи.</span><span class="sxs-lookup"><span data-stu-id="fa6a1-103">You can upload files to a document library in SharePoint by dragging them from your computer and dropping them into the document library.</span></span>
 
-* [<span data-ttu-id="3ecc3-104">Качване на папка или файлове в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="3ecc3-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [<span data-ttu-id="3ecc3-105">Качване чрез Синхронизиране на OneDrive</span><span class="sxs-lookup"><span data-stu-id="3ecc3-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [<span data-ttu-id="fa6a1-104">Качване на папка или файлове в библиотека с документи</span><span class="sxs-lookup"><span data-stu-id="fa6a1-104">Upload a folder or files to a document library</span></span>](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+* [<span data-ttu-id="fa6a1-105">Качване чрез синхронизиране на OneDrive</span><span class="sxs-lookup"><span data-stu-id="fa6a1-105">Upload using OneDrive Sync</span></span>](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
