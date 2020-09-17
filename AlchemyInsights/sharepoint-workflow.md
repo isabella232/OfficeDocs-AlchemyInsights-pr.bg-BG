@@ -1,10 +1,11 @@
 ---
-title: Отстраняване на проблеми с работни потоци в SharePoint
+title: Отстраняване на неизправности при работни потоци в SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,21 +15,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138960"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800237"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Отстраняване на проблеми с работни потоци в SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Отстраняване на неизправности при работни потоци в SharePoint
 
-**Отстраняване на неизправности и отстраняване на грешки работни потоци в SharePoint**
+**Отстраняване на неизправности и работни потоци за отстраняване на грешки в SharePoint**
 
-Вижте Отстраняване на грешки при проверка на работен поток на [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) и [отстраняване на грешки в работни потоци на SharePoint.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+Вижте [отстраняване на грешки при проверката на работния поток на SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) и отстраняване на грешки на [работни потоци на SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-**Мощност автоматика**
+**Power Автоматизирайте**
 
-Ако току-що започвате с работни потоци, помислете за използване на [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) вместо класическите решения за работни потоци на SharePoint.
+Ако току-що сте първите стъпки в работните потоци, обмислете използването на [Power Автоматизирайте](https://docs.microsoft.com/power-automate/modern-approvals) вместо класическите решения за работни потоци на SharePoint.
 
-За повече информация вижте [Оттегляне на работни потоци на SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+За повече информация вижте [работни потоци на SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring), които се оттеглят.
