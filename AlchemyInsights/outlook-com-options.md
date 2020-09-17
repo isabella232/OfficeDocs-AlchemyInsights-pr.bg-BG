@@ -1,27 +1,28 @@
 ---
-title: 9000202 опции за Outlook.com
+title: Опции за 9000202 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: ed0f85745754914291d4abeedca92c3204b28672
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3794a657e1b45753b60370e68619200c94d42ffc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745528"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799409"
 ---
-# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="92dfe-102">Как да намерите опции в настройките на Outlook.com</span><span class="sxs-lookup"><span data-stu-id="92dfe-102">How to find options in Outlook.com settings</span></span>
+# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="dec90-102">Как да намерите опции в настройки на Outlook.com</span><span class="sxs-lookup"><span data-stu-id="dec90-102">How to find options in Outlook.com settings</span></span>
 
-<span data-ttu-id="92dfe-103">В горната част на страницата изберете иконата на зъбно колело</span><span class="sxs-lookup"><span data-stu-id="92dfe-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="92dfe-104">, за да отворите Настройки.</span><span class="sxs-lookup"><span data-stu-id="92dfe-104">to open Settings.</span></span> <span data-ttu-id="92dfe-105">В долната част на прозореца настройки изберете [**Преглед на всички настройки на Outlook**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="92dfe-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="dec90-103">В горния край на страницата изберете иконата на зъбно колело</span><span class="sxs-lookup"><span data-stu-id="dec90-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="dec90-104">за да отворите настройки.</span><span class="sxs-lookup"><span data-stu-id="dec90-104">to open Settings.</span></span> <span data-ttu-id="dec90-105">В долната част на екрана настройки изберете Преглед на [**всички настройки на Outlook**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="dec90-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="92dfe-106">Това ще покаже вашите Общи, Имейл, Календар и (ако е приложимо) Настройки и опции Premium.</span><span class="sxs-lookup"><span data-stu-id="92dfe-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
+<span data-ttu-id="dec90-106">Така ще се покажат вашите общи, имейл, календар и (ако е приложимо) Premium настройки и опции.</span><span class="sxs-lookup"><span data-stu-id="dec90-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
