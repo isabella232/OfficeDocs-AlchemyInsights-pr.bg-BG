@@ -1,27 +1,28 @@
 ---
-title: Вашият орган за МДМ не е зададен
+title: Вашият MDM орган не е настроен
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638203"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796277"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Вашият орган за МДМ не е зададен
+# <a name="your-mdm-authority-is-not-set"></a>Вашият MDM орган не е настроен
 
-Органът за управление на мобилни устройства (МДМ) на този клиент не е зададен. Трябва да зададете МДМ орган преди записване и управление на устройства чрез InTune МДМ. Без настройка на МДМ орган няма да можете да използвате InTune на МДМ функции. Настройката на МДМ орган определя как да управлявате вашите устройства.
+Органът за управление на мобилни устройства (MDM) за този клиент не е зададен. Трябва да зададете MDM орган преди записването и управляването на устройства чрез настройка на MDM. Без да задавате MDM органа, няма да можете да използвате функциите MDM на настройването. Настройката на MDM органа определя как да управлявате своите устройства.
 
 Препоръчителни стъпки:
-1. Навигирайте до острието на InTune записване преглед, за да зададете органа на МДМ.
-2. Изберете подходящия орган въз основа на вашите административни нужди. За повече информация вижте [Задайте статията за управление на мобилни устройства](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Придвижете се до бутона за преглед на записването, за да зададете MDM органа.
+2. Изберете подходящия орган на базата на вашите административни нужди. За повече информация вижте [Задаване на статията за управление на мобилни устройства](https://docs.microsoft.com/intune/mdm-authority-set).

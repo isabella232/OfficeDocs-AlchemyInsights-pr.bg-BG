@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
-ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
+ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42581410"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793675"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Промяна на фона на работния плот и цветовете
 
-За да промените настройките за цветове, отидете на Цветове за**персонализиране** > ******на настройките** > за **стартиране** > и след това изберете вашия собствен цвят или оставете Windows да вади от вашия фон цвета на акцента.
+За да промените настройките за цветовете, отидете на настройки за персонализиране на настройките за **Начало**  >  **Settings**  >  **Personalization**  >  **Colors**и след това изберете свой собствен цвят или Позволете на Windows да изведе цветови оттенък от вашия фон.
 
-![Персонализиране на цветовете в Windows.](media/windows-personalization-colors.png)
+![Персонализирайте цветовете си в Windows.](media/windows-personalization-colors.png)
 
-За да промените фона на работния плот, отидете на Фон за**персонализиране** > ******на настройките** > за **стартиране** > и след това изберете картина, плътен цвят или създайте слайдшоу от картини. 
+За да промените фона на работния плот, **отидете на**  >  фон за персонализиране на**настройките**  >  **Personalization**  >  **Background**, след което изберете картина, плътен цвят или Създайте слайдшоу от картини. 
 
-![Променете фона на работния плот на Windows.](media/windows-desktop-background.png)
+![Промяна на фона на работния плот на Windows.](media/windows-desktop-background.png)
 
-Искате повече фонове и цветове на работния плот? Посетете [Microsoft Store,](https://www.microsoft.com/store/collections/windowsthemes) за да изберете от десетки безплатни теми.
+Искате още фонове и цветове на работния плот? Посетете [магазина на Microsoft](https://www.microsoft.com/store/collections/windowsthemes) , за да избирате от десетки безплатни теми.
