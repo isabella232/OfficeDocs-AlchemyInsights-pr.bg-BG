@@ -1,33 +1,34 @@
 ---
-title: Конфигуриране на надзор
+title: Конфигуриране на надзора
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507755"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807504"
 ---
-# <a name="configure-supervision-policies"></a>Конфигуриране на правила за надзор
+# <a name="configure-supervision-policies"></a>Конфигуриране на правила за наблюдение
 
-Правилата за надзор в Microsoft 365 ви позволяват да наблюдавате имейла на Exchange, Skype за бизнеса онлайн, Microsoft Teams и съобщенията на трети страни, изпратени във и извън вашата организация. Определените рецензенти могат да преглеждат наблюдаваните съобщения, за да се уверят, че отговарят на правилата на вашата организация, управлението на риска и стандартите за съответствие с нормативните изисквания и да ги разрешават с тип класификация.
+Правилата за контрол в Microsoft 365 ви позволяват да следите имейлите на Exchange, Skype за бизнеса онлайн, Microsoft Teams и съобщенията на трети страни, изпратени във и извън организацията ви. Определените проверяващи могат да преглеждат наблюдаваните съобщения, за да гарантират, че те са съвместими с правилата на вашата организация, управлението на рисковете и нормативните изисквания за съответствие и разрешават тяхното разрешаване с тип класификация.
 
-За да използвате надзорните правила във вашата организация, трябва да:
+За да използвате правилата за контрол във вашата организация, трябва да:
 
-- Определете комуникациите за наблюдение.
-- Решете кой ще извършите преглед на комуникациите.
-- Правила за надзор на настройката
+- Определяне на комуникациите за следене.
+- Решете кой ще извършва преглед на комуникациите.
+- Правила за контрол на настройката
 
 Научете повече:
 
-- [Преглед на надзорните политики](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Конфигуриране на правила за надзор](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Общ преглед на правилата за наблюдение](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Конфигуриране на правила за наблюдение](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
