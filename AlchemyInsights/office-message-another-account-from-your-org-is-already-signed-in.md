@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802802"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236006"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Съобщение за Microsoft 365 приложения-за съжаление, друг акаунт от вашата организация е вече влязъл
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802802"
 - Щракнете върху иконата за **+**, за да добавите или да свържете своя акаунт. Въведете идентификационните си данни и изчакайте процесът да завърши.
 
 - Стартирайте приложението на Office и, ако е необходимо, влезте отново. 
+
+**Съвет** В машини с Windows ние можем да диагностицираме и автоматично да коригираме някои често срещани проблеми с влизането в Office вместо вас. Изтеглете и изпълнете  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашите автоматизирани инструменти.
 
 Ако проблемът не е отстранен, опитайте следната стъпка: 
 

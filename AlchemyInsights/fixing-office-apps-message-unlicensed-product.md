@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744615"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236078"
 ---
 # <a name="unable-to-activate-office"></a>Не можете да активирате Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744615"
 - Уверете се, че потребителят влиза в Office със същия акаунт, на който е присвоен лицензът.
 - Проверете [Страницата за състояние на услугата Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 - Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да потвърдите, че не блокират достъпа до интернет на приложенията на Microsoft 365. Вижте [Диапазони на URL и IP адреси за Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Диапазони от URL и IP адреси за Office 365").
+
+**Съвет** В машини с Windows ние можем да диагностицираме и автоматично да коригираме някои често срещани проблеми с влизането в Office вместо вас. Изтеглете и изпълнете  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашите автоматизирани инструменти.
 
 Използвайте следните действия за отстраняване на проблеми:
 
