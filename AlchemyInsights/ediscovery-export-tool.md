@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711084"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277927"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не можете да инсталирате или да изпълните инструмента за експортиране на откриването на електронни данни?
 
@@ -47,4 +47,5 @@ ms.locfileid: "47711084"
 - Присвоявате ви роля за експортиране в центъра за съответствие на защитата на Microsoft 365 &amp; . По подразбиране тази роля се присвоява само към ролевата група "Диспечер за откриване на електронни данни". Вижте даване на [разрешения за откриване](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)на електронни данни.
 
 За повече информация вижте [експортиране на резултати от търсене на съдържание](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Ако експортирате повече от 100K пощенски кутии, ще трябва да използвате следния PowerShell, за да изтеглите резултатите от износа:  [експортиране на резултати от повече от 100k пощенски кутии](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
