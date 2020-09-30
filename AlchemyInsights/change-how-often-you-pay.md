@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733605"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307331"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="bf14a-102">Промяна на честотата на плащане</span><span class="sxs-lookup"><span data-stu-id="bf14a-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="281ac-102">Промяна на честотата на плащане</span><span class="sxs-lookup"><span data-stu-id="281ac-102">Change how often you pay</span></span>
 
-<span data-ttu-id="bf14a-103">За да промените колко често сте таксувани и да плащате за абонамент, изпълнете следните стъпки в центъра за администриране на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="bf14a-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="281ac-103">За да промените колко често сте таксувани и да плащате за абонамент, изпълнете следните стъпки в центъра за администриране на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="281ac-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="bf14a-104">Отидете на страницата **Фактуриране**на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="bf14a-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="bf14a-105">В раздела **продукти** изберете абонамента, който искате да промените.</span><span class="sxs-lookup"><span data-stu-id="bf14a-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
-3. <span data-ttu-id="bf14a-106">На страницата по-подробно за абонамента, в секцията **абонаменти и настройки за плащане** изберете **Редактиране на честота на фактуриране**.</span><span class="sxs-lookup"><span data-stu-id="bf14a-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
-4. <span data-ttu-id="bf14a-107">В екрана **Редактиране на честота на фактуриране** изберете опцията за това колко често искате да бъдете таксувани, след което щракнете върху **Промяна**.</span><span class="sxs-lookup"><span data-stu-id="bf14a-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
+1. <span data-ttu-id="281ac-104">Отидете на страницата **Фактуриране**на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="281ac-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="281ac-105">В раздела **продукти** изберете абонамента, който искате да промените.</span><span class="sxs-lookup"><span data-stu-id="281ac-105">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="281ac-106">На страницата по-подробно за абонамента, в секцията **абонаменти и настройки за плащане** изберете **Редактиране на честота на фактуриране**.</span><span class="sxs-lookup"><span data-stu-id="281ac-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="281ac-107">В екрана **Редактиране на честота на фактуриране** изберете опцията за това колко често искате да бъдете таксувани, след което изберете **Промяна**.</span><span class="sxs-lookup"><span data-stu-id="281ac-107">In the **Edit billing frequency** pane, choose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="bf14a-108">**Забележка**: ежемесечните или годишните фактури са само опции.</span><span class="sxs-lookup"><span data-stu-id="bf14a-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+> [!NOTE]
+> <span data-ttu-id="281ac-108">Месечният или годишният разплащателен период са само опции.</span><span class="sxs-lookup"><span data-stu-id="281ac-108">Monthly or Annual billing are the only options.</span></span>
 
-<span data-ttu-id="bf14a-109">За повече информация вж. [Промяна на честотата на фактуриране](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="bf14a-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
+<span data-ttu-id="281ac-109">За повече информация вж. [Промяна на честотата на фактуриране](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="281ac-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
