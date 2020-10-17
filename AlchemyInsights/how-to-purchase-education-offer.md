@@ -2,8 +2,8 @@
 title: Как да закупите предложение за образование
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703649"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489266"
 ---
-# <a name="how-to-purchase-education-offer"></a>Как да закупите предложение за образование
+# <a name="how-to-purchase-an-education-offer"></a>Как да закупите предложение за образование
 
 Одобрени сте за Office 365 Education. За да закупите:
   
-1. В центъра за администриране отидете на страницата **Фактуриране** на \> **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Изберете изпробването за **студенти или преподаватели**.
-
-3. В секцията **лицензи** изберете закупуване на **абонамент**.
-
+1. В центъра за администриране отидете на страницата **Фактуриране** на \> [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. В раздела **продукти** изберете изпробване на **ученици или преподаватели**.
+3. На страницата по-подробно за абонамента, в секцията **лиценз** изберете **Купете платен абонамент сега**.
 4. Следвайте останалите стъпки, за да извлечете.
 
-Ако искате да закупите абонамент, различен от това, което се намира в изпробването, отидете на страницата услуги за закупуване на **фактури** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) и изберете от списъка под **планове за образование**.
+Ако искате да закупите различен абонамент от пробния си абонамент, отидете на страницата за **Billing** \> [Услуги за закупуване](https://go.microsoft.com/fwlink/p/?linkid=868433) на фактури. Под **планове за образование**изберете плана, който искате.
 
-За да научите повече, вижте [закупуване на същия план като пробния](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+За да научите повече, вижте [закупуване на абонамент от вашата безплатна пробна версия](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
