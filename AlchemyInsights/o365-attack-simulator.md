@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759208"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801535"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Симулатор за атаки в Microsoft 365
 
-- Липсващ симулатор за атаки ли сте? Симулаторът за атаки изисква **office 365 Advanced Protection Plan 2 (ATP план 2)** или **Office 365 Enterprise E5**. Симулаторът за атаки **не** е включен в Office 365 Advanced план за защита от заплахи 1 (ATP план 1), Office 365 Enterprise E3 или Microsoft 365 приложения за бизнес абонаменти.
+- Липсващ симулатор за атаки ли сте? Симулаторът за атаки изисква **Microsoft Defender за Office 365 план 2 (ATP план 2)** или **Office 365 Enterprise E5** . Симулаторът за атаки **не** е включен в Microsoft Defender за Office 365 Plan 1 (ATP план 1), Office 365 Enterprise E3 или всички приложения на Microsoft 365 за абонаменти.
 
 - Акаунтът, който използвате, за да стартирате симулираните атаки, изисква глобален администратор или разрешения на администратора на защитата и многофакторно удостоверяване (МВНР). За повече информация относно изискванията за симулатор на атаки вижте [тази тема](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759208"
 
 - Важни неща, които трябва да знаете за **копието на фишинг** прикачване на симулации:
 
-  - По проект не можете да предоставите стойност по избор за **URL адрес на фишинг сървъра за влизане**.
+  - По проект не можете да предоставите стойност по избор за **URL адрес на фишинг сървъра за влизане** .
 
   - Ако получател използва [добавката разрешаване на съобщение за отчет](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) , за да съобщи съобщението като фишинг, е възможно да не получавате предупреждения за съобщението (защото това е симулация на атака).
 

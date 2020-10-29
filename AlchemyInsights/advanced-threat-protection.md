@@ -1,5 +1,5 @@
 ---
-title: Подобрена защита от заплахи за Office 365
+title: Microsoft Defender за Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696610"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801216"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Подобрена защита от заплахи за Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender за Office 365
 
-- Безопасни прикачени файлове, безопасни връзки и анти-фишинг са част от защитата на Office 365 Advanced Protection (ATP). Enterprise E5, Education A5 и Microsoft 365 Business Premium включват ATP. Всички други планове изискват абонамент за ATP за добавка.
+- Безопасни прикачени файлове, безопасни връзки и анти-фишинг са част от Microsoft Defender за Office 365 (ATP). Enterprise E5, Education A5 и Microsoft 365 Business Premium включват ATP. Всички други планове изискват абонамент за ATP за добавка.
 
 - Трябва да присвоите подходящите лицензи, за да защитите вашите потребители от Office 365 ATP. Вижте [тази тема](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) за инструкции как да приложите групово лицензи на вашите потребители.
 
-- Глобалните администратори или администраторите на защитата могат да получат достъп до функциите на Office 365 ATP в центъра за съответствие на защитата & в правилата за **Managmeent на заплахите** \> **Policy**.
+- Глобалните администратори или администраторите на защитата могат да получат достъп до функциите на Office 365 ATP в центъра за съответствие на защитата & в правилата за **Managmeent на заплахите** \> **Policy** .
 
 - Безопасното прикачени файлове и правилата за безопасни връзки могат да ви ориентират във вашата цялостна организация, конкретни домейни или по-малки групи потребители.
 

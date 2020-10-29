@@ -1,5 +1,5 @@
 ---
-title: Закупуване на Office 365 подобрена защита от заплахи
+title: Закупуване на Microsoft Defender за Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693544"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801135"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Закупуване на Office 365 подобрена защита от заплахи
+# <a name="purchase-microsoft-defender-for-office-365"></a>Закупуване на Microsoft Defender за Office 365
 
-Подобрена защита от заплахи за Office 365 (ATP) е включена в някои абонаменти, като например Microsoft 365 E5, Office 365 E5, Office 365 A5 и Microsoft 365 Business Premium. Ако абонаментът ви не включва Office 365 ATP, можете да закупите [АТР план 1 или ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) като добавка към определени абонаменти. За да закупите в центъра за администриране на Microsoft 365:
+Microsoft Defender за Office 365 (ATP) е включен в някои абонаменти, като например Microsoft 365 E5, Office 365 E5, Office 365 A5 и Microsoft 365 Business Premium. Ако абонаментът ви не включва Office 365 ATP, можете да закупите [АТР план 1 или ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) като добавка към определени абонаменти. За да закупите в центъра за администриране на Microsoft 365:
 
 1. Отидете на **Billing**   >   [Услуги за закупуване](https://go.microsoft.com/fwlink/p/?linkid=868433)на фактури.
 2. Изберете **страница с добавки от** **други категории, които може да ви интересуват.**

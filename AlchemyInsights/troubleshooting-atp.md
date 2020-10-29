@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности в Office 365 подобрена защита от заплахи
+title: Отстраняване на неизправности при Microsoft Defender за Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658903"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801432"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Отстраняване на неизправности в Office 365 подобрена защита от заплахи
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Отстраняване на неизправности при Microsoft Defender за Office 365
 
 - Забелязвате ли закъснения при доставяне на съобщения? Използвайте опцията за [динамично доставяне](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) във вашата политика за безопасни прикачени файлове на ATP. Това ще помогне за избягване на закъснения на съобщения, докато защитавате получателите от злонамерени файлове.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658903"
 
   1. Отидете на [https://protection.office.com](https://protection.office.com) и влезте с акаунт на глобален администратор или администратор на защитата.
 
-  2. В левия навигационния екран под **управление на заплахи**изберете **Policy** \> **връзки към безопасни**правила.
+  2. В левия навигационния екран под **управление на заплахи** изберете **Policy** \> **връзки към безопасни** правила.
 
-  3. В раздела **правила, които важат за цялата организация** , изберете правилата и щракнете върху **Редактиране**.
+  3. В раздела **правила, които важат за цялата организация** , изберете правилата и щракнете върху **Редактиране** .
 
-  4. Под **Настройки**разрешете **Приложете безопасни връзки към съобщенията, изпращани в рамките на организацията**.
+  4. Под **Настройки** разрешете **Приложете безопасни връзки към съобщенията, изпращани в рамките на организацията** .
