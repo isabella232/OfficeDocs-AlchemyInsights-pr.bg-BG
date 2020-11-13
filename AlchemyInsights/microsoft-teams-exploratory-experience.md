@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674927"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019536"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Проучвателна среда за Microsoft Teams
 
-Работата на Microsoft Teams проучвателно позволява на потребителите във вашата организация, които имат Azure Active Directory (пад), и не са лицензирани за Teams, инициират проучвателно преживяване за Teams. Администраторите могат да включват или изключват тази функция за потребителите в своята организация. (По-ранното изпробване в облака на Microsoft сега се нарича екипна проучвателна среда.)
-
-Изследователската работа в Microsoft Teams е налична без допълнителни разходи до вашата следваща годишнина в корпоративната спогодба или подновяване на или след 2021 януари. В този момент крайните потребители на лиценз за опит с Microsoft проучвателно ще трябва да се придвижат към платен лиценз, включващ Teams.
-
-За повече информация вижте [управление на изследователския лиценз за Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Какво представлява [проучвателните екипи](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Работата на Microsoft Teams проучвателно позволява на потребителите във вашата организация, които не са лицензирани за Teams, да инициират проучвателно преживяване за Teams. За повече информация вижте [какви са възможностите за проучвателна работа в Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Кога ще изтече срокът на лиценза ми](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Изследователската работа в Microsoft Teams е налична без допълнителни разходи до вашата следваща годишнина от споразумението или подновяване на или след януари 2021.
+- Като администратор можете да [надстроите потребители от изследователския лиценз за Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) , като закупите абонамент, който включва Teams, като премахнете абонамента за Teams от потребителя и зададете току-що закупения лиценз.
+- За повече информация вижте [управление на изследователския лиценз за Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
