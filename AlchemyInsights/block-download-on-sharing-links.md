@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685731"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353459"
 ---
 # <a name="block-download-on-sharing-links"></a>Блокиране на изтеглянето чрез връзките за споделяне
 
-**Блок изтеглянето** е достъпно за **връзки само за преглед** към документи на Office. Когато изберете тази опция, хората, които получат достъп до файла чрез създадената от вас връзка, няма да виждат опции за изтегляне, отпечатване или копиране на файла.
+Когато споделяте елементи с други хора в OneDrive или SharePoint, можете да им дадете достъп до изгледа, но не и да го изтеглите.
 
-Администраторите могат да управляват дали настройката "блокиране на изтеглянето" се появява само за файлове на Office или не чрез промяна на `BlockDownloadLinksFileType` настройката в кратките команди [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) или [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.
+За повече информация вижте: [блокиране на изтеглянията за файлове само за преглед в SharePoint и OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
