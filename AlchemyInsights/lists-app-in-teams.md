@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947401"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477435"
 ---
 # <a name="lists-app-in-teams"></a>Списък с приложения в Teams
 
@@ -27,10 +27,6 @@ ms.locfileid: "48947401"
 Списъците е предварително инсталиран за всички потребители на Teams и се предлага директно в галерията с раздели на всеки екип и канал.
 
 Администраторите на екипи могат да управляват наличността на приложението чрез правилата за разрешения на Microsoft Teams. За повече информация вижте [управление на правилата за разрешения за приложения в Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Време:** Началото на септември и завършване до средата на октомври 2020  
-
-**Разгръщане:** Ниво на организация  
 
 **Тип на контролата:**  Управление на администратори на Teams  
 
