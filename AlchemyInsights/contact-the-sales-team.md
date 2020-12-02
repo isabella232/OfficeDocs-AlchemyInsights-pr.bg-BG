@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733280"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529007"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="9b187-102">Свържете се с екипа за продажби</span><span class="sxs-lookup"><span data-stu-id="9b187-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="9d6e0-102">Свържете се с екипа за продажби</span><span class="sxs-lookup"><span data-stu-id="9d6e0-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="9b187-103">С конекторите на Microsoft Graph вашата организация може да индексира данни от други разработчици, които да се показват в резултатите от търсенето с Microsoft.</span><span class="sxs-lookup"><span data-stu-id="9b187-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="9d6e0-103">Има няколко начина да се свържете с екипа за продажби на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9d6e0-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="9b187-104">Конектори от Microsoft</span><span class="sxs-lookup"><span data-stu-id="9b187-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="9b187-105">Конектори от нашите партньори</span><span class="sxs-lookup"><span data-stu-id="9b187-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="9b187-106">За повече информация вижте [общ преглед на конекторите на Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="9b187-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="9d6e0-104">Използвайте формуляра "  [свържете се с нас](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  ", за да се свържете с експерт по продажбите на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9d6e0-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="9d6e0-105">За да се свържете с експерт по корпоративно лицензиране на корпоративно споразумение, започнете с портала на  [центъра за обслужване на корпоративно лицензиране](https://go.microsoft.com/fwlink/p/?LinkId=329762) .</span><span class="sxs-lookup"><span data-stu-id="9d6e0-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
