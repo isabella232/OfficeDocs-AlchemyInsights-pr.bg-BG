@@ -1,5 +1,5 @@
 ---
-title: Отваряне на документ в "само за четене"
+title: Документ се отваря в режим "само за четене"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088501"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528971"
 ---
-# <a name="documents-opening-in-read-only"></a>Отваряне на документи в "само за четене"
+# <a name="documents-opening-in-read-only"></a>Документите се отварят в режим "само за четене"
 
-Можете да намерите файловете, които отваряте, за да бъдат само за четене. В някои случаи това условие служи като допълнителна защита, като например когато отваряте файлове от интернет и други времена, това условие може да се дължи на настройка, която може да бъде променена.
+Може да откриете, че файловете, които отваряте, са "само за четене". В някои случаи това условие служи като допълнителна защита, например когато отваряте файлове от интернет, а друг път това условие може да е поради настройка, която може да бъде променена.
 
-- [Файловете на SharePoint се отварят само за четене](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [Файловете на SharePoint се отварят в режим "само за четене"](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Ако клиентът прецени, че [показаните](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)причини, като например механизмът за подсилване на защитата или непроменена настройка, не са един от сценариите с по-голям дизайн, описани в файловете на SharePoint, са отворени само за четене, Ето други често срещани решения за отваряне на документи в режим "само за четене".
+Ако клиентът сметне, че посочените причини, като например механизъм за усилване на защитата или непроменена настройка, не са един от замислените сценарии, посочени във [Файловете на SharePoint се отварят в режим "само за четене"](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), ето други често срещани решения за документи, които се отварят в режим "само за четене".
 
 - Рестартирайте компютъра.
-- Инсталиране на актуализации на Office.
-- Проверете антивирусната програма на устройството.
-- Уверете се, че сайтът е в зоната за надеждни сайтове в Internet Explorer.
-- Извършете поправка на Office.
+- Инсталирайте актуализациите на Office.
+- Проверете антивирусната програма на компютъра.
+- Уверете се, че сайтът е в зоната "Надеждни сайтове" в Internet Explorer.
+- Изпълнете поправяне на Office.
 - Изчистете [кеша за документи на Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
