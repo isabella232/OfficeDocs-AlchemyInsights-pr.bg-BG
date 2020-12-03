@@ -1,0 +1,50 @@
+---
+title: Възстановяване на елемент, който вече не е в папката "Изтрити елементи"
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/2/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1800008"
+- "7320"
+ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.translationtype: MT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49564408"
+---
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a><span data-ttu-id="5c5f1-102">Възстановяване на елемент, който вече не е в папката "Изтрити елементи"</span><span class="sxs-lookup"><span data-stu-id="5c5f1-102">Recover an item that's no longer in your Deleted items folder</span></span>
+
+<span data-ttu-id="5c5f1-103">Ако не можете да намерите елемент в папката "Изтрити елементи", следващото квадратче за търсене е папката "Възстановими елементи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-103">If you can't find an item in the Deleted Items folder, the next place to look is the Recoverable Items folder.</span></span> <span data-ttu-id="5c5f1-104">Това е скрита папка, в която се преместват елементи, когато:</span><span class="sxs-lookup"><span data-stu-id="5c5f1-104">This is a hidden folder that items are moved to when:</span></span>
+- <span data-ttu-id="5c5f1-105">Те се изтриват от папката "Изтрити елементи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-105">They're deleted from the Deleted Items folder.</span></span>
+- <span data-ttu-id="5c5f1-106">Папката "Изтрити" е изпразнена или от вас, или от правила, зададени от вашия ИТ администратор.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-106">The Deleted Items folder is emptied, either by you or by a policy set by your IT administrator.</span></span>
+- <span data-ttu-id="5c5f1-107">Можете да изтриете елемент, като го изберете и натиснете **Shift + DELETE**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-107">You delete an item by selecting it and pressing **Shift+Delete**.</span></span>
+
+<span data-ttu-id="5c5f1-108">За да преглеждате и възстановявате елементи, които са преместени в папката "Възстановими елементи":</span><span class="sxs-lookup"><span data-stu-id="5c5f1-108">To view and recover items that have been moved to the Recoverable Items folder:</span></span>
+1. <span data-ttu-id="5c5f1-109">В уеб браузър, влезте в Outlook Web App чрез URL адреса, предоставен от лицето, което управлява имейла за вашата организация.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-109">In a web browser, sign in to Outlook Web App using the URL provided by the person who manages email for your organization.</span></span> <span data-ttu-id="5c5f1-110">Въведете потребителското си име и парола и след това изберете **влизане**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-110">Enter your user name and password, and then select **Sign in**.</span></span>
+1. <span data-ttu-id="5c5f1-111">В списъка с папки на имейла щракнете с десния бутон върху **Изтрити**, а след това изберете **възстановяване на изтрити елементи...**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-111">In your email folder list, right-click **Deleted Items**, then select **recover deleted items...**.</span></span>
+1. <span data-ttu-id="5c5f1-112">Ако е необходимо, използвайте полето за търсене, за да намерите елемента, който искате да възстановите.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-112">If necessary, use the search box to find the item that you want to recover.</span></span>
+1. <span data-ttu-id="5c5f1-113">Когато намерите елемента, изберете го и щракнете върху **възстанови**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-113">When you find the item, select it and click **recover**.</span></span>
+   <span data-ttu-id="5c5f1-114">Възстановените елементи се преместват в местоположението по подразбиране за всеки тип елемент.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-114">The recovered items are moved to the default location for each item type.</span></span>
+    - <span data-ttu-id="5c5f1-115">Съобщенията отиват във вашата папка "Входящи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-115">Messages go to your Inbox.</span></span>
+    - <span data-ttu-id="5c5f1-116">Календарните елементи отиват във вашия календар.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-116">Calendar items go to your Calendar.</span></span>
+    - <span data-ttu-id="5c5f1-117">Контактите отиват в папката "Контакти".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-117">Contacts go to your Contacts folder.</span></span>
+    - <span data-ttu-id="5c5f1-118">Задачите отиват в папката "задачи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-118">Tasks go to your Tasks folder.</span></span>
+
+<span data-ttu-id="5c5f1-119">**Съвети за възстановяване на елементи в папката "Възстановими елементи"**</span><span class="sxs-lookup"><span data-stu-id="5c5f1-119">**Tips for recovering items in your Recoverable Items folder**</span></span>
+
+- <span data-ttu-id="5c5f1-120">Изтритата дата за даден елемент в папката "Възстановими елементи" е, когато елементът е преместен в папката "Изтрити елементи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-120">The deleted date for an item in the Recoverable Items folder is when the item was moved to the Deleted Items folder.</span></span> <span data-ttu-id="5c5f1-121">Не е датата, на която елементът е преместен в папката "Възстановими елементи".</span><span class="sxs-lookup"><span data-stu-id="5c5f1-121">It's not the date the item was moved to the Recoverable Items folder.</span></span>
+- <span data-ttu-id="5c5f1-122">Елементите в папката "Възстановими елементи" нямат икони, така че всички те изглеждат много сходни.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-122">Items in the Recoverable Items folder don't have icons, so they all look very similar.</span></span>
+    - <span data-ttu-id="5c5f1-123">Ако търсите контакт, потърсете елемент, който има името на лицето, но не и ред за тема.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-123">If you're looking for a contact, look for an item that has the name of the person, but no subject line.</span></span>
+    - <span data-ttu-id="5c5f1-124">Ако търсите среща в календара, потърсете елемент, който няма име на човек или ред за тема.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-124">If you're looking for a calendar appointment, look for an item that doesn't have a person's name or a subject line.</span></span>
+    - <span data-ttu-id="5c5f1-125">Ако търсите контакт, среща в календара или задача, потърсете текста на този елемент.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-125">If you're looking for a contact, calendar appointment, or a task look for the text of that item.</span></span>
+- <span data-ttu-id="5c5f1-126">За да възстановите множество елементи, задръжте показалеца над всеки елемент и поставете отметка в квадратчето до него, щракнете върху **възстанови**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-126">To recover multiple items, hover over each item and select the checkbox next to it, click **recover**.</span></span> <span data-ttu-id="5c5f1-127">Можете също да възстановите множество поредни елементи, като изберете квадратчето за отметка за първия елемент, задържите натиснат клавиша **Shift** и след това поставите отметка в квадратчето за последния елемент.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-127">You can also recover multiple adjacent items by selecting the checkbox for first item, holding down the **Shift** key, and then selecting the checkbox for the last item.</span></span> <span data-ttu-id="5c5f1-128">Когато са избрани всички елементи, изберете **възстанови**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-128">When all items are selected, select **recover**.</span></span>
+- <span data-ttu-id="5c5f1-129">Можете да изтривате елементи от списъка **възстановяване на изтрити елементи** .</span><span class="sxs-lookup"><span data-stu-id="5c5f1-129">You can purge items from the **Recover deleted items** list.</span></span> <span data-ttu-id="5c5f1-130">Просто изберете елемента и след това изберете **прочистване**.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-130">Just select the item and then select **purge**.</span></span> <span data-ttu-id="5c5f1-131">Ако изчиствате даден елемент, няма да можете да използвате възстановяване на изтрити елементи, за да го върнете.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-131">If you purge an item, you won't be able to use Recover deleted items to get it back.</span></span> <span data-ttu-id="5c5f1-132">Изчистването на съобщение няма да го премахне от каквито и да е архивирания, направени преди изчистването му.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-132">Purging a message won't remove it from any backups that were made before you purged it.</span></span>
+- <span data-ttu-id="5c5f1-133">Организацията ви може да е указала колко дълги елементи в папката "Възстановими елементи" са налични за възстановяване.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-133">Your organization might have specified how long items in the Recoverable Items folder are available for recovery.</span></span> <span data-ttu-id="5c5f1-134">Например може да има правила, които изтриват всичко, което е било във вашата папка "Изтрити елементи" за 30 дни и друга политика, която ви позволява да възстановите елементите в папката "Възстановими елементи" за до още 14 дни.</span><span class="sxs-lookup"><span data-stu-id="5c5f1-134">For example, there might be a policy that deletes anything that’s been in your Deleted Items folder for 30 days and another policy that lets you recover items in the Recoverable Items folder for up to another 14 days.</span></span>
