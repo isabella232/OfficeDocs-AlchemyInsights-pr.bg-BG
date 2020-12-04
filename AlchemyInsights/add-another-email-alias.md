@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688467"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571654"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Създаване или добавяне на имейл псевдоним за потребител
 
 Трябва да създадете имейл псевдоним за даден потребител или да добавите допълнителен имейл адрес? Просто следвайте тези стъпки!
   
-1. В центъра за администриране на Microsoft 365 отидете на страницата [потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) или изберете **Users** \> **активните потребители**на потребителите.
+1. В центъра за администриране на Microsoft 365 отидете на страницата [потребители](https://go.microsoft.com/fwlink/p/?linkid=834822) или изберете **Users**  >  **активните потребители** на потребителите.
     
 2. На страницата **активни потребители** изберете името на човека, когото искате да редактирате. 
     
