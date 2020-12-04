@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754328"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569156"
 ---
 # <a name="onedrive-puid-mismatch"></a>Несъответствие на OneDrive PUID
-Оказва се, че имате [PUID несъответствие](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive за бизнеса. Моля, следвайте стъпките по-долу, така че да можем да ви помогнем възможно най-скоро:
 
-1. Щракнете върху **Свързване с поддръжката**, след което изберете **ново искане за обслужване**.
-2. Оставете заглавието и описанието като **PUID несъответствие в сайта на OneDrive**.
+Изглежда, че имате [несъответствие с ИД](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive за бизнеса. Моля, следвайте стъпките по-долу, така че да можем да ви помогнем възможно най-скоро:
+
+1. Щракнете върху  **Свързване с поддръжката**, след което изберете  **ново искане за обслужване**.
+2. Оставете заглавието и описанието като  **несъответствие на потребителски ИД за сайта на OneDrive**.
 3. След като билетът е подаден, моля, актуализирайте го със следната информация:
     - URL адресът на сайта на OneDrive, който е засегнат.
     - Основно потребителско име (UPN) на засегнатия потребител.
-
-
-
