@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605698"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653249"
 ---
 # <a name="onedrive-puid-mismatch"></a>Несъответствие на OneDrive PUID
 
@@ -26,6 +26,6 @@ ms.locfileid: "49605698"
 
 1. Щракнете върху  **Свързване с поддръжката**, след което изберете  **ново искане за обслужване**.
 2. Оставете заглавието и описанието като  **несъответствие на потребителски ИД за сайта на OneDrive**.
-3. След като билетът е подаден, моля, актуализирайте го със следната информация:
+3. След като билетът е подаден, актуализирайте го със следната информация:
     - URL адресът на сайта на OneDrive, който е засегнат.
     - Основно потребителско име (UPN) на засегнатия потребител.
