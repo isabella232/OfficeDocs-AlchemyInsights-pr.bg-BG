@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815522"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683855"
 ---
 # <a name="how-to-verify-your-domain"></a>Как да потвърдите домейна си
 
-За да потвърдите домейн, следвайте [съветника за добавяне на домейн](https://admin.microsoft.com/Adminportal#/Domains/Wizard)или ръчно отидете на **Настройки**на  >  **домейни**  >  **Добавяне на домейн**.
+За да потвърдите домейн, следвайте [съветника за добавяне на домейн](https://admin.microsoft.com/Adminportal#/Domains/Wizard)или ръчно отидете на **Настройки** на  >  **домейни**  >  **Добавяне на домейн**.
 
 За повече информация за DNS промените, които са необходими, за да потвърдите домейна си, вижте инструкциите в [Добавяне на DNS записи за свързване на вашия домейн](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
