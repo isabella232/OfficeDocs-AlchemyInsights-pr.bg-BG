@@ -1,0 +1,24 @@
+---
+title: Определяне защо файл на Microsoft Word не се отваря на мобилно устройство
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003959"
+- "7015"
+ms.openlocfilehash: 5113a847fea0b839d78b25eaec481e4d5a7fc713
+ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.translationtype: MT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49721752"
+---
+# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a><span data-ttu-id="fd211-102">Определяне защо файл на Microsoft Word не се отваря на мобилно устройство</span><span class="sxs-lookup"><span data-stu-id="fd211-102">Determine why a Microsoft Word file doesn't open on a mobile device</span></span>
+
+<span data-ttu-id="fd211-103">Възможно е Microsoft Word да не поддържа този файлов формат на вашето устройство.</span><span class="sxs-lookup"><span data-stu-id="fd211-103">It is possible that Microsoft Word does not support this file format on your device.</span></span> <span data-ttu-id="fd211-104">За подробности вижте [защо не мога да отворя своя файл в Word на мобилно устройство?](https://go.microsoft.com/fwlink/?linkid=2135663)</span><span class="sxs-lookup"><span data-stu-id="fd211-104">For details, see [Why can't I open my file in Word on a mobile device?](https://go.microsoft.com/fwlink/?linkid=2135663)</span></span>
