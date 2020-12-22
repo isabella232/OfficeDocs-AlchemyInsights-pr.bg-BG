@@ -1,5 +1,5 @@
 ---
-title: Как да възстановя изтрит eeam или канал
+title: Как да възстановя изтрит екип или канал
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705000"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726393"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Как да възстановите изтрит екип или канал
-
-За повече информация вижте [възстановяване на изтрит екип в Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
 Изтритите канали в екипа могат да бъдат възстановени до 21 дни след като каналът е бил изтрит.
 
 За да възстанови изтрит канал, собственикът на екипа може да прави следното:
 
 1. Отворете настройките на екипа, като изберете 3-те точки отдясно на името на екипа.
-2. Изберете **управление**  >  **Channels**  >  на**изтритите**канали на екипа и след това изберете **възстановяване** отдясно.
+2. Изберете **управление**  >    >  на **изтритите** канали на екипа и след това изберете **възстановяване** отдясно.
 
-За повече информация вижте [възстановяване на изтрит екип в Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+За повече информация относно възстановяването на екип вижте [архивиране или изтриване на екип в Microsoft Teams – Microsoft Teams | Документи на Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
