@@ -1,5 +1,5 @@
 ---
-title: Как да добавяте и управлявате adminstrators-Препоръчителни стъпки
+title: Как да добавяте и управлявате администратори – Препоръчителни стъпки
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676836"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755824"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Как да добавяте и управлявате adminstrators-Препоръчителни стъпки
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Как да добавяте и управлявате администратори – Препоръчителни стъпки
+
+Въз основа на вашето описание на проблема намерихме решение за вас. Повечето клиенти могат сами да решат проблема си, след като са следвали нашата документация.
 
 **Редактиране на администратора на абонамента или съ-администратора**
 

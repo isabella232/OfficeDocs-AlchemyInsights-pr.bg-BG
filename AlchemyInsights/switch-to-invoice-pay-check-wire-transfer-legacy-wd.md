@@ -1,5 +1,5 @@
 ---
-title: Преминаване към плащане по фактура (чек/банков превод)-Legacy WD
+title: Превключване на плащане чрез фактура (чек/банков превод)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726086"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755392"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Преминаване към плащане по фактура (чек/банков превод)-Legacy WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Превключване на плащане чрез фактура (чек/банков превод)
+
+Въз основа на вашето описание на проблема намерихме решение за вас. Повечето клиенти могат сами да решат проблема си, след като са следвали нашата документация.
 
 Ако превключите на плащане чрез фактура, това означава, че ще платите сметката си в рамките на 30 дни от датата на фактурата. За да имате право да плащате за абонамента си за Azure чрез фактура, изпратете заявка на Azure support. След като заявката ви бъде одобрена, можете да превключите абонамент за плащане по фактура в [портала на Azure](https://portal.azure.com/).
 
@@ -39,7 +41,7 @@ ms.locfileid: "49726086"
 2. Изберете абонамента, който искате да превключите към плащане по фактура. Изберете **метод на плащане**.
 3. В командната лента щракнете върху бутона **плащане по фактура** .
 
-**Препоръчвани документи**
+**Препоръчителни документи**
 
 - [Заявка/изтегляне/преглед на вашата фактура за фактуриране и данни за използване на Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Как да изпратите по имейл Azure фактури директно във вашата папка "Входящи"](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
