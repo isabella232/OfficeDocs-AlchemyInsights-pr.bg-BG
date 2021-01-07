@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768806"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778182"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Разрешаване на шифроване с BitLocker с "поднастройване"
 
- Правилата за защита на крайна точка могат да се използват за конфигуриране на настройките за шифроване на BitLocker за устройства с Windows. За повече информация вижте [Настройки на Windows 10 (и по-нови версии), за да защитите устройства, използващи настройка](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Правилата за защита на крайна точка могат да се използват за конфигуриране на настройките за шифроване на BitLocker за устройства с Windows. За повече информация вижте [Настройки на Windows 10 (и по-нови версии), за да защитите устройства, използващи настройка](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+В допълнение към политиката за защита на крайна точка има и отчет за шифроване, който предоставя по-подробен преглед на състоянието на шифроване за устройства. Този отчет може да бъде достъпен от портала на MEM под **устройства > наблюдение** и след това под **Конфигуриране** изберете [отчет за шифроване](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Ако установите, че BitLocker не е разрешен по очаквания начин или че профилът, който се използва за разрешаване на BitLocker, е в състояние на грешка, прегледайте отчета за шифроване, за да разберете по-добре защо възниква поведението.
+
+За да намерите подробности за това как да се интерпретира отчетът, включително различните стойности на състоянието на шифроване, вижте [следене на шифроването на устройства чрез настройки](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Трябва да знаете, че много по-нови устройства, на които се изпълнява Windows 10, поддържат автоматично шифроване на BitLocker, което се задейства без прилагане на MDM правилата. Това може да се отрази на прилагането на правилата, ако са конфигурирани настройки, които не са по подразбиране. Вижте следните ЧЗВ за повече подробности.
- 
+
 За информация относно отстраняването на проблеми с BitLocker вижте Отстраняване на проблеми [с правилата за BitLocker в Microsoft](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
