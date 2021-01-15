@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713840"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875113"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Съответствие на комуникацията в Microsoft 365
 
@@ -42,3 +42,6 @@ ms.locfileid: "47713840"
 - Абонамент за Office 365 Enterprise E5
 
 Ако нямате някое от горните и искате да изпробвате съвместимостта на комуникацията, се **[регистрирайте за изпробване на Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+
+> [!NOTE]
+> Възможно е да са необходими до 24 часа, за да бъдат изцяло обработени имейл съобщенията в правилата. Комуникациите в Microsoft Teams, Yammer и платформи на трети лица могат да отнемат до 48 часа, за да обработят изцяло правилата.
