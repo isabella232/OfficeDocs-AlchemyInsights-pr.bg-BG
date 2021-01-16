@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502560"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880155"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Промяна на разрешенията за пощенска кутия
 
-Ако потребителите се нуждаят от достъп до пощенски кутии, различни от техните собствени, те трябва да имат разрешения за работа с тези пощенски кутии. Как да зададете тези разрешения зависи от типа на пощенска кутия. Ако потребителите имат нужда от достъп до:
+Ако потребителите се нуждаят от достъп до пощенски кутии, които не са техни, трябва да им бъдат дадени разрешения за работа с тези пощенски кутии. Начинът, по който присвоявате тези разрешения, зависи от типа пощенска кутия. Ако потребителите се нуждаят от достъп до:
   
-- Пощенски кутии на друг потребител - вижте [Дайте разрешения за пощенска кутия на друг потребител](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Пощенски кутии на други потребители – вижте [даване на разрешения за пощенска кутия на друг потребител](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Споделена пощенска кутия - вижте [Добавяне или премахване на членове от споделена пощенска кутия](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Споделена пощенска кутия – вижте [Конфигуриране на настройките за споделена пощенска кутия](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Ако разрешенията не работят правилно, след като направите горните стъпки, отидете на центъра за администриране на Exchange и опитайте да зададете разрешенията от там (вижте [управление на разрешения за получатели](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Ако разрешенията не работят правилно, след като изпълните стъпките по-горе, отидете в центъра за администриране на Exchange и опитайте да зададете разрешенията от там (вижте [управление на разрешения за получатели](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
