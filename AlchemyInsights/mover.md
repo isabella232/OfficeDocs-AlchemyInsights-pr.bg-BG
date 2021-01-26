@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702748"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986287"
 ---
 # <a name="mover"></a>Mover
 
-На 21 Октомври 2019, Microsoft е придобило  **инициатор**, водещ доставчик на мигриране на файлове в облака.
+За информация за инициатора вижте следните статии:
 
-В настоящия момент, [Моля, прегледайте всички искания за поддръжка](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **тук**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
-
-За повече информация относно инициатора, моля, прегледайте следните статии:
-
-- [Водачи за мигриране на двигатели](https://mover.io/guides/)
-- [Общи ЧЗВ за мигриране](https://mover.io/guides/general/)
+- [Планиране на миграцията с инициатор](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Управление на конектори](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Изпълнение на мигрирането на Movers](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
