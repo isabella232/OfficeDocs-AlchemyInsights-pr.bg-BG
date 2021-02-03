@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560429"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093344"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Разрешаване на парола нефиксирани в Azure AD Connect
 
@@ -43,4 +43,4 @@ ms.locfileid: "49560429"
 За повече информация вижте [Разрешаване на услугата за самостоятелно нулиране на паролата за Azure Active Directory нефиксирани към локална среда](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Когато администратор нулира паролата на потребител в портала на Azure, ако този потребител е синхронизиран с външни или хеширани пароли, паролата се записва обратно в локалното. Тази функция в момента не се поддържа в портала за администриране на Office.
+>  Когато администратор нулира паролата на потребител в портала на Azure, ако този потребител е синхронизиран с външни или хеширани пароли, паролата се записва обратно в локалното. Тази функционалност изисква лиценз за Azure Premium (P1 или P2) и в момента не се поддържа в портала за администриране на Office.
