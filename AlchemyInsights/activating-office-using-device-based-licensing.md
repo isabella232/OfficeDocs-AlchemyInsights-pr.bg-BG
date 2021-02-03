@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697870"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094026"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез базирано на устройства лицензиране
 
-> [!NOTE]
-> [Активирането на Office базирано на устройства](https://aka.ms/officedba) за клиенти в САЩ вече не е одобрено. Насърчаваме организациите да планират нови приложения на Microsoft 365 за образование (устройство) за клиенти в образованието.
+Базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise е достъпно като лиценз само за някои търговски клиенти и за някои клиенти в образованието. За по-подробна информация вижте: [базирано на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-За да активирате Office, като използвате базираното на устройства лицензиране, трябва да разполагате с лиценз за добавката Microsoft 365 за образование (устройство), която е достъпна само за клиенти в образованието и е достъпна само чрез записвания за образователни решения (ЕСЗ). Вижте [изисквания за използването на базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+За да активирате приложенията на Microsoft 365 за Enterprise чрез лицензиране на устройства, вижте:
 
-
-За по-подробна информация за инсталиращата програма вижте:
-
+- [Изисквания за използване на лицензи, базирани на устройства, за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Стъпки за конфигуриране на базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Управление на лицензи за устройства](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-За указания за отстраняване на неизправности вижте [отстраняване на неизправности при лицензиране на устройства за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+За указания за отстраняване на неизправности вижте [отстраняване на неизправности при лицензиране на устройства за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+> [!NOTE]
+> Ако приложенията на Microsoft 365 вече са инсталирани и активирани с базирано на потребители лицензиране на абонамент или активиране на споделен компютър, ще трябва да нулирате състоянието на лиценза на устройството, преди то да премине към лицензиране на устройството. За да върнете началното състояние на състоянието на активиране, вижте [нулиране на приложенията на Microsoft 365 за състояние на активиране на Enterprise](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
