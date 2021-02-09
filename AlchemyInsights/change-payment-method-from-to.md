@@ -1,31 +1,29 @@
 ---
 title: Промяна на метода на плащане
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681735"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152583"
 ---
 # <a name="change-payment-method-fromto"></a>Промяна на метода на плащане от/на
 
 1. **Преминаване от фактура към кредитна карта или банкова сметка**
 
-    - Когато преминавате от плащане с фактура към плащане с кредитна карта или банкова сметка, ние автоматично създаваме нов абонамент, преместваме вашите потребители към новия абонамент и след това да забраняваме вашия стар абонамент. Не се безпокойте – вашите потребители няма да усетят прекъсване на услугата и цялата им информация ще бъде достъпна чрез новия абонамент. 
-
-    - Следвайте стъпките, документирани в [Преминаване от фактура към кредитна карта или банкова сметка](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Не можете автоматично да сменяте плащане чрез фактура, за да плащате с различен начин на плащане. Вместо това ще трябва да [закупите друг абонамент](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) , за който е платено с кредитна или дебитна карта или банкова сметка, за [да прехвърлите всички потребители към новия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)и след това да [отмените стария абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Преминаване от кредитна карта или банкова сметка към фактура**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681735"
 
     - Ако сумата на вашата поръчка е твърде висока, може да се изисква проверка на кредита. Ако е така, виждате съобщението "Не са изпълнени условията за преминаване към фактура. Поръчката ви изисква проверка на кредита." В този случай можете да преминете към ръчно плащане чрез фактура.
 
-    - Следвайте стъпките, документирани в [Преминаване от кредитна карта или банкова сметка към фактура](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice), за да изпълните ръчно промяната.
+    - Следвайте стъпките в [Как мога да променям от плащания с кредитна карта към фактура?](how-do-i-change-from-credit-card-payments-to-invoice.md) за да завършите ръчна промяна.
 
-За повече информация вижте [Промяна на вашия метод на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+За повече информация вижте [как да платите за абонамента си](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

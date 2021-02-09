@@ -1,35 +1,37 @@
 ---
 title: ЧЗВ за плащане
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "5128"
-ms.openlocfilehash: ef147642ac058892fb55e6384c196b24c78c57fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6368b0c19b84cfb9b55de2993a7beadd32d383fa
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662377"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152402"
 ---
 # <a name="payment-faq"></a>ЧЗВ за плащане
 
-Управление на плащанията в **центъра за администриране на Microsoft 365**. 
+Управлявайте плащанията в **центъра за администриране на Microsoft 365**.
 
-- Отидете на **фактуриране > [продуктите си](https://go.microsoft.com/fwlink/p/?linkid=842054) ** , за да дадете или промените методите за плащане на абонамента.
-- Отидете на **Фактуриране > [Методи на плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806)**, за да добавите/актуализирате/премахнете методи на плащане.
+- Отидете на **фактуриране > [продуктите си](https://go.microsoft.com/fwlink/p/?linkid=842054)** , за да дадете или промените методите за плащане на абонамента.
+- Отидете на плащане **> [методи за плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806)** , за да добавите, актуализирате, смените или изтриете методите на плащане.
 
 - **Методи на плащане** – ако плащате с кредитна карта или банкова сметка, методът на плащане, който е свързан с абонамента ви (ите), се таксува в рамките на няколко дни след създаването на фактурата. Ако плащането е неуспешно, актуализирайте метода на плащане. За повече информация вижте [управление на начина на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Известия за просрочие** – плащането може да бъде отхвърлено по няколко причини, включително когато е изтекла кредитната карта. Можете да използвате функцията **Уреждане на баланс** по всяко време, за да промените информацията за своята кредитната карта и веднага да подадете отново плащането. За повече информация вж. [Какво става, ако кредитната ми карта е отхвърлена и плащането ми е просрочено?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) **Важно**: след като сте актуализирали вашия метод на плащане, е възможно все още да се сблъсквате с известия за просрочие или отказани плащания, ако не сте свързали метода на плащане с вашия абонамент. Можете да промените метода на плащане за един или няколко абонамента. За повече информация вижте [управление на начина на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+- **Известия за просрочие** – плащането може да бъде отхвърлено по няколко причини, включително когато е изтекла кредитната карта. Можете да използвате функцията **Уреждане на баланс** по всяко време, за да промените информацията за своята кредитната карта и веднага да подадете отново плащането. За повече информация вижте [какво да направя, ако имам непогасен баланс?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
+    **Важно**: след като сте актуализирали вашия метод на плащане, е възможно все още да се сблъсквате с известия за просрочие или отказани плащания, ако не сте свързали метода на плащане с вашия абонамент. Можете да промените метода на плащане за един или няколко абонамента. За повече информация вижте [управление на начина на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 - **Честота на плащане и фактуриране** – сметките се генерират ежемесечно или годишно, в зависимост от честотата на фактуриране, избрана при плащането. Това може да се промени по всяко време. За повече информация вж. [Промяна на честотата на фактуриране](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
-За пълното ръководство относно плащането на вашия абонамент вж. [Плащане на абонамент](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide).
+За пълно ръководство относно плащането за вашия абонамент вижте [как да платите за абонамента си](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
