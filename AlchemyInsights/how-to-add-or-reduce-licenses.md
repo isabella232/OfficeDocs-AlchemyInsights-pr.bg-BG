@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307259"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232428"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Добавяне или премахване на лицензи за вашия абонамент
 
-Ето как да добавите или премахнете лицензи.
-  
-1. В центъра за администриране отидете на страницата **Фактуриране**на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**Гледайте видео** , което показва как да направите това: [купуване на нови лицензи](https://go.microsoft.com/fwlink/p/?linkid=2154857) или [Премахване на съществуващи лицензи](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+
+1. В центъра за администриране отидете на страницата **Фактуриране** на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 2. В раздела **продукти** Намерете абонамента, за който искате да закупите или премахнете лицензи. Изберете **още действия** (три точки), след което изберете **купуване на лицензи**.
 3. Ако искате да намалите броя на лицензите, в горния край на екрана **Купете лицензи** изберете **Премахване на лицензи**.
 4. За закупуване или премахване на лицензи под **ново количество** в полето **общо лицензи** въведете общия брой лицензи, които искате за този абонамент. Например ако имате лицензи на 100 и искате да добавите още 25, въведете 125. Ако искате да премахнете 25 лиценза, Въведете 75.
@@ -34,6 +33,6 @@ ms.locfileid: "48307259"
 
 **Ресурси**
   
-- [Закупуване или премахване на лицензи за абонамент](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 - [Отказ от Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 - [Изпробвайте или Купете абонамент за Microsoft 365 за фирми](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
