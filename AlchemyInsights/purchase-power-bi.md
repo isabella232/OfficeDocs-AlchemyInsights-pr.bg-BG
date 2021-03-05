@@ -2,36 +2,35 @@
 title: Закупуване на Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693328"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469615"
 ---
 # <a name="purchase-power-bi"></a>Закупуване на Power BI
 
 Power BI може да бъде закупен в **центъра за администриране на Microsoft 365**.
 
-1. Отидете на страницата за ** [закупуване](https://go.microsoft.com/fwlink/p/?linkid=868433) на > услуги за фактуриране** .
+1. Отидете на страницата за **[закупуване](https://go.microsoft.com/fwlink/p/?linkid=868433) на > услуги за фактуриране** .
+2. Използвайте полето за търсене, за да потърсите "Power BI".
+3. Изберете плана на Power BI, който искате да закупите, изберете по- **подробно** и след това изберете **купуване**.
+4. Въведете броя на лицензите, които са ви нужни, и изберете дали да плащате всеки месец, или за цялата година. Изберете дали искате автоматично да присвоявате лицензи на всеки, който в момента няма лиценз. След това изберете **извличане сега**.
+5. Прегледайте информацията за цените и изберете **напред**.
+6. Осигурете своята информация за плащане и след това изберете правене на **Поръчка**  >  **отидете на началната страница на администратора**.
 
-2. Използвайте полето за търсене, за да търсите в "Power BI".
+За да дадете лицензи на потребители, вижте даване [на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-3. Изберете плана на Power BI, който искате да закупите.
-
-4. Изберете броя на потребителите, които ще използват Power BI.
-
-За да дадете лицензи на потребители, вижте даване [на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-За да закупите още или да премахнете лицензи, вижте [Добавяне/Премахване на лицензи за абонамент](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+За да закупите повече или да премахнете лицензи, вижте [закупуване или премахване на лицензи за вашия абонамент за бизнес](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
