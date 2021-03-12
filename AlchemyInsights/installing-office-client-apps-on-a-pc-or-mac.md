@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667831"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708339"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Инсталиране на клиентски приложения на Office на PC или MAC
 
 За да инсталирате клиентските приложения на Office, уверете се, че имате абонамент за Office 365 или Microsoft 365 [, който включва клиентските приложения на Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), например Microsoft 365 Business Standard, приложенията Microsoft 365 за бизнеса или приложенията на Microsoft 365 за предприятия.
 
-**Забележка**: [Office Home и Business](https://products.office.com/home-and-business) е [продукт Office за дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), а не част от абонамент за фирми. Project Online Essentials не включва настолната версия на Project, така че не се изисква инсталиране. Потребителите на Visio (план 1) имат достъп до Visio в уеб, тъй като планът не включва настолното на приложение Visio. Настолните приложения на Project и Visio не се предлагат за Mac.
+**Забележка**: [Office Home и Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) е [продукт Office за дома](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), а не част от абонамент за фирми. Project Online Essentials не включва настолната версия на Project, така че не се изисква инсталиране. Потребителите на Visio (план 1) имат достъп до Visio в уеб, тъй като планът не включва настолното на приложение Visio. Настолните приложения на Project и Visio не се предлагат за Mac.
 
 Ако имате абонамент, който включва приложения на Microsoft 365, няма да виждате опция за инсталирането му, освен ако нямате [присвоен лиценз](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ако сте администратор на Office 365, отговорен за даване на лицензи, вижте [Даване на лицензи на потребители](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Освен това използвайте [Настройки за изтегляне на софтуер от Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365), за да изберете дали потребителите да могат да инсталират приложенията на Office на свои собствени устройства.
 
