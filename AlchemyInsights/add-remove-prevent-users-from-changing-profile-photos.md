@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687783"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704739"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Добавяне, премахване или забраняване на потребителите да променят снимките на профила
 
@@ -25,6 +25,6 @@ ms.locfileid: "47687783"
 
 - **Премахване на снимка на профила:** Снимките в профила могат да бъдат премахнати от администратор в [Azure Active Directory за управление на потребители](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) или от потребител в техния потребителски профил в Microsoft Teams.
 
-- **Блокиране на промените на снимката на профила:** Промените в снимката могат да бъдат блокирани за всички Microsoft 365 *, като добавите правила за Outlook Web App за статията, като [заключвате снимките или ограничавате разрешенията, за да промените снимката на профила в microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Блокиране на промените на снимката на профила:** Промените в снимката могат да бъдат блокирани за всички Microsoft 365 *, като добавите правила за Outlook Web App за статията, като [заключвате снимките или ограничавате разрешенията, за да промените снимката на профила в microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-* Имайте предвид, че Microsoft Teams в момента не поддържа правилата за Outlook Web App, за да блокира промените в снимката, но планира да добави поддръжка за тази функция в ранния 2020.
+* Microsoft Teams в момента не поддържа правилата за Outlook Web App, за да блокира промените в снимката, но планира да добави поддръжка за тази функция в ранния 2020.

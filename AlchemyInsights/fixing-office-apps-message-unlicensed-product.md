@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236078"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704919"
 ---
 # <a name="unable-to-activate-office"></a>Не можете да активирате Office
 
 - Проверете дали срокът на абонамента ви не е изтекъл.
-- Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Office 365 Business или Business Premium, и [Проверете дали потребителят има присвоен лиценз](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Office 365 Business или Business Premium, и [Проверете дали потребителят има присвоен лиценз](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Уверете се, че потребителят влиза в Office със същия акаунт, на който е присвоен лицензът.
 - Проверете [Страницата за състояние на услугата Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 - Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да потвърдите, че не блокират достъпа до интернет на приложенията на Microsoft 365. Вижте [Диапазони на URL и IP адреси за Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Диапазони от URL и IP адреси за Office 365").

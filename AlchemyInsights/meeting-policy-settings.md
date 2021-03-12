@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794323"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704595"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Управление на правила за събрания в Microsoft Teams
 
@@ -30,6 +30,6 @@ ms.locfileid: "47794323"
 - За да научите повече за създаването на правила, извършването на промени и присвояването на потребители на правилата, вижте [управление на правилата за събрания в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - За да направите промени в правилата с помощта на кратки команди на PowerShell, вижте [общ преглед на PowerShell за Teams](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Трябва да използвате модула на [Skype за бизнеса PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) за правилата за събрания в Teams. 
+    - Трябва да използвате модула на [Skype за бизнеса PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) за правилата за събрания в Teams. 
     - Прегледайте [документацията * – CsTeamsMeetingPolicy кратки команди](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) за повече информация.
 
