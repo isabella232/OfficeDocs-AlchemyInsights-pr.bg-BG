@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728240"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709239"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="a2d0c-102">Проблеми при споделяне с Outlook Customer Manager</span><span class="sxs-lookup"><span data-stu-id="a2d0c-102">Problems sharing with Outlook Customer Manager</span></span>
+# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="54e10-102">Проблеми при споделяне с Outlook Customer Manager</span><span class="sxs-lookup"><span data-stu-id="54e10-102">Problems sharing with Outlook Customer Manager</span></span>
 
-<span data-ttu-id="a2d0c-103">Ако имате проблеми със споделянето на Outlook Customer Manager, ви препоръчваме първо да изчиствате кеша на браузъра си.</span><span class="sxs-lookup"><span data-stu-id="a2d0c-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="a2d0c-104">Например в Internet Explorer можете да направите следното:</span><span class="sxs-lookup"><span data-stu-id="a2d0c-104">For example in Internet Explorer you would:</span></span>
+<span data-ttu-id="54e10-103">Ако имате проблеми със споделянето на Outlook Customer Manager, ви препоръчваме първо да изчиствате кеша на браузъра си.</span><span class="sxs-lookup"><span data-stu-id="54e10-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="54e10-104">Например в Internet Explorer можете да направите следното:</span><span class="sxs-lookup"><span data-stu-id="54e10-104">For example in Internet Explorer you would:</span></span>
 
-1. <span data-ttu-id="a2d0c-105">Отидете на **Настройки**  >  **Общи** настройки на > **Browsing history**под  >  **кеширания и бази данни**за хронология на преглеждане.</span><span class="sxs-lookup"><span data-stu-id="a2d0c-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
-2. <span data-ttu-id="a2d0c-106">Изтриване на кеш файлове за уеб сайта "outlookapps.com".</span><span class="sxs-lookup"><span data-stu-id="a2d0c-106">Delete cache files for the website "outlookapps.com."</span></span>
-3. <span data-ttu-id="a2d0c-107">Рестартирайте Outlook.</span><span class="sxs-lookup"><span data-stu-id="a2d0c-107">Restart Outlook.</span></span>
+1. <span data-ttu-id="54e10-105">Отидете на **Настройки**  >  **Общи** настройки на > под  >  **кеширания и бази данни** за хронология на преглеждане.</span><span class="sxs-lookup"><span data-stu-id="54e10-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
+2. <span data-ttu-id="54e10-106">Изтриване на кеш файлове за уеб сайта "outlookapps.com".</span><span class="sxs-lookup"><span data-stu-id="54e10-106">Delete cache files for the website "outlookapps.com."</span></span>
+3. <span data-ttu-id="54e10-107">Рестартирайте Outlook.</span><span class="sxs-lookup"><span data-stu-id="54e10-107">Restart Outlook.</span></span>
 
-<span data-ttu-id="a2d0c-108">За повече информация относно споделянето вижте [споделяне на информация в Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span><span class="sxs-lookup"><span data-stu-id="a2d0c-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span></span>
+<span data-ttu-id="54e10-108">За повече информация относно споделянето вижте [споделяне на информация в Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).</span><span class="sxs-lookup"><span data-stu-id="54e10-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).</span></span>
