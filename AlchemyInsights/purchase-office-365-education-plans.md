@@ -13,28 +13,28 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693400"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708771"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 за образование – одобрено
 
 Одобрени сте за Office 365 Education.  За да закупите:
 
-1. Придвижете се до услуги за закупуване на **фактури**  >  [Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog).
+1. Придвижете се до услуги за закупуване на **фактури**  >  [](https://portal.office.com/AdminPortal/Home#/catalog).
 
 2. Изберете от списъка под **Планове за образование**.
 
 3. Задръжте мишката над абонамента, който искате да закупите, и щракнете върху **Купете сега**.
 
-4. [Настройка на вашия клиент за Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
+4. [Настройка на вашия клиент за Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant).
 
 **Включване на Teams**
 
-- За да включите Microsoft Teams за всички потребители, отидете на настройки за **настройките**на  >  **Settings**  >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) и след това щракнете върху квадратчето за отметка **включи Microsoft Teams за всички потребители** . Щракнете върху **Запиши промените**.
+- За да включите Microsoft Teams за всички потребители, отидете на настройки за **настройките** на  >    >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) и след това щракнете върху квадратчето за отметка **включи Microsoft Teams за всички потребители** . Щракнете върху **Запиши промените**.
 
 **Отдалечено преподаване и обучение**
 

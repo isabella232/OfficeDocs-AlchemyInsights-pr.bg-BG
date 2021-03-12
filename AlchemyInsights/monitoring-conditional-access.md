@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366417"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708663"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Наблюдение на условния достъп за Exchange
 
@@ -27,7 +27,7 @@ ms.locfileid: "48366417"
 - В портала на Azure отидете на настройване на съответствието на > устройства. Под управление щракнете върху правила. В списъка с правила за съответствие Проверете дали даден профил е присвоен на устройството на потребителя. Ако не е присвоен профил, в противен случай няма да може да се потвърди състоянието на съответствие на устройството.
 - Редактирайте възложената задача за условен достъп на потребителя.
 
-1. В портала на Azure отидете на **Настройване**на правилата за  >  **условен достъп**  >  **Policies**.
+1. В портала на Azure отидете на **Настройване** на правилата за  >  **условен достъп**  >  .
 2. Изберете правило от списъка.
 3. Щракнете върху потребители и групи.
 4. За да насочвате определени правила към някого, добавете ги към списъка включване. За да се гарантира, че даден човек е пропуснат от правилата, добавете ги към списъка за изключване.
@@ -38,8 +38,8 @@ ms.locfileid: "48366417"
 
 [Отстраняване на неизправности при CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Правила за отстраняване на неизправности](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Правила за отстраняване на неизправности](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 [Следене на съответствието на устройството](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Забележка: тези стъпки са полезни само при отстраняване на неизправности с функцията за условен достъп на Azure Active Directory. Възможно е също така да поставите под карантина устройството блокирането на имейл достъпа чрез правилата за Exchange. Повече информация за управлението на устройства на Exchange можете да намерите [тук](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Забележка: тези стъпки са полезни само при отстраняване на неизправности с функцията за условен достъп на Azure Active Directory. Възможно е също така да поставите под карантина устройството блокирането на имейл достъпа чрез правилата за Exchange. Повече информация за управлението на устройства на Exchange може да бъде намерена [тук] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

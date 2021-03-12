@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689943"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708987"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Отстраняване на проблеми при записването на устройства с Android в Microsoft
 
@@ -34,7 +34,7 @@ ms.locfileid: "47689943"
 
 2. Актуализирайте устройството с Android 6,0 или по-нова версия.
 
-3. Забранете Samsung Smart Manager от управлението на портала за фирми за настройване. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) за повече подробности относно тези проблеми и резолюции.
+3. Забранете Samsung Smart Manager от управлението на портала за фирми за настройване. Прегледайте [този документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) за повече подробности относно тези проблеми и резолюции.
 
  **Невалиден тип потребителски лиценз** или **потребителско име не е разпозната грешка:** потребителят трябва да получи лиценз за настройване или EMS. Прегледайте тези документи, за да дадете лиценз чрез: център за администриране на Office или портал на Azure.
   
@@ -42,6 +42,6 @@ ms.locfileid: "47689943"
   
 1. Използвайте [портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , за да диагностицирате и отстраните чести неуспешни записвания. Прегледайте [този документ](https://docs.microsoft.com/intune/help-desk-operators) за повече подробности.
 
-2. Прегледайте [този документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) за списък с често срещани грешки, които забраняват записването и резолюциите във всеки от тях.
+2. Прегледайте [този документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) за списък с често срещани грешки, които забраняват записването и резолюциите във всеки от тях.
 
 3. [Научете как да запишете устройства с Android в Microsoft](https://docs.microsoft.com/intune/android-enroll).

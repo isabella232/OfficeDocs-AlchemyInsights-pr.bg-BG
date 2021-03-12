@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721762"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733838"
 ---
 # <a name="11-call-recording"></a>запис за обаждане на 1:1
 
-за да се запишат промените в правилата на 1:1 за записване в Teams. За повече информация вижте следната публикация в центъра за съобщения:
+Администраторите трябва да предприемат действие сега, за да продължат да позволяват на потребителите да записват 1:1 повиквания.
+ 
+От 12 Април 2021 г. ние започваме да прилагаме опцията за правила за *AllowCloudRecordingForCalls* за набиране на нови отбори. 
 
-[Въведение в правилата за записване на обаждания за 1:1](https://admin.microsoft.com/AdminPortal/Home)
+В момента възможностите за записване на повиквания на 1:1 се контролират от опцията *AllowCloudRecording* в правилата за събрания в Teams. Ако вашите потребители имат разрешение за записване на събрания на Teams, те също могат да записват 1:1 повиквания.
+
+Ако предпочитате да блокирате всички потребители от записването на повиквания на 1:1, не е необходимо да предприемате никакви действия. Опцията за правила за *AllowCloudRecordingForCalls* повиквания ще бъде $FALSE по подразбиране.
+
+Тази промяна е документирана в следния център за съобщения Публикувай: [(актуализиран) 1:1 за записване на правила за запис на повикването](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) , за да зададете опцията за правила за обаждания на Teams, трябва да използвате [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+
+**За да разрешите записването на повикванията в 1:1 повиквания:** Set-CsTeamsCallingPolicy в Global-AllowCloudRecordingForCalls $True
+
+**За да забраните записването на повиквания в 1:1 обаждания:** Set-CsTeamsCallingPolicy за глобално AllowCloudRecordingForCalls $FALSE
+
