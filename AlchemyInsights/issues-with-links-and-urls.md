@@ -3,7 +3,7 @@ title: Проблеми с връзки и URL адреси
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974187"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707871"
 ---
 # <a name="issues-with-links-and-urls"></a>Проблеми с връзки и URL адреси
 
-Пренасочване на URL адреси и отговори (и двата израза могат да се сменят) са URL адресите, използвани от платформата за самоличност на Microsoft, за да се върнат заявени маркери за приложения. За информация за тези URL адреси вижте следните статии:
+URL адресите за пренасочване на URI/отговор (и двата израза са взаимозаменяеми) са URL адресите, използвани от платформата за самоличност на Microsoft за връщане на маркерите, поискани от приложението. За повече информация относно тези URL адреси вижте следните статии:
 
-- [Ситуации на удостоверяване и сценарии за приложения](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – информация за пренасочване на URI адреси в страницата за **регистрация на приложението** за всеки сценарий.
-- [Пренасочване на ограничения и ограничения за URL адреси](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Потоци за удостоверяване и сценарии за приложения](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – информация за URI за пренасочване в страницата за **регистриране на приложенията** за всеки сценарий.
+- [Ограничения за URI/отговори за пренасочване](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Не знам как да регистрирам URL адреса на правилния URI/отговор за моето приложение**
+**Не знам как да регистрирам правилния URL адрес за URI/отговор за пренасочване за моето приложение**
 
-Когато влезете с приложението, което разработвате, ако в диалоговия прозорец за влизане се покаже **AADSTS50011: URL адресът на отговора, зададен в искането, не съответства на URL адресите за отговор, <your app ID> конфигурирани за приложението**, ще трябва да добавите към вашата регистрация на приложението, URI за пренасочване, който използва кодът ви в заявката за идентификация към платформата Microsoft Identity.
+Ако при влизане с приложението, което разработвате, в диалоговия прозорец за влизане се покаже **AADSTS50011: URL адресът за отговор, зададен в искането, не съответства на URL адресите за отговор, конфигурирани за приложението <your app ID>**, ще трябва да добавите към регистрацията на приложението си този URI за пренасочване, който се използва в кода ви за искането за маркер, изпратено към платформата за самоличност на Microsoft.
 
-За да добавите URL адрес за отговор, отидете в раздела **удостоверяване** на страницата за **регистрация на приложението** в портала на Azure и добавете запис в секцията **пренасочване на URI** . Пренасочване на URI адреси въвеждате (уеб или мобилно/настолно). Стойността, която трябва да въведете, зависи от типа на приложението, което изграждате, както е описано по-долу:
+За да добавите URL адрес за отговор, посетете раздела **Удостоверяване** в страницата **за регистриране на приложението** в портала на Microsoft Azure и добавете запис в секцията **URI за пренасочване**. Стойността, която трябва да въведете, зависи от типа на приложението, което изграждате, както е описано по-долу:
 
-- За приложенията от една страница и уеб приложенията URL адресът на отговора е URL адрес в приложението. Вижте [регистрация на приложения от една страница](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) или [регистрирайте приложение на уеб приложение с помощта на Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- За настолните приложения стойността, която трябва да изберете, зависи от:
-    - платформата (MacOS е различна от Windows или Linux)
-    - Начинът, по който придобивате маркера (интерактивно, с потока на кода на устройството, с интегрирано удостоверяване на Windows [IWA] или с потребителско име и парола).
-    За подробности вижте [настолните приложения – регистрация на приложения – URi за пренасочване](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- За приложения само с една страница и уеб приложения URL адресът за отговор е URL адрес във вашето приложение. Вижте [Регистриране на приложения с една страница](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) или [Регистриране на уеб приложения чрез портала на Microsoft Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- За настолни приложения стойността, която трябва да изберете, зависи от:
+    - платформата (MacOS се различава от Windows и Linux)
+    - начина, по който получавате маркера (интерактивно, чрез поток на код за устройството, чрез интегрирано Windows удостоверяване [IWA] или чрез потребителско име/парола).
+    За подробности вижте [Настолни приложения – Регистриране на приложения – URI за пренасочване](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - За мобилни приложения URI за пренасочване зависи от:
     - платформата (iOS/Android/UWP)
-    - информацията, използвана за създаване на вашето приложение, като например ИД на пакета в iOS, и име на пакета и хеширане на подписа на Android приложението Azure Portal за регистрация ще ви помогне. За подробности вижте [Конфигуриране на платформата и пренасочване на URI адреси](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - информацията, използвана за създаване на вашето приложение, например ИД на пакета в iOS или името на пакета и хеша на подписа в Android. Регистрацията на приложения в портала на Microsoft Azure ще ви помогне. За подробности вижте [Конфигуриране на платформата и URI за пренасочване](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> Уеб API и някои от немите начини за придобиване на маркери (IWA и потребителско име/парола) не изискват URI за пренасочване.
+> За API за уеб и някои негласни начини за придобиване на маркери (IWA и потребителско име/парола) не се изисква URI за пренасочване.
 
-**Разположих своето уеб приложение и когато изпробвам разгърнатото приложение, получавам съобщение за несъответствие на URL адрес на отговор**
+**Разположих уеб приложението и когато го тествам, получавам съобщение за несъответствие в URL адреса за отговор**
 
-Можете да добавите пренасочване на URI за всички местоположения, на които разположите своето уеб приложение. За повече информация вижте [регистриране на приложение на уеб приложение чрез портала на Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+Добавете URI за пренасочване за всички местоположения, където разполагате уеб приложението. За повече информация вижте [Регистриране на уеб приложение чрез портала на Microsoft Azure ](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
 > [!NOTE]
-> Добавете URI за пренасочване за местоположение веднага след като разположите приложението в това местоположение.
+> Добавете URI за пренасочване за дадено местоположение веднага щом разположите приложението в това местоположение.
 
-**Не мога да запиша достатъчно URL адреси за отговор**
+**Не мога да регистрирам достатъчно URL адреси за отговор**
 
-Вие сте ISV и имате един или няколко пренасочващи URI адреси за всеки ваш клиент. Искате да мигрирате от ADAL/Azure AD v 1.0 към MSAL/Microsoft Identity Platform и ще достигнете [максималния брой пренасочващи URI адреси](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). За да отстраните това, [Добавете пренасочване на URI към Service принципали](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) , които отговарят на всеки от вашите клиенти.
+Вие сте НДС и имате един или няколко URI за пренасочване за всеки ваш клиент. Искате да мигрирате от ADAL/Azure AD v1.0 към MSAL/платформата за самоличност на Microsoft и достигате [максималния брой URI за пренасочване](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). За решаване на този проблем [добавете URI за пренасочване към принципалите на услугата,](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) които отговарят на всеки от вашите клиенти.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715154"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707223"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Автоматично прилагане на етикети за чувствителност
 
@@ -37,4 +37,4 @@ ms.locfileid: "47715154"
 За повече информация относно етикетите за чувствителност и тяхното прилагане автоматично към съдържание вижте:
 
 - [Общ преглед на етикетите за чувствителност](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Автоматично прилагане на етикет за чувствителност към съдържанието](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Автоматично прилагане на етикет за чувствителност към съдържанието](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

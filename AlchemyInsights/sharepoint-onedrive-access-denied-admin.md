@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 22f5966fdae563c44affb7d0447787a4ee0aca93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767641"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707943"
 ---
 # <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Отстраняване на проблеми с отказан достъп на съобщения в центъра за администриране на SharePoint/OneDrive
 
-Ако получавате съобщение за отказан достъп, когато се опитвате да отидете в център за администриране на SharePoint/OneDrive, се уверете, че сте [задали лиценз на потребителя](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Ако потребителят има лиценз, трябва също да се уверите, че му е [присвоена административна роля](hhttps://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , която може да получи достъп до центровете за администриране.
+Ако получавате съобщение за отказан достъп, когато се опитвате да отидете в център за администриране на SharePoint/OneDrive, се уверете, че сте [задали лиценз на потребителя](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Ако потребителят има лиценз, трябва също да се уверите, че му е [присвоена административна роля](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , която може да получи достъп до центровете за администриране.
 
 Този проблем може да възникне и когато потребителят бъде изтрит и пресъздаден със същото основно потребителско име (UPN). Новият акаунт се създава с помощта на различна стойност на PUID (уникален ИД за Passport). Когато потребителят се опитва да получи достъп до колекция от сайтове или техния OneDrive, потребителят има неправилни PUID. Вторият сценарий включва синхронизирането на справочен указател с организационната единица за Active Directory (OU). Ако потребителите вече са влезли в SharePoint, а след това бъдат преместени в друга ОЕ и да се синхронизират с SharePoint, може да изпитате този проблем.
 

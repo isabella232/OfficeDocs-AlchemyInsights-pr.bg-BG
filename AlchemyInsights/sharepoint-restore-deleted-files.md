@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797537"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707511"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Възстановяване на изтрит файл или папка
 
@@ -24,7 +24,7 @@ SharePoint Online запазва архивни копия на цялото с�
 
 Когато изтриете елемент или сайт от SharePoint, той не се премахва веднага. Изтритите елементи отиват в кошчето за определен период от време. През това време можете да възстановите елементите, които сте изтрили, в първоначалното им местоположение. За повече информация посетете тази връзките по-долу.
 
-[Възстановяване на елементи в кошчето на сайт на SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
+[Възстановяване на елементи в кошчето на сайт на SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
 
 [Възстановяване на изтрити файлове или папки в OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 

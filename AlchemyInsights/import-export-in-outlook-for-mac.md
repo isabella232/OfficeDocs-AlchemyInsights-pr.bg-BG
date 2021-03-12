@@ -14,18 +14,18 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667903"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708087"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Импортиране/експортиране в Outlook for Mac 
 
 Експортиране
 1. В раздела " **инструменти** " изберете " **експортиране**".
-2. В полето **Запиши като** , под **Предпочитани**изберете папката **изтегляния** и изберете **Запиши**.
+2. В полето **Запиши като** , под **Предпочитани** изберете папката **изтегляния** и изберете **Запиши**.
 3. Когато видите известието, че експортирането е завършило, изберете **Готово**.
 
 Импортиране
@@ -37,4 +37,4 @@ ms.locfileid: "47667903"
 
 За пълен набор от инструкции за импортиране и експортиране на Outlook for Mac Вижте [Импортиране и експортиране на имейл, контакти и календар на Outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-За да получите поддръжка в приложението за проблеми в Outlook for Mac, отворете Outlook и изберете **помощ**за  >  **Свързване с поддръжката**. Въведете въпроса си и член на екипа за поддръжка на Outlook for Mac ще се свърже с вас. [Свързване с поддръжката в Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+За да получите поддръжка в приложението за проблеми в Outlook for Mac, отворете Outlook и изберете **помощ** за  >  **Свързване с поддръжката**. Въведете въпроса си и член на екипа за поддръжка на Outlook for Mac ще се свърже с вас. [Свързване с поддръжката в Outlook for Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
