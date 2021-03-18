@@ -1,5 +1,5 @@
 ---
-title: Проблеми с URL адреса на прокси на приложението
+title: Проблеми с URL адреса на прокси приложение
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -22,18 +22,18 @@ ms.contentlocale: bg-BG
 ms.lasthandoff: 03/10/2021
 ms.locfileid: "50641471"
 ---
-# <a name="application-proxy-url-issues"></a>Проблеми с URL адреса на прокси на приложението
+# <a name="application-proxy-url-issues"></a>Проблеми с URL адреса на прокси приложение
 
-За отстраняване на проблеми, свързани с URL адреса на прокси на приложението, вижте:
+За отстраняване на проблеми, свързани с URL адреса на прокси приложение, вижте:
 
-- [Връзките на страницата не работят за приложение на Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  - Ръководство за отстраняване на проблеми, свързани с това, че връзките в прокси приложението на Azure Active Directory (AD) не работят правилно.
+- [Връзките на страницата не работят за приложение на Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) – Ръководство за отстраняване на проблеми, свързани с това, че връзките в прокси приложението на Azure Active Directory (AD) не работят правилно.
 
-- [Конфигурирайте персонализирани домейни с Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - Информация за създаване на външен URL адрес за вашите потребители.
+- [Конфигуриране на персонализирани домейни с Azure Active Directory Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain) – Информация за създаване на външен URL адрес за вашите потребители.
 
-- [Пренасочване на твърдо кодирани връзки за приложения, публикувани с Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  - Информация за превод на вградени URL адреси
+- [Пренасочване на твърдо кодирани връзки за приложения, публикувани с Azure Active Directory Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation) – Информация за превод на вградени URL адреси
 
-- [Задайте персонализирана начална страница за публикувани приложения, като използвате Azure AD Application Proxy ](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - Когато публикувате приложение с Application Proxy, задавате вътрешен URL адрес, но понякога това не е страницата, която потребителите трябва да виждат първо. Задайте персонализирана начална страница, така че потребителите да стигнат до правилната страница, когато имат достъп до приложението. Потребителите ще видят персонализираната начална страница, която сте задали, независимо дали имат достъп до приложението от Моите приложения на Azure Active Directory или от стартовия панел на приложения на Microsoft 365.
+- [Задаване на персонализирана начална страница за публикувани приложения с използване на Azure Active Directory Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Когато публикувате приложение с Application Proxy, задавате вътрешен URL адрес, но понякога това не е страницата, която потребителите трябва да виждат първо. Задайте персонализирана начална страница, така че потребителите да стигнат до правилната страница, когато имат достъп до приложението. Потребителите ще видят персонализираната начална страница, която сте задали, независимо дали имат достъп до приложението от Моите приложения на Azure Active Directory или от стартовия панел на приложения на Microsoft 365.
 
-- Имате въпроси относно конфигурирането на URL адрес на прокси за приложение? Вижте [Добавяне на локално приложение към Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+- Имате въпроси относно конфигурирането на URL адрес на прокси приложение? Вижте [Добавяне на локално приложение към Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
  
 
