@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896892"
+ms.locfileid: "50931637"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Анулирате своя абонамент за Microsoft 365?
 
@@ -30,3 +30,5 @@ ms.locfileid: "50896892"
 4. Изберете **Запиши**.
 
 За да научите повече за отмяната на абонамент или опции, вижте [отмяна на абонамента ви](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+
+Ако искате да продължите да използвате абонамента си за продължителността на вашия пробен период, можете да изключите повтарящо се фактуриране за абонамента. За да научите как, вижте [подновяване на Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
