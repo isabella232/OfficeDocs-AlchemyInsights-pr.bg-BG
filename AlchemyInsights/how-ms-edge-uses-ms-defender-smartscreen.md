@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583184"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398610"
 ---
 # <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Как Microsoft Edge използва Microsoft Defender SmartScreen
 
-За да ви опази в мрежата, Microsoft Edge използва Microsoft Defender SmartScreen като система за ранно предупреждение срещу уеб сайтове, които извършват фишинг атаки и разпространяват злонамерен софтуер чрез целенасочени атаки.
+За да ви пази в интернет, Microsoft Edge използва Microsoft Defender SmartScreen като система за ранно предупреждение срещу уеб сайтове, които повтарят фишинг атаки и разпространяват злонамерен софтуер чрез фокусирани атаки.
 
-Администраторите могат да конфигурират Microsoft Defender SmartScreen чрез групови правила, настройки на Microsoft за настройка или управление на мобилни устройства (MDM). На базата на това как сте настроили Microsoft Defender SmartScreen, можете да покажете на потребителите предупредителна страница и да им позволите да продължат към сайта или изцяло да блокират сайта.
+Администраторите могат да конфигурират Microsoft Defender SmartScreen с помощта на настройките за групови правила, Microsoft Intune или управление на мобилни устройства (MDM). Въз основа на това как сте настроили Microsoft Defender SmartScreen, можете да покажете на потребителите предупредителна страница и да им позволите да продължат към сайта или изцяло да блокират сайта.
 
-За да научите повече, вижте [поддръжка на Microsoft Edge за Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) и Guard за [приложения на Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2132839).
+За да научите повече, вижте [Поддръжка на Microsoft Edge за Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) и Microsoft Defender Application [Guard](https://go.microsoft.com/fwlink/?linkid=2132839).

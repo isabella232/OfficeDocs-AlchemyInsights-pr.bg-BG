@@ -1,5 +1,5 @@
 ---
-title: Използвайте Microsoft Edge за отдалечено отстраняване на грешки на устройство с Android от компютър за развитие
+title: Използване на Microsoft Edge за отдалечено отстраняване на грешки на устройство с Android от компютър за разработка
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583201"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398682"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Използвайте Microsoft Edge за отдалечено отстраняване на грешки на устройство с Android от компютър за развитие
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Използване на Microsoft Edge за отдалечено отстраняване на грешки на устройство с Android от компютър за разработка
 
-За отдалечено отстраняване на грешки на живо съдържание на устройство с Android от компютъра:
+За отдалечено отстраняване на грешки в живо съдържание на устройство с Android от вашия компютър:
 
-1. Настройте устройството с Android за отдалечено отстраняване на грешки и го Открийте от компютъра за развитие.
-2. От компютъра за развитие Проверете и отгледайте съдържанието на живо на устройството с Android.
-3. Screencast-Live съдържание от устройството с Android на DevTools екземпляр на компютъра за разработване.
+1. Настройте устройството с Android за отдалечено отстраняване на грешки и го открийте от компютъра за разработка.
+2. От компютъра за разработка проверявайте и отстранявайте грешките в живо съдържание на устройството с Android.
+3. Екранна версия на живо съдържание от устройството с Android на екземпляр на DevTools на компютъра за разработка.

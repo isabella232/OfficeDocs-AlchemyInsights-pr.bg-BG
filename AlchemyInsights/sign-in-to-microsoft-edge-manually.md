@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676834"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398646"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Ръчно влизане в Microsoft Edge
 
-Ако потребителят не е влязъл автоматично по време на първокласна среда, потребителят може да влезе ръчно през настройките на браузъра или изплаващо за самоличност. За да управлявате влизане, използвайте следните правила:
+Ако потребителят не е влизал автоматично по време на първото изпълнение, потребителят може ръчно да влезете в настройките на браузъра или в менюто за самоличност. За да управлявате влизането, използвайте следните правила:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – за да се гарантира, че потребителят винаги има служебен профил в Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – за да ограничите влизане в набор от надеждни акаунти.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) -за да забраните влизане или да принудите потребителите да влязат.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – За да сте сигурни, че потребителят винаги има работен профил в Microsoft Edge.
+2. [Ограничаване наSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – За да ограничите влизането до набор от надеждни акаунти.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – За да забраните влизането или да накарате потребителите да впишат.
 
