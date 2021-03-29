@@ -1,9 +1,9 @@
 ---
-title: Още ресурси в правилата за известия
+title: Още ресурси за правилата за известяване
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 30aa184d78a0375c3bd39115715eaf6e520f4e93
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481050"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403192"
 ---
-# <a name="more-resources-on-alert-policies"></a><span data-ttu-id="86da7-102">Още ресурси в правилата за известия</span><span class="sxs-lookup"><span data-stu-id="86da7-102">More resources on alert policies</span></span>
+# <a name="more-resources-on-alert-policies"></a><span data-ttu-id="34af5-102">Още ресурси за правилата за известяване</span><span class="sxs-lookup"><span data-stu-id="34af5-102">More resources on alert policies</span></span>
 
-<span data-ttu-id="86da7-103">За да научите повече, вижте следната статия:</span><span class="sxs-lookup"><span data-stu-id="86da7-103">To learn more, check out the following article:</span></span>
+<span data-ttu-id="34af5-103">За да научите повече, прегледайте следната статия:</span><span class="sxs-lookup"><span data-stu-id="34af5-103">To learn more, check out the following article:</span></span>
 
-[<span data-ttu-id="86da7-104">Правила за уведомяване в центъра за съответствие на & за защита</span><span class="sxs-lookup"><span data-stu-id="86da7-104">Alert policies in the Security & Compliance Center</span></span>](https://go.microsoft.com/fwlink/?linkid=2103211)
+[<span data-ttu-id="34af5-104">Правила за известяване в центъра за & съответствие</span><span class="sxs-lookup"><span data-stu-id="34af5-104">Alert policies in the Security & Compliance Center</span></span>](https://go.microsoft.com/fwlink/?linkid=2103211)

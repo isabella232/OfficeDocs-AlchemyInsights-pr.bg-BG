@@ -1,9 +1,9 @@
 ---
-title: Разблокиране на акаунт с помощта на управление на заплахи
+title: Деблокиране на акаунт с помощта на управлението на заплахи
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5092f87abb99c8b8612d3aa0384dcb65a7c56912
-ms.sourcegitcommit: 9181153a51a8624d5e83ca5824c3865c85d0644e
+ms.openlocfilehash: 56df5d66df9559663fbb34ae2349d3e6d01dd678
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841409"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403012"
 ---
-# <a name="unblock-an-account-by-using-threat-management"></a><span data-ttu-id="95968-102">Разблокиране на акаунт с помощта на управление на заплахи</span><span class="sxs-lookup"><span data-stu-id="95968-102">Unblock an account by using threat management</span></span>
+# <a name="unblock-an-account-by-using-threat-management"></a><span data-ttu-id="e87da-102">Деблокиране на акаунт с помощта на управлението на заплахи</span><span class="sxs-lookup"><span data-stu-id="e87da-102">Unblock an account by using threat management</span></span>
 
-<span data-ttu-id="95968-103">Ето как да направите това:</span><span class="sxs-lookup"><span data-stu-id="95968-103">Here's how to do this:</span></span> 
+<span data-ttu-id="e87da-103">Ето как да направите това:</span><span class="sxs-lookup"><span data-stu-id="e87da-103">Here's how to do this:</span></span> 
 
-1. <span data-ttu-id="95968-104">Отидете в центъра за администриране на [& на Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span><span class="sxs-lookup"><span data-stu-id="95968-104">Go to the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span></span>
-1. <span data-ttu-id="95968-105">Изберете **Преглед на управлението на заплахите**  >  .</span><span class="sxs-lookup"><span data-stu-id="95968-105">Select **Threat management** > **Review**.</span></span> <span data-ttu-id="95968-106">На страницата **Преглед** изберете **[ограничени потребители](https://go.microsoft.com/fwlink/?linkid=2103514)**.</span><span class="sxs-lookup"><span data-stu-id="95968-106">On the **Review** page, select **[Restricted Users](https://go.microsoft.com/fwlink/?linkid=2103514)**.</span></span>
-1. <span data-ttu-id="95968-107">Ако компрометираният акаунт се показва в списъка, щракнете върху **разблокиране на акаунт**.</span><span class="sxs-lookup"><span data-stu-id="95968-107">If the compromised account shows up in the list, click **Unblock Account**.</span></span> <span data-ttu-id="95968-108">Акаунтът би трябвало да може да изпраща съобщения отново, обикновено до един час.</span><span class="sxs-lookup"><span data-stu-id="95968-108">The account should be able to send messages again, usually within an hour.</span></span>
+1. <span data-ttu-id="e87da-104">Отидете в центъра [за защита на Office 365 & съответствие](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span><span class="sxs-lookup"><span data-stu-id="e87da-104">Go to the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span></span>
+1. <span data-ttu-id="e87da-105">Изберете Преглед **на управлението**  >  **на заплахите**.</span><span class="sxs-lookup"><span data-stu-id="e87da-105">Select **Threat management** > **Review**.</span></span> <span data-ttu-id="e87da-106">На страницата **Преглед** изберете **[Ограничени потребители](https://go.microsoft.com/fwlink/?linkid=2103514)**.</span><span class="sxs-lookup"><span data-stu-id="e87da-106">On the **Review** page, select **[Restricted Users](https://go.microsoft.com/fwlink/?linkid=2103514)**.</span></span>
+1. <span data-ttu-id="e87da-107">Ако компрометираният акаунт се покаже в списъка, щракнете върху **Разблокиране на акаунт**.</span><span class="sxs-lookup"><span data-stu-id="e87da-107">If the compromised account shows up in the list, click **Unblock Account**.</span></span> <span data-ttu-id="e87da-108">Акаунтът трябва да може да изпраща съобщения отново, обикновено в рамките на един час.</span><span class="sxs-lookup"><span data-stu-id="e87da-108">The account should be able to send messages again, usually within an hour.</span></span>

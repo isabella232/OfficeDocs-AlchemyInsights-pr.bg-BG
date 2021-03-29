@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583187"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403336"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="8ec34-102">Групови правила в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="8ec34-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="a94d4-102">Групови правила в Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="a94d4-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="8ec34-103">Използвайте [груповите правила](https://go.microsoft.com/fwlink/?linkid=2134623) , налични в Microsoft Edge (версия 77 или по-нова), за да укажете как се изпълнява браузърът във вашата организация.</span><span class="sxs-lookup"><span data-stu-id="8ec34-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="a94d4-103">Използвайте [груповите правила,](https://go.microsoft.com/fwlink/?linkid=2134623) налични в Microsoft Edge (версия 77 или по-нова версия), за да укажете как се изпълнява браузърът във вашата организация.</span><span class="sxs-lookup"><span data-stu-id="a94d4-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
