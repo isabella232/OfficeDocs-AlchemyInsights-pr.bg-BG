@@ -1,11 +1,26 @@
 ---
-Заглавие: "NDR с код на грешка" 554 5.2.2 пощенска кутия, пълна с "MS. author: chrisda: chrisda Manager: dansimp MS. Date: 04/21/2020 MS. целева група: ITPro MS. тема: статия MS. Service: o365-администриране: NOINDEX, NOFOLLOW localization_priority: нормален MS. по избор 
-- 1956
-- 3500007
+title: NDR с код на грешка 554 5.2.2 пощенска кутия пълна
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+ms.date: 04/21/2020
+ms.audience: ITPro
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "1956"
+- "3500007"
+ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: MT
+ms.contentlocale: bg-BG
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403696"
 ---
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR с код на грешка 554 5.2.2 пощенска кутия пълна
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR с код на грешка 554 5.2.2 пощенска кутия, пълна
+Ако получавате NDR с код на грешка "554 5.2.2 пощенска кутия пълен", когато изпращате имейли до публична папка с разрешена поща:  
 
-Ако получавате NDR с код на грешка "554 5.2.2 пощенска кутия е пълна", когато изпращате имейли до публична папка с активиран имейл:  
-
-Използвайте стъпките в [тази](https://aka.ms/554522) статия, за да сте сигурни, че не е достигната публичната папка или квотата за пощенската кутия за публични папки.
+Използвайте стъпките в тази [статия, за](https://aka.ms/554522) да се уверите, че квотата за публична папка или публична папка не е достигната.

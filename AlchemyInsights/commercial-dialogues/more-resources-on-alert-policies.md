@@ -1,9 +1,9 @@
 ---
-title: Още ресурси в правилата за известия
+title: Още ресурси за правилата за известяване
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 30aa184d78a0375c3bd39115715eaf6e520f4e93
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481050"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403192"
 ---
-# <a name="more-resources-on-alert-policies"></a>Още ресурси в правилата за известия
+# <a name="more-resources-on-alert-policies"></a>Още ресурси за правилата за известяване
 
-За да научите повече, вижте следната статия:
+За да научите повече, прегледайте следната статия:
 
-[Правила за уведомяване в центъра за съответствие на & за защита](https://go.microsoft.com/fwlink/?linkid=2103211)
+[Правила за известяване в центъра за & съответствие](https://go.microsoft.com/fwlink/?linkid=2103211)

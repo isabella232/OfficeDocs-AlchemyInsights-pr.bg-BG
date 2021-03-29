@@ -1,9 +1,9 @@
 ---
-title: Преглед на регистрационни файлове за влизане за потребители
+title: Преглед на регистрационните файлове за влизане за потребители
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: ef80ed75fd9074f290dc4658bdef339faed9505b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7e92c01b45fdad7871db734dcd35e4cf611e9e0f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481043"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401968"
 ---
-# <a name="review-sign-in-logs-for-users"></a>Преглед на регистрационни файлове за влизане за потребители
+# <a name="review-sign-in-logs-for-users"></a>Преглед на регистрационните файлове за влизане за потребители
 
 Ето как да направите това:
 
-1. Отидете в **центъра за администриране** на  >  **[Azure Active Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
-1. Изберете влизане в **Azure Active Directory**  >  .
-1. Ако все още нямате абонамент за Azure AD P1 или P2, ще получите подкана да стартирате безплатна пробна версия. Ако искате, щракнете върху **стартиране на безплатна пробна версия на Premium** и след това в полето за Azure ad Premium P2 изберете **безплатна пробна версия**  >  . Безплатният пробен период е за 30 дни.
+1. Отидете в **центровете за администриране**  >  **[на Azure Active Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
+1. Изберете **Влизане в Azure Active Directory**  >  .
+1. Ако все още нямате абонамент за Azure AD P1 или P2, ще получите подкана да започнете безплатна пробна версия. Ако искате, щракнете върху **Стартиране на безплатна пробна версия premium** и след това в полето Azure AD Premium P2 изберете Безплатна **пробна версия**  >  **Активирай**. Безплатната пробна версия е за 30 дни.

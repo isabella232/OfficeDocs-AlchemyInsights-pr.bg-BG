@@ -1,5 +1,5 @@
 ---
-title: Използвайте Jamf, за да конфигурирате настройките за правилата за Microsoft Edge на macOS
+title: Използване на Jamf за конфигуриране на настройките на правилата на Microsoft Edge на macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676914"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403444"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Използвайте Jamf, за да конфигурирате настройките за правилата за Microsoft Edge на macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Използване на Jamf за конфигуриране на настройките на правилата на Microsoft Edge на macOS
 
-За да конфигурирате Microsoft Edge (стабилен канал 81 или по-нова версия) на macOS, използвайте Microsoft Edge manifest файл в Jamf Pro 10,19.
+За да конфигурирате Microsoft Edge (стабилен канал 81 или по-нова версия) на macOS, използвайте файл с манифест на правилата на Microsoft Edge в Jamf Pro 10.19.
 
-За повече информация вижте [Конфигуриране на настройките за правила за Microsoft Edge на MacOS с Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+За повече информация вижте Конфигуриране на [настройките на правилата на Microsoft Edge на macOS с Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
