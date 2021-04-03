@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0a0ee350c4c9a0f0204b4d077f17313f559a6a46
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753696"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505777"
 ---
 # <a name="recording-in-teams"></a>Записване в Teams
 
-Записването на събрание в Microsoft Teams вече може да бъде съхранено в OneDrive SharePoint, за повече информация и за да се откажете, вижте следната публикация в центъра за съобщения: [(актуализирано) Microsoft Teams: записи на събрания, записани в onedrive и SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Записването на събрание на Microsoft Teams вече може да се съхранява в OneDrive или SharePoint за повече информация и за да се включите, вижте следната публикация в центъра за съобщения: [(актуализирана) Microsoft Teams: записи](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640) на събрания, записани в OneDrive и SharePoint
 
-Преместването на мястото за съхранение в OneDrive и SharePoint премахва предишното изискване, което е достъпно за потока във вашия регион.
+Преместването на местоположението ви за съхранение в OneDrive или SharePoint премахва предишното изискване "Поток" да е налично във вашия регион.
 
-За да научите как да **разрешите и конфигурирате функцията за записване** в Teams за вашата организация, **включително контролите за разрешаване или забраняване на записването на събрание за определени потребители**, прегледайте [записа в облака на събранието](https://docs.microsoft.com/microsoftteams/cloud-recording).
+За да научите как да **разрешите и** конфигурирате функцията за запис в Teams за вашата **организация,** включително контроли за разрешаване или забраняване на записването на събрания за определени потребители, прегледайте [записването на събрание в облака на Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
 
-Ако не можете **да записвате в Teams или трябва да разберете как да записвате** в Teams, изпробвайте една от следните статии.
+Ако не можете **да записвате в Teams или трябва да разберете как да записвате** в Teams, изпробвайте една от следните статии:
 
-Ако все още не сте избрали OneDrive SharePoint Storage за записване на събрания на Teams, тези възможности разчитат на поточно предоставяне на регионално и национално равнище. Ако не можете да запишете чек за събрание, за да се уверите, че [потокът е достъпен във вашата страна или регион](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). За повече информация се уверете, че преглеждате следната публикация в центъра за съобщения в портала за администриране: [актуализирана функция: Microsoft Stream Cloud записвания за управление на място за съхранение](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+- Ако все още не сте се включили в място за съхранение в OneDrive или SharePoint за записване на събрание на Teams, тези възможности зависят от наличността на регионалния поток и страната. Ако не можете да запишете проверка на събрание, за да се [уверите, че "Поток" е наличен във вашата страна или регион](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). За повече информация не забравяйте да прегледате следната публикация в центъра за съобщения в портала за администриране: Актуализирана [функция: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-Записът за събрание в Teams [изисква определени лицензи и правила, които да бъдат дадени](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), включително лицензи за поток, за да качвате или изтегляте записи на събрания в Microsoft Stream.
+- Записването на събрание в Teams [изисква да](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)бъдат присвоени определени лицензи и правила, включително лицензи за поточно предаване за качване или изтегляне на записи на събрания в Microsoft Stream.
 
-След като сте потвърдили, че са изпълнени всички изисквания, включително лицензиране, правила и регионална достъпност на потока, прегледайте [записване на събрание в Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+- След като потвърдите, че всички изисквания са изпълнени, включително лицензиране, правила и регионална наличност на "Поток", прегледайте [Записване на събрание в Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
