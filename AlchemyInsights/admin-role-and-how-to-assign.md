@@ -14,21 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686667"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585964"
 ---
 # <a name="admin-roles"></a>Администраторски роли
 
-- За да дадете или да научите повече за администраторските роли, изберете **роли** в [центъра за администриране](https://admin.microsoft.com/Adminportal/Home#/roles).
+- За да присвоите роля, **изберете Активни потребители** в центъра [за](https://admin.microsoft.com/Adminportal/Home#/users)администриране , изберете потребителско име и след това изберете Управление  **на роли**.
 
-- За да научите повече, в центъра за администриране изберете имената на ролите и изберете Присвояване на **роля** или **Сравняване на роли**.
-
-- За да присвоите роля, изберете **активни потребители** в [центъра за администриране](https://admin.microsoft.com/Adminportal/Home#/users), изберете потребителско име и след това изберете  **управление на роли**.
-
-- За повече информация относно дадена роля, щракнете върху **аз** до ролята или вижте [за администраторските роли](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
-
-- Ако имате нужда от помощ за достъпа до съществуващ акаунт на администратор, вижте [връщане към акаунта ви](https://passwordreset.microsoftonline.com/) или [нулиране на паролата ми на администратор](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).
+- За повече информация относно роля щракнете върху **i** до ролята или вижте За [администраторските роли](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
