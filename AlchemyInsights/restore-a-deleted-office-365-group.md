@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
+ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505671"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51597432"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Възстановяване на изтрита група на Microsoft 365
 
 Можете да възстановите изтрита група на Microsoft 365 или Microsoft Teams в рамките на 30 дни от изтриването.
 
-1. За да влезете в центъра за администриране на Microsoft 365 и да изброите изтритите групи и екипи, отидете в центъра за администриране на [Microsoft 365](https://aka.ms/RestoreDeletedGroup).
+1. Отидете в центъра [за администриране на Microsoft 365,](https://aka.ms/RestoreDeletedGroup) за да влезете и да изброите изтритите групи и екипи.
 
     **Забележка:** Влезте с помощта на акаунта, който е присвоен на администратора на клиента или ролята на администратор на групите.
 
