@@ -1,5 +1,5 @@
 ---
-title: Проблеми при инсталирането на актуализации на Exchange Server
+title: Проблеми при инсталиране на актуализации на Exchange Server
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50692893"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645156"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Проблеми при инсталирането на актуализации на Exchange Server
+# <a name="issues-when-installing-exchange-server-updates"></a>Проблеми при инсталиране на актуализации на Exchange Server
 
-Преди да инсталирате актуализации на Exchange Server, вижте раздела "най-добри практики" в статията " [надстройване на Exchange до последната сборна актуализация](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates)". Особено важно е да инсталирате актуализациите с помощта на повишения CMD подкана (освен ако актуализациите не се инсталират чрез Microsoft Update). Това важи и за кумулативните, и за актуализациите на защитата!
+Ако трябва да актуализирате до най-новата кумулативна актуализация (CU) за Exchange Server, можете да използвате, за да получите подробен набор от стъпки, за да актуализирате от [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) текущата си cu до целевата cu.
 
-Ако виждате грешки при инсталирането на актуализации на защитата или след инсталирането на актуализацията, вижте [тази статия за отстраняване на неизправности при неуспешни инсталации](https://aka.ms/exupdatefaq).
+Ако има грешки по време на или след инсталирането на актуализации на Exchange Server, вижте раздела "Най-добри практики" в статията [Надстройване на Exchange до най-новата кумулативна актуализация.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Много е важно да инсталирате актуализации на защитата с помощта на подканата за повишена CMD (ако актуализациите не са инсталирани чрез Microsoft Update).
+
+Ако виждате грешки при инсталиране на актуализации на защитата или след инсталирането на актуализацията, вижте Поправяне на [неуспешни инсталации на актуализациите](https://aka.ms/exupdatefaq)на Exchange Cumulative и Security .
