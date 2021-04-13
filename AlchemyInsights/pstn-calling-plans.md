@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662494"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692455"
 ---
 # <a name="pstn-calling-plans"></a>Планове за разговори с PSTN
 
@@ -28,4 +28,4 @@ ms.locfileid: "47662494"
 
 - Инсталирайте [кредити за комуникация](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), за да не допуснете потребителите ви да **изчерпват минутите си**. Вижте цените [тук](https://products.office.com/microsoft-teams/voice-calling). 
 
-- За повече информация вижте [Телефонна система и планове за разговори](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) или [Какво представляват кредитите за комуникация?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- За повече информация вижте Планове [за обаждания на Microsoft Teams и Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) или Какви са [кредитите за комуникация?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

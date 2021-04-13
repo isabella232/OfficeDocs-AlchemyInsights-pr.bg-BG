@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737006"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692383"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Общи проблеми на Teams за клиенти от образованието
 
@@ -46,7 +46,7 @@ ms.locfileid: "47737006"
     6. В центъра за администриране на Skype за бизнеса щракнете върху **Аудиоконференции** и след това върху **Потребители**.
     7. Изберете въпросния потребител и проверете дали потребителят има платен номер по подразбиране.
 
-    За повече информация вижте [Планове за разговори](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce, за да ви помогне по въпросите, свързани с лицензиране.
+    За повече информация вижте Планове за обаждания [на Microsoft Teams или](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) се обадете на екипа за фактуриране на Microsoft Commerce за помощ за въпроси, свързани с лицензирането.
 
     Допълнителни ресурси
 
