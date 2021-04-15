@@ -1,8 +1,8 @@
 ---
-title: Скорошна експозиция на данни
+title: Скорошна експонацията на данни
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693220"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789349"
 ---
-# <a name="recent-data-exposure"></a><span data-ttu-id="5cfe5-102">Скорошна експозиция на данни</span><span class="sxs-lookup"><span data-stu-id="5cfe5-102">Recent data exposure</span></span>
+# <a name="recent-data-exposure"></a><span data-ttu-id="6483e-102">Скорошна експонацията на данни</span><span class="sxs-lookup"><span data-stu-id="6483e-102">Recent data exposure</span></span>
 
-<span data-ttu-id="5cfe5-103">Microsoft е информиран от друг изследовател, че базата данни, която хоства редакциите на Microsoft, е достъпна без удостоверяване.</span><span class="sxs-lookup"><span data-stu-id="5cfe5-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="5cfe5-104">На 31 декември 2019 Microsoft гарантира базата данни.</span><span class="sxs-lookup"><span data-stu-id="5cfe5-104">On December 31, 2019, Microsoft secured the database.</span></span>
+<span data-ttu-id="6483e-103">Microsoft е информиран от изследовател от друг доставчик, че хостингът на база данни е блокирал данните за поддръжка на Microsoft е достъпен без удостоверяване.</span><span class="sxs-lookup"><span data-stu-id="6483e-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="6483e-104">На 31 декември 2019 г. Microsoft осигури базата данни.</span><span class="sxs-lookup"><span data-stu-id="6483e-104">On December 31, 2019, Microsoft secured the database.</span></span>
 
-<span data-ttu-id="5cfe5-105">Ние сме ангажирани с поверителността и сигурността на нашите клиенти и предприемаме действия за предотвратяване на бъдещи случаи на този проблем.</span><span class="sxs-lookup"><span data-stu-id="5cfe5-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="5cfe5-106">Ние започнахме уведомления за клиенти, чиито данни са присъствали в тази редактирана база данни.</span><span class="sxs-lookup"><span data-stu-id="5cfe5-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="5cfe5-107">За повече информация вижте [информация за информиране на клиентите относно скорошна експозиция на информация](https://aka.ms/privacyinfo).</span><span class="sxs-lookup"><span data-stu-id="5cfe5-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
+<span data-ttu-id="6483e-105">Ние се ангажираме с поверителността и защитата на нашите клиенти и предприемаме действия, за да предотвратим бъдещи събития на този проблем.</span><span class="sxs-lookup"><span data-stu-id="6483e-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="6483e-106">Започнахме известия до клиенти, чиито данни са били налични в тази червена база данни.</span><span class="sxs-lookup"><span data-stu-id="6483e-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="6483e-107">За повече информация отидете на Информация за [информираността на клиентите, свързана с скорошна информация.](https://aka.ms/privacyinfo)</span><span class="sxs-lookup"><span data-stu-id="6483e-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
