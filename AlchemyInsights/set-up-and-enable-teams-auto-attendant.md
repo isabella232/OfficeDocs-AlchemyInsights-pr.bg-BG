@@ -1,8 +1,8 @@
 ---
-title: Инсталиране и активиране на автоматичен оператор за Teams
+title: Настройване и разрешаване на автоматичен участник в Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787306"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Настройване на автоматичен оператор в облака
+# <a name="set-up-a-cloud-auto-attendant"></a>Настройване на автоматичен участник в облака
 
-За автоматичните придружители в момента има определени изисквания за лицензиране. Вижте [Какво представляват автоматичните придружители за облак?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) , за да научите повече за създаването и настройването на автоматични помощници за Teams. 
+Автоматичните участници в момента имат определени изисквания за лицензиране. Вижте [Какво са автоматичните участници в облака?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) за да научите за създаването и настройването на автоматични участници в Teams. 
 
 За повече информация вижте:
 
-- [Настройване на автоматичен оператор за облак](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) с Microsoft Teams. 
-- [Създайте опашката за обаждания в облака](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) с Microsoft Teams. 
-- [Отговаряне на автоматичен помощник и обаждания на опашката за разговори направо от Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Настройване на автоматичен участник в облака](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) с Microsoft Teams. 
+- [Създаване на опашка за повикване в облака](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) с Microsoft Teams. 
+- [Отговаряйте на повиквания на автоматичните участници и на опашката за повикване директно от Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 

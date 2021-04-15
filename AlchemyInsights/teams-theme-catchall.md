@@ -2,7 +2,7 @@
 title: Настройване на Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786190"
 ---
 # <a name="set-up-microsoft-teams"></a>Настройване на Microsoft Teams
 
-[Справочникът за инсталиране на Microsoft Teams](https://aka.ms/teamsguidance) предоставя на вашата организация указания за настройването на работни области на екипа, които хостват разговорите в реално време чрез съобщения, обаждания и аудио-и видеоконференции, както за колективна, така и за лична комуникация. Ще получите указания за определянето на изискванията към мрежата на вашата организация, като използвате инструмента за мрежов Планировчик и съветника за Teams в центъра за администриране на Teams. След като инсталирането завърши, Справочникът включва полезни ресурси, за да започнете да използвате Teams.
+Ръководството  [за настройка на Microsoft Teams](https://aka.ms/teamsguidance)  предоставя на вашата организация указания за настройване на екипни работни области, които хостват разговори в реално време чрез съобщения, разговори и аудио- или видео събрания както за екипна, така и за лична комуникация. Ще получите инструкции за определяне на мрежовите изисквания на вашата организация с помощта на инструмента Network Planner и съветника за Teams в центъра за администриране на Teams. След като разполагането завърши, ръководството включва полезни ресурси, за да започнете да използвате Teams.
 
-За повече информация вижте [Първи стъпки в Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+За допълнителна информация вижте Първи [стъпки в Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
