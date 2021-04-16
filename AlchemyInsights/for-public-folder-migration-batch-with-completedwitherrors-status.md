@@ -1,8 +1,8 @@
 ---
-title: Папка за мигриране на публични папки със статус CompletedWithErrors
+title: За партида за мигриране на публични папки със състояние "Завършенисъсerrors"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744102"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812453"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a><span data-ttu-id="d1e2b-102">Папка за мигриране на публични папки със статус CompletedWithErrors</span><span class="sxs-lookup"><span data-stu-id="d1e2b-102">For Public folder migration batch with CompletedWithErrors status</span></span>
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a><span data-ttu-id="1074c-102">За партида за мигриране на публични папки със състояние "Завършенисъсerrors"</span><span class="sxs-lookup"><span data-stu-id="1074c-102">For Public folder migration batch with CompletedWithErrors status</span></span>
 
-<span data-ttu-id="d1e2b-103">Използвайте следните стъпки, за да завършите партидата, като пропуснете големите/лошите елементи:</span><span class="sxs-lookup"><span data-stu-id="d1e2b-103">Use the following steps to complete the batch, skipping the large/bad items:</span></span> 
-1. <span data-ttu-id="d1e2b-104">Одобряване на пропуснатите елементи в партида за мигриране:</span><span class="sxs-lookup"><span data-stu-id="d1e2b-104">Approve the skipped items on migration batch:</span></span>
+<span data-ttu-id="1074c-103">Използвайте следните стъпки, за да завършите партидата, като прескочите големите/лошите елементи:</span><span class="sxs-lookup"><span data-stu-id="1074c-103">Use the following steps to complete the batch, skipping the large/bad items:</span></span> 
+1. <span data-ttu-id="1074c-104">Одобряване на пропуснати елементи в партидата за мигриране:</span><span class="sxs-lookup"><span data-stu-id="1074c-104">Approve the skipped items on migration batch:</span></span>
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. <span data-ttu-id="d1e2b-105">Използвайте командата по-долу, за да одобрите пропуснатите елементи в искания за мигриране, които са "синхронизирани", но не са изпълнени:</span><span class="sxs-lookup"><span data-stu-id="d1e2b-105">Use the following command to approve the skipped items on migration requests that are “Synced” but not completed:</span></span>
+2. <span data-ttu-id="1074c-105">Използвайте следната команда, за да одобрите пропуснати елементи в искания за мигриране, които са "Синхронизирани", но не са изпълнени:</span><span class="sxs-lookup"><span data-stu-id="1074c-105">Use the following command to approve the skipped items on migration requests that are “Synced” but not completed:</span></span>
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. <span data-ttu-id="d1e2b-106">Партидата за мигриране и исканията трябва да се възобновят и допълнят за няколко минути.</span><span class="sxs-lookup"><span data-stu-id="d1e2b-106">The migration batch and requests should resume and complete in a few minutes.</span></span>
+3. <span data-ttu-id="1074c-106">Партидата за мигриране и исканията трябва да се възобновят и довършат след няколко минути.</span><span class="sxs-lookup"><span data-stu-id="1074c-106">The migration batch and requests should resume and complete in a few minutes.</span></span>
 
