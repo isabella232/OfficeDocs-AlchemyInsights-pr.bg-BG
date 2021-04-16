@@ -1,24 +1,25 @@
 ---
-title: Известието за продукта е деактивирано в приложения на Microsoft 365
+title: Съобщение, че продуктът е дезактивиран в приложенията на Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: efc63ebbd585e7eb78f6ba41db79883671b2e779
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581792"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800527"
 ---
-# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Известие за "Продуктът е деактивиран" в приложения на Microsoft 365
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Съобщение „Продуктът е дезактивиран“ в приложенията на Microsoft 365
 
 - Проверете [Страницата за състояние на услугата](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
 

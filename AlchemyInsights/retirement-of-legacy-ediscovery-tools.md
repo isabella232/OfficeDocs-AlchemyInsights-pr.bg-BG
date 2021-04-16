@@ -1,8 +1,8 @@
 ---
-title: Оттегляне на стари инструменти за откриване на електронни данни
+title: Оттегляне на наследените инструменти за откриване на електронни данни
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727772"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798538"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Оттегляне на стари инструменти за откриване на електронни данни
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Оттегляне на наследените инструменти за откриване на електронни данни
 
-Като резултат от новата и усъвършенстваната функционалност на откриването на електронни данни в центъра за съответствие на Microsoft 365, следните инструменти за откриване на електронни данни и кратки команди ще бъдат оттеглени през следващите месеци:
+В резултат на новата и подобрена функционалност за откриване на електронни данни в центъра за съответствие на Microsoft 365 следните стари инструменти и командни команди за откриване на електронни данни ще бъдат оттеглени през следващите месеци:
 
-- [Откриване](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) на електронни данни и [задържане](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) на места в центъра за администриране на Exchange.
+- [Откриване на електронни данни на](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) място и задържане на място [в](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) центъра за администриране на Exchange.
 
-- Кратките команди на PowerShell на Exchange Online, които поддържат откриването на електронни данни и задържане на места. (Тези кратки команди се идентифицират общо като *-MailboxSearch кратки команди.) Това включва следните кратки команди:
+- Кратките команди на PowerShell на Exchange Online, които поддържат In-Place откриване на електронни данни и In-Place задържа. (Тези кратки команди се идентифицират колективно като кратки команди *-MailboxSearch.) Това включва следните кратки команди:
 
     - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Стоп-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Кратката команда [търсене – пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) в Exchange Online PowerShell.
-- Следните операции в API на уеб услугите на Exchange:
+- Кратката [команда "Пощенска кутия](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) за търсене" в Exchange Online PowerShell.
+- Следните операции в API на Exchange Web Services:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Разширено откриване на електронни данни v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Времева линия за пенсиониране**:
-- **1 юли 2020 г.** Вече не можете да създавате нови търсения и трюмове, но можете да изпълнявате, редактирате и изтривате съществуващи търсения на свой собствен риск. Поддръжката на Microsoft вече не поддържа откриване на електронни данни на места & съдържа в EAC.
+**Времева линия за пенсиониране:**
+- **1 юли 2020 г.** Вече не можете да създавате нови търсения и задържания, но можете да изпълнявате, редактирате и изтривате съществуващи търсения на свой собствен риск. Поддръжката на Microsoft вече не In-Place откриване на електронни данни & задържа в EAC.
     
-- **1 октомври 2020 г.** Откриване на електронни данни на място & съдържа функционалност в EAC ще бъдат поставени в режим само за четене, така че да можете да премахвате съществуващите търсения и съдържания.
+- **1 октомври 2020** г. In-Place откриване на електронни данни & Има функционалност в EAC ще бъде поставена в режим само за четене, така че можете да премахвате само съществуващи търсения и задържания.
 
 **За повече информация вижте**:
 
- - [Мигриране на стари търсения на откриване на електронни данни и задържане в центъра за съответствие на Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Мигриране на стари търсения за откриване на електронни данни и задържане в центъра за съответствие на Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Оттегляне на стари инструменти за откриване на електронни данни](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [ЧЗВ за откриване на електронни данни на места и задържане на места](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Често задавани въпроси за In-Place откриване на електронни и In-Place задържания](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

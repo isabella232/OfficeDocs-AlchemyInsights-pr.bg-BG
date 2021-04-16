@@ -1,8 +1,8 @@
 ---
-title: Възстановяване на страницата Home. aspx
+title: Възстановяване на страницата Home.aspx
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 32e600a4a3bb98fb5d31a7de4923b16c43db9205
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e235e7d29935dd9fa6e0c286dbe053e76d08c64e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741220"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800086"
 ---
-# <a name="recover-the-homeaspx-page"></a>Възстановяване на страницата Home. aspx
+# <a name="recover-the-homeaspx-page"></a>Възстановяване на страницата Home.aspx
 
-Ако началната страница на сайта е изтрита, тя може да бъде възстановена от кошчето чрез осъществяване на достъп до URL адреса на кошчето.
+Ако началната страница на сайта е изтрита, тя може да бъде възстановена от кошчето чрез достъп до URL адреса на кошчето.
 
-1. Придвижете се до https:// \<tenantname> . SharePoint.com/Sites/ \<sitename> /_layouts/15/RecycleBin.aspx?, като заместите <**tenantname**> с името на своя клиент и <**sitename**> с името на вашия сайт.
+1. Навигирайте \<tenantname> до https:// .sharepoint.com/sites/ \<sitename> /_layouts/15/RecycleBin.aspx?, като заместите <**име** на клиент>  с името на вашия клиент и <име на сайт> с името на вашия сайт.
 
 2. Изберете страницата за възстановяване.
 
-Ако началната страница все още не може да бъде намерена, можете да създадете нова страница на сайта и да [я зададете като начална страница на вашия сайт](https://support.microsoft.com/en-gb/office/use-a-different-page-for-your-sharepoint-site-home-page-35a5022c-f84a-455d-985e-c691ab5dfa17?ui=en-us&rs=en-gb&ad=gb). Грешката 404 не е намерена повече, когато се опитвате да получите достъп до сайта.
+Ако началната страница все още не може да бъде намерена, можете да създадете нова страница на сайта и да [я зададете като начална страница на сайта .](https://support.microsoft.com/en-gb/office/use-a-different-page-for-your-sharepoint-site-home-page-35a5022c-f84a-455d-985e-c691ab5dfa17?ui=en-us&rs=en-gb&ad=gb) Грешката 404 не трябва повече да се показва, когато се опитате да получите достъп до сайта.
