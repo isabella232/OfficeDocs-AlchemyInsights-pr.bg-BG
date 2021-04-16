@@ -2,7 +2,7 @@
 title: Разрешаване на Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: b29db4001f0e60bf714a856d80bb1eca19db3d93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814073"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="1e173-102">Активиране и използване на Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1e173-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="238cd-102">Разрешаване и използване на Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="238cd-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="1e173-103">Ако не разполагате с достъп до Microsoft Teams изобщо, прегледайте [как да получа достъп до Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="1e173-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
+<span data-ttu-id="238cd-103">Ако изобщо нямате достъп до Microsoft Teams, вижте Как [да получа достъп до Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="238cd-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="1e173-104">Ако вече имате Microsoft Teams и трябва да знаете как да го конфигурирате и управлявате, вижте [управление на настройките на Microsoft Teams за вашата организация](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="1e173-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>
+<span data-ttu-id="238cd-104">Ако вече имате Microsoft Teams и трябва да знаете как да го конфигурирате и управлявате, вижте [Управление на настройките на Microsoft Teams за вашата организация.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)</span><span class="sxs-lookup"><span data-stu-id="238cd-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>

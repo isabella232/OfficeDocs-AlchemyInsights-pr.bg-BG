@@ -1,8 +1,8 @@
 ---
-title: Разрешаване на изпращането веднага при свързване
+title: Разрешаване на "Изпращане" веднага, когато сте свързани
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709572"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813965"
 ---
-# <a name="enable-send-immediately-when-connected"></a><span data-ttu-id="d22e9-102">Разрешаване на изпращането веднага при свързване</span><span class="sxs-lookup"><span data-stu-id="d22e9-102">Enable Send immediately when connected</span></span>
+# <a name="enable-send-immediately-when-connected"></a><span data-ttu-id="e2f54-102">Разрешаване на "Изпращане" веднага, когато сте свързани</span><span class="sxs-lookup"><span data-stu-id="e2f54-102">Enable Send immediately when connected</span></span>
  
-1. <span data-ttu-id="d22e9-103">В раздела файл щракнете върху **Опции**.</span><span class="sxs-lookup"><span data-stu-id="d22e9-103">On the File tab, click **Options**.</span></span>
+1. <span data-ttu-id="e2f54-103">В раздела Файл щракнете върху **Опции**.</span><span class="sxs-lookup"><span data-stu-id="e2f54-103">On the File tab, click **Options**.</span></span>
 
-2. <span data-ttu-id="d22e9-104">В диалоговия прозорец Опции на Outlook щракнете върху **Разширени**.</span><span class="sxs-lookup"><span data-stu-id="d22e9-104">In the Outlook Options dialog box, click **Advanced**.</span></span>
+2. <span data-ttu-id="e2f54-104">В диалоговия прозорец Опции на Outlook щракнете **върху Разширени**.</span><span class="sxs-lookup"><span data-stu-id="e2f54-104">In the Outlook Options dialog box, click **Advanced**.</span></span>
 
-3. <span data-ttu-id="d22e9-105">В секцията Изпращане и получаване щракнете, за да разрешите **изпращането веднага при свързване**.</span><span class="sxs-lookup"><span data-stu-id="d22e9-105">In the Send and receive section, click to enable **Send immediately when connected**.</span></span> <span data-ttu-id="d22e9-106">Щракнете върху **OK**.</span><span class="sxs-lookup"><span data-stu-id="d22e9-106">Click **OK**.</span></span>
+3. <span data-ttu-id="e2f54-105">В секцията Изпращане и получаване щракнете, за да разрешите **изпращането веднага, когато сте свързани**.</span><span class="sxs-lookup"><span data-stu-id="e2f54-105">In the Send and receive section, click to enable **Send immediately when connected**.</span></span> <span data-ttu-id="e2f54-106">Щракнете върху **OK**.</span><span class="sxs-lookup"><span data-stu-id="e2f54-106">Click **OK**.</span></span>
 
-<span data-ttu-id="d22e9-107">За пълни подробности вижте:</span><span class="sxs-lookup"><span data-stu-id="d22e9-107">For full details, see:</span></span>
-- [<span data-ttu-id="d22e9-108">Видео: изпращане или изтриване на блокиран имейл</span><span class="sxs-lookup"><span data-stu-id="d22e9-108">Video: Send or delete a stuck email</span></span>](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [<span data-ttu-id="d22e9-109">Имейлът остава в папката "Изходящи", докато не стартирате ръчно операция за изпращане/получаване в Outlook</span><span class="sxs-lookup"><span data-stu-id="d22e9-109">Email stays in the Outbox folder until you manually initiate a send/receive operation in Outlook</span></span>](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+<span data-ttu-id="e2f54-107">За пълни подробности вижте:</span><span class="sxs-lookup"><span data-stu-id="e2f54-107">For full details, see:</span></span>
+- [<span data-ttu-id="e2f54-108">Видео: Изпращане или изтриване на блокиран имейл</span><span class="sxs-lookup"><span data-stu-id="e2f54-108">Video: Send or delete a stuck email</span></span>](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [<span data-ttu-id="e2f54-109">Имейлът остава в папката "Изходящи", докато не започнете ръчно операция за изпращане/получаване в Outlook</span><span class="sxs-lookup"><span data-stu-id="e2f54-109">Email stays in the Outbox folder until you manually initiate a send/receive operation in Outlook</span></span>](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
