@@ -1,8 +1,8 @@
 ---
-title: Вашите потребители получиха ли злонамерен имейл
+title: Потребителите ви получавали ли са злонамерени имейли
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,34 +14,34 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 2197e7f195d789193798b80cb092d8046eb6e0be
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291781"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815235"
 ---
-# <a name="did-your-users-receive-malicious-email"></a>Вашите потребители получиха ли злонамерен имейл?
+# <a name="did-your-users-receive-malicious-email"></a>Потребителите ви получили ли са злонамерен имейл?
 
-- Сега можете да съобщите за злонамерения имейл на Microsoft, като използвате подаването на [администратор в центъра за съответствие на защитата &](https://sip.protection.office.com/reportsubmission).
+- Сега можете да съобщите за злонамерения имейл на Microsoft с помощта на подавания [на администратори в центъра за & съответствие.](https://sip.protection.office.com/reportsubmission)
 
-Съобщенията, които са подадени в подавания на [администратор](https://sip.protection.office.com/reportsubmission) , се сканират и следващите резултати са показани в изплаващо за **подробни данни** :
+Съобщенията, които са подадени в [подавания от администратор,](https://sip.protection.office.com/reportsubmission) се сканират и в допълнителната информация се показват **следните** резултати:
 
-- Ако в момента на доставката е имало повреда в имейл удостоверяването на подателя.
-- Информация за всички хитове на правилата, които може да са засегнали или предали присъдата на дадено съобщение.
-- Текущи резултати от детонация, за да видите дали URL адресите или файловете, съдържащи се в съобщението, не са злонамерени.
-- Обратна връзка от Грейдери
+- Ако е имало грешка в удостоверяването на имейла на подателя към момента на доставянето.
+- Информация за всички посещения на правила, които може да са засегнали или заместили решението на съобщението.
+- Текущи резултати от детонацията, за да видите дали URL адресите или файловете, съдържащи се в съобщението, са злонамерени или не.
+- Обратна връзка от класьори
 
-Ако е открит превключвател, повторното сканиране трябва да завърши след няколко минути. Ако няма проблем при удостоверяването на имейл или ако доставката не е повлияна от отмяната, тогава обратната връзка от грейдерите може да отнеме до един ден.
+Ако е намерено заместване, повторното сканиране трябва да завърши след няколко минути. Ако не е имало проблем в удостоверяването на имейл или ако доставянето не е било засегнато от заместване, обратната връзка от завършващите може да отнеме до един ден.
 
-Ако не сте съгласни с окончателната присъда за съобщение, URL адрес или файл (блокирани спрямо. not блокирани), изпратете съобщението отново след един ден за повторно сканиране. Шансът е да се промени, след като подадете съобщението отново.
+Ако не сте съгласни с окончателната присъда за съобщение, URL адрес или файл (блокирано спрямо блокирано, не е блокирано), изпратете съобщението отново след един ден за повторно сканиране. Шансовете са високи, че решението ще се промени след изпращането на съобщението отново.
 
-Междувременно можете да премахнете злонамерен имейл от потребителски пощенски кутии, като следвате инструкциите в [тази статия](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
+Междувременно можете да премахнете злонамерените имейли от потребителските входящи, като следвате инструкциите в [тази статия.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
 
-- Клиенти с Microsoft Defender за Office 365 могат да:
-    - използване [на заплахите Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [Използвайте безопасни връзки, за да блокирате достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до злонамерен URL адрес
-    - следене на потребителите, които са кликнали и използвали злонамерени [URL адреси](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - ръчно [стартиране на автоматизирано проучване](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+- Клиентите с Microsoft Defender за Office 365 могат:
+    - използване на [Threat Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+    - [използване на безопасни връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до злонамерен URL адрес
+    - проследяване на потребители, които са щракнали и са осъществявали достъп до злонамерени URL адреси: Преглед на URL адрес за фишинг и щракване върху [пресъдени данни](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+    - ръчно [стартиране на автоматизирано разследване](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
-Можете също да защитите срещу злонамерени файлове и URL адреси, като следвате инструкциите в [защита от злонамерени URL и файлове](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
+Можете също да защитите от злонамерени файлове и URL адреси, като следвате инструкциите в [Защита от злонамерени URL адреси и файлове.](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)

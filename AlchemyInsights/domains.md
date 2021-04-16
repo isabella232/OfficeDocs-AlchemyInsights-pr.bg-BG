@@ -2,7 +2,7 @@
 title: Домейни
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814830"
 ---
 # <a name="domains"></a>Домейни
 
-- **Проверете домейна си** в центъра за администриране, като използвате [съветника за добавяне на домейн](https://admin.microsoft.com/Adminportal#/Domains/Wizard). За повече помощ прочетете [Добавяне на домейн към Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-- **Домейн в употреба** – ще трябва да влезете в друга организация и да [премахнете домейна](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); след това го добавете към тази организация.
-- **Домейн в използване на неуправлявана/самостоятелна услуга**  -  [Станете администратор на неуправлявания домейн](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
+- **Проверете своя домейн в** центъра за администриране с помощта на съветника [за добавяне на домейн](https://admin.microsoft.com/Adminportal#/Domains/Wizard). За повече помощ прочетете [Добавяне на домейн към Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
+- **Домейн в употреба** – ще трябва да влезете в другата организация и да [премахнете домейна](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide); след това го добавете към тази организация.
+- **Домейн, който се използва незавършено/самостоятелно**  -  [Станете администратор на домейна без управление.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)
 
-В противен случай опитайте да изразите проблема си; Вижте [ЧЗВ за домейни](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) или [отстраняване на неизправности при проблеми с домейни](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) .
+В противен случай опитайте да пренасочете проблема си; вижте [ЧЗВ за домейни или Отстраняване](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) [на проблеми с домейни.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
