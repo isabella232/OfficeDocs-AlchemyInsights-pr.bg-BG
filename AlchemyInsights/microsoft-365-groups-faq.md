@@ -1,8 +1,8 @@
 ---
-title: ЧЗВ за Microsoft 365 Groups
+title: ЧЗВ за групи на Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 2000616a1be6e0a38f791cc09b36dff6e79e6fc0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742877"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794533"
 ---
-# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="20b80-102">ЧЗВ за Microsoft 365 Groups</span><span class="sxs-lookup"><span data-stu-id="20b80-102">Microsoft 365 Groups FAQ</span></span>
+# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="f899f-102">ЧЗВ за групи на Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f899f-102">Microsoft 365 Groups FAQ</span></span>
 
-<span data-ttu-id="20b80-103">Моля, проверете **[ЧЗВ за групата на microsoft 365](https://aka.ms/M365GroupsFAQ)** за най-важните задачи на администратора, свързани с Microsoft 365 Groups.</span><span class="sxs-lookup"><span data-stu-id="20b80-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
+<span data-ttu-id="f899f-103">Проверете **[ЧЗВ за групата на Microsoft 365 за](https://aka.ms/M365GroupsFAQ)** най-важните задачи на администраторите, свързани с групи на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f899f-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
 
-- <span data-ttu-id="20b80-104">Неизправности в пощенския поток</span><span class="sxs-lookup"><span data-stu-id="20b80-104">Mail flow issues</span></span>
-- <span data-ttu-id="20b80-105">Управление на имейл адреси</span><span class="sxs-lookup"><span data-stu-id="20b80-105">Email address management</span></span>
-- <span data-ttu-id="20b80-106">Скриптове за експортиране на информацията за членовете на групата</span><span class="sxs-lookup"><span data-stu-id="20b80-106">Scripts to export group member information</span></span>
-- <span data-ttu-id="20b80-107">Делегиране на податели и други</span><span class="sxs-lookup"><span data-stu-id="20b80-107">Send-As and other delegation</span></span>
-- <span data-ttu-id="20b80-108">Групи, които не се показват/са достъпни от клиент на Outlook</span><span class="sxs-lookup"><span data-stu-id="20b80-108">Groups not showing/accessible from Outlook client</span></span>
+- <span data-ttu-id="f899f-104">Проблеми с пощенския поток</span><span class="sxs-lookup"><span data-stu-id="f899f-104">Mail flow issues</span></span>
+- <span data-ttu-id="f899f-105">Управление на имейл адреси</span><span class="sxs-lookup"><span data-stu-id="f899f-105">Email address management</span></span>
+- <span data-ttu-id="f899f-106">Скриптове за експортиране на информация за член на група</span><span class="sxs-lookup"><span data-stu-id="f899f-106">Scripts to export group member information</span></span>
+- <span data-ttu-id="f899f-107">Send-As и друго делегиране</span><span class="sxs-lookup"><span data-stu-id="f899f-107">Send-As and other delegation</span></span>
+- <span data-ttu-id="f899f-108">Групи, които не се показват/не са достъпни от клиента на Outlook</span><span class="sxs-lookup"><span data-stu-id="f899f-108">Groups not showing/accessible from Outlook client</span></span>
