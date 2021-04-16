@@ -1,8 +1,8 @@
 ---
-title: Имате нужда от помощ за гласовия абонамент за Microsoft 365 Business Premium?
+title: Имате нужда от помощ за Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792589"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Имате нужда от помощ за гласовия абонамент за Microsoft 365 Business Premium?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Имате нужда от помощ за Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Premium Voice улеснява малките и средните организации да превърнат Microsoft Teams в мощна и гъвкава телефонна система. За повече информация за Business Voice вижте [Какво представлява Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice улеснява малките и средните организации да превърнат Microsoft Teams в мощна и гъвкава телефонна система. За повече информация относно бизнес гласа вижте [Какво представлява Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Ако вече сте придобили гласова услуга Microsoft 365 Business Premium, [Съветникът за първи стъпки](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) може да ви помогне да започнете работа. 
+Ако вече сте придобили Microsoft 365 Business Premium Voice, [съветникът "Първи стъпки"](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) може да ви помогне да започнете. 
