@@ -1,8 +1,8 @@
 ---
-title: Приветствено съобщение в Microsoft 365 Groups
+title: Добре дошли в групите на Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c46ba1b2c2c94e21d7c76e45df1d416ba423faf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725828"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806395"
 ---
-# <a name="welcome-message-in-microsoft-365-groups"></a><span data-ttu-id="244e3-102">Приветствено съобщение в Microsoft 365 Groups</span><span class="sxs-lookup"><span data-stu-id="244e3-102">Welcome message in Microsoft 365 Groups</span></span>
+# <a name="welcome-message-in-microsoft-365-groups"></a><span data-ttu-id="a5f90-102">Добре дошли в групите на Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a5f90-102">Welcome message in Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="244e3-103">Новите потребители, които се присъединяват към Microsoft 365 Group, ще получат приветствен имейл, ако свойството "UnifiedGroupWelcomeMessageEnabled" е истина.</span><span class="sxs-lookup"><span data-stu-id="244e3-103">New users joining Microsoft 365 group will receive welcome email if the "UnifiedGroupWelcomeMessageEnabled" property is True.</span></span>
+<span data-ttu-id="a5f90-103">Новите потребители, които се присъединяват към групата на Microsoft 365, ще получат приветстващ имейл, ако свойството "UnifiedGroupWelcomeMessageEnabled" е Вярно.</span><span class="sxs-lookup"><span data-stu-id="a5f90-103">New users joining Microsoft 365 group will receive welcome email if the "UnifiedGroupWelcomeMessageEnabled" property is True.</span></span>
 
-<span data-ttu-id="244e3-104">В случай че искате да забраните приветственото съобщение, [Използвайте следната команда](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) за командата "за".</span><span class="sxs-lookup"><span data-stu-id="244e3-104">In case you want to disable the welcome message, use the following [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) command:</span></span>
+<span data-ttu-id="a5f90-104">В случай че искате да забраните приветстваното съобщение, използвайте следната [команда EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps)</span><span class="sxs-lookup"><span data-stu-id="a5f90-104">In case you want to disable the welcome message, use the following [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) command:</span></span>
 
 `
 Set-UnifiedGroup <groupname> -UnifiedGroupWelcomeMessageEnabled:$False
