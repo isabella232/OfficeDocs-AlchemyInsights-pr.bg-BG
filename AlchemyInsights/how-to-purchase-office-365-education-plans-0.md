@@ -1,8 +1,8 @@
 ---
-title: Как да закупите планове за образование на Office 365
+title: Как да закупите планове за Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703577"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810797"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Как да закупите планове за образование на Office 365
+# <a name="how-to-purchase-office-365-education-plans"></a>Как да закупите планове за Office 365 Education
 
-Вашият диплома за обучение за Office 365 е под преглед. Можете да очаквате да получите уведомление за определянето на вашата допустимост преди изтичането на срока на изпробването.
+Вашата квалификация за Office 365 Education е в процес на преглед. Можете да очаквате да получите известие за определяне дали отговаряте на условията, преди срокът на вашата пробна версия да изтече.

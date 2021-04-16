@@ -1,8 +1,8 @@
 ---
-title: Преименуване на вашия домейн на домейн onmicrosoft
+title: Преименуване на вашия домейн на onmicrosoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701308"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810221"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Преименуване на вашия домейн на onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Преименуване на вашия onmicrosoft.com домейн
 
- **Не можете да преименувате домейна домейн onmicrosoft след записването.** Например ако първоначалният домейн, който сте избрали, е  *fourthcoffee.onmicrosoft.com*, не можете да го промените, за да бъде  *fabrikam.onmicrosoft.com*. За да използвате друг домейн на onmicrosoft.com, ще трябва да започнете нов абонамент с Microsoft 365.
+ **Не можете да преименувате домейна onmicrosoft след регистрацията.** Ако например първоначалният домейн, който сте  *избрали, е fourthcoffee.onmicrosoft.com*, не можете да го промените, за да  *бъде fabrikam.onmicrosoft.com*. За да използвате друг onmicrosoft.com домейн, ще трябва да започнете нов абонамент с Microsoft 365.
   
-Ако искате да използвате домейн по избор, като например  *contoso.com*  , можете да [добавите такъв, който притежавате](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) или [да закупите такъв от Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Ако искате да използвате домейн по избор,  *като contoso.com,*  можете да добавите такъв, [който притежавате,](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) или да закупите такъв [от Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

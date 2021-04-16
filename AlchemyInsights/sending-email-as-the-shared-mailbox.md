@@ -2,7 +2,7 @@
 title: Изпращане на имейл като споделена пощенска кутия
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 45468ed831f15585d68f2a7b02386f62b6cb3874
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0311a22e689f27868a2b0cd252af34926dad9902
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801209"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809140"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Изпращане на имейл като споделена пощенска кутия
 
-След като създадете споделена пощенска кутия, потребителите, които са членове на пощенската кутия, могат да изпратят имейл като самоличност на споделена пощенска кутия (например  *info@contoso.com*  ). За инструкции вижте:
+След като сте създали споделена пощенска кутия, потребителите, които са членове на пощенската кутия, могат да изпращат имейл като самоличност на споделена пощенска  *кутия (например info@contoso.com*  ). За инструкции вижте:
   
 [Отваряне и използване на споделена пощенска кутия в Outlook 2016 и Outlook 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   

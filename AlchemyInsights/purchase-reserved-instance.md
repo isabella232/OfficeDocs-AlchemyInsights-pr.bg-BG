@@ -1,8 +1,8 @@
 ---
-title: Закупено е запазен екземпляр
+title: Закупуване на запазен екземпляр
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809896"
 ---
-# <a name="questions-before-purchase"></a>Въпроси преди покупката
+# <a name="questions-before-purchase"></a>Въпроси преди закупуването
 
-**Как се прилага отстъпката за резервация към съществуващи ресурси?**  
-Помощта за резервации се прилага автоматично към съществуващи ресурси, които отговарят на резервацията SKU, регион и обхват. Няма поставяне на етикети на резервация към ресурс. [Научете повече](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Как се прилага отстъпка при резервиране към съществуващи ресурси?**  
+Ползите при резервиране се прилагат автоматично към съществуващи ресурси, които отговарят на ИЕ за резервиране, регион и обхват. Няма етикети на резервацията за ресурс. [Научете повече](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Кой размер на VM трябва да закупя?**  
-Прочетете тази статия: [определете правилния размер на VM, преди да купите](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Кой размер виртуална машина трябва да закупя?**  
+Прочетете тази статия: [определите правилния размер виртуална машина, преди да закупите](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Въпроси как да закупите SQL запазени капацитет?**  
-Прочетете тази статия: [Купете запазен капацитет за SQL база данни](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Въпроси как да закупите запазен капацитет за SQL?**  
+Прочетете тази статия: [Закупуване на запазен капацитет на SQL база данни](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Аз съм в индиректен клиент на EA, трябва ли Моят партньор да купува?**  
+**Аз съм клиент на Indirect EA – необходим ли е партньора ми, за да осъществя покупката?**  
 Не, можете да закупите RI, ако сте собственик на абонамент за EA.
 
-**РИ купува ли приспада от паричния ангажимент?**  
-Да. Ако нямате достатъчно парични ангажименти, ще получите фактура с излишък за стойността, която надвишава наличните парични ангажименти.
+**Покупката на RI приспада ли се от паричните ангажименти?**  
+Да. Ако нямате достатъчен паричен ангажимент, ще получите фактура за превишената сума, която надхвърля наличния паричен ангажимент.
 
-**Как се прилага запазен екземпляр за Windows VMs или за моите SQL IP разходи?**  
-Отстъпката на запазен екземпляр се прилага само за използването на изчисления. Разходите за Windows IP или SQL IP ще бъдат начислени поотделно и няма да получавате отстъпки за RI. [Софтуерни разходи, които не са включени в Azure запазени VM инстанции](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Как резервираният екземпляр се прилага за виртуални машини с Windows или за моите IP разходи за SQL?**  
+Отстъпката за резервиран екземпляр се прилага само за използването на изчисления. Разходите за IP или SQL за Windows ще бъдат таксувани отделно и няма да получите отстъпка за RI. [Разходите за софтуер не са включени в запазените екземпляри виртуални машини на Azure](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Фактуриране за закупуване на запазен екземпляр**  
+**Фактуриране за покупка на запазен екземпляр**  
       
-Запазеният екземпляр на покупката се начислява към метода на плащане, свързан с абонамента, който сте избрали в момента на покупката. Типът на абонамента трябва да бъде корпоративно споразумение (номер на оферта: MS-AZR-0017P), платено-и-то (номер на офертата: MS-AZR-0003P), споразумение за клиенти на Microsoft или CSP.
+Запазената покупка на екземпляр се удържа от метода на плащане, свързан с абонамента, който сте избрали в момента на закупуването. Типът абонамент трябва да бъде корпоративно споразумение (номер на предложението: MS-AZR-0017P), предплатена услуга (номер на предложение: MS-AZR-0003P), клиентски договор на Microsoft или CSP.
 
--   За корпоративен абонамент таксите се приспаднат от баланса на паричния ангажимент за записване или се начисляват като излишък
--   За абонамент за плащайте по-нататък, таксите се начисляват към кредитната карта или метода на плащане на фактура на абонамента.
+-   За корпоративен абонамент таксите се приспадат от баланса на паричния ангажимент при регистрацията или се удържат като преразход
+-   За предплатен абонамент таксите се начисляват на кредитната карта или метода за плащане на фактура в абонамента
 
-**Закупуване на план за услуги:**
+**Закупуване на план за услуга:**
 
--   [Предплащане на запазен капацитет за Космос DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Предплащане за SQL база данни за изчисляване на ресурси с запазен капацитет за SQL база данни на Azure](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Предплатени за виртуални машини с Azure запазени VM инстанции](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Предплащане за резервиран капацитет на Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Предплащане за изчислителни ресурси на SQL база данни със запазен капацитет на SQL база данни на Azure](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Предплащане за виртуални машини с резервирани екземпляри виртуални машини на Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Закупуване на софтуерен план:**
 
--   [Предплащане за софтуерни планове за Red Hat от Azure резервации](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Предплащане за SUSE софтуерни планове от Azure резервации](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Предплащане за софтуерни планове на Red Hat от Резервации на Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Предплащане за софтуерни планове на SUSE от Резервации на Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,8 +1,8 @@
 ---
-title: Записи на събрания в Teams в OneDrive
+title: Записване на събрания на Teams в OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810257"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Записи на събрания в Teams в OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Записване на събрания на Teams в OneDrive
 
-Microsoft Teams има нов метод за записване на записи на събрания. Като първи етап на преход от класическия Microsoft Stream към [новия поток](https://docs.microsoft.com/stream/streamnew/new-stream), този метод съхранява записите в Microsoft OneDrive за бизнеса и SharePoint в Microsoft 365 и предлага много предимства.  
+В Microsoft Teams има нов метод за записване на събрания. Като първа фаза на прехода от класическия Microsoft Stream към [новия Stream](https://docs.microsoft.com/stream/streamnew/new-stream), този метод съхранява записите в Microsoft OneDrive за бизнеса и SharePoint в Microsoft 365 и предлага много предимства.  
 
 - [Настройване на опцията за записване на събрание за OneDrive за бизнеса и SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Отказ от OneDrive за бизнеса и SharePoint, за да продължите да използвате Стрийм](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Излезте от OneDrive за бизнеса и SharePoint, за да продължите да използвате Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Често задавани въпроси](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)
