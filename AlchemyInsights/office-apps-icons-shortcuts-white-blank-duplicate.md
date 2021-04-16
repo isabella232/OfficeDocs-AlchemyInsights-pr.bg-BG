@@ -1,8 +1,8 @@
 ---
-title: Икони/клавишни комбинации за приложенията на Microsoft 365 бели, празни или дублиращи се
+title: Икони/клавишни комбинации за приложения на Microsoft 365 – бели, празни или дублирани
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810113"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="1e0d1-102">Иконите или преките пътища на приложения на Office са бели, празни или дублиращи се</span><span class="sxs-lookup"><span data-stu-id="1e0d1-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="f8100-102">Иконите на приложенията на Office или клавишните комбинации са бели, празни или дублирани</span><span class="sxs-lookup"><span data-stu-id="f8100-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="1e0d1-103">Ако иконите на приложенията на Office се показват като празни или бели, опитайте да [поправите приложение на Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="1e0d1-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="1e0d1-104">За да премахнете дублираните икони на приложения на Office, вижте [клавишни комбинации за Office остават след деинсталирането на Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="1e0d1-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="f8100-103">Ако иконите на приложенията на Office се показват празни или бели, [опитайте Поправяне на приложение на Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="f8100-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="f8100-104">За да премахнете дублирани икони на приложения на Office, вижте [Клавишните комбинации на Office остават след деинсталирането на Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="f8100-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="1e0d1-105">За повече информация вижте [иконите на Office са празни, след като инсталирате Office от магазина на Microsoft](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="1e0d1-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="f8100-105">За повече информация вижте [Иконите на Office са празни след инсталирането на Office от Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="f8100-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>

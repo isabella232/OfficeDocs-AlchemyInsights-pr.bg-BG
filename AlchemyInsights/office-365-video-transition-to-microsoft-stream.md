@@ -1,8 +1,8 @@
 ---
-title: Видео преход за Office 365 в Microsoft Stream
+title: Преход на Office 365 Video към Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0937a7664b0cff3fa98ba86fadeb7f360df474d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666571"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810149"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="1d278-102">Видео преход за Office 365 в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="1d278-102">Office 365 Video transition to Microsoft Stream</span></span>
+# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="0aa84-102">Преход на Office 365 Video към Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0aa84-102">Office 365 Video transition to Microsoft Stream</span></span>
 
-<span data-ttu-id="1d278-103">За подробна информация относно мигрирането от Office 365 Video към Microsoft Stream вижте:</span><span class="sxs-lookup"><span data-stu-id="1d278-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
+<span data-ttu-id="0aa84-103">За подробна информация за мигрирането от Office 365 Video към Microsoft Stream вижте:</span><span class="sxs-lookup"><span data-stu-id="0aa84-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
 
-- [<span data-ttu-id="1d278-104">Общ преглед на мигрирането</span><span class="sxs-lookup"><span data-stu-id="1d278-104">Migration overview</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [<span data-ttu-id="1d278-105">Подробни данни за мигриране</span><span class="sxs-lookup"><span data-stu-id="1d278-105">Migration details</span></span>](https://docs.microsoft.com/stream/migration-experience)
-- [<span data-ttu-id="1d278-106">Настройка на времето за мигриране</span><span class="sxs-lookup"><span data-stu-id="1d278-106">Migration timing setting</span></span>](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
-- [<span data-ttu-id="1d278-107">Скрипт за подготовка за мигриране</span><span class="sxs-lookup"><span data-stu-id="1d278-107">Migration prep script</span></span>](https://docs.microsoft.com/stream/migration-o365video-prep)
+- [<span data-ttu-id="0aa84-104">Общ преглед на мигрирането</span><span class="sxs-lookup"><span data-stu-id="0aa84-104">Migration overview</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="0aa84-105">Подробности за мигрирането</span><span class="sxs-lookup"><span data-stu-id="0aa84-105">Migration details</span></span>](https://docs.microsoft.com/stream/migration-experience)
+- [<span data-ttu-id="0aa84-106">Настройка за време на мигриране</span><span class="sxs-lookup"><span data-stu-id="0aa84-106">Migration timing setting</span></span>](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
+- [<span data-ttu-id="0aa84-107">Скрипт за подготовка на мигрирането</span><span class="sxs-lookup"><span data-stu-id="0aa84-107">Migration prep script</span></span>](https://docs.microsoft.com/stream/migration-o365video-prep)
