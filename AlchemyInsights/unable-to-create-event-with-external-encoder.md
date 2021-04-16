@@ -1,8 +1,8 @@
 ---
-title: 'Teams: събитие на живо – не можете да създадете събитие с външен енкодер'
+title: 'Teams: събитие на живо – не може да се създаде събитие с външен кодер'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796990"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Трябва да конфигурирате вашето събитие на живо с външен енкодер?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Трябва да конфигурирате събитието си на живо с външен кодер?
 
-Ако имате проблеми с напомнянето на вашия енкодер за работа със събития на живо в Teams, вижте документацията за настройка на енкодера: [Конфигуриране на енкодери за предаване на живо в Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+Ако имате проблеми с работата с вашия кодер с вашето събитие на живо в Teams, вижте документацията за настройка на кодера: Конфигуриране на [кодери](https://docs.microsoft.com/stream/live-encoder-setup) за поточно предаване на живо в Microsoft Stream
