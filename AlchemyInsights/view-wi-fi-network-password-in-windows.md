@@ -1,8 +1,8 @@
 ---
-title: Вижте паролата за Wi-Fi мрежа в Windows 10
+title: Преглед Wi-Fi мрежова парола в Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807367"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Вижте паролата за Wi-Fi мрежа в Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Преглед Wi-Fi мрежова парола в Windows 10
 
-1. Уверете се, че вашият компютър с Windows 10 е свързан с Wi-Fi мрежата.
+1. Уверете се, че компютърът с Windows 10 е свързан към Wi-Fi мрежа.
 
-2. Отидете на **настройки, за > на мрежата & > състоянието на интернет**, или щракнете върху или докоснете [тук](ms-settings:network?activationSource=GetHelp) , за да ви откараме там веднага.)
+2. Отидете на **Настройки > мрежа & интернет > състояние** или щракнете върху или докоснете [тук,](ms-settings:network?activationSource=GetHelp) за да ни позволите да ви отведем там сега.)
 
-3. Щракнете върху **център за мрежи и споделяне**.
+3. Щракнете **върху Център за мрежи и споделяне**.
 
     ![Център за мрежи и споделяне.](media/network-sharing-center.png)
 
-4. В **центъра за мрежи и споделяне**, до **връзки**ще видите името на вашата безжична мрежа. Например, ако вашата мрежа е с име "АБВ 123", може да видите:
+4. В **Центъра за мрежи и** споделяне до **Връзки** ще видите името на вашата безжична мрежа. Ако например вашата мрежа се нарича "ABC123", може да видите:
 
     ![Мрежови връзки.](media/network-connections.png)
 
-    Щракнете върху името на безжичната мрежа, за да отворите прозореца на състоянието на Wi-Fi. 
+    Щракнете върху името на безжичната мрежа, за да отворите прозореца Wi-Fi състояние. 
 
-5. В прозореца на състоянието на Wi-Fi щракнете върху **безжични свойства**, щракнете върху раздела **защита** и отметнете **Показвай знаците**.
+5. В прозореца Wi-Fi състояние щракнете върху Безжични **свойства**, щракнете върху раздела **Защита** и отмятайте **Показвай знаците**.
 
-    ![Показвай знаците за парола за Wi-Fi.](media/show-password-characters.png)
+    ![Показване Wi-Fi на пароли.](media/show-password-characters.png)
 
