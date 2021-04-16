@@ -1,8 +1,8 @@
 ---
-title: Помощ за записване
+title: Помощ за записване в Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811553"
 ---
-# <a name="help-with-intune-enrollment"></a>Помощ за записване
+# <a name="help-with-intune-enrollment"></a>Помощ за записване в Intune
 
 
-- [Научете повече за записването на устройства чрез "Настройки"](https://docs.microsoft.com/intune/device-enrollment)
+- [Научете повече за записването на устройства с Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Настройване на записване на устройства с iOS с настройка](https://docs.microsoft.com/intune/ios-enroll)
+- [Настройване на записване на устройство с iOS с Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Настройване на записване на устройство с Android с настройка](https://docs.microsoft.com/intune/android-enroll)
+- [Настройване на записване на устройство с Android с Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Настройване на записване на устройства с Windows с настройка](https://docs.microsoft.com/intune/windows-enroll)
+- [Настройване на записване на устройство с Windows с Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Отстраняване на неизправности при записване на устройство**
+**Отстраняване на неизправности с устройството Записване**
 
-1. Използвайте портала за отстраняване на неизправности, за да диагностицирате и отстраните чести неуспешни записвания. Прегледайте [този](https://docs.microsoft.com/intune/help-desk-operators) документ за повече подробности.
+1. Използвайте Портала за отстраняване на неизправности в Intune, за да диагностицирате и отстраните често срещани грешки при записване. Прегледайте [този](https://docs.microsoft.com/intune/help-desk-operators) документ за повече подробности.
 
-2. Прегледайте тези документи за списък с често срещани грешки, които пречат на записването и резолюциите във всеки от тях: [ръководство за отстраняване на неизправности](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) и [отстраняване на неизправности](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Прегледайте тези документи за списък с често срещани грешки, които не позволяват записването и разделителната способност на всеки: Ръководство за отстраняване на [неизправности и](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) документ за отстраняване [на неизправности.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

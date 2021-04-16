@@ -1,8 +1,8 @@
 ---
-title: Как мога да позволя на потребителите на Skype за бизнеса да комуникират с потребители на Skype
+title: Как да позволя на потребителите на Skype за бизнеса да комуникират с потребители на Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811301"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Позволете на потребителите на Skype за бизнеса да добавят абонати на Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Позволяване на потребителите на Skype за бизнеса да добавят контакти в Skype
 
-Със Skype за бизнеса вашите потребители могат да търсят и незабавни съобщения с всеки, който използва Skype, безплатното приложение! Тази статия обяснява какво трябва да направите, за да могат да добавят абонати на Skype.
+Със Skype за бизнеса вашите потребители могат да търсят и незабавни съобщения с всеки, който използва Skype – безплатното приложение! Тази статия обяснява какво трябва да направите, за да могат да добавят контакти в Skype.
 
-[Позволете на потребителите на Skype за бизнеса да добавят абонати на Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Позволяване на потребителите на Skype за бизнеса да добавят контакти в Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

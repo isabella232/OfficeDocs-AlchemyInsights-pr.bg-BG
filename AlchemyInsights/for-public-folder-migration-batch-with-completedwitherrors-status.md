@@ -1,8 +1,8 @@
 ---
-title: Папка за мигриране на публични папки със статус CompletedWithErrors
+title: За партида за мигриране на публични папки със състояние "Завършенисъсerrors"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744102"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812453"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Папка за мигриране на публични папки със статус CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>За партида за мигриране на публични папки със състояние "Завършенисъсerrors"
 
-Използвайте следните стъпки, за да завършите партидата, като пропуснете големите/лошите елементи: 
-1. Одобряване на пропуснатите елементи в партида за мигриране:
+Използвайте следните стъпки, за да завършите партидата, като прескочите големите/лошите елементи: 
+1. Одобряване на пропуснати елементи в партидата за мигриране:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Използвайте командата по-долу, за да одобрите пропуснатите елементи в искания за мигриране, които са "синхронизирани", но не са изпълнени:
+2. Използвайте следната команда, за да одобрите пропуснати елементи в искания за мигриране, които са "Синхронизирани", но не са изпълнени:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Партидата за мигриране и исканията трябва да се възобновят и допълнят за няколко минути.
+3. Партидата за мигриране и исканията трябва да се възобновят и довършат след няколко минути.
 

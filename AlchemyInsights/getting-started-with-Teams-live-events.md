@@ -2,7 +2,7 @@
 title: Първи стъпки в събитията на живо на Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811949"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Първи стъпки в събитията на живо на Teams
 
@@ -25,7 +25,7 @@ ms.locfileid: "47677268"
 
 За да създадете събитие на живо, ще ви трябва следното:
 
-- Първо, уверете се, че събития на живо в Teams са [налични във вашата страна и регион](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); В някои страни все още не се поддържат събития на живо.  Ако сте присвоили лицензи и сте задали правила, но все още не можете да създадете събитие на живо в Teams, е вероятно да сте в страна или регион, където събития на живо все още не са налични.
+- Първо, потвърдете, че събитията на живо на Teams [са налични във вашата страна и регион;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Събитията на живо все още не се поддържат в някои страни.  Ако сте дали лицензи и сте задали правила, но все още не можете да създадете събитие в Teams Live, вероятно сте в страна или регион, където събитията на живо все още не са налични.
 
 - Лиценз за [Office 365 Enterprise E1, E3 или E5 или лиценз за Office 365 A3 или A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Забележка**: поради нарастването на използването на Teams в последно време, когато присвоявате лиценз за Teams на потребител, това може да отнеме около 24 часа, преди да бъде напълно настроен. Дотогава няма да можете да присвоявате правилата на Teams за тях и те може да нямат достъп до някои функции на екипа, например разговори и аудио конференции.
 

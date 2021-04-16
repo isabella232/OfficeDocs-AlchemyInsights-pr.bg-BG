@@ -1,8 +1,8 @@
 ---
-title: Генериране на автоматични надписи и препис в Microsoft Stream
+title: Генериране на автоматични надписи и транскрипция в Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707772"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812351"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Генериране на автоматични надписи и препис в Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Генериране на автоматични надписи и транскрипция в Microsoft Stream
 
-Потокът може автоматично да генерира надписи чрез автоматична технология за разпознаване на говор и можете да видите прозорец за превъртане на препис, за да навигирате лесно и да следвате заедно с говоримото съдържание на видеоклип.
+Потокът може автоматично да генерира надписи с помощта на технологията за автоматично разпознаване на говор и можете да видите прозорец за превъртане на транскрипция, за да навигирате лесно и да следвате заедно с говорното съдържание на видео.
 
-- [Генериране на автоматични надписи и препис за видеоклипове от Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Генериране на автоматични надписи и транскрипция за вашите видеоклипове в Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Показване на прозорец за превъртане на препис за видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Показване на прозорец за превъртане на транскрипция за видео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

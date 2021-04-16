@@ -1,8 +1,8 @@
 ---
-title: Не можете да активирате Office
+title: Не може да се активира Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9771a3244c5507312d43156525095fb9eaf7fa20
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704919"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812561"
 ---
-# <a name="unable-to-activate-office"></a>Не можете да активирате Office
+# <a name="unable-to-activate-office"></a>Не може да се активира Office
 
 - Проверете дали срокът на абонамента ви не е изтекъл.
-- Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Office 365 Business или Business Premium, и [Проверете дали потребителят има присвоен лиценз](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Уверете се, че имате абонамент, който позволява клиентски лицензи, като например Office 365 Business или Business Premium, и се уверете, [че потребителят има присвоен лиценз.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 - Уверете се, че потребителят влиза в Office със същия акаунт, на който е присвоен лицензът.
 - Проверете [Страницата за състояние на услугата Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health), за да видите дали няма някакви известни проблеми с услугата.
-- Проверете защитната стена, антивирусния софтуер и настройките за прокси сървър, за да потвърдите, че не блокират достъпа до интернет на приложенията на Microsoft 365. Вижте [Диапазони на URL и IP адреси за Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Диапазони от URL и IP адреси за Office 365").
+- Проверете настройките на защитната стена, антивирусния софтуер и прокси сървъра, за да потвърдите, че те не блокират достъпа на приложенията на Microsoft 365 до интернет. Вижте [Диапазони на URL и IP адреси за Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Диапазони от URL и IP адреси за Office 365").
 
-**Съвет** В машини с Windows ние можем да диагностицираме и автоматично да коригираме някои често срещани проблеми с влизането в Office вместо вас. Изтеглете и изпълнете  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашите автоматизирани инструменти.
+**Съвет** На компютри с Windows можем да диагностицираме и автоматично да коригираме няколко често срещани проблема с влизането в Office. Изтеглете и стартирайте  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашия автоматизиран инструмент.
 
 Използвайте следните действия за отстраняване на проблеми:
 
