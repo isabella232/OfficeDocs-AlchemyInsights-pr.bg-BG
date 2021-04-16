@@ -1,31 +1,32 @@
 ---
-title: Не е наличен или липсва бутонът за шаблон на сайт/списък
+title: Бутонът за записване на шаблон за сайт/списък не е наличен или липсва
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357349"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789277"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Не е наличен или липсва бутонът за шаблон на сайт/списък
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Бутонът за записване на шаблон за сайт/списък не е наличен или липсва
 
-Възможността за записване на сайт като шаблон не се поддържа с модерна комуникация или екипни сайтове. За повече информация относно използването на шаблони вижте [Записване, изтегляне и качване на сайт на SharePoint като шаблон](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Възможността за записване на сайт като шаблон не се поддържа с модерни комуникации или екипни сайтове. За повече информация относно използването на шаблони вижте [Записване, изтегляне и качване на сайт на SharePoint като шаблон](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Администраторите ще трябва да разреши потребителски скрипт, за да разрешите функциите на шаблона. За подробни стъпки, примери и съображения вижте:
+Администраторите ще трябва да позволят персонализирания скрипт по избор, за да разрешат функциите на шаблона. За подробни стъпки, примери и съображения вижте:
 
-- [Разрешаване или забраняване на скрипт по избор](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Разрешаване или предотвратяване на персонализиран скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Командата Запиши сайта като шаблон не се поддържа и може да доведе до проблеми на сайтове, които използват SharePoint Server издателска инфраструктура.
+- Командата "Запиши сайта като шаблон" не се поддържа и може да предизвика проблеми в сайтове, които използват инфраструктурата за публикуване на SharePoint Server.
 
 
