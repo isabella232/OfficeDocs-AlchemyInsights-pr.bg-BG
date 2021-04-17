@@ -1,8 +1,8 @@
 ---
-title: 'Защита срещу фалшифициране на клиент на защитник '
+title: 'Защита от фалшифициране на защитници на клиенти '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815568"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="9be7e-102">Защита срещу фалшифициране на защитник</span><span class="sxs-lookup"><span data-stu-id="9be7e-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="8e9bf-102">Защита от неправозащитен защитник</span><span class="sxs-lookup"><span data-stu-id="8e9bf-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="9be7e-103">Със защита срещу фалшифициране злонамерени приложения не могат да предприемат действия, като например следните:</span><span class="sxs-lookup"><span data-stu-id="9be7e-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="8e9bf-103">С "Защита от неправди" злонамерените приложения не могат да предприемат действия, като например тези:</span><span class="sxs-lookup"><span data-stu-id="8e9bf-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="9be7e-104">Забраняване на защита от вируси и заплахи</span><span class="sxs-lookup"><span data-stu-id="9be7e-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="9be7e-105">Забрана на защитата в реално време</span><span class="sxs-lookup"><span data-stu-id="9be7e-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="9be7e-106">Изключване на контрола за поведението</span><span class="sxs-lookup"><span data-stu-id="9be7e-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="9be7e-107">Забраняване на антивирусната програма (например IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="9be7e-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="9be7e-108">Забраняване на предоставената от облака защита</span><span class="sxs-lookup"><span data-stu-id="9be7e-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="9be7e-109">Премахване на актуализации на разузнаването за защита</span><span class="sxs-lookup"><span data-stu-id="9be7e-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="8e9bf-104">Забраняване на защитата от вируси и заплахи</span><span class="sxs-lookup"><span data-stu-id="8e9bf-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="8e9bf-105">Забраняване на защитата в реално време</span><span class="sxs-lookup"><span data-stu-id="8e9bf-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="8e9bf-106">Изключване на наблюдението на поведението</span><span class="sxs-lookup"><span data-stu-id="8e9bf-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="8e9bf-107">Забраняване на антивирусната програма (като например IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="8e9bf-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="8e9bf-108">Забраняване на защитата, доставена в облака</span><span class="sxs-lookup"><span data-stu-id="8e9bf-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="8e9bf-109">Премахване на актуализациите на разузнаването за защита</span><span class="sxs-lookup"><span data-stu-id="8e9bf-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="9be7e-110">За повече информация вижте [защита на настройките за защита със защита от злонамерени настройки](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="9be7e-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="8e9bf-110">За повече подробности вижте Защита [на настройките за защита със защита от фалшифициране.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)</span><span class="sxs-lookup"><span data-stu-id="8e9bf-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Модулът за получаване на грешка по избор не разпознава тази грешка при изтегляне на проследяването на съобщения?
+title: Получаването на модул за грешка по избор не разпознава тази грешка при изтегляне на проследяване на съобщение?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731948"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815748"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="6be41-102">Получаване на "потребителски модул за грешка не разпознава тази грешка" при изтегляне на проследяване на съобщение?</span><span class="sxs-lookup"><span data-stu-id="6be41-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="b1cd1-102">Получаване на "модул за грешка по избор не разпознава тази грешка", когато изтегляте проследяване на съобщение?</span><span class="sxs-lookup"><span data-stu-id="b1cd1-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
 
-<span data-ttu-id="6be41-103">Ние сме наясно с проблема и работим върху корекция.</span><span class="sxs-lookup"><span data-stu-id="6be41-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="6be41-104">Междувременно опитайте да **изчистите кеша на браузъра**или като използвате режим InPrivate, за да отстраните този проблем.</span><span class="sxs-lookup"><span data-stu-id="6be41-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>
+<span data-ttu-id="b1cd1-103">Наясно сме с проблема и работим по корекция.</span><span class="sxs-lookup"><span data-stu-id="b1cd1-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="b1cd1-104">Междувременно опитайте да изчистите **кеша на браузъра** или да използвате режим InPrivate, за да отстраните този проблем.</span><span class="sxs-lookup"><span data-stu-id="b1cd1-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Липсващ бележник за набиране от Teams
+title: Клавиатурата за набиране липсва от Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 86fec9c33a0b90e97c4ce2c547db3d7819c1a0be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 86a642db6ec0a81f91ad07240c90cc116aa970ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815271"
 ---
-# <a name="dial-pad-missing-from-teams"></a><span data-ttu-id="70329-102">Липсващ бележник за набиране от Teams</span><span class="sxs-lookup"><span data-stu-id="70329-102">Dial pad missing from Teams</span></span>
+# <a name="dial-pad-missing-from-teams"></a><span data-ttu-id="c1770-102">Клавиатурата за набиране липсва от Teams</span><span class="sxs-lookup"><span data-stu-id="c1770-102">Dial pad missing from Teams</span></span>
 
-<span data-ttu-id="70329-103">Не можете да намерите клавиатурата за набиране в Teams?</span><span class="sxs-lookup"><span data-stu-id="70329-103">Can't find the dial-pad in Teams?</span></span> <span data-ttu-id="70329-104">Проверете [тук](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) за повече информация.</span><span class="sxs-lookup"><span data-stu-id="70329-104">Check [here](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) for more information.</span></span>
+<span data-ttu-id="c1770-103">Не можете да намерите клавиатурата за набиране в Teams?</span><span class="sxs-lookup"><span data-stu-id="c1770-103">Can't find the dial-pad in Teams?</span></span> <span data-ttu-id="c1770-104">Проверете [тук](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) за повече информация.</span><span class="sxs-lookup"><span data-stu-id="c1770-104">Check [here](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) for more information.</span></span>
