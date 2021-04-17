@@ -1,8 +1,8 @@
 ---
-title: Как да затворите профила си в Google анализ
+title: Как да затворите своя акаунт за настолни анализи
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725612"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827061"
 ---
-# <a name="working-with-desktop-analytics"></a><span data-ttu-id="12334-102">Работа с анализи на работния плот</span><span class="sxs-lookup"><span data-stu-id="12334-102">Working with Desktop Analytics</span></span>
+# <a name="working-with-desktop-analytics"></a><span data-ttu-id="203ae-102">Работа с настолни анализи</span><span class="sxs-lookup"><span data-stu-id="203ae-102">Working with Desktop Analytics</span></span>
 
-<span data-ttu-id="12334-103">Изглежда, че питате за настолни анализи.</span><span class="sxs-lookup"><span data-stu-id="12334-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="12334-104">Бихме могли да ви помогнем с по-прецизен отговор, ако перифразирате въпроса си.</span><span class="sxs-lookup"><span data-stu-id="12334-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
+<span data-ttu-id="203ae-103">Изглежда, че питате за настолния анализ.</span><span class="sxs-lookup"><span data-stu-id="203ae-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="203ae-104">Възможно е да можем да ви помогнем с по-точен отговор, ако рефразирате въпроса си.</span><span class="sxs-lookup"><span data-stu-id="203ae-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
 
-- [<span data-ttu-id="12334-105">Какво представлява настолното анализиране?</span><span class="sxs-lookup"><span data-stu-id="12334-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [<span data-ttu-id="12334-106">Как да настроите настолен анализ</span><span class="sxs-lookup"><span data-stu-id="12334-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
-- [<span data-ttu-id="12334-107">Често задавани въпроси</span><span class="sxs-lookup"><span data-stu-id="12334-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [<span data-ttu-id="12334-108">Отстраняване на неизправности при анализ на работен плот</span><span class="sxs-lookup"><span data-stu-id="12334-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [<span data-ttu-id="203ae-105">Какво представлява настолната анализ?</span><span class="sxs-lookup"><span data-stu-id="203ae-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [<span data-ttu-id="203ae-106">Как да настроите настолната анализ</span><span class="sxs-lookup"><span data-stu-id="203ae-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [<span data-ttu-id="203ae-107">Често задавани въпроси</span><span class="sxs-lookup"><span data-stu-id="203ae-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [<span data-ttu-id="203ae-108">Отстраняване на неизправности при настолни анализи</span><span class="sxs-lookup"><span data-stu-id="203ae-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
