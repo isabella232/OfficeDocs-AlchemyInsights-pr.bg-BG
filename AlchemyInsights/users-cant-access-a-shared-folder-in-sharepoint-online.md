@@ -1,8 +1,8 @@
 ---
-title: Потребителите нямат достъп до споделена папка в SharePoint online
+title: Потребителите не могат да получат достъп до споделена папка в SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "5643"
-ms.openlocfilehash: fc4240f8b99911b73b668ae4cc0feb7bf36477ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f12747bbc872e3215fd727c774263985f8d85ad
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749215"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824388"
 ---
-# <a name="users-cant-access-a-shared-folder-in-sharepoint-online"></a>Потребителите нямат достъп до споделена папка в SharePoint online
+# <a name="users-cant-access-a-shared-folder-in-sharepoint-online"></a>Потребителите не могат да получат достъп до споделена папка в SharePoint Online
 
-Ако потребителите не могат да получат достъп до споделена папка в SharePoint Online или OneDrive за бизнеса, моля, следвайте стъпките в [нямате достъп до споделената папка](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/cannot-access-shared-folder).
+Ако потребителите не могат да получат достъп до споделена папка в SharePoint Online или OneDrive за бизнеса, следвайте стъпките в Няма [достъп до споделена папка](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/cannot-access-shared-folder).

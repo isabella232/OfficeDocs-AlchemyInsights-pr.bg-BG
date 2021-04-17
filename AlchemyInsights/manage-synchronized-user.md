@@ -2,7 +2,7 @@
 title: Управление на синхронизиран потребител
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823956"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Не можете да задавате първичен имейл адрес, да променяте потребителските атрибути или да премахвате/изтривате синхронизиран потребител
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Не можете да зададете основен имейл адрес, да промените потребителските атрибути или да премахнете/изтриете синхронизиран потребител
 
-Ако Синхронизирането на справочен указател е разрешено за вашата среда, някои атрибути на потребител или обект не могат да бъдат променяни с помощта на центъра за администриране на Microsoft 365.
+Ако синхронизирането на справочника е разрешено за вашата среда, някои атрибути на потребител или обект не могат да бъдат променяни с помощта на центъра за администриране на Microsoft 365.
 
-За пълно управление на синхронизираните потребители и всички техни атрибути Използвайте локалната Конзола за управление на потребители и групи на Active Directory (Adsiedit. msc).  
+За да управлявате напълно синхронизираните потребители и всички техни атрибути, използвайте своята локална конзола за управление на active directory и групи (adsiedit.msc).  
 
-Друга възможност е да промените отделни потребители или атрибути за синхронизирани потребители с помощта на PowerShell, както е показано в тези общи примери:
+Като алтернатива можете да промените отделни потребители или атрибути за синхронизирани потребители с помощта на powershell, като например показани в тези често срещани примери:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

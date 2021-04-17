@@ -2,7 +2,7 @@
 title: Проверка на вашия домейн с Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816386"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824280"
 ---
 # <a name="verify-your-domain-with-hostgator"></a>Проверка на вашия домейн с Hostgator
 
-За да потвърдите домейна си, ще трябва да добавите TXT запис към вашия регистратор на домейни, за да се уверите, че сте собственик на вашия домейн. 
+За да проверите своя домейн, ще трябва да добавите TXT запис към регистратора на домейни, за да проверите дали притежавате домейна си. 
 
-Първо, следвайте [съветника за добавяне на домейн](https://admin.microsoft.com/Adminportal#/Domains) , като изберете **Настройки** на \> **домейни**и след това **Добавяне на домейн**.
+Първо, следвайте съветника [за добавяне на домейн,](https://admin.microsoft.com/Adminportal#/Domains) като изберете **Домейни** \> **на настройки** и след това **Добавяне на домейн**.
   
-Вижте [Създаване на DNS записи в Hostgator за Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) за инструкции "стъпка по стъпка".
+Вижте [Създаване на DNS записи в Hostgator за Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) за подробни инструкции.

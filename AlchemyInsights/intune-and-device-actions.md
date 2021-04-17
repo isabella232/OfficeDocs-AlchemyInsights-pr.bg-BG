@@ -1,8 +1,8 @@
 ---
-title: Настройки и действия за устройството
+title: Intune и Device Actions
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982424"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824064"
 ---
-# <a name="intune-and-device-actions"></a>Настройки и действия за устройството
+# <a name="intune-and-device-actions"></a>Intune и Device Actions
 
-Функцията за запознаване дава на администраторите възможност за отдалечено изпълнение на действия с устройството. Чрез използването на тези отдалечени действия от портала за настройка можете да рестартирате устройства, нулиране на пароли, намиране на изгубени или откраднати устройства и др. Прегледайте [портала за действие за устройството](https://docs.microsoft.com/mem/intune/remote-actions/) , за да научите повече.
+Intune дава на администраторите възможност за отдалечено изпълнение на действия на устройството. С помощта на тези отдалечени действия от портала Intune можете да рестартирате устройства, да нулирате паролите, да намерите изгубени или откраднати устройства и др. Прегледайте [портала за действия на устройството,](https://docs.microsoft.com/mem/intune/remote-actions/) за да научите повече.
