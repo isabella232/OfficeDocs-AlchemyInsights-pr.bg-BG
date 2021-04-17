@@ -1,8 +1,8 @@
 ---
-title: Управление на достъпа от неуправлявани устройства
+title: Управление на достъпа от неувършени устройства
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: db9a9338d02a566dd1552347d946fa5180ff6de0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341a580f67c5a9724814036a8f2b62fbb43b21d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816765"
 ---
-# <a name="control-access-from-unmanaged-devices"></a>Управление на достъпа от неуправлявани устройства
+# <a name="control-access-from-unmanaged-devices"></a>Управление на достъпа от неувършени устройства
 
-Като администратор на SharePoint или глобален в Microsoft 365, можете да блокирате или да ограничите достъпа до съдържание на SharePoint и OneDrive от неуправлявани устройства.
+Като администратор на SharePoint или глобален администратор в Microsoft 365, можете да блокирате или ограничите достъпа до съдържание на SharePoint и OneDrive от неудържими устройства.
 
-- [Управление на достъпа от неуправлявани устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Управление на достъпа от неувършени устройства](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)

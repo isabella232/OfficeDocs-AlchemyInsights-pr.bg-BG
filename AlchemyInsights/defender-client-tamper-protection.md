@@ -1,8 +1,8 @@
 ---
-title: 'Защита срещу фалшифициране на клиент на защитник '
+title: 'Защита от фалшифициране на защитници на клиенти '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815568"
 ---
-# <a name="defender-tamper-protection"></a>Защита срещу фалшифициране на защитник 
+# <a name="defender-tamper-protection"></a>Защита от неправозащитен защитник 
 
-Със защита срещу фалшифициране злонамерени приложения не могат да предприемат действия, като например следните:
+С "Защита от неправди" злонамерените приложения не могат да предприемат действия, като например тези:
 
-- Забраняване на защита от вируси и заплахи
-- Забрана на защитата в реално време
-- Изключване на контрола за поведението
-- Забраняване на антивирусната програма (например IOfficeAntivirus (IOAV))
-- Забраняване на предоставената от облака защита
-- Премахване на актуализации на разузнаването за защита
+- Забраняване на защитата от вируси и заплахи
+- Забраняване на защитата в реално време
+- Изключване на наблюдението на поведението
+- Забраняване на антивирусната програма (като например IOfficeAntivirus (IOAV))
+- Забраняване на защитата, доставена в облака
+- Премахване на актуализациите на разузнаването за защита
 
-За повече информация вижте [защита на настройките за защита със защита от злонамерени настройки](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+За повече подробности вижте Защита [на настройките за защита със защита от фалшифициране.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

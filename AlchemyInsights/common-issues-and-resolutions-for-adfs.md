@@ -2,7 +2,7 @@
 title: Често срещани проблеми и решения за ADFS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
-ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
+ms.openlocfilehash: 5e7853ea6c2a58aff6a4238e58c855a7f2071553
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48213016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817593"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Често срещани проблеми и решения за ADFS
 
 Конфигурацията на външния домейн може да бъде актуализирана, както е описано в следните статии в базата знания на Microsoft.
 
-- [Изтича сертификат за ADFS на Федерацията](adfs-federation-certificate-expiring.md)
+- [Изтичане на срока на сертификата за федериране на ADFS](adfs-federation-certificate-expiring.md)
 
-- [Настройване на ADFS за Office 365 за еднократна идентификация](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
+- [Настройване на ADFS за Office 365 за еднократна регистрация](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
-- [2713898](https://support.microsoft.com/help/2713898)  "Възникна проблем с достъпа до сайта" от AD FS, когато един външен потребител влезе в Microsoft 365, Azure или в съзвучие.
+- [2713898](https://support.microsoft.com/help/2713898)  грешка "Възникна проблем с достъпа до сайта" от AD FS, когато федерираният потребител се забие в Microsoft 365, Azure или Intune.
 
-- [2535191](https://support.microsoft.com/help/2535191) "за съжаление, Възникна проблем с влизането ви в" и "80048163" при опит на външни потребители да влизат в Microsoft 365, Azure или в съзвучие.
+- [2535191](https://support.microsoft.com/help/2535191) "За съжаление, но имаме проблеми с влизането ви" и грешка "80048163", когато федерираният потребител се опита да влезете в Microsoft 365, Azure или Intune.
 
-- [2647020](https://support.microsoft.com/help/2647020)   "за съжаление, Възникна проблем с влизането ви в" и "80041317" или "80043431" при опит на външни потребители да влизат в Microsoft 365, Azure или в "Настройки".
+- [2647020](https://support.microsoft.com/help/2647020)   "За съжаление, но имаме проблеми с влизането ви" и "80041317" или "80043431", когато федерираният потребител се опита да влезете в Microsoft 365, Azure или Intune.
 
-За повече информация вижте [актуализиране или поправяне на настройките на външни домейни в Microsoft 365, Azure или за настройка](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+За повече информация вижте Актуализиране или поправяне на настройките на федерирания домейн в [Microsoft 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

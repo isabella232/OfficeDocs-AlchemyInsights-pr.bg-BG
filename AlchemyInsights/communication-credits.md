@@ -1,8 +1,8 @@
 ---
-title: Кредити за комуникации
+title: Кредити за комуникация
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817449"
 ---
-# <a name="communication-credits"></a>Кредити за комуникации
+# <a name="communication-credits"></a>Кредити за комуникация
 
-Кредитът за комуникация е удобен начин да платите за минутите на аудио конференции и план за разговори. Ще трябва да настроите кредитите за комуникация, ако желаете да използвате безплатни номера със Skype за бизнеса и Microsoft Teams.
+Кредитите за комуникация са удобен начин за плащане за аудиоконферентна връзка и минути с план за обаждания. Ще трябва да настроите кредитите за комуникация, ако желаете да използвате безплатни номера със Skype за бизнеса и Microsoft Teams.
 
-- За да настроите кредити за комуникация, вижте [Настройване на кредити за комуникация за вашата организация](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
+- За да настроите кредити за комуникация, вижте [Настройване на кредити за комуникация за вашата организация.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-- За да добавите и управлявате парични средства за комуникация, вижте [Добавяне на средства и управление на кредити за комуникация](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
+- За да добавите и управлявате средства за кредит за комуникация, вижте [Добавяне на средства и управление на кредити за комуникация.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-За повече информация вижте [Какво представлява кредитът за комуникация?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+За повече информация вижте Какво [са кредитите за комуникация?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
