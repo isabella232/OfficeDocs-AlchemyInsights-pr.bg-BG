@@ -2,7 +2,7 @@
 title: 'Защита на информацията в Azure (AIP): клиентска инсталация на AIP'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714893"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820743"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Защита на информацията в Azure (AIP): клиентска инсталация на AIP
 
@@ -36,6 +36,6 @@ ms.locfileid: "47714893"
 
 За повече информация:
 
-- Прегледайте [документацията за Azure Information Protection (ПДИ)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), [изисквания](https://docs.microsoft.com/azure/information-protection/get-started/requirements) за настройка и местоположение, за да [изтеглите клиента на ПДИ](https://www.microsoft.com/download/details.aspx?id=53018).
+- Прегледайте [документацията на Azure Information Protection(AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)изискванията [за настройка и](https://docs.microsoft.com/azure/information-protection/get-started/requirements) местоположението, за да [изтеглите AIP клиента.](https://www.microsoft.com/download/details.aspx?id=53018)
 
-- За информация за абонамента за Azure вижте поддръжка [и функции за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection).
+- За информация за абонамента за Azure вижте Абонаменти и функции [за защита на информацията в Azure.](https://azure.microsoft.com/pricing/details/information-protection)

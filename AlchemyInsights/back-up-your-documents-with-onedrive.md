@@ -1,8 +1,8 @@
 ---
-title: Архивиране на папките "документи", "Картини" и "работен плот" с OneDrive
+title: Архивирайте вашите папки "Документи", "Картини" и "Работен плот" с OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 16b8d889017025eaaa0ce2474442354418f24801
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714821"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820635"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Архивиране на папките "документи", "Картини" и "работен плот" с OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Архивирайте вашите папки "Документи", "Картини" и "Работен плот" с OneDrive
 
-Можете да [архивирате вашите важни папки](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  (вашите папки на работен плот, документи и картини) на своя компютър с Windows с архивирането на папката PC в OneDrive, така че да са защитени и достъпни на други устройства. Тази функция все още не е налична за Mac.  
+Можете да [архивирате вашите важни](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  папки (вашите папки "Работен плот", "Документи" и "Картини") на вашия компютър с Windows с архивно копие на папка на OneDrive PC, така че те да са защитени и налични на други устройства. Тази функция все още не е налична за Mac.  
 
-Ако сте ИТ администратор, който иска да управлява архивирането на важни папки за организация, има указания за [разгръщане на известното движение на папките в OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Ако сте ИТ администратор, който иска да управлява архивира важни папки за организация, има указания за внедляване на "Преместване на [известни папки" в OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).

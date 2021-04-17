@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685587"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820167"
 ---
 # <a name="blocking-legacy-authentication"></a>Блокиране на наследено удостоверяване
 
@@ -25,11 +25,11 @@ ms.locfileid: "47685587"
 
 - По-стари клиенти на Office, които не използват модерно удостоверяване (например клиент на Office 2010).
 
-- Всеки клиент, който използва стари протоколи за поща, като IMAP/SMTP/POP3.
+- Всеки клиент, който използва стари пощенски протоколи, като например IMAP/SMTP/POP3.
 
-За повече информация относно блокирането на Legacy удостоверяване и разрешаването на модерното удостоверяване, вижте [блокиране на наследени удостоверяване](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+За повече информация относно блокирането на наследено удостоверяване и разрешаването на модерно удостоверяване вижте [Блокиране на наследено удостоверяване](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-Настройките по подразбиране за защита в Azure Active Directory (Azure AD) улесняват защитата и защитават вашата организация. Настройките по подразбиране за защита съдържат предварително конфигурирани настройки за защита за често срещани атаки.
-За повече информация относно настройките по подразбиране за защита вижте [какви са настройките по подразбиране за защита?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Настройките по подразбиране за защита в Azure Active Directory (Azure AD) улесняват защитата и защитават вашата организация. Настройките за защита по подразбиране съдържат предварително конфигурирани настройки за защита за често срещани атаки.
+За повече информация относно настройките за защита по подразбиране вижте [Какво са настройките по подразбиране за защита?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Забележка**: Ако клиентът ви е създаден на или след 22 октомври 2019, е възможно да имате новото поведение по подразбиране, което вече е разрешено по подразбиране на защитата във вашия клиент.  В усилията си за защита на всички наши потребители е създадена настройката за защита по подразбиране за всички създадени нови наематели.
+**Забележка:** Ако вашият клиент е създаден на или след 22 октомври 2019 г., е възможно да се сблъскате с новото поведение "защитен по подразбиране" и вече имате активирани настройки по подразбиране на защитата във вашия клиент.  В опит да защитим всички наши потребители, по подразбиране защитата се създава за всички нови клиенти, създадени.

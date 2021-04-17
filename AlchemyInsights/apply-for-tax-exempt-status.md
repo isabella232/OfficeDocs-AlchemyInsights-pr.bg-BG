@@ -2,7 +2,7 @@
 title: Кандидатстване за статут на освобождаване от данъци
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716774"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821283"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Кандидатстване за статут на освобождаване от данъци
 
@@ -31,6 +31,6 @@ ms.locfileid: "47716774"
 
 - **Международни организации, които подлежат на освобождаване от данъци** – уверете се, че разполагате със **Удостоверение/писмо за потвърждение от местните данъчни органи**.
 
-- **Пуерто Рико** – уверете се, че разполагате със**Certificado de Compras Exentas**.
+- **Пуерто Рико** – уверете се, че разполагате със **Certificado de Compras Exentas**.
 
 За повече информация вж. [Данъчна информация](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).

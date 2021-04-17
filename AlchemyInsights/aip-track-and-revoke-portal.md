@@ -1,8 +1,8 @@
 ---
-title: 'ПДИ: проследяване и отмяна на портала'
+title: 'AIP: Проследяване и анулиране на портал'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663142"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821580"
 ---
-# <a name="aip-track-and-revoke-portal"></a>ПДИ: проследяване и отмяна на портала
+# <a name="aip-track-and-revoke-portal"></a>AIP: Проследяване и анулиране на портал
 
-Използвайте **сайта за проследяване на документи** в портала на Azure, за да проследите и анулирате документи, когато използвате Azure Information Protection. Приложенията на Office (Word, Excel и PowerPoint) и File Explorer могат също да се използват за проследяване и отмяна на документи.
+Използвайте сайта **за проследяване на документи в** портала на Azure, за да проследявате и анулирате документи, когато използвате защитата на информацията в Azure. Приложенията на Office (Word, Excel и PowerPoint) и файловият мениджър също могат да се използват за проследяване и анулиране на документи.
 
-1. В сайта за проследяване на документи щракнете върху **анулиране на достъпа**. Оттеглянето на документ премахва достъпа от оторизирани потребители; Документът не се изтрива.
+1. В сайта за проследяване на документи щракнете върху **Анулирай достъпа**. Премахването на документ премахва достъпа от упълномощени потребители; документът не се изтрива.
 2. В приложението на Office:
     - Отворете защитения документ, който искате да проследите или анулирате.
-    - В раздела **Начало** , в групата **защита** щракнете върху **защита > проследяване и анулиране**.
+    - В раздела **Начало,** в групата Защита **щракнете** върху Защита на > **проследяване и анулиране.**
 
-- За допълнителна информация за проследяване и отмяна на документ вижте [проследяване и анулиране](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- За допълнителна информация относно проследяването и отмяната на документ вижте Проследяване [и анулиране.](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
 
-За информация относно използването на PowerShell за управление на сайта за проследяване на документи, информация за регистрирането вижте следното:
-- [Ръководство за потребителя: проследяване и анулиране на документи, когато използвате Azure за защита на информацията](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Ръководство за администратори: Конфигуриране и използване на проследяване на документи за защита на Azure информация](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Лиценз за използване на Rights Management](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Преглед на абонаменти и функции за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Изисквания за информация за Azure Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Ръководство за бърз старт за Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+За информация относно използването на PowerShell за управление на сайта за проследяване на документи, информация за регистриране вижте следното:
+- [Ръководство за потребителя: Проследяване и анулиране на вашите документи, когато използвате защитата на информацията в Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Ръководство за администриране: Конфигуриране и използване на проследяване на документи за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Лиценз за използване на управлението на правата](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Преглед на абонаментите и функциите за защита на информацията в Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [Изисквания за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Урок за бърз старт за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

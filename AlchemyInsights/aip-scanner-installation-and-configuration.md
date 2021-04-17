@@ -1,8 +1,8 @@
 ---
-title: 'Скенер на ПДИ: инсталиране и конфигуриране'
+title: 'AIP скенер: инсталиране и конфигуриране'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: be5b63ffccd5bbd83e7802e4ef5aa657ed921ae6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686631"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821652"
 ---
-# <a name="aip-scanner-installation-and-configuration"></a>Скенер на ПДИ: инсталиране и конфигуриране
+# <a name="aip-scanner-installation-and-configuration"></a>AIP скенер: инсталиране и конфигуриране
 
-**За да инсталирате скенера на ПДИ, следвайте препоръчваните указания**:
+**За да инсталирате AIP скенера, следвайте препоръчаните указания:**
 
-1. Ако надстройвате и не извършвате инсталация на чисто, моля, уверете се, че сте следвали насоките за [надстройване на програмата за защита на данните на Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) и за унифициран клиент за етикетиране вижте [надстройване на инструмента за защита на информацията на Azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
-2. Проверете дали спазвате всички изисквания за [настройките на защитната стена и мрежова инфраструктура](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
-3. Уверете се, че [правилата ви са настроени](https://docs.microsoft.com/azure/information-protection/configure-policy) за автоматично етикетиране или имат етикет по подразбиране в правилата.
-4. Уверете се, че съответният тип файл е конфигуриран за етикет/защита, както е описано в [типовете файлове, поддържани от клиента за защита на информацията на Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). Освен това, ако искате да промените поведението по подразбиране, следвайте тези указания: [Промяна на нивото на защита по подразбиране на файлове](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
-5. Уверете се, че потребителският акаунт, конфигуриран за изпълнение на услугата Scanner, има разрешения за достъп до всички конфигурирани хранилища.
-6. Ако все още имате проблеми, можете да експортирате регистрите на скенера и да ги добавите към своя билет за поддръжка.
+1. Ако надстройвате и не извършвате чиста инсталация, уверете се, че сте следвали указанията за надстройване на [скенера за защита на информацията](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) на Azure и за унифициран клиент за етикети, вижте Надстройване на [скенера за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
+2. Уверете се, че спазвате всички изисквания [за настройки на защитната стена и мрежовата инфраструктура.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. Уверете се, [че правилата ви са](https://docs.microsoft.com/azure/information-protection/configure-policy) зададени за автоматично етикети или имат етикет по подразбиране в правилата.
+4. Уверете се, че съответният тип файл е конфигуриран за етикет/защита, както е описано в [Типове файлове, поддържани от клиента за защита на информацията в Azure.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Освен това, ако искате да промените поведението по подразбиране, следвайте тези указания: Промяна на [нивото на защита по подразбиране на файловете.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
+5. Уверете се, че потребителският акаунт, конфигуриран да изпълнява услугата за скенер, има разрешения за достъп до всички конфигурирани хранилища.
+6. Ако все още имате проблеми, експортирайте регистрационните файлове на скенера и ги добавете към билета си за поддръжка.
 
-**Експортиране на регистрационни файлове на скенера за защита на информацията на Azure**
+**Експортиране на регистрационни файлове на скенера за защита на информацията в Azure**
 
-1. Придвижете се до%localappdata%\Microsoft\MSIP под потребителския контекст, в който се изпълнява услугата Scanner.
-2. Архивирайте цялото съдържание под папката MSIP.
-3. Запишете регистрационните файлове по ваш избор и ги прикачете към вашата заявка за обслужване.
-4. Можете също да използвате [Export-AIPLogs-OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
+1. Навигирайте до %localappdata%\Microsoft\MSIP под потребителския контекст, изпълняващ услугата за скенер.
+2. Zip цялото съдържание под папката MSIP.
+3. Запишете регистрационните файлове по ваш избор на местоположение и ги прикачете към вашата заявка за обслужване.
+4. Можете също да използвате [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
 
-**За допълнителна информация вж**.:
-- [Разполагане на скенера за защита на информацията на Azure за автоматично класифициране и защита на файлове](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [Указване и използване на параметъра на маркера за Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+**За допълнителна информация вижте**:
+- [Разполагане на скенера за защита на информацията в Azure за автоматично класифициране и защита на файлове](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Задаване и използване на параметъра "Маркер" за Set-AIPAuthentication](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
 - [Изпълнение на цикъл на откриване и преглед на отчети за скенера](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- [Преглед на документацията за защита на информацията на Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Изисквания за информация за Azure Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Изтегляне на Azure за защита на информацията за клиента](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Преглед на документацията за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Изисквания за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Изтегляне на клиента за защита на информацията в Azure](https://www.microsoft.com/download/details.aspx?id=53018)

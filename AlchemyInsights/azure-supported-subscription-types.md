@@ -2,7 +2,7 @@
 title: Поддържани типове абонаменти
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807248"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820671"
 ---
 # <a name="supported-subscription-types"></a>Поддържани типове абонаменти
 
-Моля, прегледайте поддържаните типове абонаменти, за да продължите по-нататък.
+Прегледайте поддържаните типове абонаменти, за да продължите по-нататък.
 
 [Поддържани типове абонаменти](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Прехвърляне на собствеността върху плащане**
+**Прехвърляне на собствеността на фактуриране**
 
-Портал на Azure като [администратор на акаунт](https://ms.portal.azure.com/) за акаунт за фактуриране, който има абонамента, който искате да прехвърлите
+Влезте в портала на [Azure](https://ms.portal.azure.com/) като администратор на акаунта за фактуриране, в който е абонаментът, който искате да прехвърлите.
 
-- Извършете търсене по **управление на разходите + плащане** . Изберете " **абонаменти** " от левия екран. В зависимост от достъпа може да се наложи да изберете обхват на фактуриране **и след това абонаменти** или **Azure абонаменти** .
-- Изберете "прехвърляне на собствеността върху плащането за абонамента, който искате да прехвърлите"
-- Въведете имейл адреса на потребител, който е администратор на фактуриране на акаунта, който ще бъде новият собственик за абонамента, и след това изберете **Изпращане на искане за прехвърляне**
-- Потребителят получава имейл с инструкции, за да прегледа вашата заявка за прехвърляне. За да одобри заявката за прехвърляне, потребителят избира връзката в имейла и следва инструкциите.
+- Потърсете **Управление на разходите + Фактуриране**. Изберете **Абонаменти** от левия екран. В зависимост от достъпа, може да се наложи да изберете обхват на фактуриране и след това **Абонаменти** или **Абонаменти за Azure**.
+- Изберете "Прехвърляне на собствеността на фактуриране" за абонамента, който искате да прехвърлите.
+- Въведете имейл адреса на потребител, който е администратор на фактуриране на акаунта и ще бъде новият собственик за абонамента, след което изберете **Изпращане на искане за прехвърляне**.
+- Потребителят получава имейл с инструкции как да прегледа вашето искане за прехвърляне. За да одобри искането за прехвърляне, потребителят избира връзката в имейла и следва инструкциите.
 
-Забележка: Ако прехвърлите собствеността за плащане на абонамента си за акаунт на потребител в друг клиент на Azure AD, всички присвоени задачи за управление на [достъп (RBAC) за ролите](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) , за да управлявате ресурсите в абонамента, се премахват трайно. Само новият собственик ще има достъп до управление на ресурсите в абонамента. За повече информация вижте [прехвърляне на абонамент за потребител в друг клиент на AZURE ad](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Забележка: Обърнете внимание, че ако прехвърлите собствеността за фактуриране на вашия абонамент на потребителски акаунт в друг клиент на Azure AD, всички възложени задачи [за управление на достъпа, базирано на роли (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) за управление на ресурси в абонамента се премахват завинаги. Само новият собственик ще има достъп за управление на ресурси в абонамента. За повече информация вижте [Прехвърляне на абонамент към потребител в друг клиент на Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Прехвърляне на собствеността върху абонамент**
+**Прехвърляне на собствеността върху абонамента**
 
-Функция за прехвърляне на собствеността върху абонамент, базирано на роли (RBAC) за управление на ресурси в абонамента, загубват достъпа си. За повече информация относно добавянето на съществуващ абонамент към клиент вижте [свързване или добавяне на абонамент за Azure към Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+"Прехвърляне на собствеността на абонамента" изисква достъп, базиран на роли (RBAC), за да управлявате ресурсите, ако абонаментът загуби достъпа до тях. За повече информация за добавянето на съществуващ абонамент към клиент вижте [Свързване или добавяне на абонамент за Azure към Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-- Прехвърлянето на абонамент със съществуваща недължима сума от текущия цикъл на фактуриране няма да бъде прехвърлено към новия инструмент за плащане в новия акаунт. Единствената налична информация за потребителите в новия акаунт е разходите за последния месец за абонамента ви. Останалата част от хронологията на използването и фактурирането не се прехвърля с абонамента.
-- Прехвърляне на собствеността върху абонамент за корпоративно споразумение (EA) в момента се поддържа само в портала за корпоративно споразумение
-- Прехвърлянето на абонамент за кредит, като например Visual Studio, BizSpark, партньорската мрежа на Microsoft към нов потребител изисква да има лиценз за партньор на Visual Studio/Microsoft, за да приеме искането за прехвърляне
-- Всички ресурси, като например виртуални машини, дискове и прехвърляне на уеб сайтове, ще бъдат прехвърлени успешно към новия акаунт. Следните ресурси могат да бъдат засегнати при прехвърляне на абонамент за кръстосани наематели:
+- Прехвърлянето на абонамент със съществуваща дължима сума от текущия цикъл на фактуриране няма да премине към новия инструмент за плащане в новия акаунт. Единствената информация, налична за потребителите в новия акаунт, е цената за последния месец за вашия абонамент. Останалата част от използването и хронологията на фактуриране не се прехвърля с абонамента.
+- Прехвърлянето на собствеността върху фактурирането на абонаменти за корпоративно споразумение (EA) в момента се поддържа само в портала за корпоративни споразумения
+- Прехвърлянето на абонамент, ориентиран към кредит, като Visual Studio, BizSpark, мрежата от партньори на Microsoft към нов потребител изисква да имате мрежов лиценз на партньор на Visual Studio/Microsoft, за да приемете искането за прехвърляне
+- Всички ресурси, като виртуални машини, дискове и уеб сайтове, се прехвърлят успешно към новия акаунт. Следните ресурси могат да бъдат засегнати при прехвърляне на абонамент между различни клиенти:
 
-**Услуги за домейни на Azure AD**
+**Домейнови услуги на Azure AD**
 
-Трезори за ключове на Azure
+Хранилища за ключове на Azure
 
-- Възможно е [свързаните с SQL потребители и бази данни](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) да бъдат засегнати, особено ако клиентът използва удостоверяване, свързано с Azure Active Directory
-- **Услугите за приложения** , конфигурирани с удостоверяване на Azure Active Directory, могат да бъдат повлияни
-- **Екип на Visual Studio** Акаунтите за услуги, свързани с абонаменти за Azure, може временно да загубят достъп, когато се анулира свързаният в момента договор за Azure
+- Възможно е да бъдат засегнати [свързани с SQL потребители и бази данни](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support), особено ако клиентът използва удостоверяване, свързано с Azure Active Directory
+- Възможно е да бъдат засегнати **услугите за приложения**, конфигурирани с удостоверяване на Azure Active Directory
+- Акаунтите за услуги на **екип на Visual Studio**, свързани с абонаменти за Azure, може временно да загубят достъп, когато свързаният абонамент за Azure бъде отменен
 
-**Препоръчвани документи**
+**Препоръчителни документи**
 
-Стъпки след приемането на собствеността за фактуриране:
+Стъпки след приемане на собствеността върху фактурирането:
 
-- За да запазите собствеността за фактуриране, но да промените типа на вашия абонамент, вижте препращане на [вашия абонамент за Azure към друго предложение](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support) .
-- [Прехвърляне на Visual Studio, партньорска мрежа на Microsoft (MPN) и плащане като отидете на Dev/Test абонаменти](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Прехвърляне на собствеността върху плащане на абонаменти за корпоративно споразумение (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [Често задавани въпроси за собствеността върху прехвърляне](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Отстраняване на проблеми с собствеността при прехвърляне](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- За да запазите собствеността върху фактурирането, но да промените типа на абонамента си, вижте: [Превключване на абонамента ви за Azure към друго предложение](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Прехвърляне на абонаменти устройства/тестване на Visual Studio, мрежа от партньори на Microsoft (MPN) и предплатена услуга](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Прехвърляне на собствеността върху фактурирането на абонаменти за корпоративно споразумение (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [Често задавани въпроси за прехвърлянето на собствеността](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Отстраняване на проблеми със прехвърлянето на собствеността](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

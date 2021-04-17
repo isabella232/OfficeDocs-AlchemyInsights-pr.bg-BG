@@ -1,8 +1,8 @@
 ---
-title: 'ПДИ: горни и долни колонтитули не се показват по очаквания начин'
+title: 'AIP: Горните и долните колонтитули не се показват по очаквания начин'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696537"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821688"
 ---
-# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>ПДИ: горни и долни колонтитули не се показват по очаквания начин
+# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Горните и долните колонтитули не се показват по очаквания начин
 
-Ако имате проблеми с визуалните знаци, които не се показват по очаквания начин, прегледайте следните насоки:
+Ако имате проблеми с визуалните маркировки, които не се показват според очакванията, прегледайте следните указания:
 
-1. Уверете се, че сте прегледали [Кога се прилагат визуални маркировки](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. За етикетиране на Office прегледайте [Кога office 365 прилага маркиране на съдържание и шифроване](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
-3. Ако искате да премахнете съществуващи горни/долни колонтитули, прегледайте [Премахване на горни и долни колонтитули от други решения за етикетиране](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
+1. Уверете се, че сте [прегледали При прилагане на визуални маркировки.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
+2. За етикети на Office прегледайте Кога [Office 365 прилага маркиране и шифроване на съдържание.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
+3. Ако искате да премахнете съществуващи горни/долни колонтитули, прегледайте [Премахване на горни и долни колонтитули от други решения за етикети](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
 
-Ако все още имате проблем, съберете регистрационни файлове за защита на данните на Azure и прикачете експортираните регистрационни файлове към този билет.
+Ако все още имате проблем, съберете регистрационни файлове на клиента за защита на информацията в Azure и прикачете експортираните регистрационни файлове към този билет.
 
-**Експортиране на регистрационни файлове за защита на информацията за Azure**
+**Експортиране на регистрационни файлове за защита на информацията в Azure**
 
-1. Отворете документ на Office или създайте ново имейл съобщение в Outlook.
-2. Щракнете **Protect/Sensitivity**върху  >  **помощ и обратна връзка**за защита/чувствителност.
-3. Щракнете върху **експортиране на регистрационни файлове**.
-4. Запишете регистрите по ваш избор на местоположение и ги прикачете към това искане за обслужване.
+1. Отворете документ на Office или създайте нов имейл в Outlook.
+2. Щракнете **върху Помощ за защита/чувствителност** и обратна  >  **връзка.**
+3. Щракнете **върху Експортиране на регистрационни файлове**.
+4. Запишете регистрационните файлове по ваш избор на местоположение и ги прикачете към тази заявка за услуга.
 
-За допълнителна информация вж.:
+За допълнителна информация вижте:
 
-- [Как да конфигурирате етикет за визуалните маркировки за Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Преглед на документацията за защита на информацията на Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Изисквания за информация за Azure Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Ръководство за бърз старт за Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Изтегляне на Azure за защита на информацията за клиента](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Как да конфигурирате етикет за визуални маркировки за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Преглед на документацията за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Изисквания за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Урок за бърз старт за защита на информацията в Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Изтегляне на клиента за защита на информацията в Azure](https://www.microsoft.com/download/details.aspx?id=53018)
