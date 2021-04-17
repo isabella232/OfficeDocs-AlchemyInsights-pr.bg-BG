@@ -2,7 +2,7 @@
 title: Помолете вашия администратор да разреши Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821175"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="fc3f0-102">Изпускайте!</span><span class="sxs-lookup"><span data-stu-id="fc3f0-102">You're missing out!</span></span> <span data-ttu-id="fc3f0-103">Помолете вашия администратор да разреши Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="fc3f0-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="ae5f2-102">Пропускате!</span><span class="sxs-lookup"><span data-stu-id="ae5f2-102">You're missing out!</span></span> <span data-ttu-id="ae5f2-103">Помолете вашия администратор да разреши Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="ae5f2-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="fc3f0-104">Ако имате клиент за EDU, трябва да разрешите ръчно Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="fc3f0-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="fc3f0-105">За да направите това, отидете в центъра за администриране на Microsoft 365 > **услуги и добавки > Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="fc3f0-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="fc3f0-106">Ако използвате новия център за администриране на Teams, ще трябва да изключите **изпробването на новия център за администриране**,   за да намерите **услуги и добавки**.</span><span class="sxs-lookup"><span data-stu-id="fc3f0-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
+<span data-ttu-id="ae5f2-104">Ако имате клиент за EDU, трябва да разрешите ръчно Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="ae5f2-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="ae5f2-105">За да направите това, отидете в центъра за администриране на Microsoft 365 >Услуги и  **добавки > Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="ae5f2-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="ae5f2-106">Ако използвате новия център за администриране на Teams, ще \*\*\*\* трябва да изключите Изпробване на новия център за администриране, за да намерите Услуги   и **добавки**.</span><span class="sxs-lookup"><span data-stu-id="ae5f2-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="fc3f0-107">**Важно**: може да се наложи да изчакате до 24 часа, за да влязат в сила промените ви.</span><span class="sxs-lookup"><span data-stu-id="fc3f0-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
+<span data-ttu-id="ae5f2-107">**ВАЖНО:** Може да се наложи да изчакате до 24 часа, за да влязат в сила промените ви.</span><span class="sxs-lookup"><span data-stu-id="ae5f2-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
