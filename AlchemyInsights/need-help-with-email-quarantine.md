@@ -1,8 +1,8 @@
 ---
-title: Имате нужда от помощ за карантината в имейла?
+title: Имате нужда от помощ за карантината на имейла?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 32e587e07694af32551f23d9249ce9affc75b3db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729896"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836304"
 ---
-# <a name="need-help-with-email-quarantine"></a>Имате нужда от помощ за карантината в имейла?
+# <a name="need-help-with-email-quarantine"></a>Имате нужда от помощ за карантината на имейла?
 
-- За да **преглеждате и отделяте имейл съобщения от карантинни депа**, отидете на [страницата за карантинни & център за сигурност на Office 365](https://protection.office.com/quarantine). Подробни инструкции има [тук](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Ако съобщението е **погрешно поставено под карантина (FALSE-позитивно)**, щракнете върху "съобщаване за съобщения на Microsoft за анализ", след като намери съобщението е избрано в страницата карантинни. 
-- Намерете **причината, поради която съобщението е под карантина** под полето "причина за карантината".
-- **Липсващи имейли под карантина?** Някои имейли под карантина не могат да бъдат освободени от крайни потребители. Това вероятно е съобщение, което е класифицирано като измамнически имейли, злонамерен софтуер, зловреден код или чрез транспортно действие. Администраторите могат да [преглеждат, отделят или изтриват тези съобщения](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- За **да прегледате и освободите имейл съобщения от карантина,** отидете на страницата Карантина в центъра за защита [& Office 365](https://protection.office.com/quarantine). Подробни инструкции са [тук](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
+- Ако съобщението е **под карантина (невярно положително),** щракнете върху "Подаване на сигнал за съобщения до Microsoft за анализ", след като е избрано съобщението в страницата Карантина. 
+- Намерете **причината, поради която съобщението е поставена под карантината** под полето "Причина за карантина".
+- **Липсващи имейли под карантина?** Някои имейли, поставени под карантина, не могат да бъдат издадени от крайните потребители. Това вероятно са съобщения, които са класифицирани като имейли с висока степен на сигурност, фишинг, злонамерен софтуер или транспортно действие. Администраторите могат [да преглеждат, пускат или изтриват тези съобщения.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
