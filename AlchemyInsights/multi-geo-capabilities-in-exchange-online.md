@@ -1,8 +1,8 @@
 ---
-title: Възможности за много Гео в Exchange Online
+title: Multi-Geo възможности в Exchange Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: d3c189d29e36ec013c4a0ee08bf6d253cc00b4ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67028211f9aab0e982cfdd0307673e6235001d4d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702496"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825252"
 ---
-# <a name="multi-geo-capabilities-in-exchange-online"></a><span data-ttu-id="1ef5f-102">Възможности за много Гео в Exchange Online</span><span class="sxs-lookup"><span data-stu-id="1ef5f-102">Multi-Geo capabilities in Exchange Online</span></span>
+# <a name="multi-geo-capabilities-in-exchange-online"></a><span data-ttu-id="814c5-102">Multi-Geo възможности в Exchange Online</span><span class="sxs-lookup"><span data-stu-id="814c5-102">Multi-Geo capabilities in Exchange Online</span></span>
 
-<span data-ttu-id="1ef5f-103">В мултигео среда можете да изберете местоположението на съдържанието на пощенската кутия на Exchange Online (данни в покой) за всеки потребител.</span><span class="sxs-lookup"><span data-stu-id="1ef5f-103">In a multi-geo environment, you can select the location of Exchange Online mailbox content (data at rest) on a per-user basis.</span></span>
-- [<span data-ttu-id="1ef5f-104">Възможности за много Гео в Exchange Online</span><span class="sxs-lookup"><span data-stu-id="1ef5f-104">Multi-Geo Capabilities in Exchange Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+<span data-ttu-id="814c5-103">В среда с множество географски данни можете да изберете местоположението на съдържанието на пощенската кутия на Exchange Online (данни в покой) на база потребител.</span><span class="sxs-lookup"><span data-stu-id="814c5-103">In a multi-geo environment, you can select the location of Exchange Online mailbox content (data at rest) on a per-user basis.</span></span>
+- [<span data-ttu-id="814c5-104">Multi-Geo Capabilities in Exchange Online</span><span class="sxs-lookup"><span data-stu-id="814c5-104">Multi-Geo Capabilities in Exchange Online</span></span>](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
