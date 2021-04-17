@@ -1,8 +1,8 @@
 ---
-title: Актуализиране на DNS записи в NameCheap
+title: Актуализиране на DNS записите в NameCheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: f32b9f820fce03cd8cd5d8f8eb509efbc3cdeb2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036a570db0dd4153be34eafabb2f8864041d3ee0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834504"
 ---
-# <a name="update-dns-records-at-namecheap"></a>Актуализиране на DNS записи в NameCheap
+# <a name="update-dns-records-at-namecheap"></a>Актуализиране на DNS записите в NameCheap
 
 Използвайте връзките по-долу, за да помогнете за актуализирането на вашите DNS записи
 

@@ -1,8 +1,8 @@
 ---
-title: Използване на приложението за удостоверяване на Microsoft
+title: Използване на приложението Microsoft Authenticator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834324"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>Използване на приложението за удостоверяване на Microsoft
+# <a name="using-the-microsoft-authenticator-app"></a>Използване на приложението Microsoft Authenticator
 
-Влезте в своя личен акаунт в Microsoft с помощта на пръстов отпечатък, разпознаване на лица или PIN.
+Влезте в личния си акаунт в Microsoft с помощта на пръстов отпечатък, разпознаване на лица или ПИН код.
 
-- [Как да използвате приложението за удостоверяване на Microsoft](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [Как да използвате приложението Microsoft Authenticator](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [Настройте приложението Удостоверител](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) чрез сканиране на QR кода или чрез [ръчно добавяне на акаунт](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Настройте приложението Authenticator,](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) като сканирате QR code или [като добавите ръчно акаунт](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
 
-За повече информация вижте обзор на [приложението Удостоверител](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+За повече информация вижте Общ [преглед на приложението Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).

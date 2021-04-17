@@ -1,8 +1,8 @@
 ---
-title: Разрешения за Microsoft Teams
+title: Разрешения на Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777701"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833748"
 ---
-# <a name="microsoft-teams-permissions"></a>Разрешения за Microsoft Teams
+# <a name="microsoft-teams-permissions"></a>Разрешения на Microsoft Teams
 
-Microsoft Teams включва две потребителски роли: собственик и член. По подразбиране потребителят, който създава нов екип, получава статут на собственик. Освен това собствениците и членовете могат да имат възможности за модератор за даден канал (ако е настроено забавяне). Ако даден екип е създаден от съществуваща група на Microsoft 365, разрешенията се наследяват. За повече информация вижте:
+Microsoft Teams включва две потребителски роли: собственик и член. По подразбиране потребителят, който създава нов екип, получава статут на собственик. Освен това собствениците и членовете могат да имат възможности за модератор за канал (ако е настроено умереност). Ако екип е създаден от съществуваща група на Microsoft 365, разрешенията се наследяват. За повече информация вижте:
 
-- [Присвояване на собствениците и членовете на екипите в Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Назначаване на собственици и членове на екипа в Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Разрешения и съображения за приложенията на Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Задаване на разрешения за гост за канали в Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Задаване на разрешения за гости за канали в Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

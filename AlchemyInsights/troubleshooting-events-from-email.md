@@ -1,8 +1,8 @@
 ---
-title: Отстраняване на неизправности при събития от имейл
+title: Отстраняване на неизправности със събития от имейл
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658723"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834828"
 ---
-# <a name="troubleshooting-events-from-email"></a>Отстраняване на неизправности при събития от имейл
+# <a name="troubleshooting-events-from-email"></a>Отстраняване на неизправности със събития от имейл
 
-1. Проверете дали тази функция е разрешена за пощенската кутия: **get <mailbox> -EventsFromEmailConfiguration-самоличност**
+1. Проверка на функцията е разрешена за пощенската кутия: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. След това погледнете "събития от имейл" регистрационни файлове за **експортиране – MailboxDiagnosticLogs <mailbox> – Component TimeProfile**
+2. След това погледнете регистрационните файлове "Събития от имейл" **Експортиране-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. В регистрите "събития от имейл" Намерете свойството InternetMessageId, което съответства на елемента в пощенската кутия.  
+3. В регистрационните файлове "Събития от имейл" намерете InternetMessageId, който отговаря на елемента в пощенската кутия.  
 
-4. Свойството TrustScore определя дали елементът е добавен, или не. Събития ще бъдат добавени само ако TrustScore = "доверен".
+4. TrustScore определя дали елементът е добавен или не. Събития ще се добавят само ако TrustScore = "Trusted".
 
-Свойството TrustScore се определя чрез SPF, DKIM или dMarc свойства, които са в заглавката на съобщението.
+TrustScore се определя от свойствата SPF, Dkim или Dmarc, които са в заглавката на съобщението.
 
 За да видите тези свойства:
 
-**Настолна версия на Outlook**
+**Настолната версия на Outlook**
 
 - Отваряне на елемента
-- Свойства на > на файл – > интернет заглавки
+- Свойства на > –> интернет заглавки
 
 или
 
 **MFCMapi**
 
-- Придвижете се до елемента в папката "Входящи"
+- Навигиране до елемента в папката "Входящи"
 - Потърсете PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Тези свойства се определят и записват по време на транспорта и маршрутизирането. За по-нататъшно отстраняване на неизправности може да се наложи да се придържате към поддръжката на транспорта за неуспехите в SPF, DKIM и. or DMARC.
+Тези свойства се определят и записват по време на транспорт и маршрутизиране. За по-нататъшно отстраняване на неизправности може да се наложи да следвате транспортната поддръжка за неизправностите в SPF, DKIM и.or DMARC.

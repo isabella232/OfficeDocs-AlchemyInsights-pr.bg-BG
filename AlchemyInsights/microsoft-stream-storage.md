@@ -1,8 +1,8 @@
 ---
-title: Място за съхранение в Microsoft Stream
+title: Microsoft Stream Storage
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675287"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833928"
 ---
-# <a name="microsoft-stream-storage"></a>Място за съхранение в Microsoft Stream
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 
-Клиенти на Microsoft Stream получават фиксирани разпределения на 500 ГБ място за съхранение и допълнителни 0,5 ГБ място за съхранение за лицензиран потребител.
-За повече информация относно мястото за съхранение вижте:
+Клиентите на Microsoft Stream получават фиксирано разпределение от 500 ГБ място за съхранение и допълнително 0,5 ГБ място за съхранение на лицензиран потребител.
+За повече подробности относно мястото за съхранение вижте:
 
-- [Обзор на Microsoft Stream Storage](https://docs.microsoft.com/stream/license-overview#storage)
+- [Общ преглед на мястото за съхранение в Microsoft Stream](https://docs.microsoft.com/stream/license-overview#storage)
 - [Добавяне на място за съхранение в Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
 - [Квоти и ограничения в Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

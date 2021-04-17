@@ -2,7 +2,7 @@
 title: Идентифициране на вашия ИД на клиент
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834036"
 ---
 # <a name="identify-your-tenant-id"></a>Идентифициране на вашия ИД на клиент
 
-Намиране на вашия ИД на организация на Microsoft 365 (ИД на клиент) в центъра за администриране на Azure.
+Намерете своя ИД на организация на Microsoft 365 (ИД на клиент) в центъра за администриране на Azure.
 
-1. От [страницата свойства](https://aka.ms/AzurePropertiesPage)отидете на полето ИД на **указател** .
+1. От страницата [Свойства отидете](https://aka.ms/AzurePropertiesPage)на полето **ИД на справочната** директория.
 
 2. Копирайте ИД, ако е необходимо.
 
-За повече информация вижте [намиране на вашия ИД на организация на Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+За повече информация вижте Намиране на вашия ИД на [организация на Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).

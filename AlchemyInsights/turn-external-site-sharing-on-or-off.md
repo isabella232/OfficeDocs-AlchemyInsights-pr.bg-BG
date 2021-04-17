@@ -2,7 +2,7 @@
 title: Включване или изключване на външното споделяне за сайт
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834648"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Включване или изключване на външното споделяне за сайт
 
-Трябва да сте глобален администратор или SharePoint, за да промените настройката за външно споделяне за сайт (наричан преди "колекция от сайтове"). Собствениците на сайтове не могат да променят тази настройка. 
+Трябва да сте глобален администратор или администратор на SharePoint, за да промените настройката за външно споделяне за сайт (преди това наречена "колекция от сайтове"). Собствениците на сайтове не могат да променят тази настройка. 
 
-За повече информация вижте [включване или изключване на външното споделяне за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+За повече информация вижте [Включване или изключване на външното споделяне за сайт](https://docs.microsoft.com/sharepoint/change-external-sharing-site).

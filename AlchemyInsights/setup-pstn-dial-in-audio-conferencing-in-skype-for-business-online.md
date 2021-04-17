@@ -1,8 +1,8 @@
 ---
-title: Настройване на PSTN аудио конференции с външно избиране в Skype за бизнеса онлайн
+title: Настройване на аудиоконферентна връзка с pstn в Skype за бизнеса онлайн
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739526"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835476"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Настройване на PSTN аудио конференции с външно избиране в Skype за бизнеса онлайн
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Настройване на аудиоконферентна връзка с pstn в Skype за бизнеса онлайн
 
-Ако искате да настроите аудио конференция за Skype за бизнеса онлайн, ще трябва да направите няколко неща. 
+Ако искате да настроите аудиоконферентна връзка за Skype за бизнеса онлайн, ще трябва да направите няколко неща. 
 
-- Разберете дали аудио конференцията е налична във вашата страна/регион.
+- Разберете дали аудиоконферентна връзка е налична във вашата страна/регион.
 
-- Получаване и даване на лицензи на вашите потребители.
+- Получете и дайте лицензи на вашите потребители.
 
-- Получавате и присвоявате номера на услуги.
+- Получаване и присвояване на номера на услуги.
 
-- Извършете контролния списък в [Настройване на аудио конференции за Skype за бизнеса](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Попълнете контролен списък [в Настройване на аудиоконферентна връзка за Skype за бизнеса](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
