@@ -1,8 +1,8 @@
 ---
-title: Office 365 за Enterprise план
+title: План на Office 365 за предприятие
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.custom:
 - "474"
 - "1500026"
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c07782c97f527564a0d0e804a855e142fc40dac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729428"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829545"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="538bb-102">Office 365 за Enterprise план</span><span class="sxs-lookup"><span data-stu-id="538bb-102">Office 365 for Enterprise plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="1017f-102">План на Office 365 за предприятие</span><span class="sxs-lookup"><span data-stu-id="1017f-102">Office 365 for Enterprise plan</span></span>
 
-<span data-ttu-id="538bb-103">Има няколко различни плана, налични за Office 365 за Enterprise.</span><span class="sxs-lookup"><span data-stu-id="538bb-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="538bb-104">[Сравняване на Office 365 за корпоративни планове и цени](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="538bb-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
+<span data-ttu-id="1017f-103">Има няколко различни плана, налични с Office 365 за Enterprise.</span><span class="sxs-lookup"><span data-stu-id="1017f-103">There are several different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="1017f-104">[Сравнете плановете и цените на Office 365 за Enterprise](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="1017f-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>  
