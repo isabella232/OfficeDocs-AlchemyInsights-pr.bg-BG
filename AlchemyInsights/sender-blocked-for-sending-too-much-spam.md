@@ -14,17 +14,16 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 500cd8bdf609a741c3a8653ebb27d8f6e6a5bab9
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767890"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829509"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>Акаунтът е ограничен за изпращане на твърде много спам
 
-> [!NOTE]
-> Можете да получите достъп до центъра за защита на Microsoft 365 [security.microsoft.com](https://security.microsoft.com).
+**Забележка** Можете да получите достъп до центъра за защита на Microsoft 365 на [https://security.microsoft.com](https://security.microsoft.com) .
 
 Като администратор, ако някой от вашите потребители е с ограничен достъп до изпращане на имейл, можете да [разблокирате акаунта си](https://security.microsoft.com/?hash=/restrictedusers), **без да подавате сигнал до поддръжката**. Потребителят ще може да изпраща имейли до един час след премахването на ограничението.
 

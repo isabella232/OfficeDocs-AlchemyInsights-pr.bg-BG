@@ -1,8 +1,8 @@
 ---
-title: Плащане с Boleto
+title: Плащане с Болето
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5aa793fd39e4c36798dab7104e63e14192c42c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751736"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829077"
 ---
-# <a name="como-pagar-com-boleto"></a>Como pagar com Boleto
+# <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 
-**Комо pagar мин. fatura**
+**Como pagar minha fatura**
 
-Você Pode pagar SUA fatura com Boleto Bancário OU transferência bancária eletrônica.
+Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.
 
-**Como pagar com Boleto**
+**Como pagar com boleto**
 
-Ao escolher ESTA opção de pagamento, você receberá о Boleto EM Seu е-поща ЕМ Até 10 Диас úteis Após данни do pedido. Ессе Boleto terá vencimento de 30 Диас Após данни pedido е Pode ДОИ Pago EM Banco, Correios, Casa lotérica е algunsи. 
+Ao escolher esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido. Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados. 
