@@ -2,7 +2,7 @@
 title: iOS 13 – iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695926"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833136"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS актуализации за правилата за условен достъп
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>актуализации за iOS 13+ / iPadOS за правила за условен достъп
 
-Ако имате проблеми, свързани с условния достъп на IPAD, които са надстроени до iPadOS (iOS 13 или по-нова версия), прегледайте следната статия от екипа на пад по отношение на промените, които може да се наложи да направите, за да сте сигурни, че достъпът под условие ще продължи да функционира по желания от вас начин:
+Ако имате проблеми, свързани с условен достъп на Ipads, които са надстроени до iPadOS (iOS 13 или по-нова версия), прегледайте следната статия от екипа на AAD по отношение на промените, които може да се наложи да направите, за да се уверите, че условният достъп продължава да функционира по желание:
 
-[Изисква се действие: оценка и актуализиране на правилата за условен достъп в подготовка за iPadOS издание](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Действие Задължително: Оценяване и актуализиране на правилата за условен достъп в подготовката за изданието на iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

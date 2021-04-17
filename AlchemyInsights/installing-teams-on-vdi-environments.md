@@ -1,8 +1,8 @@
 ---
-title: Инсталиране на Teams в VDI среда
+title: Инсталиране на Teams в VDI среди
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663034"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831831"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Инсталиране на Teams в VDI среда
+# <a name="installing-teams-on-vdi-environments"></a>Инсталиране на Teams в VDI среди
 
-За информация за разполагане на екипи на споделени компютри, услуги за отдалечен работен плот (RDS) или виртуален работен плот (VDI), вижте [споделен компютър и VDI среда с Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+За информация относно разполагането на Teams на споделени компютри, услуги за отдалечен работен плот (RDS) или инфраструктура за виртуален работен плот (VDI) вижте Споделени компютри и [VDI среди с Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
