@@ -1,8 +1,8 @@
 ---
-title: Как да затворите профила си в Google анализ
+title: Как да затворите своя акаунт за настолни анализи
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825756"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Как да затворите профила си в Google анализ
+# <a name="how-to-close-your-desktop-analytics-account"></a>Как да затворите своя акаунт за настолни анализи
 
-Ако сте настроили анализи на работния плот във вашата среда и след това решите, че трябва да го премахнете, използвайте процеса в следната връзка:
+Ако настроите Настолната анализ във вашата среда и след това решите, че трябва да го премахнете, използвайте процеса в следната връзка:
 
 [Как да закриете акаунта си](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Първата стъпка е да се свържете с поддръжката на Microsoft. Отворете калъф за поддръжка, за да затворите своя акаунт за настолен анализ. Не продължавайте с допълнителни стъпки, докато не получите потвърждение, че Microsoft е затворил профила ви.
+Първата стъпка е да се свържете с поддръжката на Microsoft. Отворете случай на поддръжка, за да затворите своя акаунт за настолни анализи. Не продължавайте с допълнителните стъпки, докато не получите потвърждение, че Microsoft е затворил акаунта ви.
