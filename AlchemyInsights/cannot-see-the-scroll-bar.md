@@ -1,25 +1,26 @@
 ---
-title: Не може да се види лентата за превъртане
+title: Не се вижда плъзгачът
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: 538bc0e9248c1aee67186b747fd0391e54aca6a9
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
-ms.translationtype: MT
+ms.openlocfilehash: eeb70a329ce185d0056363191a04b83b6030f908
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268832"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819537"
 ---
-# <a name="cannot-see-the-scroll-bar"></a>Не може да се види лентата за превъртане
+# <a name="cannot-see-the-scroll-bar"></a>Не се вижда плъзгачът
 
-В Outlook.com лентата за превъртане става видима само когато мишката е в прозореца с папки.
+В Outlook.com плъзгачът се вижда само когато мишката е в екрана с папки.
 
-![Плъзгач за превъртане върху мишката върху входящата поща](media/16353_mouse_over_inbox_scrollbar-225x292.gif)
+![Мишката е върху плъзгача на папка "Входящи"](media/16353_mouse_over_inbox_scrollbar-225x292.gif)

@@ -2,7 +2,7 @@
 title: Промяна на моя език
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818961"
 ---
 # <a name="change-my-language"></a>Промяна на моя език
 
-Приложението Outlook се превежда автоматично на езика, на който е настроено устройството ви. 
+Приложението Outlook се превежда автоматично на езика, на който е настроено вашето устройство. 
 
-(Вижте [списък с езици, поддържани в Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Вижте списък [с езици, поддържани в Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**За да смените езика на устройството**: 
+**За да промените езика на вашето устройство:** 
 
 **На Android**: 
 
-- Настройки на устройството > езика и въвеждането 
+- Настройки на устройството > език и въвеждане 
 
-**В IOS**: 
+**На iOS**: 
 
-- Настройки на устройството > общи > език за & област 
+- Настройки на устройството > общи > език & регион 
