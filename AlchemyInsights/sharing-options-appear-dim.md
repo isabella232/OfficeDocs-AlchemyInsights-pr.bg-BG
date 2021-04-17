@@ -1,8 +1,8 @@
 ---
-title: Опциите за споделяне се показват неясен или недостъпен
+title: Опциите за споделяне изглеждат недостъпни или не са налични
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832587"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="f3be3-102">Опциите за споделяне се показват мрачни или не са налични</span><span class="sxs-lookup"><span data-stu-id="f3be3-102">Sharing Options Appear Dim or are Not Available</span></span>
+# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="0a5ad-102">Опциите за споделяне изглеждат недостъпни или не са налични</span><span class="sxs-lookup"><span data-stu-id="0a5ad-102">Sharing Options Appear Dim or are Not Available</span></span>
 
-<span data-ttu-id="f3be3-103">Ако някои опции за споделяне или не са налични, когато се опитвате да споделите от SharePoint Online или OneDrive, вижте [Опции за споделяне, когато споделяте от SharePoint Online или onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="f3be3-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="0a5ad-103">Ако някои опции за споделяне или не са налични, когато се опитвате да споделите от SharePoint Online или OneDrive, вижте Опциите за споделяне са в сиво при споделяне [от SharePoint Online или OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="0a5ad-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>

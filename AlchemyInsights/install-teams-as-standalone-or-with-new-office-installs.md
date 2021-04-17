@@ -1,8 +1,8 @@
 ---
-title: Инсталиране на Teams като самостоятелно или с нови инсталации на Office
+title: Инсталиране на Teams като самостоятелни или с нови инсталирания на Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: 8b84f160f0be2c6a36f677a8f737a582d95020d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703108"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832011"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="acb27-102">Инсталиране на Teams като самостоятелно или с нови инсталации на Office</span><span class="sxs-lookup"><span data-stu-id="acb27-102">Install Teams as standalone or with new office installs</span></span>
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a><span data-ttu-id="8f9db-102">Инсталиране на Teams като самостоятелни или с нови инсталирания на Office</span><span class="sxs-lookup"><span data-stu-id="8f9db-102">Install Teams as standalone or with new office installs</span></span>
 
-<span data-ttu-id="acb27-103">Моля, вижте [тук](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) за информация как да разположите екипи във вашата организация.</span><span class="sxs-lookup"><span data-stu-id="acb27-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>
+<span data-ttu-id="8f9db-103">Вижте тук [за](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) информация как да разположите Teams във вашата организация.</span><span class="sxs-lookup"><span data-stu-id="8f9db-103">Please see [here](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) for information on how to deploy Teams in your organization.</span></span>
