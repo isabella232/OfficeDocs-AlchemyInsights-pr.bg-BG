@@ -1,8 +1,8 @@
 ---
-title: Добавяне или управление на PSTN протоколи за Skype или Teams
+title: Добавяне или управление на PSTN минути за Skype или Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 71b96ba17bdad438a62cbf3e6b80dff34fda32f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3800e5bb4aaf614ef39dfdb72bdb973bfa9a1568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688035"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822444"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Добавяне или управление на PSTN протоколи за Skype или Teams
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Добавяне или управление на PSTN минути за Skype или Teams
 
-Ако сте получили предупреждение, че вашите минути за Skype или Teams са почти използвани, прегледайте как да [добавите средства и да управлявате кредитите за комуникация за своя клиент](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).
+Ако сте получили предупредително известие, че минутите ви в Skype или Teams почти се използват, прегледайте как да добавяте средства и да управлявате кредити за [комуникация за вашия клиент.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)

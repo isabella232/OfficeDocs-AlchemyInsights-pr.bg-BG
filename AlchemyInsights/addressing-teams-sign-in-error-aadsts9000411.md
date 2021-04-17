@@ -1,8 +1,8 @@
 ---
-title: Отстраняване на грешки при влизане в AADSTS9000411
+title: Адресиране на грешка при влизане в Teams AADSTS9000411
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: 8ca3793b8cd12b7ad2510ca0b3be58c32a61c14c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687027"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821976"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Отстраняване на грешки при влизане в AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Адресиране на грешка при влизане в Teams AADSTS9000411
 
-Когато влизате в Microsoft Teams, е възможно да получите грешката: **Съжаляваме, но имаме проблеми с влизането ви в AADSTS9000411: заявката не е правилно форматирана. Параметърът "login_hint" е дублиран.**
+Когато влезете в Microsoft Teams, може да получите грешката: За съжаление, имаме проблеми с влизането ви в **AADSTS9000411: Искането не е форматирано правилно. Параметърът "login_hint" е дублиран.**
 
-За да адресирате този проблем, уверете се, че вашите клиенти на Microsoft Teams се актуализират. За повече информация за актуализирането на клиента вижте [актуализиране на Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+За да решите този проблем, уверете се, че вашите клиенти на Microsoft Teams са актуализирани. За повече информация относно актуализирането на вашия клиент вижте [Актуализиране на Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-Ако не можете да актуализирате своя клиент по някаква причина, излизането от клиента ще изчисти повечето кеширани данни. Ако обаче все още имате проблеми след излизане/влизане, излезте от Teams и моля, изчистете кеша на клиента си, като направите следното:
+Ако по някаква причина не можете да актуализирате клиента си, излизането от клиента ще изчисти повечето кеширани данни. Ако обаче все още имате проблеми след излизане/влизане, излезте от Teams и изчистете кеша на клиента, като направите следното:
 1. Затворете Microsoft Teams.
-2. Отидете на:%AppData%\microsoft\teams и изтрийте всички файлове.
-3. Отворете повторно Microsoft Teams.
+2. Отидете на: %appdata%\microsoft\teams и изтрийте всички файлове.
+3. Отворете отново Microsoft Teams.

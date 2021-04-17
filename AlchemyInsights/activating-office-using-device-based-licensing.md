@@ -1,8 +1,8 @@
 ---
-title: Активиране на Office чрез базирано на устройства лицензиране
+title: Активиране на Office с помощта на базирано на устройство лицензиране
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
-ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
+ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50094026"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822984"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office чрез базирано на устройства лицензиране
+# <a name="activating-office-using-device-based-licensing"></a>Активиране на Office с помощта на базирано на устройство лицензиране
 
-Базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise е достъпно като лиценз само за някои търговски клиенти и за някои клиенти в образованието. За по-подробна информация вижте: [базирано на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)
+Лицензиране, базирано на устройства за приложения на Microsoft 365 за предприятия, е налично като лиценз само за някои търговски клиенти и някои клиенти в сферата на образованието. За подробна информация вижте: [Лицензиране, базирано на устройства, за приложения на Microsoft 365 за предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-За да активирате приложенията на Microsoft 365 за Enterprise чрез лицензиране на устройства, вижте:
+За да активирате приложенията на Microsoft 365 за предприятия с помощта на лицензиране, базирано на устройства, вижте:
 
-- [Изисквания за използване на лицензи, базирани на устройства, за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Стъпки за конфигуриране на базираното на устройства лицензиране за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Изисквания за използване на базирано на устройства лицензиране за приложения на Microsoft 365 за предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Стъпки за конфигуриране на базирано на устройство лицензиране за приложения на Microsoft 365 за предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-За указания за отстраняване на неизправности вижте [отстраняване на неизправности при лицензиране на устройства за приложения на Microsoft 365 за Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+За указания за отстраняване на неизправности вижте Отстраняване на неизправности при базирано [на устройства лицензиране за приложения на Microsoft 365 за предприятия](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Ако приложенията на Microsoft 365 вече са инсталирани и активирани с базирано на потребители лицензиране на абонамент или активиране на споделен компютър, ще трябва да нулирате състоянието на лиценза на устройството, преди то да премине към лицензиране на устройството. За да върнете началното състояние на състоянието на активиране, вижте [нулиране на приложенията на Microsoft 365 за състояние на активиране на Enterprise](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Ако приложенията на Microsoft 365 вече са инсталирани и активирани с абонаментно лицензиране или активиране на споделен компютър, ще трябва да нулирате състоянието на лиценза на устройството, преди да преминава към лицензиране, базирано на устройства. За да нулирате състоянието на активиране, вижте [Нулиране на microsoft 365 Apps за корпоративно състояние на активиране](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
