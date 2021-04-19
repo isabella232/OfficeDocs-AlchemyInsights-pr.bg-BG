@@ -1,35 +1,36 @@
 ---
-title: Скриване или скриване на Office 365 групи или екипи от адресния списък
+title: Скриване или показване на групи или екипи на Office 365 от адресен списък
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: cb3c2819ff7203774511bd0e45633b59a02091ff
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 12e221c69775f3dfeed1781b70d3061e1ca0ac3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225325"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811445"
 ---
-# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Скриване или скриване на Office 365 групи или екипи от адресния списък
+# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Скриване или показване на групи или екипи на Office 365 от адресен списък
 
-Използвайте командата EXO PowerShell да скриете или ООН-скрий група/екипи на Office 365 от адресните списъци (GAL) на Exchange клиенти (Outlook, OWA):
+Използвайте следната команда на EXO PowerShell, за да скриете или покажете група/екипи на Office 365 от адресни списъци (GAL) на клиенти на Exchange (Outlook, OWA):
 
 `
     Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:<$true> or <$false>
 `
 
-Използвайте командата EXO PowerShell да скриете или оон-скрий групата Office365 от Exchange клиенти (Outlook, OWA):
+Използвайте следната команда на EXO PowerShell, за да скриете или покажете група/екипи на Office 365 от клиенти на Exchange (Outlook, OWA):
 
 `
     Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:<$true> or <$false>
 `
 
-- За подробни инструкции вижте [Скриване на Office 365 групи от глобалния адрес и Exchange клиенти](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).
+- За подробни инструкции вж. [Скриване на групите на Office 365 от GAL и клиенти на Exchange](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).
