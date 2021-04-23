@@ -1,5 +1,5 @@
 ---
-title: Съвети за DLP правила не работят
+title: Съветите за правила за DLP не работят
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679574"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952181"
 ---
-# <a name="dlp-policy-tip-issues"></a>Проблеми със DLP правилата
+# <a name="dlp-policy-tip-issues"></a>Проблеми с съвет за правила за DLP
 
 **Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Съвети за DLP правила**
+За да конфигурирате съвети за правилата за вашите DLP правила в центъра за & съответствие в режим на пълно прилагане, направете следното:
 
-Когато използвате **DLP правила**, потребителите могат да бъдат уведомени за нарушаване на правилата с помощта на **правила за правилата**. Администраторите могат да конфигурират съвети за правила, които да се показват по време на тестването на DLP правилата или когато политиката е в режим на пълен контрол.
-  
-За да конфигурирате съвети за правилата във вашата DLP политика в центъра за защита и съответствие, направете следното:
-  
-- За да сте сигурни, че са **разрешени** съвети за правилата, използвайте следните стъпки [тук](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Уверете се, че съветите за **правилата са** разрешени за правилото DLP. За стъпки вижте Изпращане [на имейл известия и показване на съвети за правила за DLP правила.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Уверете се, че вашето **съдържание съвпада** с това, което е **необходимо** , за да се задейства правилото, посочено в тази статия [тук](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+Уверете се, че съдържанието ви отговаря на това, което е необходимо, за да се задейства правилото, описано в Дефиниции [на обект с тип поверителна информация.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Съвети за правилата се показват в OWA и Outlook. Когато обаче използвате **Outlook 2013 или по-нова версия**, съветите за правилата се показват само при определени условия. Тези условия са изредени тук: [поддържани условия за Outlook 2013 или по-нова версия за показване на съвети за правилата](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Съветите за правилата се показват както в OWA, така и в Outlook. Когато обаче използвате Outlook 2013 или по-нова версия, съветите за правила се показват само при определени условия. За списъка с конкретни условия вижте [Поддържани условия за Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)или по-нова версия за показване на съвети за правила.
 
-За допълнителна информация относно съветите за DLP правила вижте: [Показвай съвети за правилата за DLP правила](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+За информация относно съветите за правилата за DLP вижте [Справка за съветите](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) за правила на DLP и [матрицата за поддръжка за съвети за правила за DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
