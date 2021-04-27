@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826152"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059804"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Отстраняване на проблеми при импортиране на PST файлове
 
-- Ако импортирате в самия клиент на Outlook, вижте [Коригиране на проблеми при импортирането на. pst файл в Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Ако импортирате в самия клиент на Outlook, вижте Коригиране на [проблеми при импортиране на .pst файл на Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- Ако използвате услуга за импортиране и тя престане да се изпълнява, имайте предвид, че всеки PST файл, който качвате в местоположението за съхранение на Azure, не трябва да е по-голям от 20 ГБ. PST файлове, по-големи от 20 ГБ, може да влияят на изпълнението на процеса на импортиране на PST файлове.
+- Ако използвате услугата за импортиране и тя е блокирана, обърнете внимание, че всеки PST файл, който качвате в местоположението за съхранение в Azure, не трябва да е по-голям от 20 ГБ. PST файловете, по-големи от 20 ГБ, може да влияят върху производителността на процеса на импортиране чрез PST. За повече информация относно отстраняването на неизправности при задания за блокиране вижте [Проблеми, които засягат задачи за импортиране на PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
-- Ако искате да проверите състоянието на дадена задача за импортиране, можете да използвате кратката команда [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Ако искате да проверите състоянието на конкретно задание за импортиране, използвайте [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- За подробна информация за услугата за импортиране вижте [Общ преглед на импортирането на PST файловете на вашата организация](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- За пълни подробности относно услугата за импортиране вижте [Общ преглед на импортирането на PST файловете на вашата организация.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
