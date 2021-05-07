@@ -1,5 +1,5 @@
 ---
-title: Фирменото споразумение за корпоративно лицензиране е активирано на грешен акаунт
+title: Корпоративното споразумение за корпоративно лицензиране е активирано на грешен акаунт
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: e8414dbbe27ee6c2e19c5d562e3a82a6abba43ef
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602569"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261833"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="0a6cb-102">Корпоративни споразумения за корпоративно лицензиране, активирани на грешен акаунт или прехвърляне на лицензи от един акаунт в друг</span><span class="sxs-lookup"><span data-stu-id="0a6cb-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="ab96d-102">Корпоративното споразумение за корпоративно лицензиране е активирано на грешен акаунт или прехвърляне на лицензи от един акаунт в друг</span><span class="sxs-lookup"><span data-stu-id="ab96d-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="0a6cb-103">Ако смятате, че вашите абонаменти, закупени чрез корпоративно **споразумение за корпоративно лицензиране** , са активирани на **грешен клиент** или искате да **прехвърляте лицензи** от един клиент към друг, обърнете [се към поддръжката](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="0a6cb-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
+<span data-ttu-id="ab96d-103">Ако откриете, че абонаментите ви, закупени чрез корпоративно **лицензиране служебно споразумение** са активирани на грешен клиент **или** искате да прехвърлите **лицензи** от един клиент към друг, се обърнете към [поддръжката](/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="ab96d-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](/microsoft-365/admin/contact-support-for-business-products).</span></span>
