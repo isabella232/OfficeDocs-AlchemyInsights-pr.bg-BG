@@ -1,5 +1,5 @@
 ---
-title: За актуализациите на защитата на Exchange Server
+title: За Exchange Server актуализации
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726516"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233451"
 ---
-# <a name="about-exchange-server-security-updates"></a>За актуализациите на защитата на Exchange Server
+# <a name="about-exchange-server-updates"></a>За Exchange Server актуализации
 
-Microsoft издаде поредица от критични актуализации на защитата за локален сървър на Exchange. Засегнатите версии на сървъра са всяко ниво на актуализиране на Exchange Server 2010, 2013, 2016 и 2019. Exchange Online не е повлиян, но ако имате някои локални сървъри на Exchange поради хибридна конфигурация, те са потенциално уязвими.
+Microsoft обикновено Exchange Server актуализации във вторник (актуализации на защитата) или тримесечни (кумулативни актуализации). За да видите съобщенията за най-новите издадени актуализации, вижте Exchange [екипен блог](https://aka.ms/ehlo).
 
-Вижте следното съобщение за местоположението на корекциите: [издадено: актуализации на защитата за 2021 на Exchange Server](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- За да описате своите Exchange сървъри, [използвайте скрипта Exchange Server проверката на изсъхнения, (GitHub, използвайте най-новото издание)](https://aka.ms/ExchangeHealthChecker). Изпълнението на този скрипт ви казва дали някой от вашите Exchange сървъри изостава с актуализациите (CUS и SUS).
 
-**Важни бележки:**
+- За да актуализирате до най-новата кумулативна актуализация, [отидете на съветника Exchange](https://aka.ms/ExchangeUpdateWizard) за актуализиране и изберете текущо изпълняваните cu и целевата cu. Изберете **Кажи ми стъпките, за** да получите напътствия за вашата среда.
 
-Ако ръчно инсталиране на актуализации, моля, прочетете секцията "известни проблеми" за актуализиране на статиите от БЗ за важна информация. Актуализациите на защитата трябва да се стартират от подкана на "повишена CMD/PowerShell"!
-
-Можете да намерите информация за отстраняване на неизправности [тук](https://aka.ms/exupdatefaq).
+- Ако срещнете грешки по време на или след инсталирането на Exchange Server , вижте Поправяне на неуспешни [инсталации Exchange кумулативни актуализации и актуализации на защитата.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)
