@@ -1,5 +1,5 @@
 ---
-title: Изпълнение на Microsoft Edge в павилионен режим
+title: Изпълнение Microsoft Edge в режим на павилиране
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708519"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312393"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="78456-102">Изпълнение на Microsoft Edge в павилионен режим</span><span class="sxs-lookup"><span data-stu-id="78456-102">Run Microsoft Edge in kiosk mode</span></span>
+# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="17e56-102">Изпълнение Microsoft Edge в режим на павилиране</span><span class="sxs-lookup"><span data-stu-id="17e56-102">Run Microsoft Edge in kiosk mode</span></span>
 
-<span data-ttu-id="78456-103">Можете да конфигурирате режим на публичен терминал в Microsoft Edge версии 77 и по-нова версия, както и в Microsoft Edge Legacy версии 45 и по-стари.</span><span class="sxs-lookup"><span data-stu-id="78456-103">You can configure kiosk mode in Microsoft Edge versions 77 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span>
+<span data-ttu-id="17e56-103">Можете да конфигурирате режима на павилиране в Microsoft Edge версии 87 и по-нови, както и в наследена версия на Microsoft Edge версии 45 и по-стари версии.</span><span class="sxs-lookup"><span data-stu-id="17e56-103">You can configure kiosk mode in Microsoft Edge versions 87 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span> <span data-ttu-id="17e56-104">За повече информация вижте Конфигуриране [на Microsoft Edge на павилник](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).</span><span class="sxs-lookup"><span data-stu-id="17e56-104">For more information, see [Configure Microsoft Edge kiosk mode](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).</span></span>
 
-<span data-ttu-id="78456-104">Можете да конфигурирате устройства, които се изпълняват на Windows 10, да се [изпълняват в един или няколко приложения в терминален режим](https://go.microsoft.com/fwlink/?linkid=2133659).</span><span class="sxs-lookup"><span data-stu-id="78456-104">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
+<span data-ttu-id="17e56-105">Можете да конфигурирате устройства, които се изпълняват Windows 10, да се изпълняват в едно приложение или много [приложения в режим на павилиране.](https://go.microsoft.com/fwlink/?linkid=2133659)</span><span class="sxs-lookup"><span data-stu-id="17e56-105">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
 
-<span data-ttu-id="78456-105">За повече информация относно настройването на режим на публичен терминал в най-новата версия на стабилния канал Microsoft Edge и в наследството Microsoft Edge вижте:</span><span class="sxs-lookup"><span data-stu-id="78456-105">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
+<span data-ttu-id="17e56-106">За повече информация относно настройването на режима на павилиране в най-новата версия на Microsoft Edge стабилен канал и наследена версия на Microsoft Edge, вижте:</span><span class="sxs-lookup"><span data-stu-id="17e56-106">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
 
-- [<span data-ttu-id="78456-106">Microsoft Edge с присвоен достъп</span><span class="sxs-lookup"><span data-stu-id="78456-106">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [<span data-ttu-id="78456-107">Microsoft Edge "-павилион" параметър на команден ред</span><span class="sxs-lookup"><span data-stu-id="78456-107">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [<span data-ttu-id="78456-108">Поддръжка за Microsoft Edge Legacy киоск режим</span><span class="sxs-lookup"><span data-stu-id="78456-108">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [<span data-ttu-id="17e56-107">Microsoft Edge с присвоен достъп</span><span class="sxs-lookup"><span data-stu-id="17e56-107">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [<span data-ttu-id="17e56-108">Microsoft Edge Параметър на командния ред "--kiosk"</span><span class="sxs-lookup"><span data-stu-id="17e56-108">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [<span data-ttu-id="17e56-109">Поддръжка за наследена версия на Microsoft Edge режим на павилиране</span><span class="sxs-lookup"><span data-stu-id="17e56-109">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
