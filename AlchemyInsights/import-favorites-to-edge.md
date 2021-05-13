@@ -12,17 +12,19 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
+- "11023"
 - "9005491"
-ms.openlocfilehash: 056e9b2c4d60a7f15eed26c8a38d3c50cc81aecd
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+- "9006474"
+ms.openlocfilehash: a4636532111248d91a2e2b3d52fcc2e896aa7cd5
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491414"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470231"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Импортиране на предпочитани от Google Chrome или Mozilla Firefox в Microsoft Edge
 
-1. Отворете Microsoft Edge и след това изберете **Настройки и още ...**  >  **Настройки**  >  **Импортиране на данни на браузъра**.
+1. Отворете Microsoft Edge и след това **изберете Настройки и други ...**  >  **Настройки**  >  **Импортиране на данни на браузъра**.
 
 1. От **менюто Импортиране** от изберете **Google Chrome или** **Mozilla Firefox** и след това изберете **Импортиране**.
 
