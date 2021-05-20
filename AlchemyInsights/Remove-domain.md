@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804622"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569568"
 ---
 # <a name="trying-to-remove-your-domain"></a>Опитвате се да премахнете своя домейн?
 
-Следвайте стъпките в [Премахване на домейн](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
+Следвайте стъпките в [Премахване на домейн](/microsoft-365/admin/get-help-with-domains/remove-a-domain).
   
-Ще трябва да актуализирате всички потребители или групи, които са свързани към това име на домейн, преди да премахнете домейна. Проверете [ЧЗВ за домейни](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) за други често срещани решения.
+Ще трябва да актуализирате всички потребители или групи, които са свързани към това име на домейн, преди да премахнете домейна. Проверете [ЧЗВ за домейни](/microsoft-365/admin/setup/domains-faq) за други често срещани решения.
   

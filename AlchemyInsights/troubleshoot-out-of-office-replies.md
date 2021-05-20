@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности с автоматични отговори "Извън офиса"
+title: Отстраняване на неизправности Office автоматични отговори
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832227"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573699"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Отстраняване на неизправности с автоматични отговори "Извън офиса"
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Отстраняване на неизправности Office автоматични отговори
 
-Голямо разнообразие от възможни причини може да бъде причината за проблеми в зависимост от това как сте конфигурирали автоматичните отговори "Извън офиса".
+Голямо разнообразие от възможни причини може да бъде причината за проблемите в зависимост от това как сте конфигурирали автоматичните отговори "Извън Office".
 
-За по-задълбочено разбиране къде може да е проблемът, прочетете Разбиране и отстраняване на неизправности с отговорите "Извън  [офиса" (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+За по-задълбочено разбиране къде може да е проблемът, прочетете Разбиране и отстраняване на неизправности ["Извън Office (OOF) отговори](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies).
