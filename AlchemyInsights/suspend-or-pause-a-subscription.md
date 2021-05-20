@@ -1,5 +1,5 @@
 ---
-title: Временно спиране или пауза на абонамент
+title: Спиране или пауза на абонамент
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469075"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544495"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Временно спиране или пауза на абонамент
+# <a name="suspend-or-pause-a-subscription"></a>Спиране или пауза на абонамент
 
-За да преустановите временно или да прекъснете абонамента си, можете да отмените абонамента в центъра за администриране на Microsoft 365.
+За временно спиране или временно спиране на абонамента можете да отмените абонамента в центъра Microsoft 365 администриране.
 
-1. В центъра за администриране отидете на страницата **Фактуриране** на  >  **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. В раздела **продукти** Намерете абонамента, който искате да отмените. Изберете **още действия** (три точки), след което изберете **отмяна на абонамента**.
-3. Състоянието на абонамента се показва като **дезактивиран** и показва датата, на която абонаментът е отменен. Абонаментът остава в забранен щат за 90 дни и има намалена функционалност, докато не бъде изтрит или [активиран отново](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. В центъра за администриране отидете на страницата **Фактуриране**  >  **[На вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти.
+2. В раздела **Продукти** намерете абонамента, който искате да отмените. Изберете трите точки (още действия), след което изберете Отмяна **на абонамента**.
+3. Състоянието на абонамента се **показва като Забранено** и показва датата, на която абонаментът е отменен. Абонаментът остава в забранено състояние в продължение на 90 дни и има намалена функционалност, докато не бъде изтрит или [активиран отново.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-За повече информация вижте [какво се случва, когато отмените абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) и [запишете данните си](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+За повече информация вижте Какво [се случва, когато отмените абонамент и](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Запишете данните си.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

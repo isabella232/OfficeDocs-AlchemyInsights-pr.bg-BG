@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798941"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544639"
 ---
 # <a name="set-up-spf"></a>Настройване на SPF
 
-Актуализирайте вашите DNS записи, така че да можете да използвате рамка за правила за податели (SPF) с вашия домейн по избор, за да проверите изходящи имейли, изпратени от вашия домейн по избор. Това помага за предотвратяване на "фалшифициране" на поща, като че ли е изпратено от вашия домейн.
+Актуализирайте своите DNS записи, така че да можете да използвате рамка за правила за податели (SPF) с вашия домейн по избор, за да проверите изходящите имейли, изпратени от вашия домейн по избор. Това помага да попречите на други хора да "подпращат" поща все едно са изпратени от вашия домейн.
   
-- [Настройване на SPF за предотвратяване на фалшифицирането](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Настройване на SPF за предотвратяване на подпухване](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Помощ при настройването на всички DNS записи](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Отстраняване на SPF записи](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Помощ при настройването на всички DNS записи](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

@@ -1,5 +1,5 @@
 ---
-title: 2554 нова функция, която да помогне при диагностицирането на EOP и ATP
+title: 2554 Нова функция за диагностициране на EOP и Microsoft Defender за Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726476"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544891"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Нова функция, която ще ви помогне да диагностицирате EOP и ATP
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Нова функция за диагностициране на EOP и Microsoft Defender за Office 365
 
-Като администратор, сега можете лесно да съобщите за подозрителни имейл съобщения, URL адреси и съдържание към Microsoft в "подавания" [изследовател](https://protection.office.com/reportsubmission). Можете дори да го използвате, за да разберете защо дадено законно съобщение е маркирано с флаг неправилно. За повече информация вижте това [съобщение](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Като администратор вече можете лесно да съобщите за подозрителни имейл съобщения, URL адреси и съдържание на Microsoft [в Submissions Explorer.](https://protection.office.com/reportsubmission) Можете дори да го използвате, за да разберете защо неправилно е маркирано правилно съобщение. За повече информация вижте това [съобщение](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).

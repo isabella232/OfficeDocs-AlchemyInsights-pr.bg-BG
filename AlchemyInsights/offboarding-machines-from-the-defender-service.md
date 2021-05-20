@@ -1,5 +1,5 @@
 ---
-title: Мигриране с машини от услугата за ATP на Microsoft Defender
+title: Offboarding machines from the Microsoft Defender ATP услугата
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713278"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544675"
 ---
-# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Мигриране с машини от услугата за ATP на Microsoft Defender
+# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Offboarding machines from the Microsoft Defender ATP услугата
 
-Ако имате нужда от помощ за мигриране с на машина от услугата за защита на ATP, вижте инструкциите за вашата операционна система:  
+Ако имате нужда от помощ при изключване на компютър от услугата Defender ATP, вижте инструкциите за вашата операционна система:  
 
-- За устройства с Windows 10 вижте [offboard устройства от услугата Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices).
-- За устройства, които не са с Windows, вижте [offboard на устройства с Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices).
+- За Windows 10 устройства вижте [Устройства Offboard от услугата Microsoft Defender ATP.](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
+- За устройства, които не Windows устройства, вижте [Offboard non-Windows устройства](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices).
