@@ -1,5 +1,5 @@
 ---
-title: Разлики в плана на Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise на плана
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743295"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539741"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Разлики в плана на Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise на плана
 
-Microsoft 365 Enterprise E5 включва всички функции на Microsoft 365 Enterprise E3, плюс разширени мерки за защита, като например:
+Microsoft 365 Enterprise E5 включва всички функции на Microsoft 365 Enterprise E3, както и разширени мерки за защита, като например:
 
-- Разширена защита от заплахи (ATP)
+- Защита от заплахи
 - Разширено управление на данни
-- Заключен клиент
-- Защита на приложението "Microsoft 365 в облака"
-- Разширено откриване на електронни данни
+- Заключване на клиента
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
 - Услуги за управление на правата
-- Свод за ключове на Azure
+- Хранилище за ключове на Azure
 
-Microsoft 365 Enterprise E5 също се предоставя с мощни анализи и възможности за глас, като например:
+Microsoft 365 Enterprise E5 също така се предоставя с мощни възможности за анализ и глас, като например:
 
 - Табла на живо
 - Отчети с Power BI
-- Модерни гласови съобщения
+- Модерен глас
 - Аудиоконференции
 - Онлайн събрания
 
-За да научите повече за Microsoft 365 Enterprise E5 или за да се абонирате за пробен абонамент, вижте [изпробване или закупуване на абонамент за microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+За да научите повече за Microsoft 365 Enterprise E5 или да се запишете за пробен абонамент, вижте [Изпробване или закупуване на Microsoft 365 абонамент](https://go.microsoft.com/fwlink/?linkid=2099673).
 
-За да сравните функциите в корпоративни планове, вижте [Сравняване на корпоративни планове](https://go.microsoft.com/fwlink/?linkid=2097200).
+За да сравните функциите в корпоративните планове, вижте [Сравняване на планове на Enterprise](https://go.microsoft.com/fwlink/?linkid=2097200).
 
-Бихме оценили вашата обратна връзка, така че, моля, изберете да/не на въпроса, който се появява, и след това Оценете вашата среда за работа.
+Бихме оценили вашата обратна връзка, така че изберете Да/Не на въпроса, който се появява, и след това оценете работата си.
