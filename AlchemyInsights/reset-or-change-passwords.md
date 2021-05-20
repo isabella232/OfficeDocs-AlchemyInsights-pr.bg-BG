@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810185"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569640"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="82dea-102">Нулиране или промяна на пароли</span><span class="sxs-lookup"><span data-stu-id="82dea-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="72ddb-102">Нулиране или промяна на пароли</span><span class="sxs-lookup"><span data-stu-id="72ddb-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="82dea-103">Потребителят може да промени собствената си парола от **"Защита на моя**  >  [акаунт" & поверителност.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="82dea-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="72ddb-103">Потребителят може да промени собствената си парола, като избере своята потребителска снимка или инициали > **Акаунт за преглед**.</span><span class="sxs-lookup"><span data-stu-id="72ddb-103">A user can change their own password by selecting their user photo or initials > **View account**.</span></span>
   
-<span data-ttu-id="82dea-104">Ако потребителят е забравил паролата си, администраторът може да нулира паролата, като отива на Потребители Активни потребители , изберете потребителите и  >  [](https://portal.office.com/adminportal/home#/users)щракнете върху **Нулиране на паролата**.</span><span class="sxs-lookup"><span data-stu-id="82dea-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="72ddb-104">Ако потребителят е забравил паролата си, администраторът може да нулира паролата, като отива на Потребители Активни потребители , изберете потребителите и  >  [](https://portal.office.com/adminportal/home#/users)щракнете върху **Нулиране на паролата**.</span><span class="sxs-lookup"><span data-stu-id="72ddb-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="82dea-105">[Щракнете тук, за да научите повече](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)или да позволите на потребителите да нулират собствените си забравени пароли.</span><span class="sxs-lookup"><span data-stu-id="82dea-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="72ddb-105">За да научите повече за паролите и да позволите на потребителите да нулират собствените си пароли, вижте [Нулиране на паролите](/microsoft-365/admin/add-users/reset-passwords).</span><span class="sxs-lookup"><span data-stu-id="72ddb-105">To learn more about passwords and allowing users to reset their own passwords, see [Reset passwords](/microsoft-365/admin/add-users/reset-passwords).</span></span>
