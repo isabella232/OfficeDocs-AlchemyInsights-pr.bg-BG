@@ -1,5 +1,5 @@
 ---
-title: Добавката Teams Outlook
+title: Teams Outlook добавка (Споделяне в Teams , Събрание сега, Ново Teams събрание, Присъединяване към Teams събрание)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835008"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542738"
 ---
-# <a name="teams-outlook-add-in"></a>Добавката Teams Outlook
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook добавка (Споделяне в Teams , Събрание сега, Ново Teams събрание, Присъединяване към Teams събрание)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>За отстраняване на неизправности с липсваща добавка на Teams Outlook
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>За отстраняване на Teams Outlook добавка
 
-1. Изпълнете диагностиката на услугите в портала за администриране. 
-2. Ако диагностиката на услугата не показва проблеми, диагностицирайте и коригирайте проблеми с клиента на засегнатите потребителски машини, като изтеглите и изпълните сценария на [добавката Microsoft Support](https://aka.ms/SaRA-TeamsAddInScenario)and  >  **Recovery Teams Outlook**.
+1. Изпълнете диагностичната добавка "Добавката за екип липсва в Outlook", която потвърждава, че потребителят има правилните правила, за да разреши Teams Outlook добавката. За достъп до диагностиката въведете **Diag: Teams добавка Липсва в Outlook** в полето за търсене.
 
-За да отстраните ръчно липсваща добавка на Teams Outlook, прегледайте списъка с потенциални фактори, които може да доведат до това вашата добавка Teams да не се показва в списъка. За повече информация вижте [Добавката за събрание на Teams в Outlook за Windows не се показва](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Ако диагностиката на услугата не показва проблеми, диагностицирайте и коригирайте проблеми с клиентите на засегнатите потребителски машини, като изтеглите и изпълните [сценария на добавката microsoft Помощник за поддръжка и възстановяване](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Отстраняване на неизправности при планиране на събрание на Teams от името на някой друг (представител)
+За да отстраните ръчно липсваща Teams Outlook добавка, прегледайте списъка с потенциални фактори, които може да доведат Teams вашата добавка да не се показва в списъка. За повече информация вижте [Teams събрание в Outlook за Windows не се показва](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-За да планирате събрание на Teams от името на друг човек, вижте Отстраняване [на проблеми с взаимодействието между Microsoft Teams и Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>За отстраняване на неизправности при планиране Teams събрание от името на някой друг (представител)
+
+За да планирате Teams събрание от името на някой друг, вижте Отстраняване [на неизправности Microsoft Teams и Exchange Server взаимодействие.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

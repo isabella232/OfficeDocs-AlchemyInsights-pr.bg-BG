@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663322"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542918"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Разширена защита от заплахи (ATP) в SharePoint и OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender за Office 365 в SharePoint и OneDrive
 
 Вижте следното:
-- [ATP за SharePoint, OneDrive и Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Откриване на заплахи и реално време](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender за Office 365 за SharePoint, OneDrive и Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Откриване на Threat Explorer и Realtime](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Допълнителна информация:
 
-- [Откриване на вируси в ГЪБА](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Шифроване на данни в ODB и ГЪБА](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Защита на вашите данни в SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Откриване на ransomware и възстановяване на файлове](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Откриване на вируси в SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Шифроване на данни в ODB и SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Защита на вашите данни в SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Откриване и възстановяване на файлове от рансъмуер](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

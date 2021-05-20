@@ -1,5 +1,5 @@
 ---
-title: Алхимията – променете паролата си в Outlook.com
+title: Alchemy - Промяна на паролата ви в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 7f7713b53a6758713bc77f3f427fb36a97a2de6e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 717fe6aa486ed0a6fb0014338c13da9e122e2c8a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718862"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542846"
 ---
-# <a name="change-your-password"></a>Промяна на вашата парола
+# <a name="change-your-password"></a>Промяна на паролата
 
-Ако сте забравили паролата си за Outlook.com, отидете на [страницата нулиране на паролата за акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). В противен случай следвайте инструкциите по-долу.
+Ако сте забравили паролата Outlook.com, отидете на страницата за нулиране на [паролата за акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). В противен случай следвайте инструкциите по-долу.
   
 1. Изберете името или снимката на профила си в горния десен ъгъл и изберете **Моят акаунт**. 
     
-2. Под името си изберете **още действия**  >  **Промяна на паролата**. 
+2. Под името си изберете трите точки (още действия), > **Промяна на паролата**. 
     
-3. Следвайте стъпките, за да подпишете и изберете нова парола. 
+3. Следвайте стъпките, за да подпишете и да изберете нова парола. 
     
-За да научите повече, вижте [Смяна на моята парола в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+За да научите повече, вижте [Промяна на паролата ми в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
   
 

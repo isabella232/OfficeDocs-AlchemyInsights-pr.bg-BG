@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801216"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542882"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender за Office 365
 
-- Безопасни прикачени файлове, безопасни връзки и анти-фишинг са част от Microsoft Defender за Office 365 (ATP). Enterprise E5, Education A5 и Microsoft 365 Business Premium включват ATP. Всички други планове изискват абонамент за ATP за добавка.
+- Сейф Прикачените файлове, Сейф връзки и анти-фишинг са част от Microsoft Defender за Office 365. Enterprise E5, Education A5 и Microsoft 365 Business Premium включват Microsoft Defender за Office 365. Всички други планове изискват добавка Microsoft Defender за Office 365 абонамент.
 
-- Трябва да присвоите подходящите лицензи, за да защитите вашите потребители от Office 365 ATP. Вижте [тази тема](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) за инструкции как да приложите групово лицензи на вашите потребители.
+- Трябва да дадете подходящи лицензи, за да защитите потребителите си от Microsoft Defender за Office 365. Вижте [Добавяне на потребители и едновременно присвояване на лицензи за](/microsoft-365/admin/add-users/add-users) инструкции как да прилагате групово лицензи към вашите потребители.
 
-- Глобалните администратори или администраторите на защитата могат да получат достъп до функциите на Office 365 ATP в центъра за съответствие на защитата & в правилата за **Managmeent на заплахите** \> **Policy** .
+- Глобалните администратори или администраторите на защитата имат достъп до Microsoft Defender за Office 365 функции в центъра за & съответствие на **Threat Managmeent** \> **Policy**.
 
-- Безопасното прикачени файлове и правилата за безопасни връзки могат да ви ориентират във вашата цялостна организация, конкретни домейни или по-малки групи потребители.
+- Сейф Правилата за прикачени Сейф връзки могат да бъдат обхватирани до цялата ви организация, определени домейни или по-малки групи потребители.
 
-- Няма правила за безопасни прикачени файлове по подразбиране за ATP. Трябва да [създадете политика](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) и да я приложите към вашите потребители.
+- Няма правила за Сейф прикачени файлове по подразбиране. Трябва да създадете [правило и да](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) го приложите към вашите потребители.
 
-- Има правила за безопасни връзки на ATP по подразбиране, които се отнасят за всеки във вашата организация. За да редактирате тези правила или за да създадете правила по избор, вижте [тази тема](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Има правила за връзки Сейф по подразбиране, които се прилагат за всички във вашата организация. За да редактирате тези правила или да създадете правила по избор, вижте [Настройване на правила Сейф връзки в Microsoft Defender за Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
