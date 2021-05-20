@@ -1,5 +1,5 @@
 ---
-title: Временно спиране или пауза на абонамент
+title: Спиране или пауза на абонамент
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469075"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544495"
 ---
-# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="ee072-102">Временно спиране или пауза на абонамент</span><span class="sxs-lookup"><span data-stu-id="ee072-102">Suspend or pause a subscription</span></span>
+# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="bf745-102">Спиране или пауза на абонамент</span><span class="sxs-lookup"><span data-stu-id="bf745-102">Suspend or pause a subscription</span></span>
 
-<span data-ttu-id="ee072-103">За да преустановите временно или да прекъснете абонамента си, можете да отмените абонамента в центъра за администриране на Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="ee072-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="bf745-103">За временно спиране или временно спиране на абонамента можете да отмените абонамента в центъра Microsoft 365 администриране.</span><span class="sxs-lookup"><span data-stu-id="bf745-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="ee072-104">В центъра за администриране отидете на страницата **Фактуриране** на  >  **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="ee072-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-2. <span data-ttu-id="ee072-105">В раздела **продукти** Намерете абонамента, който искате да отмените.</span><span class="sxs-lookup"><span data-stu-id="ee072-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="ee072-106">Изберете **още действия** (три точки), след което изберете **отмяна на абонамента**.</span><span class="sxs-lookup"><span data-stu-id="ee072-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="ee072-107">Състоянието на абонамента се показва като **дезактивиран** и показва датата, на която абонаментът е отменен.</span><span class="sxs-lookup"><span data-stu-id="ee072-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="ee072-108">Абонаментът остава в забранен щат за 90 дни и има намалена функционалност, докато не бъде изтрит или [активиран отново](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ee072-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
+1. <span data-ttu-id="bf745-104">В центъра за администриране отидете на страницата **Фактуриране**  >  **[На вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти.</span><span class="sxs-lookup"><span data-stu-id="bf745-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="bf745-105">В раздела **Продукти** намерете абонамента, който искате да отмените.</span><span class="sxs-lookup"><span data-stu-id="bf745-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="bf745-106">Изберете трите точки (още действия), след което изберете Отмяна **на абонамента**.</span><span class="sxs-lookup"><span data-stu-id="bf745-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="bf745-107">Състоянието на абонамента се **показва като Забранено** и показва датата, на която абонаментът е отменен.</span><span class="sxs-lookup"><span data-stu-id="bf745-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="bf745-108">Абонаментът остава в забранено състояние в продължение на 90 дни и има намалена функционалност, докато не бъде изтрит или [активиран отново.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="bf745-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-<span data-ttu-id="ee072-109">За повече информация вижте [какво се случва, когато отмените абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) и [запишете данните си](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span><span class="sxs-lookup"><span data-stu-id="ee072-109">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
+<span data-ttu-id="bf745-109">За повече информация вижте Какво [се случва, когато отмените абонамент и](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Запишете данните си.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)</span><span class="sxs-lookup"><span data-stu-id="bf745-109">For more info, see [What happens when you cancel a subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
