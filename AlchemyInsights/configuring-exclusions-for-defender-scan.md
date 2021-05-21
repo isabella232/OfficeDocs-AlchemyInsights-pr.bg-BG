@@ -1,5 +1,5 @@
 ---
-title: Конфигуриране на изключвания за Microsoft Defender ATP сканиране
+title: Конфигуриране на изключения за Microsoft Defender ATP сканиране
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713327"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543674"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Конфигуриране на изключвания за Microsoft Defender ATP сканиране
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Конфигуриране на изключения за Microsoft Defender ATP сканиране
 
-В общи линии можете да изключите определени файлови разширения и местоположения на папките от Microsoft Defender ATP сканиране. Можете също да конфигурирате изключвания за файлове, които са отворени от определени процеси. За повече информация вижте, [конфигурирайте и проверявайте изключенията на базата на разширението на файла и местоположението на папката](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) и [конфигурирайте изключения за файлове, които са отворени чрез процеси](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+По принцип можете да изключите определени файлови разширения и местоположения на папки от Microsoft Defender ATP сканирания. Можете също да конфигурирате изключения за файлове, отворени от определени процеси. За повече информация вижте Конфигуриране и [проверка](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) на изключения въз основа на разширението на файла и местоположението на папките и Конфигуриране на изключения [за файлове, отворени от процеси.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-За да конфигурирате изключвания за  **Windows server 2016 и 2019**, вижте [Конфигуриране на изключвания на антивирусни програми за Microsoft Defender в Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+За да конфигурирате изключения **за Windows Server 2016 и 2019**, вижте [Конфигуриране Microsoft Defender Antivirus изключения на Windows Server](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
 
 **Mac**
 
-За подробности относно поддържаните типове изключвания и конфигурирането на списък с изключения за Mac Вижте [поддържани типове изключвания](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) и [как да конфигурирате списъка с изключвания](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+За подробности относно поддържаните типове изключения и конфигурирането на [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) списък с изключения за Mac вижте Поддържани типове изключения и Как да [конфигурирате списъка с изключения](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
 
-**Забележка** Можете също да проверите списъците с изключения чрез тестовия файл на EICAR. За повече информация вижте [проверка на списъците с изключения с тестовия файл на eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Забележка** Можете също да проверите списъците с изключения с помощта на тестовия файл на EICAR. За повече информация вижте Проверка [на списъците с изключения с тестов файл на EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-За подробности относно поддържаните типове изключвания и конфигурирането на списък с изключения за Линукс вижте [поддържани типове изключвания](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) и [Конфигуриране и проверка на изключвания за Microsoft Defender ATP за Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+За подробности относно поддържаните типове изключения и конфигурирането на [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) списък с изключения за Linux вижте Поддържани типове изключения и Конфигуриране и проверка на [изключенията за Microsoft Defender ATP за Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Забележка** Можете също да проверите списъците с изключения чрез тестовия файл на EICAR. За повече информация вижте [проверка на списъците с изключения с тестовия файл на eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Забележка** Можете също да проверите списъците с изключения с помощта на тестовия файл на EICAR. За повече информация вижте Проверка [на списъците с изключения с тестов файл на EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
