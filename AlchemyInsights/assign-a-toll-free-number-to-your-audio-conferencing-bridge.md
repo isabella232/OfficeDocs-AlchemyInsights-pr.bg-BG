@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821103"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626066"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Задайте безплатен номер на вашия мост за аудио конферентна връзка
 
 За да зададете новия телефонен номер на вашия мост за аудио конферентна връзка:
 
-1. Влезте в Office 365 със своя служебен акаунт.
-2. Отидете на **Център за администриране на Microsoft 365 > Центрове за администриране > Teams & Skype > Стар портал > Гласови > Телефонни номера**.
-3. Изберете телефонния номер от списъка и в екрана **Действие** щракнете върху **Присвояване**.
-4. На страницата **Присвояване** щракнете върху **Запиши**.
+1. Отидете в центъра Microsoft Teams администриране.
+1. В левия навигационен екран отидете на **Мостове на**  >  **конференция за събрания**.
+1. Осветете платения номер за услугата, която искате да конфигурирате като услуга по подразбиране.
+1. Изберете **Задаване като услуга по подразбиране**.
 
-За повече информация вижте [Промяна на телефонните номера на вашия мост за аудио конференции](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+За повече информация вижте [Промяна на телефонните номера на вашия мост за аудио конференции](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
