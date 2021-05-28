@@ -1,5 +1,5 @@
 ---
-title: Възстановяване на изтрити елементи от центъра за администриране на Exchange
+title: Възстановяване на изтрити елементи от Exchange за администриране
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809716"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694729"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Възстановяване на изтрити елементи от центъра за администриране на Exchange
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Възстановяване на изтрити елементи от Exchange за администриране
 
-В рамките на опростената [и актуализирана среда за](https://admin.exchange.microsoft.com/#/mailboxes)управление на пощенски кутии в центъра за администриране на Exchange (EAC) можете да изберете конкретната пощенска кутия на потребителите и да възстановите елементи.
+В рамките на опростената [и актуализирана](https://admin.exchange.microsoft.com/#/mailboxes)среда за управление на пощенски кутии в центъра Exchange за администриране (EAC) можете да изберете конкретната пощенска кутия на потребителите и да възстановите елементите.
 
 1. Изберете **пощенски кутии** под **Получатели**.
 2. Изберете потребителя, от който искате да възстановите имейли.
 3. Изберете **възстановяване на изтрити елементи**.
     - Може да се наложи да погледнете под **... повече** падащ списък, за да видите **възстановяване на изтрити елементи**.
 4. Можете да използвате опциите за филтриране, за да намерите елементите, които трябва да възстановите.
+
+За повече информация вижте [Използване на нов EAC за възстановяване на изтрити съобщения.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
