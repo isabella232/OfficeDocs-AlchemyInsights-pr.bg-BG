@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573735"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696875"
 ---
 # <a name="disable-chat"></a>Забраняване на чата
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573735"
 
 - **Събрание:** В центъра Teams за администриране отидете на Правила за [събрание](https://admin.teams.microsoft.com/) – Настройката за чат е Разрешаване **на чат в събрания.** За повече информация относно създаването на правила за събрание по избор вижте Управление на [правила за събрания Teams и](/microsoftteams/meeting-policies-in-teams) Разрешаване на чат в [събрания](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
-- **M*essaging**: В центъра за администриране Teams отидете на Правила за съобщения [и](https://admin.teams.microsoft.com/)превключвайте Чат На **или** **Изкл.**. За повече информация относно правилата за съобщения по избор и как да задавате правила на потребителите, вижте Управление на [правила за съобщения в Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Съобщения:** В центъра Teams за администриране отидете на Правила за [съобщения](https://admin.teams.microsoft.com/)и превключвайте чата в **"На" или** "Изкл.".  За повече информация относно правилата за съобщения по избор и как да задавате правила на потребителите, вижте Управление на [правила за съобщения в Teams.](/microsoftteams/messaging-policies-in-teams)
 
 - **Ученици:** За да забраните чата за ученик, вижте опциите за разрешаване на чат в събрания и за разрешаване на чат в 1:1 [в Teams правила и пакети с правила за образование.](/microsoftteams/policy-packages-edu)
 

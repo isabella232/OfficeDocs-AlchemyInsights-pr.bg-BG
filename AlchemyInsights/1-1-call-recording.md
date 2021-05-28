@@ -1,5 +1,5 @@
 ---
-title: запис за обаждане на 1:1
+title: 1:1 запис на повикване
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733838"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696911"
 ---
-# <a name="11-call-recording"></a>запис за обаждане на 1:1
+# <a name="11-call-recording"></a>1:1 запис на повикване
 
-Администраторите трябва да предприемат действие сега, за да продължат да позволяват на потребителите да записват 1:1 повиквания.
- 
-От 12 Април 2021 г. ние започваме да прилагаме опцията за правила за *AllowCloudRecordingForCalls* за набиране на нови отбори. 
+Ако **бутонът "Старт** запис" е в сиво в разговор в 1:1, трябва да промените настройките на правилата за засегнатия потребител.   
 
-В момента възможностите за записване на повиквания на 1:1 се контролират от опцията *AllowCloudRecording* в правилата за събрания в Teams. Ако вашите потребители имат разрешение за записване на събрания на Teams, те също могат да записват 1:1 повиквания.
+От 31 май 2021 г. ще започнем да изискваме нов Teams за обаждания *AllowCloudRecordingForCalls*. Преди тази промяна записът на разговор в 1:1 се управлява от *AllowCloudRecording Teams* за събрание. Тази промяна е документирана в публикацията в центъра за съобщения: [(актуализирана) 1:1 Въведение в правилата за записване на повикването.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
-Ако предпочитате да блокирате всички потребители от записването на повиквания на 1:1, не е необходимо да предприемате никакви действия. Опцията за правила за *AllowCloudRecordingForCalls* повиквания ще бъде $FALSE по подразбиране.
+*AllowCloudRecordingForCalls*   опцията за правила за обаждания е **зададена $False по** подразбиране. Ако предпочитате да блокирате записването на повиквания от всички потребители 1:1, не е необходимо да предприемате никакви действия.  
 
-Тази промяна е документирана в следния център за съобщения Публикувай: [(актуализиран) 1:1 за записване на правила за запис на повикването](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) , за да зададете опцията за правила за обаждания на Teams, трябва да използвате [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+За да разрешите записването на повиквания за всички потребители в 1:1 повиквания, използвайте Teams PowerShell, за да изпълните следната кратка команда: 
 
-**За да разрешите записването на повикванията в 1:1 повиквания:** Set-CsTeamsCallingPolicy в Global-AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**За да забраните записването на повиквания в 1:1 обаждания:** Set-CsTeamsCallingPolicy за глобално AllowCloudRecordingForCalls $FALSE
+Като алтернатива можете да създадете нова политика и да зададете **-AllowCloudRecordingForCalls** **да $true** и да присвоите тези правила на вашите потребители. 
 
+За повече информация вижте [1:1 Контролите за правила за записване на повикване са (почти!) Тук](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
