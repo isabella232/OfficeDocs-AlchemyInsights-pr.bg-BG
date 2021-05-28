@@ -1,5 +1,5 @@
 ---
-title: Проблеми при мигриране на данни в SharePoint online
+title: Проблеми при мигриране на данни към SharePoint онлайн
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700876"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694765"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="9789c-102">Проблеми при мигриране на данни в SharePoint online</span><span class="sxs-lookup"><span data-stu-id="9789c-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="a9984-102">Проблеми при мигриране на данни към SharePoint онлайн</span><span class="sxs-lookup"><span data-stu-id="a9984-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="9789c-103">**Мигриране над 100TB на данни**</span><span class="sxs-lookup"><span data-stu-id="9789c-103">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="a9984-103">**Мигриране на над 100 ТБ данни**</span><span class="sxs-lookup"><span data-stu-id="a9984-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="9789c-104">Изглежда, че мигрирате върху 100TB от данни към SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="9789c-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="9789c-105">Моля, следвайте стъпките по-долу, така че да можем да ви помогнем възможно най-скоро.</span><span class="sxs-lookup"><span data-stu-id="9789c-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="a9984-104">Изглежда, че мигрирате над 100 ТБ данни към SharePoint Онлайн.</span><span class="sxs-lookup"><span data-stu-id="a9984-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="a9984-105">Следвайте стъпките по-долу, за да можем да ви помогнем възможно най-скоро.</span><span class="sxs-lookup"><span data-stu-id="a9984-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="9789c-106">Изберете **ново искане за обслужване**и след това **ново искане за обслужване**.</span><span class="sxs-lookup"><span data-stu-id="9789c-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="9789c-107">Оставете заглавието и описанието като **мигриране на SharePoint върху 100TB**.</span><span class="sxs-lookup"><span data-stu-id="9789c-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="9789c-108">След като билетът е подаден, моля, актуализирайте го със следната информация:</span><span class="sxs-lookup"><span data-stu-id="9789c-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="a9984-106">Изберете **Свързване с поддръжката** и след това **Ново искане за услуга**.</span><span class="sxs-lookup"><span data-stu-id="a9984-106">Select **Contact Support**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="a9984-107">Оставете заглавието и описанието **като SharePoint над 100 ТБ.**</span><span class="sxs-lookup"><span data-stu-id="a9984-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="a9984-108">След като билетът е подаден, актуализирайте го със следната информация:</span><span class="sxs-lookup"><span data-stu-id="a9984-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="9789c-109">Прогнозен размер на вашата миграция.</span><span class="sxs-lookup"><span data-stu-id="9789c-109">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="9789c-110">Оценка кога искате да започнете и завършите вашата миграция.</span><span class="sxs-lookup"><span data-stu-id="9789c-110">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="9789c-111">Опишете къде мигрирате вашето съдържание от, като например SharePoint Server, Box, GDrive, дялове на файлове и др.</span><span class="sxs-lookup"><span data-stu-id="9789c-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="a9984-109">Прогнозен размер на мигрирането.</span><span class="sxs-lookup"><span data-stu-id="a9984-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="a9984-110">Прогноза кога искате да започнете и завършите мигрирането.</span><span class="sxs-lookup"><span data-stu-id="a9984-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="a9984-111">Опишете откъде мигрирате съдържанието си, като например SharePoint Сървър, Box, GDrive, Споделяне на файлове и т.н.</span><span class="sxs-lookup"><span data-stu-id="a9984-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
