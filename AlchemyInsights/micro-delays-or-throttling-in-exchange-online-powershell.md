@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830022"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702115"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Микро закъснения или ограничаване на PowerShell в Exchange Online
 
-Възможно е да видите предупреждения за "Приложено микро забавяне" или закъснения, когато изпълнявате скриптове и кратки команди в Exchange Online. Ето две предложения, свързани с това:
+Възможно е да видите предупреждения за "Приложено микро забавяне" или закъснения, когато изпълнявате скриптове и кратки команди в Exchange Online. Ето няколко предложения как да решите това:
 
-- Може да поискате да се опитате да използвате [модула Exchange Online v2 PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), който включва кратки команди, които са базирани на REST API и са значително по-подходящи. Това може да бъде чудесно решение за много от често използваните кратки команди.
-- Ако трябва да използвате кратки команди, които все още не са включени в модула V2, вижте [Изпълнение на кратки команди на PowerShell за голям брой потребители в Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), където се говори за това как да се ориентирате в очакваните ограничения при PowerShell в Exchange Online.
+- Изпълнете нашата диагностика, за да отпуснете правилата за ограничаване на PowerShell на вашия клиент. Това решение ще реши проблема за повечето.
+- Ако проблемът все още не е решен, използвайте [модула Exchange Online v2 PowerShell](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true), който включва CMDlets, които са базирани на REST API и са значително по-изпълняващи. Това може да бъде чудесно решение за много от често използваните кратки команди.
+- Ако трябва да използвате КРАТКИ КОМАНДИ, които не са включени в модула v2, вижте Изпълняване на кратки команди на PowerShell за голям брой потребители в Office 365 , което говори как да заобиколите ограниченията за ограничаване на [PowerShell](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)в Exchange Online.
