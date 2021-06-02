@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470230"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721625"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Импортиране на услуга
 
-Услугата Microsoft 365 импортиране ви позволява да импортирате групово няколко PST файла в Exchange Online пощенски кутии.
-
 За достъп до услугата "Импортиране" и стартиране на процеса на импортиране:
 
-1. Отидете в центъра [за & за съответствие и](https://protection.office.com) влезте с идентификационни данни за акаунт на администратор във вашата организация.
+1. Отидете в центъра [за съответствие на M365](https://compliance.microsoft.com/)и влезте с идентификационни данни за акаунт на администратор във вашата организация.
 
-2. В левия екран на центъра за **& съответствие** щракнете върху Управление на информацията **> Импортиране**.
+1. В левия екран на центъра за съответствие на M365 под **Решения** изберете **Импортиране на управление на**  >  **информацията**.
 
-3. На страницата **Импортиране** щракнете върху Ново **задание за импортиране**.
+1. На страницата **Импортиране** изберете Ново **задание за импортиране**.
 
-4. За да изпълните стъпките в съветника, следвайте [тези инструкции "стъпка по стъпка".](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. За да изпълните стъпките в съветника, вижте Използване на качване в мрежата, [за да импортирате PST файловете](/compliance/use-network-upload-to-import-pst-files)на вашата организация в Microsoft 365 .
 
-**Важно:** За достъп до **страницата Импортиране** в центъра за & за защита, на вас са зададени [съответните разрешения.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+За достъп до **страницата** Импортиране се уверете, че са ви присвоени съответните разрешения. За повече информация вижте Използване на [качване в мрежата за импортиране на PST файлове.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Ако просто искате да импортирате PST файл в пощенската си кутия, вижте [тази статия](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ако искате да импортирате PST файл в пощенската си кутия, вижте Импортиране на [имейл, контакти и календар от Outlook .pst файл](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+
+Ако имате проблем с импортирането, вижте Проблеми, които засягат задачи [за импортиране на PST](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+
