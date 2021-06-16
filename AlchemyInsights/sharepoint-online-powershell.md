@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: PowerShell на Sharepoint не може да се свърже
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774347"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931000"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>PowerShell на Sharepoint не може да се свърже
 
-Работа с PowerShell или скриптове в Sharepoint Online? Посетете връзките по-долу за повече информация.
-- [Първи стъпки в SharePoint за онлайн управление](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Свързване към SPO PowerShell с многофакторно удостоверяване (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint модели и практики (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) съдържа библиотека с команди на PowerShell, която ви позволява да извършвате сложни действия за управление към SPO.
+Ако имате проблеми при свързването към SharePoint модул на PowerShell онлайн, вижте Грешки при [свързване към SharePoint онлайн обвивката за управление.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
