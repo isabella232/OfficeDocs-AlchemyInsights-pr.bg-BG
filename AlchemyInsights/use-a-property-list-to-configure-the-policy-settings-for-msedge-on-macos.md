@@ -12,17 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004632"
+- "9006494"
 - "8361"
-ms.openlocfilehash: 279a42acc12662c57463010a101ade35df97074f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11114"
+ms.openlocfilehash: 583e3f4401901bec70b0cef3444066c220cbb554
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404253"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989690"
 ---
-# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a><span data-ttu-id="cb928-102">Използване на списък със свойство за конфигуриране на настройките на правилата за Microsoft Edge на macOS</span><span class="sxs-lookup"><span data-stu-id="cb928-102">Use a property list to configure the policy settings for Microsoft Edge on macOS</span></span>
+# <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a><span data-ttu-id="95c80-102">Използване на списък със свойство за конфигуриране на настройките на правилата за Microsoft Edge на macOS</span><span class="sxs-lookup"><span data-stu-id="95c80-102">Use a property list to configure the policy settings for Microsoft Edge on macOS</span></span>
 
-<span data-ttu-id="cb928-103">На macOS, Microsoft Edge версия 77 или по-нова версия може да се конфигурира с помощта на файл от списък със свойство (.plist):</span><span class="sxs-lookup"><span data-stu-id="cb928-103">On macOS, Microsoft Edge version 77 or later can be configured by using a property list (.plist) file:</span></span>
+<span data-ttu-id="95c80-103">На macOS, Microsoft Edge 77 или по-нова версия могат да бъдат конфигурирани с помощта на файл от списък със свойство (.plist):</span><span class="sxs-lookup"><span data-stu-id="95c80-103">On macOS, Microsoft Edge version 77 or later can be configured by using a property list (.plist) file:</span></span>
 
-1. <span data-ttu-id="cb928-104">[Създаване на списък със свойство](https://go.microsoft.com/fwlink/?linkid=2134726).</span><span class="sxs-lookup"><span data-stu-id="cb928-104">[Create a property list](https://go.microsoft.com/fwlink/?linkid=2134726).</span></span>
-1. <span data-ttu-id="cb928-105">[Разполагане на списъка със свойство](https://go.microsoft.com/fwlink/?linkid=2134727).</span><span class="sxs-lookup"><span data-stu-id="cb928-105">[Deploy the property list](https://go.microsoft.com/fwlink/?linkid=2134727).</span></span>
+1. <span data-ttu-id="95c80-104">[Създаване на списък със свойство](https://go.microsoft.com/fwlink/?linkid=2134726).</span><span class="sxs-lookup"><span data-stu-id="95c80-104">[Create a property list](https://go.microsoft.com/fwlink/?linkid=2134726).</span></span>
+1. <span data-ttu-id="95c80-105">[Разполагане на списъка със свойство](https://go.microsoft.com/fwlink/?linkid=2134727).</span><span class="sxs-lookup"><span data-stu-id="95c80-105">[Deploy the property list](https://go.microsoft.com/fwlink/?linkid=2134727).</span></span>
