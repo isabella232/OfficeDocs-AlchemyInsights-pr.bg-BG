@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53004971"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023128"
 ---
-# <a name="get-business-assist"></a><span data-ttu-id="8673c-102">Получаване на помощ за бизнеса</span><span class="sxs-lookup"><span data-stu-id="8673c-102">Get Business Assist</span></span>
+# <a name="get-business-assist"></a><span data-ttu-id="879af-102">Получаване на помощ за бизнеса</span><span class="sxs-lookup"><span data-stu-id="879af-102">Get Business Assist</span></span>
 
-1. <span data-ttu-id="8673c-103">В Център за администриране на Microsoft 365 отидете на Бизнес **помощ за**  >  **абонаменти**.</span><span class="sxs-lookup"><span data-stu-id="8673c-103">In the Microsoft 365 admin center, go to **Subscriptions** > **Business Assist**.</span></span>
+1. <span data-ttu-id="879af-103">В Център за администриране на Microsoft 365 отидете на страницата [Бизнес съдействие за Microsoft 365 ,](https://go.microsoft.com/fwlink/p/?linkid=2158423)изберете честота на фактуриране и след това изберете **Закупуване**.</span><span class="sxs-lookup"><span data-stu-id="879af-103">In the Microsoft 365 admin center, go to the [Business Assist for Microsoft 365 page](https://go.microsoft.com/fwlink/p/?linkid=2158423), select a billing frequency, and then select **Buy**.</span></span>
+2. <span data-ttu-id="879af-104">Следвайте стъпките, за да проверите.</span><span class="sxs-lookup"><span data-stu-id="879af-104">Follow the steps to check out.</span></span>
 
-1. <span data-ttu-id="8673c-104">Изберете **Закупуване на помощ за**  >  **бизнеса** и следвайте съветника, за да закупите помощ за бизнеса.</span><span class="sxs-lookup"><span data-stu-id="8673c-104">Select **Business Assist** > **Buy**, and follow the wizard to purchase Business Assist.</span></span>
-
-<span data-ttu-id="8673c-105">За да научите повече, [вижте Бизнес съдействие за Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="8673c-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
+<span data-ttu-id="879af-105">За да научите повече, [вижте Бизнес съдействие за Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="879af-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
