@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721625"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023092"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Импортиране на услуга
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721625"
 
 1. В левия екран на центъра за съответствие на M365 под **Решения** изберете **Импортиране на управление на**  >  **информацията**.
 
-1. На страницата **Импортиране** изберете Ново **задание за импортиране**.
+1. На страницата **Импортиране** изберете Ново **задание за импортиране**. Въведете име на задание и изберете **Напред**.
 
-1. За да изпълните стъпките в съветника, вижте Използване на качване в мрежата, [за да импортирате PST файловете](/compliance/use-network-upload-to-import-pst-files)на вашата организация в Microsoft 365 .
+1. Изберете **Upload данни, за** да използвате опцията за качване в мрежата за тип задание за **импортиране**. За подробни стъпки вижте Използване на качване в мрежата за импортиране на PST файловете на [вашата организация в Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 За достъп до **страницата** Импортиране се уверете, че са ви присвоени съответните разрешения. За повече информация вижте Използване на [качване в мрежата за импортиране на PST файлове.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
