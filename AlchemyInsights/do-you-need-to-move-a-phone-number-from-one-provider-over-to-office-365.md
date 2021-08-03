@@ -1,5 +1,5 @@
 ---
-title: Трябва ли да прехвърлите телефонен номер от един доставчик за Microsoft?
+title: Трябва ли да преместите Телефон от един доставчик към Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712137"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689395"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Прехвърляне на съществуващи номера към Teams
 
-Ако в момента имате телефонен доставчик или оператор и вече имате телефонни номера за вашите потребители или услуги, трябва да създадете „поръчка за прехвърляне“, за да прехвърлите тези телефонни номера към Microsoft Teams.
+Ако в момента имате телефонен доставчик или оператор и вече имате телефонни номера за вашите потребители или услуги, трябва да създадете „поръчка за прехвърляне“, за да прехвърлите тези телефонни номера към Microsoft Teams.  
 
-- Вижте [Трансфериране на телефонни номера към Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams), за да научите как да завършите прехвърлянето. 
+За да създадете нова поръчка за порт или да проверите съществуваща, изпълнете следните стъпки: 
 
-- Вижте [Управляване на телефонните номера за вашата организация](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) за указания при управлението на телефонни номера. 
+1. Отидете в центъра [за Teams, за](https://admin.teams.microsoft.com/phone-numbers) да отворите страницата Телефон номера. 
 
-За повече информация вж. [Общ преглед на поръчката за прехвърляне](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Изберете **Получаване на връзка за поддръжка на телефонен номер**. 
+
+За да отидете директно на поддръжката на телефонни номера, [вж. Телефон център за номер на услугата](https://pstnsd.powerappsportals.com/).  

@@ -3,6 +3,7 @@ title: Състояние на абонамента
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542774"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689539"
 ---
 # <a name="subscription-status"></a>Състояние на абонамента
 
-Състоянието на абонамента, датата на изтичане и броят на лицензите могат да бъдат намерени на **страницата** "Вашите продукти" на Microsoft 365 център за администриране.
+Състоянието на абонамента, датата на изтичане и броят на лицензите могат да бъдат намерени на **страницата "Вашите** продукти" на Център за администриране на Microsoft 365.
 
 1. В центъра за администриране отидете на страницата **Фактуриране**  >  [На вашите](https://go.microsoft.com/fwlink/p/?linkid=842054) продукти.
 2. В **раздела Продукти** по подразбиране виждате всички абонаменти и тяхното състояние (Активни, Изтекли, Забранени или Изтрити). За да видите подмножество от всички абонаменти, изберете иконата на филтъра, след което изберете състоянието **на** абонамента, което искате да видите.

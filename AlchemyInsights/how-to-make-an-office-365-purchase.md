@@ -1,8 +1,10 @@
 ---
-title: Как се прави покупка на Microsoft 365
+title: Как да направите Microsoft 365 покупка
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232356"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689071"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Как се прави покупка на Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Как да направите Microsoft 365 покупка
 
-Можете да закупите абонамент за Microsoft 365 в центъра за администриране.
+Можете да закупите абонамент Microsoft 365 в центъра за администриране.
   
-- За да закупите план, отидете на страницата за услуги за закупуване на **фактури** \> **[](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
-- За да закупите допълнителни лицензи, отидете на страницата **Фактуриране** на \> **[вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Изберете абонамента, който искате да промените, и след това изберете **закупуване на лицензи**. \
-**Гледайте видео** , което показва как да направите това: [Купете нови лицензи](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- За да закупите план, отидете на страницата **Услуги за** \> **[закупуване на](https://go.microsoft.com/fwlink/p/?linkid=868433)** плащания.
+- За да закупите допълнителни лицензи, отидете на страницата **Фактуриране** \> **[на вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти. Изберете абонамента, който искате да промените, след което изберете **Закупуване на лицензи**.\
+**ГЛЕДАЙте видео,** което показва как да направите това: [Закупуване на нови лицензи](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-За да научите повече, вижте [закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+За да научите повече, вижте [Закупуване или премахване на лицензи](/microsoft-365/commerce/licenses/buy-licenses).
 
 **Отстраняване на неизправности**
 
@@ -35,5 +38,5 @@ ms.locfileid: "50232356"
 
 **Допълнителни ресурси**
   
-- [Даване на лицензи на потребители в Microsoft 365 за фирми](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Отказ от Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Дайте лицензи на потребители в Microsoft 365 за бизнеса](/microsoft-365/admin/add-users/add-users)
+- [Отмяна Microsoft 365 за бизнеса](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
