@@ -3,6 +3,7 @@ title: Отменяне на абонамента ви за Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5a753e6ef663281916626747df836bc57c459d97
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543314"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687271"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Отменяне на абонамента ви за Microsoft
 
-Администраторите могат да отменят абонамента за своята организация в центъра Microsoft 365 администриране.
+Администраторите могат да отменят абонамента за своята организация в Център за администриране на Microsoft 365.
 
 1. Отидете на страницата **Фактуриране** \> [на вашите](https://go.microsoft.com/fwlink/p/?linkid=842054) продукти.
 2. В раздела **Продукти** намерете абонамента, който искате да отмените. Изберете трите точки (още действия), след което изберете Отмяна **на абонамента**.

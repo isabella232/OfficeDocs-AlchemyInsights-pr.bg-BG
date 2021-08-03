@@ -1,8 +1,9 @@
 ---
-title: Как се преглеждат и управляват приложения
+title: Как да преглеждате и управлявате приложения
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489086"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686551"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Как се преглеждат и управляват приложения
+# <a name="how-to-view-and-manage-apps"></a>Как да преглеждате и управлявате приложения
 
-Можете да преглеждате своите приложения в центъра за администриране на Microsoft 365.
+Можете да преглеждате приложенията си в Център за администриране на Microsoft 365.
 
-1. В центъра за администриране отидете на страницата **Фактуриране**на  >  [вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. В раздела **продукти** превъртете надолу до секцията **приложения** .
-3. За да управлявате приложение, изберете този, който искате да управлявате.
+1. В центъра за администриране отидете на страницата **Фактуриране**  >  [На вашите](https://go.microsoft.com/fwlink/p/?linkid=842054) продукти.
+2. В раздела **Продукти** превъртете надолу до **раздела Приложения.**
+3. За да управлявате приложение, изберете това, което искате да управлявате.

@@ -3,6 +3,7 @@ title: Често задавани въпроси за бизнес абонам
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,12 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601083"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686083"
 ---
 # <a name="business-subscription-faq"></a>Често задавани въпроси за бизнес абонамент
 
@@ -36,7 +38,7 @@ ms.locfileid: "50601083"
 - За да **закупите или премахнете** лицензи, отидете на **Фактуриране > [Вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**. За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - За да **отмените** абонамент, отидете на **Фактуриране > [Вашите продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете абонамента, и в секцията **Абонамент и настройки за плащане** изберете **Отмяна на абонамент**. За повече информация, вижте [Отмяна на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - За да **активирате** абонамента, вижте [Активирайте абонамента си](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- За **повторно активиране** на абонамента вижте [повторно активиране на абонамента ви](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- За да  **удължите** изпробването, вижте [удължаване на срока на изпробването](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+- За **да активирате отново абонамента,** вижте Повторно активиране на вашия [абонамент.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
+- За  **да удължите** пробната версия, вижте [Удължаване на пробната версия](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
 За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -3,6 +3,8 @@ title: Актуализиране на информацията за креди�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830310"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685507"
 ---
 # <a name="update-credit-card-information"></a>Актуализиране на информацията за кредитната карта
 
@@ -41,4 +44,4 @@ ms.locfileid: "51830310"
 
 Ако се сблъсквате с проблеми със зареждането на страницата, опитайте да отворите уеб страницата в друг браузър или в частен прозорец на браузъра, като например прозорец InPrivate в Microsoft Edge или прозорец в режим „инкогнито“ в Google Chrome. 
 
-За повече информация вижте Управление на [методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+За повече информация вижте Управление на [методите на плащане](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

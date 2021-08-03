@@ -3,6 +3,8 @@ title: Фактуриране и плащане
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820383"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686875"
 ---
 # <a name="billing-and-payment"></a>Фактуриране и плащане
 
@@ -35,7 +38,7 @@ ms.locfileid: "51820383"
 
 Ако сте добавили нова карта и все още получавате известие за отказ на старата кредитна карта, може да се наложи да свържете тази нова карта с абонамента.
 
-1. В центъра за администриране отидете на страницата **Фактуриране на** сметки  >  **& методи**  >  [на](https://go.microsoft.com/fwlink/p/?linkid=2018806) плащане.
+1. В центъра за администриране отидете на страницата **Фактуриране**  >  **Фактури и плащания** > [Методи на плащане](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. Изберете реда на метода на плащане, който да заместите. В десния екран са изрежи всички профили за фактуриране и отделни абонаменти, които използват избрания метод на плащане.
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820383"
 
 7. Новият метод на плащане вече е избран в падащия списък. Изберете **Замести**.
 
-За да научите повече, вижте Управление [на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+За да научите повече, вижте [Управление на методите на плащане](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Честота на фактуриране**
 
 Сметките се генерират ежемесечно или годишно в зависимост от честотата на фактуриране, избрана при плащане.  
 
-**Забележка:** Поръчките с годишно фактуриране може да получат сметка в средата на срока, ако са направени промени, като например добавяне или премахване на лицензи. [Променете честотата на фактуриране.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Забележка:** Поръчките с годишно фактуриране може да получат сметка в средата на срока, ако са направени промени, като например добавяне или премахване на лицензи. [Променете честотата на фактуриране.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
