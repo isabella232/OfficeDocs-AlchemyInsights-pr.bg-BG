@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907907"
 ---
 # <a name="web-only-limited-access"></a>Web-Only ограничен достъп
 
-Web-Only ограничен достъп е вариант на нивото на разрешение "ограничен достъп", което позволява достъпа на потребителите само до уеб обекта.
+Web-Only Ограничен достъп е вариант на нивото на разрешение "Ограничен достъп", който позволява на потребителите достъп само до уеб обекта.
 
-За повече информация вижте [нивата на разрешение по подразбиране](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+За повече информация вижте нива [на разрешение по подразбиране](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).

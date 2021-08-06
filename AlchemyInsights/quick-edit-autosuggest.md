@@ -1,5 +1,5 @@
 ---
-title: Автовнушение за бързо редактиране
+title: Бързо редактиране на autoSuggest
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923084"
 ---
-# <a name="quick-edit-autosuggest"></a>Автовнушение за бързо редактиране
+# <a name="quick-edit-autosuggest"></a>Бързо редактиране на autoSuggest
 
-Има два начина за редактиране на елемент в списък на SharePoint. Можете да редактирате отделен елемент в списъчен изглед, който е методът по подразбиране. Или за да сте още по-продуктивни, можете да редактирате няколко елемента в изглед за бързо редактиране. За редактиране на елементи трябва да имате разрешение за сътрудничество или по-високо. За повече информация вижте [Редактиране на елементи от списък в SharePoint online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+Има два начина за редактиране на елемент в списък на SharePoint. Можете да редактирате един елемент в списъчен изглед, което е методът по подразбиране. Или, за да бъдете още по-продуктивни, можете да редактирате няколко елемента в изгледа за бързо редактиране. За да редактирате елементи, ви трябва разрешение за ниво "Сътрудничество", или по-високо. За повече информация вижте Редактиране [на елементи от списък в SharePoint онлайн](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).

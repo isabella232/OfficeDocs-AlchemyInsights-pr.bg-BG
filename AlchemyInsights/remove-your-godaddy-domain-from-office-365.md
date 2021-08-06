@@ -12,16 +12,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: c1891d3ce5e7605ec7c0dec8a249e922aff364ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf7dc36779bf920b721d67d15b7925d72a5d657b67b105165f37f170023ad764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922328"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Премахване на вашия домейн на GoDaddy от Microsoft 365
 
-Не можете да премахнете вашия домейн от GoDaddy от Microsoft 365 вместо вас. Обадете се на [услугата за клиенти на GoDaddy](https://aka.ms/contact-godaddy) за помощ.
+Не можем да премахнем вашия домейн на GoDaddy от Microsoft 365 за вас. Обадете [се на отдела за обслужване на клиенти на GoDaddy](https://aka.ms/contact-godaddy) за помощ.
   
-Ако името на организацията не съдържа "NETORG" или не е било закупено от GoDaddy, премахнете домейна си, като следвате тези стъпки, [за да премахнете домейн от Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Ако името на организацията не съдържа "NETORG" или не е закупено от GoDaddy, премахнете домейна си, като следвате тези стъпки Премахване на [домейн от Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   

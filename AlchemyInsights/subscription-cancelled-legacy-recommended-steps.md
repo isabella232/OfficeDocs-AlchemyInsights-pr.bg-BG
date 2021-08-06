@@ -1,5 +1,5 @@
 ---
-title: Отменен абонамент-Legacy-Препоръчителни стъпки
+title: Абонаментът е отменен – наследен – препоръчителни стъпки
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999049"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Отменен абонамент-Legacy-Препоръчителни стъпки
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Абонаментът е отменен – наследен – препоръчителни стъпки
 
-Нашият запис показва, че абонаментът е отменен от потребител с права на собственик. Вижте стъпките по-долу за повторно активиране на абонамента.
+Нашият запис показва, че абонаментът е отменен от потребител с права на собственик. Намерете стъпките по-долу, за да активирате отново абонамента.
 
-[Администраторът на акаунта](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) може да активира повторно отменен абонамент за "плащане като" в центъра за акаунти.
+Администраторът [на акаунта](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) може да активира повторно отменен абонамент за Плащане като Вас-Go в центъра за акаунти.
 
-1. Влезте в [центъра за акаунти](https://account.azure.com/Subscriptions).
-2. Изберете отменения абонамент и щракнете върху **повторно активиране**.
+1. Влезте в центъра [за акаунти](https://account.azure.com/Subscriptions).
+2. Изберете отменения абонамент и щракнете **върху Повторно активиране**.
 
-За други типове абонаменти [се обърнете към поддръжката](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , за да активира абонамента ви.
+За други типове абонаменти се обърнете [към поддръжката,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) за да активирате отново абонамента си.
