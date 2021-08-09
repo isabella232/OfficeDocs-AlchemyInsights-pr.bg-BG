@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: c08f119b878b5a9e0987f5440e17f43f3a6cc8ef
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e63cadee448eca3e0c25a8b584883fe158b1e170cebf07d32301ac9cede51ab2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060629"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Не можете да отворите документи на SharePoint в локален клиент
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Не може да се SharePoint документи в локален клиент
 
-Понякога може да имате затруднения при отварянето на файлове и документи на Office от SharePoint или OneDrive от вашите локални клиенти на Office.
+Понякога може да имате затруднения при отварянето Office файлове и документи от SharePoint или OneDrive от вашите местни Office клиенти.
 
-- [Не можете да отваряте файлове на Office от SharePoint или OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+- [Не можете да отваряте Office файлове от SharePoint или OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
