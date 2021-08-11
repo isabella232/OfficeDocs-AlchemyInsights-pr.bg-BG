@@ -1,5 +1,5 @@
 ---
-title: Конфигуриране на прокси сървър на приложението
+title: Конфигуриране на прокси сървър на приложение
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951554"
 ---
-# <a name="app-proxy-configuration"></a>Конфигуриране на прокси сървър на приложението
+# <a name="app-proxy-configuration"></a>Конфигуриране на прокси сървър на приложение
 
-1. За да разберете как да конфигурирате приложение за прокси сървър за приложения в Azure AD, за да изложите вашите локални приложения в облака, вижте [как да конфигурирате приложение за прокси сървър на приложение](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Еднократната идентификация (SSO) позволява на вашите потребители да имат достъп до приложение без удостоверяване повече от един час. Позволява на единното удостоверяване да се появява в облака, срещу Azure Active Directory и позволява на услугата или съединителя да се представя за потребителя, за да извърши допълнителни предизвикателства за удостоверяване от приложението. За да научите повече, вижте [как да конфигурирате еднократна идентификация в приложение за прокси сървър на приложение](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Използвайте [тази статия](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) , за да отстраните често срещани проблеми при създаването на ново приложение за прокси сървър на приложения.
-4. Ако имате проблем със създаването на обратно удостоверяване към вашето приложение, може да се наложи да [отстраните конфигурациите на делегиране на Kerberos с ограничени права за прокси сървър за приложения](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) или да следвате указания за [Конфигуриране на приложението с PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) , за да отстраните проблема си.
+1. За да разберете как да конфигурирате приложение за прокси сървър на приложение в Azure AD, за да изложите локалните си приложения в облака, вижте Как да [конфигурирате приложение за прокси сървър на приложение.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+2. Еднократната регистрация (SSO) позволява на потребителите ви достъп до приложение, без да се удостоверяват няколко пъти. Позволява еднократното удостоверяване да се случва в облака, срещу Azure Active Directory и позволява на услугата или Конектора да се представя за потребителя, за да изпълни всички допълнителни предизвикателства пред удостоверяването от приложението. За да научите повече, вижте [Как да конфигурирате еднократната влизане в приложение за прокси сървър на приложение](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
+3. Използвайте [тази статия, за](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) да отстранявате често срещани проблеми, с които хората се сблъскват, когато създават ново приложение за прокси сървър на приложение.
+4. Ако имате проблем с настройването на удостоверяването в обратната част на вашето приложение, може да се наложи да отстраните конфигурациите на делегиране, ограничени от [Kerberos,](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) за прокси сървър на приложение или да следвате указания за конфигуриране на приложение с [PingAccess,](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) за да решите проблема си.

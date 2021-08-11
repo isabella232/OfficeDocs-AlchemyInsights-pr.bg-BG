@@ -1,5 +1,5 @@
 ---
-title: Бордови устройства за Microsoft Defender за крайна точка
+title: Устройства на борда на Microsoft Defender за крайна точка
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967466"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Бордови устройства за Microsoft Defender за крайна точка
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Устройства на борда на Microsoft Defender за крайна точка
 
-Microsoft Defender за крайна точка предоставя централизирана среда за работа със сигурността за Windows и други платформи. Това ще ви помогне да защитите мрежата на вашата организация и да използвате център за защита на Microsoft Defender, за да преглеждате предупрежденията от различни Поддържани операционни системи:
+Microsoft Defender for Endpoint предоставя централизирана работа с операциите за защита за Windows платформи, които не Windows сигурността. Това ви помага да защитите мрежата на вашата организация и да използвате Microsoft Defender Security Center, за да преглеждате предупреждения от различни поддържани операционни системи:
 
-- За **машини с Windows 10** вижте [инструменти за обкачвания и методи за устройства с Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
-- За **Windows servers** вижте [onboard servers за услугата Microsoft Defender за крайна точка](https://go.microsoft.com/fwlink/?linkid=2143627).
-- За **крайни точки за неwindows** се уверете, че системата ви отговаря на изискванията за [MacOS](https://go.microsoft.com/fwlink/?linkid=2143461) или [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), и след това [преминете към въвеждане](https://go.microsoft.com/fwlink/?linkid=2143628).
+- За **Windows 10 компютри** вижте [Инструменти за въвеждане и методи за Windows 10 устройства.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- За **Windows сървъри** вижте Сървъри на [onboard към услугата Microsoft Defender за крайна точка](https://go.microsoft.com/fwlink/?linkid=2143627).
+- За **крайни точки, които не Windows,** проверете дали вашата система отговаря на изискванията за [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) или [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)и след това продължете [с встъпване](https://go.microsoft.com/fwlink/?linkid=2143628).

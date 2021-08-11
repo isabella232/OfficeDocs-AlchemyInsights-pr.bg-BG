@@ -1,5 +1,5 @@
 ---
-title: Грешката в Outlook не може да стартира Microsoft Outlook
+title: Outlook грешка Не може да се стартира Microsoft Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933634"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Грешка в Outlook: не може да се стартира Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook: Не може да се стартира Microsoft Outlook
 
-Имате ли проблеми при стартиране на Outlook 2016, Outlook 2013 или Outlook 2010 или получаване на "не може да се стартира Microsoft Outlook. Не може да се отвори прозорецът на Outlook "съобщения за грешка?
+Имате проблеми с стартирането на Outlook 2016, Outlook 2013 или Outlook 2010 или получавате "Не може да стартирате Microsoft Outlook. Не можете да отворите Outlook прозорец" съобщения за грешка?
   
-Първо, използвайте стъпките за отстраняване на неизправности в [тази статия](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) , за да отстраните проблемите при стартиране. 
+Първо, използвайте стъпките за отстраняване на неизправности в [тази статия, за](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) да разрешите тези проблеми при стартиране. 
   
-Можете също да изпълните [инструмента за разширено диагностициране](https://aka.ms/SaRA-OutlookAdvDiagnostics) на засегнатата машина.
+Можете също да изпълните [инструмента за разширена диагностика](https://aka.ms/SaRA-OutlookAdvDiagnostics) на засегнатия компютър.

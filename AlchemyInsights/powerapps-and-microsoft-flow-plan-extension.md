@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps и разширение за план за Microsoft Flow
+title: 1575-PowerApps и Microsoft Flow на плана
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960428"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Разширение на план за PowerApps и Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps и Microsoft Flow на план
 
-Ако възнамерявате да поискате разширение на плана за **Microsoft Flow** или **PowerApps** и вашият клиент вече има активни потребители на една от следните функции, не е необходимо да се подаде искане за поддръжка.
+Ако възнамерявате да поискате разширение на **план за Microsoft Flow** или **PowerApps** и вашият клиент вече има активни потребители на една от следните функции, не е необходимо да попишете заявка за поддръжка.
 
-- Създаване и публикуване на потребителски конектори в PowerApps и Microsoft Flow
-- Действия по избор на HTTP, интегрирани в поток извън SharePoint и OneDrive
+- Създаване и публикуване на конектори по избор в PowerApps и Microsoft Flow
+- Http персонализирани действия, интегрирани в Flow извън SharePoint и OneDrive
 - Интегриране на локални данни чрез локалния шлюз за данни
 
-Клиентите с активните потребители на тези функции ще получат автоматично разширение до 31 януари 2020 или изтичането на срока на техния съществуващ абонамент за Microsoft 365, което е по-дълго.
+Клиентите с активни потребители на тези функции ще получават автоматично разширение до 31 януари 2020 г. или изтичането на срока на техния съществуващ абонамент за Microsoft 365, което от тях е по-дълго.
