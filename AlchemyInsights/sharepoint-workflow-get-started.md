@@ -1,5 +1,5 @@
 ---
-title: Първи стъпки в SharePoint online
+title: Първи стъпки в SharePoint Онлайн
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910391"
 ---
 # <a name="workflows-in-sharepoint"></a>Работни потоци в SharePoint
 
-Работните потоци в SharePoint ви позволяват да моделирате и автоматизирате бизнес процесите. SharePoint поддържа два основни средата за разработване на работни потоци за съставяне на работни потоци: SharePoint Designer и Visual Studio. 
+Работните потоци в SharePoint ви позволяват да моделиране и автоматизиране на бизнес процеси. SharePoint поддържа две основни среди за разработване на работни потоци за създаване на работни потоци: SharePoint Designer и Visual Studio. 
 
-Вижте [разработване на работни потоци на SharePoint в SharePoint Designer и Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) или [разработване на работни потоци на SharePoint с помощта на Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) , за да оцените предимствата и недостатъците на всеки от тях. 
+Вижте Разработване SharePoint работни потоци [в SharePoint Designer и Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) или Разработване на работни потоци [SharePoint, като използвате Visual Studio,](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) за да оцените предимствата и недостатъците на всеки от тях. 
 
-Ако се опитвате да определите дали работните потоци са решение, което да се използва във вашата среда на SharePoint, или да търсите обща информация за първи стъпки, вижте [общ преглед на работните потоци в SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Ако се опитвате да определите дали работните потоци са решение за използване във вашата среда на SharePoint или търсите обща информация за първи стъпки, вижте Общ преглед на работните [потоци в SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

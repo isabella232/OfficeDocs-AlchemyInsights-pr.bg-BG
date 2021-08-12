@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24a9cd94272f4103fe404bf86e519582138e6b37734e11715b72ebcd2de9d5cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946679"
 ---
 # <a name="edu-verification"></a>Проверка на EDU
 
@@ -25,6 +25,6 @@ ms.locfileid: "51814361"
 
 **Важно** Ако сте излезли от съветника за проверка, преди да въведете домейн, можете да възобновите съветника за академична проверка [по](https://go.microsoft.com/fwlink/p/?linkid=2135255) всяко време по време на безплатната пробна версия.
 
-Ако искате да проверите състоянието на вашия домейн, отидете в центъра за администриране на [Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). На началната страница превъртете до дъното и намерете картата **за** фактуриране. Картата **за** фактуриране показва състоянието на процеса на проверка (одобрен, чакащ, отклонен или добавяне на вашия домейн).
+Ако искате да проверите състоянието на вашия домейн, отидете на [Център за администриране на Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). На началната страница превъртете до дъното и намерете картата **за** фактуриране. Картата **за** фактуриране показва състоянието на процеса на проверка (одобрен, чакащ, отклонен или добавяне на вашия домейн).
 
 Ако заявката ви е отказана, [вижте Моето училище не отговаря на условията. Какво да направя сега?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

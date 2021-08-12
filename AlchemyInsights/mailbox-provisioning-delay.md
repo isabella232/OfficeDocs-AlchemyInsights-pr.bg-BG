@@ -1,5 +1,5 @@
 ---
-title: Забавяне на осигуряването на пощенска кутия
+title: Закъснение при осигуряване на пощенска кутия
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912443"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Пощенската кутия на потребителя ви се създава
+# <a name="your-users-mailbox-is-being-created"></a>Пощенската кутия на вашия потребител се създава
 
-Възможно е да е необходим до един час, преди новата пощенска кутия да е готова за използване.
+Може да отнеме до един час, преди нова пощенска кутия да е готова за използване.
   
-Ако пощенската кутия на потребителя е "подготовка" за повече от един час, можете да опитате да изтриете и след това да създадете отново потребителя или да използвате опцията "Нека ви се обадим", за да говорите с инженер от поддръжката.
+Ако пощенската кутия на потребител е "подготвяла" повече от един час, можете да опитате да изтриете и след това да създадете отново потребителя или да използвате опцията "Нека ви се обадим", за да говорите с инженер по поддръжката.
   
 

@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929186"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Потребителите ви получили ли са злонамерен имейл?
 
@@ -40,7 +40,7 @@ ms.locfileid: "51815235"
 
 - Клиентите с Microsoft Defender за Office 365 могат:
     - използване на [Threat Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [използване на безопасни връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до злонамерен URL адрес
+    - [използване Сейф връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до злонамерен URL адрес
     - проследяване на потребители, които са щракнали и са осъществявали достъп до злонамерени URL адреси: Преглед на URL адрес за фишинг и щракване върху [пресъдени данни](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
     - ръчно [стартиране на автоматизирано разследване](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
