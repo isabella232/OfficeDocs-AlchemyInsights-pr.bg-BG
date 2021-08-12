@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: dac3ee09db000fa8f9058baf6f6a9220e20eb695
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 95212c2bc0d1ea4815a41b4511110a62211433841b3e20a28856773a3d42884d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950834"
 ---
 # <a name="assign-or-remove-user-licenses"></a>Присвояване или премахване на потребителски лицензи
 
 Като администратор можете да регулирате лицензите на потребителите си, ако е необходимо. Тези статии ви показват как да управлявате вашите потребителски лицензи:
   
-- [Да давате лицензи на потребители в Microsoft 365 за бизнеса](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
+- [Дайте лицензи на потребители в Microsoft 365 за бизнеса](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
 - [Unassign licenses from users in Microsoft 365 за бизнеса](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 

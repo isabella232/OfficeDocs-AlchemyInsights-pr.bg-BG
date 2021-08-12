@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1570"
 - "9000085"
-ms.openlocfilehash: 39719e04eabd4aa877ee53d08c31e7526f63ffab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcb715582ca3cfc92e83fdb1ae2a17e367898bc2c30ca9c697a5186444a7fa0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931906"
 ---
 # <a name="apple-configurator"></a>Apple Конфигуратор
 
 За повече информация вижте: 
 
-- [Настройване на записване на устройство с iOS/iPadOS с Apple Конфигуратор](https://docs.microsoft.com/intune/apple-configurator-enroll-ios)
+- [Настройване на записване на устройства с iOS/iPadOS с Apple Конфигуриране](https://docs.microsoft.com/intune/apple-configurator-enroll-ios)
 
-- [Използвай настройки по избор за устройства с iOS и iPadOS в Microsoft за настройка](https://docs.microsoft.com/intune/custom-settings-ios)
+- [Използване на потребителски настройки за устройства с iOS и iPadOS в Microsoft Intune](https://docs.microsoft.com/intune/custom-settings-ios)

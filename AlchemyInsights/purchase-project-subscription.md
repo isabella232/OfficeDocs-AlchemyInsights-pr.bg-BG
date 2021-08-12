@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6c3e777a8444a81a74a0bc4a0194fc9579525f04cd66c44424147cbd1454d196
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911147"
 ---
 # <a name="purchase-project-subscription"></a>Закупуване на абонамент за Project
 
-Администраторите могат да закупят абонамента за Project за своята организация от центъра за **администриране на Microsoft 365**.
+Администраторите могат да закупят Project за своята организация от **Център за администриране на Microsoft 365**.
 
 1. Отидете на страницата Закупуване  >  **[на плащания, за](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** да видите наличните абонаменти за закупуване за вашата организация.
 
