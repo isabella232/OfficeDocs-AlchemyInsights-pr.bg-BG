@@ -1,5 +1,5 @@
 ---
-title: 8000059 как да промените оформлението си
+title: 8000059 Как да промените оформлението
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: a74b6f938f3059c307f35e94e4abfbb590282a3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 153d908298e5fcfe8417f45ac89c911993f98d16ffe5c27abda4b6f3959002c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963740"
 ---
-# <a name="how-to-change-your-layout"></a>Как да смените оформлението си
+# <a name="how-to-change-your-layout"></a>Как да промените оформлението си
 
-Можете лесно да промените настройките в Outlook.com, така че да изглежда и да се държи по начина, по който искате. Изберете **Настройки** на лентата с инструменти до най-популярните опции.
+Лесно е да промените настройките в Outlook.com, така че да изглежда и да се държи по начина, по който искате. Изберете **Настройки лентата** с инструменти до най-популярните опции.
 
-За да видите всички опции за оформление **, изберете**  >  **Mail**  >  [**оформление**](https://outlook.live.com/mail/options/mail/layout)на поща.
+За да видите всички опции за оформление, **изберете Настройки Оформление** на  >    >  [**поща**](https://outlook.live.com/mail/options/mail/layout).
   

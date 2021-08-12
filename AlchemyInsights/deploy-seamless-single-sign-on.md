@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 5d0567d55232365d7e55ab6744484ba5d3e1eb2c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 070f6a6606e2ac3e6772050803d654d79bae642802c931f756d1c1ac3421f34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914100"
 ---
 # <a name="enable-seamless-sso"></a>Разрешаване на безпроблемна SSO
 
-Azure Active Directory (Azure AD) Безпроблемна еднократна Sign-On (безпроблемна SSO) автоматично се записва в потребителите, когато те са на корпоративните си настолни компютри, които са свързани към вашата корпоративна мрежа.
+Azure Active Directory (Azure AD) Безпроблемна еднократна Sign-On (безпроблемна SSO) автоматично се записва в потребителите, когато те са на корпоративните си настолни компютри, които са свързани с вашата корпоративна мрежа.
   
 [Следвайте стъпките в тази статия, за да разрешите безпроблемна SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
