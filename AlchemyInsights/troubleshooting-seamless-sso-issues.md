@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с проблемите с SSO
+title: Отстраняване на безпроблемни проблеми със SSO
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920852"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Отстраняване на проблеми с непрозрачни единични Sign-On
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Отстраняване на проблеми с безпроблемното Sign-On отделните потребители
 
-1. Можете да поискате или да търсите отговори на въпроси, които имате в [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
-1. За често срещани проблеми с безпроблемната еднократна идентификация (SSO) прегледайте следните ръководства, за да отстраните проблема:
+1. Зададете или потърсете отговори на въпросите, които имате в [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
+1. За често срещани проблеми с безпроблемната еднократна регистрация (SSO) прегледайте следните ръководства за отстраняване на проблема:
     - [Отстраняване на неизправности при добавяне на приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [Отстраняване на неизправности при еднократна идентификация на базата на парола в Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
-    - [Отстраняване на неизправности при еднократна идентификация на SAML в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
-    - [Отстраняване на грешки в SAML, базирано на еднократна идентификация, към приложения в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
-    - Видео: [най-добри практики за еднократна идентификация за Azure Active Directory и акаунти в Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
+    - [Отстраняване на неизправности с еднократната влизане, базирана на парола, в Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
+    - [Отстраняване на неизправности с еднократната влизане, базирана на SAML, Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Отстраняване на грешки въз основа на SAML еднократната регистрация в приложения в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
+    - Видео: [Най-добри практики за еднократна регистрация за Azure Active Directory акаунти в Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
     - [Намиране на отчети за дейността в портала на Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
