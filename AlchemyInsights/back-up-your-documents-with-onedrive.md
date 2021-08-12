@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bb7d1d0f1e5251c1943251d97991d9be18e9da5ae6c1a65ca7aa5eb32ba7dece
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820635"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917556"
 ---
 # <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Архивирайте вашите папки "Документи", "Картини" и "Работен плот" с OneDrive
 
-Можете да [архивирате вашите важни](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  папки (вашите папки "Работен плот", "Документи" и "Картини") на вашия компютър с Windows с архивно копие на папка на OneDrive PC, така че те да са защитени и налични на други устройства. Тази функция все още не е налична за Mac.  
+Можете да [архивирате вашите](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) важни папки (вашите папки "Настолни компютри", "Документи" и "Картини") на вашия компютър Windows с архивно копие на папка на OneDrive, така че те да са защитени и налични на други устройства. Тази функция все още не е налична за Mac.  
 
-Ако сте ИТ администратор, който иска да управлява архивира важни папки за организация, има указания за внедляване на "Преместване на [известни папки" в OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Ако сте ИТ администратор, който иска да управлява архивира важни папки за организация, има указания за OneDrive ["Преместване на известни папки".](https://docs.microsoft.com/onedrive/redirect-known-folders)

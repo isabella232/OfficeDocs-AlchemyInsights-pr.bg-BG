@@ -1,5 +1,5 @@
 ---
-title: Алхимията – Създайте отново своя профил в Outlook
+title: Алхимия – създайте отново своя Outlook профил
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933526"
 ---
-# <a name="create-an-outlook-profile"></a>Създаване на профил в Outlook
+# <a name="create-an-outlook-profile"></a>Създаване на Outlook профил
 
-За да създадете или пресъздадете своя профил на Outlook, можете да стартирате [инструмента за профили на Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) на засегнатата машина.
+За да създадете или да създадете отново своя Outlook, можете да [изпълните инструмента за Outlook профил](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) на засегнатия компютър.
 
-Инструментът ще извършва различни проверки и когато сте готови, ще създадете профил на Outlook с вашия имейл адрес.
+Инструментът ще извършва различни проверки и когато сте готови, ще създаде профил Outlook с вашия имейл адрес.
