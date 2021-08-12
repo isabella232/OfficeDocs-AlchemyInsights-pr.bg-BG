@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с еднократна идентификация (SSO), базирани на връзки
+title: Отстраняване на проблеми, свързани с безпроблемна еднократна еднократна регистрация (SSO) на базата на връзка
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50692573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972849"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Отстраняване на проблеми с еднократна идентификация (SSO), базирани на връзки
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Отстраняване на проблеми, свързани с безпроблемна еднократна еднократна регистрация (SSO) на базата на връзка
 
-Повечето потребители могат да разрешат проблема си, базиран на свързване с еднократна идентификация (SSO), с помощта на стъпките по-долу:
+Повечето потребители могат да разрешат своя проблем с еднократната еднократна регистрация (SSO), базирана на връзка, с помощта на стъпките по-долу:
 
-**Научете повече за свързания SSO**: [разбиране на свързаното влизане](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) – свързана опция ви позволява да конфигурирате целевото местоположение, когато потребителят избере приложението във вашата организация моите приложения или портала на Office 365. Тази статия се отнася за повече подробности за свързаните опции.
+**Научете повече за свързания SSO** [:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Разбиране на свързаното влизане – опцията Linked ви позволява да конфигурирате целевото местоположение, когато потребител избере приложението в портала "Моите приложения" или Office 365 вашата организация. Тази статия отива в по-подробна информация за свързаната опция.
 
-**Конфигуриране на СВЪРЗАНА SSO**: [Конфигуриране на връзката](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Конфигуриране на свързан SSO:** [Конфигуриране на връзка](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Получаване на помощ**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) -Submit искания за функции и технически въпроси за базирани на свързване еднократна идентификация (SSO) в Azure Active Directory & развитие.
+**Получаване на помощ**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – Подаване на заявки за функции и технически въпроси за базирани на връзка еднократна влизане (SSO) в Azure Active Directory & разработка.

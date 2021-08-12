@@ -1,5 +1,5 @@
 ---
-title: Project Web App липсва от колекция от сайтове на SharePoint
+title: Project Web App липсва от колекцията SharePoint сайтове
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973074"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App липсва от колекцията от сайтове на SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App липсва от колекцията SharePoint сайтове
 
-Project Web App може да липсва от колекцията от сайтове на SharePoint поради следните причини:
+Project Уеб приложението може да липсва от колекцията SharePoint сайтове поради следните причини:
 
-1. Организациите имат само лицензи (и) на Project online. Администраторите ще трябва да добавят лиценз за Project online Professional и/или Premium. В този момент сайтът ще излезе от "само за четене". За повече информация вижте [Сравняване на решения за управление на проекти](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Клиентът Възникна проблем с осигуряването, при който осигуряването на сайт на Project Web App е отложено. Ако са изминали повече от 24 часа и все още имате проблем, можете да регистрирате билет за поддръжка. Разбираме, че 24 часа може да изглеждат като много време. В много случаи вече работим върху решение. Моля, дайте ни най-малко 24 часа, за да завършите решение.
+1. Организациите имат само Project Online Essentials лиценз(и). Администраторите ще трябва да добавят Project Online Professional и/или Premium лиценз. Сайтът ще излезе само за четене в този момент. За повече информация вижте [Сравняване на Project решения за управление.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Клиентът се натъкна на проблем с осигуряването, при който осигуряването на Project уеб приложение е забавено. Ако са минали повече от 24 часа и все още имате проблем, влезте в билет за поддръжка. Разбираме, че 24 часа може да изглеждат като дълго време. В много случаи вече работим по решение. Дайте ни поне 24 часа, за да завършим решение.

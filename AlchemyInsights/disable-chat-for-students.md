@@ -1,5 +1,5 @@
 ---
-title: Забрана на чата за учениците
+title: Забраняване на чата за ученици
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa5e62d0419df20b1c2b09add0b16670767fb24f5b50fcc0f5246fa48299f07b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929114"
 ---
-# <a name="disable-chat-for-students"></a>Забрана на чата за учениците
+# <a name="disable-chat-for-students"></a>Забраняване на чата за ученици
 
-Препоръчваме администраторите на образователната организация да използват пакети с правила за безопасността на учащите и преподавателите. За допълнителна информация вж:
+Препоръчваме администраторите на образователни организации да обмислят използването на пакети с правила за безопасността на учениците и преподавателите. За допълнителна информация вж:
 
 - [Пакети с правила в Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
-- [Правилата, които трябва да бъдат възложени за безопасността на учениците](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
-- [Правилата, които трябва да бъдат възлагани за преподаватели](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
+- [Правила, които трябва да бъдат зададени за безопасността на учениците](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [Правила, които трябва да бъдат зададени за преподаватели](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
 
-За да забраните чата за ученик, вижте опциите за разрешаване на чат в събрания, както и позволяване на чат в 1:1 в [правилата и пакетите на политиката за образование](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+За да забраните чата за ученик, вижте опциите за разрешаване на чат в събрания, както и разрешаване на чат в 1:1 [в Teams правила и пакети с правила за образование](https://docs.microsoft.com/microsoftteams/policy-packages-edu).

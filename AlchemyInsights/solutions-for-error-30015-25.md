@@ -14,25 +14,25 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: cb5836189a011ce67941329cbdbcf8fc2a6c4734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7d0ede8f78d7c32e11241194c5df8c22bdac398ca095d65691d30b4e93f3f8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957269"
 ---
 # <a name="solutions-for-error-30015-25"></a>Решения за грешка 30015-25
 
-Изпробвайте тези решения, за да коригирате грешка [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Изпробвайте тези решения, за да [коригирате грешка 30015-25:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Рестартирайте компютъра си и опитайте да [инсталирате Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Рестартирайте компютъра и опитайте [да инсталирате Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Изтегляне и инсталиране на [Помощника за поддръжка и възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Когато се отвори, от **Деинсталиране на Office продукти** изберете версията, която искате да деинсталирате, и изберете **напред**.
+1. Когато се отвори, от **Деинсталиране Office продукти** изберете версията, която искате да деинсталирате, и изберете **Напред**.
 
 2. Продължете да преминавате през екраните и рестартирайте компютъра си, когато получите подкана.
 
-    След рестартиране помощникът за поддръжка и възстановяване автоматично се отваря, за да завърши процеса на деинсталиране.
+    След рестартирането, Помощник за поддръжка и възстановяване автоматично се отваря отново, за да завършите процеса на деинсталиране.
 
-3. Следвай останалите подкани и [преинсталирайте Office](https://portal.office.com/OLS/MySoftware.aspx) или затворете помощника.
+3. Следвайте оставащите подкани [и преинсталирайте Office](https://portal.office.com/OLS/MySoftware.aspx) или затворете помощника.
