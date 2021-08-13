@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с APN сертификат
+title: Отстраняване на проблеми със сертификата за APN мрежи
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2511"
 - "9000770"
-ms.openlocfilehash: f01a1e085ae39ca9cfefaa67134dc820abce6a59
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50caf07024345b99d2f8d5c2746fb8d90990b0302cf777030f1b2af109f4cf4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956027"
 ---
-# <a name="troubleshooting-issues-with-apns-certificate"></a>Отстраняване на проблеми с APN сертификат
+# <a name="troubleshooting-issues-with-apns-certificate"></a>Отстраняване на проблеми със сертификата за APN мрежи
 
-Ако имате проблеми с сертификата за насочени известия за Apple (APN), вижте [Настройване и сертификат APN: ЧЗВ и често срещани проблеми](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121).
+Ако имате проблеми със сертификата на услугата за push notification (APN) на Apple, вижте [Intune и сертификата за APN: ЧЗВ и често срещани проблеми.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121)
 
-За повече общи насоки как да подновите своя сертификат за Push известия за Apple вижте [получаване на сертификат за управление на Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+За по-общи указания как да подновите своя сертификат за push notification на Apple, вижте [Получаване на apple MDM push certificate](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
