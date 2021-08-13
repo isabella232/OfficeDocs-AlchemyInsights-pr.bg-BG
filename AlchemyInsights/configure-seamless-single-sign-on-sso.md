@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966026"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Конфигуриране на безпроблемна еднократна регистрация (SSO)
 
@@ -38,11 +38,11 @@ ms.locfileid: "51402256"
 
 **Конфигуриране на SSO, базиран на SAML**
 
-1. [Бързо започване: Настройване на базиран](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)на SAML еднократна регистрация (SSO) за приложение във вашия клиент на Azure Active Directory (Azure AD).
+1. [Бързо започване: Настройте базиран](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)на SAML еднократна регистрация (SSO) за приложение във вашия клиент на Azure Active Directory (Azure AD).
 2. За да научите повече за базираната на SAML опция за еднократна регистрация, вижте Разбиране на еднократната еднократна регистрация, базирана [на SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
-3. За да научите повече за заявките и отговорите за удостоверяване на SAML 2.0, които Azure Active Directory (Azure AD) поддържа за единичен Sign-On (SSO), вж. [Протокол Sign-On SAML](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
-4. За да научите как да създавате и конфигурирате базиран на SAML еднократна регистрация (SSO) за вашето приложение в Azure Active Directory (Azure AD) с помощта на API на Microsoft Graph, вж. Конфигуриране на еднократната еднократна регистрация, базирана на [SAML,](https://docs.microsoft.com/graph/application-saml-sso-configure-api)за вашето приложение с помощта на API на Microsoft Graph .
-5. За да научите как Azure AD използва SAML протокола, вижте [Как платформата за самоличност на Microsoft използва SAML протокола](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+3. За да научите повече за заявките и отговорите за удостоверяване на SAML 2.0, които Azure Active Directory (Azure AD) поддържа за единичен Sign-On (SSO), [вж. Единичен Sign-On SAML протокол](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
+4. За да научите как да създавате и конфигурирате базиран на SAML еднократна еднократна регистрация (SSO) за вашето приложение в Azure Active Directory (Azure AD) с помощта на API на Microsoft Graph, вижте Конфигуриране на еднократната еднократна регистрация, базирана на [SAML,](https://docs.microsoft.com/graph/application-saml-sso-configure-api)за вашето приложение с помощта на API на Microsoft Graph .
+5. За да научите как Azure AD използва SAML протокола, вижте [Как Платформа за самоличност на Microsoft използва SAML протокола](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
 
 **Конфигуриране на маркери и искове**
 
@@ -50,10 +50,10 @@ ms.locfileid: "51402256"
 2. За да научите как да конфигурирате искове с помощта на PowerShell, вижте Как да: Персонализиране на искове, излъчвани в маркери за конкретно приложение [в клиент (предварителен преглед).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
 3. За да научите как да конфигурирате незадължителни искове, [вижте Как да: Предоставяне на незадължителни искове към вашето приложение.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 4. За да научите как да използвате атрибути за разширение на схема на справочна директория за изпращане на потребителски данни към приложения в искове с маркери, вижте Използване на атрибути за разширение [на схема на справочна директория в искове](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. За да научите как да конфигурирате животи на маркерите, вижте Конфигуриране на животи за маркери [в платформата за самоличност на Microsoft (предварителен преглед).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+5. За да научите как да конфигурирате животи на маркерите, вижте Конфигуриране на животи на [маркерите в Платформа за самоличност на Microsoft (предварителен преглед).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 6. [Конфигуриране на правила за живот на маркера (предварителен преглед)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – В тази статия ще преминем през общ сценарий на правила, който може да ви помогне да наложите нови правила за живот на маркера. В примера ще научите как да създадете правило, което изисква потребителите да удостоверяват по-често във вашето уеб приложение.
 
 **Отстраняване на неизправности при SSO конфигурация**
 
-- За често задавани въпроси за Azure Active Directory – безпроблемна еднократна Sign-On (безпроблемна SSO), вижте Azure Active Directory Безпроблемна еднократна [регистрация: Често задавани въпроси.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
-- За отстраняване на неизправности с информация за често срещани проблеми по отношение на Azure Active Directory (Azure AD) – безпроблемна еднократна Sign-On (безпроблемна SSO), вижте Отстраняване на неизправности [с Azure Active Directory безшевни еднократна регистрация](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- За често задавани въпроси за Azure Active Directory безпроблемна еднократна Sign-On (безпроблемна SSO) вижте Azure Active Directory Безпроблемно еднократната [регистрация: Често задавани въпроси.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- За отстраняване на неизправности с информация за често срещани проблеми по отношение на Azure Active Directory (Azure AD) – безпроблемна еднократна Sign-On (безпроблемна SSO), вижте [Отстраняване на неизправности Azure Active Directory безпроблемна](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)еднократна регистрация .

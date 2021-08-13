@@ -1,5 +1,5 @@
 ---
-title: Как да настройте излъчването на събрание на Skype
+title: Как да настройте Събрание на Skype излъчване
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927062"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Не можете да стартирате или да се присъедините към излъчване на събрание на Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Не можете да стартирате или да се присъедините към Събрание на Skype Излъчване?
 
-Ако имате проблеми с стартирането или присъединяването към излъчване на събрание на Skype като член на екипа на събитието (продуцент на събрание), проверете двукратно конфигурацията си. Излъчването на събрание на Skype изисква някои стъпки за ръчна настройка. Следвайте стъпките в тази статия, за да се уверите, че вашата мрежа и порталът на Skype за бизнеса онлайн са конфигурирани правилно и че засегнатият потребител не е блокиран от конфликтен лиценз:
+Ако имате проблеми със стартирането или присъединяването към Събрание на Skype Излъчване като член на екипа на събитието (продуцент на събрание), проверете двукратно конфигурацията си. Събрание на Skype Излъчването изисква някои стъпки за ръчна настройка. Следвайте стъпките в тази статия, за да се уверите, че вашата мрежа и Skype за бизнеса онлайн портал са конфигурирани правилно и че засегнатият потребител не е блокиран от конфликтен лиценз:
 
-[Настройване на вашата мрежа за излъчване на събрание на Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Настройване на вашата мрежа за Събрание на Skype излъчване](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

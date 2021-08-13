@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992721"
 ---
 # <a name="start-using-microsoft-edge"></a>Започнете да използвате Microsoft Edge
 
-Microsoft издаде новия Microsoft Edge, който е следващото поколение на своя уеб браузър. Той е изграден върху основата с отворен код на Chromium и е оптимизиран за работа с продукти на Microsoft, като Например SharePoint и OneDrive.
+Microsoft издаде новия Microsoft Edge, който е следващото поколение на своя уеб браузър. Той е изграден върху Chromium с отворен код и е оптимизиран за работа с продукти на Microsoft, като например SharePoint и OneDrive.
 
 Ако имате проблеми с Google Chrome, Mozilla Firefox или Safari, ви препоръчваме да използвате Microsoft Edge.
 
-Ако сте администратор на голяма организация, използвайте нашето ръководство за настройка [на Microsoft Edge,](https://go.microsoft.com/fwlink/?linkid=2142423) за да започнете.
+Ако сте администратор на голяма организация, използвайте нашето ръководство Microsoft Edge [настройка, за](https://go.microsoft.com/fwlink/?linkid=2142423) да започнете.
 
-За да изтеглите Microsoft Edge на едно устройство едновременно, отидете на [Въвеждане на новия Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
+За да Microsoft Edge на едно устройство едновременно, отидете на [Запознаване с новия Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
