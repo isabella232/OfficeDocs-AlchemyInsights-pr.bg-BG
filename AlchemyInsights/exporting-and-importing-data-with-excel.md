@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978006"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Експортиране и импортиране на данни с Excel
 
-За помощ при експортирането на данни от Excel или импортирането на данни в Excel прегледайте една или повече от следните статии:
+За помощ при експортиране на данни от Excel или импортиране на данни в Excel прегледайте една или повече от следните статии:
 
 - [Експортиране в Excel от SharePoint](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
 
-- [Създаване на списък въз основа на електронна таблица в SharePoint](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
+- [Създаване на списък на базата на електронна таблица в SharePoint](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
 
 - [Експортиране на данни от Access](https://support.office.com/client/64E974E6-AE43-4301-A53E-20463655B1A9)
 
-- [Импортиране или експортиране на текстови файлове (.txt или .csv)](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)
+- [Импортиране или експортиране на текстови (.txt или .csv) файлове](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)

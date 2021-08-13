@@ -1,5 +1,5 @@
 ---
-title: Управление на потребители на Yammer
+title: Управление на Yammer потребители
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992901"
 ---
-# <a name="managing-yammer-users"></a>Управление на потребители на Yammer
+# <a name="managing-yammer-users"></a>Управление на Yammer потребители
 
-1. За информация за управлението на потребители на Yammer от Microsoft 365 вижте [управление на потребителите на yammer през целия им жизнен цикъл](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Това включва подробни данни относно:
+1. За информация относно управлението Yammer потребители от Microsoft 365, вижте [Управление на Yammer потребители през целия им жизнен цикъл.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Това включва подробности за:
 
   - Създаване на потребител
 
   - Изтриване на потребители
 
-  - Управление на потребители на Yammer от Microsoft 365
+  - Управление Yammer потребители от Microsoft 365
 
-2. Вижте [Добавяне, блокиране или премахване на потребители на yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) за информация за управлението на потребители от конзолата за администриране на Yammer. Това включва:
+2. Вижте [Добавяне, блокиране или премахване на Yammer за](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) информация относно управлението на потребители от конзолата Yammer администратор. Това включва:
 
   - Поканване или премахване на потребители
 
-  - Поканване на гости потребители
+  - Поканване на гости
 
-  - Експортиране на списъка с потребители
+  - Експортиране на потребителския списък
 
-3. За информация как да добавите, премахнете и управлявате външни потребители, вижте [Добавяне на външни съобщения към вашата мрежа на Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. За информация относно добавянето, премахването и управлението на външни потребители вижте Добавяне на [външни участници в съобщения към вашата Yammer мрежа.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

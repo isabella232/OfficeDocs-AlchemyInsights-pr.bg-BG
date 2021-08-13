@@ -1,5 +1,5 @@
 ---
-title: Проблеми в портала на моите приложения
+title: Проблеми с портала "MyApps"
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986070"
 ---
-# <a name="myapps-portal-issues"></a>Проблеми в портала на моите приложения
+# <a name="myapps-portal-issues"></a>Проблеми с портала "MyApps"
 
-За отстраняване на проблеми, които имате при влизане в или с помощта на портала "моите приложения", вижте [отстраняване на проблеми с портала "моите приложения](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)".
+За отстраняване на проблеми, които имате при влизане или използване на портала "Моите приложения", вижте Отстраняване на [проблеми с портала "Моите приложения".](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Не виждам приложенията, които очаквам в панела за достъп до приложения**
+**Не виждам приложенията, които очаквам в панела за достъп до приложението**
 
-За насоки за намиране защо приложенията, които очаквате, не се показват в панела за достъп до приложението вижте:
+За указания защо приложенията, които очаквате, не се показват в панела за достъп до приложението, вижте:
 
-- [Не знам защо приложение, което възлагам, не се показва в панела на Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+- [Не знам защо приложението, което назначих, не се показва в панела за достъп](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Не знам защо се показва приложение в панела на Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+- [Не знам защо в панела за достъп се показва приложение](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Имам проблеми с влизането в панела за достъп до приложения**
+**Имам проблеми с влизането в панела за достъп до приложението**
 
 За отстраняване на проблеми при влизане в панела за достъп до приложението вижте:
 
-[Не мога да вляза в уеб сайта на панела на Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Не мога да влизам в уеб сайта на панела за достъп](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Имам проблеми с използването на разширението на браузъра на панела за достъп**
+**Имам проблеми с използването на разширението на браузъра на панела за достъп до приложението**
 
-За отстраняване на проблеми, свързани с използването на разширението на браузъра на панела за приложения, вижте:
+За да отстраните проблеми с използването на разширението на браузъра на панела за достъп до приложението, вижте:
 
-[Видях съобщение за грешка, когато Инсталирах разширението на браузъра на панела за достъп](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Видях грешка при инсталиране на разширението на браузъра на панела за достъп до приложението](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Имам проблеми с функция в панела за достъп до приложения**
+**Имам проблеми с функция в панела за достъп до приложението**
 
-За да отстраните проблеми, свързани с определена функция в панела за достъп до приложения, вижте:
+За отстраняване на проблеми, свързани с определена функция в панела за достъп до приложението, вижте:
 
-- [Не знам как да използвам самостоятелно приложение на Access](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Не знам как да използвам достъп до самостоятелно приложение](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Възникна проблем при използването на самостоятелно приложение на Access](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Възникна проблем при използване на достъп до самостоятелно приложение](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Ако имате проблеми с разполагането или използването на портала ' ' моите приложения ' '**
+**Ако имате проблеми с разполагането или използването на портала "Моите приложения"**
 
-За отстраняване на проблеми, които имате при разполагане или използване на портала на моите приложения, вижте:
+За отстраняване на проблеми, които срещате при разполагане или използване на портала MyApps, вижте:
 
-- [Създаване на колекции в портала "моите приложения"](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Създаване на колекции в портала "Моите приложения"](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Конфигуриране на назначение на самостоятелно приложение](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Конфигуриране на самостоятелно възлагане на приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Отстраняване на проблеми с крайните потребители в портала "моите приложения"](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Отстраняване на проблеми с крайния потребител в портала "Моите приложения"](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

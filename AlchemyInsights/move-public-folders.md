@@ -1,5 +1,5 @@
 ---
-title: Местене на публични папки между пощенски кутии на публични папки
+title: Преместване на публични папки между пощенски кутии на публични папки
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986214"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Местене на публични папки между пощенски кутии на публични папки
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Преместване на публични папки между пощенски кутии на публични папки
 
-Публичните папки в Exchange Online могат да бъдат преместени между пощенските кутии за публични папки с помощта на настолната версия на Outlook за Windows.
+Публичните папки в Exchange онлайн могат да бъдат премествани между пощенски кутии на публични папки с помощта на Outlook за настолен клиент на Windows.
 
-Ако се опитвате да местите публични папки от локален Exchange в Exchange Online, вижте следните статии:
+Ако се опитвате да преместите публични папки от Exchange локално към Exchange онлайн, вижте следните статии:
 
-[Мигриране на Exchange Server 2013, 2016 и 2019 публични папки за Exchange Online](https://aka.ms/ModernPFToEXO)
+[Мигриране Exchange Server 2013 2016 2019 публични папки към Exchange онлайн](https://aka.ms/ModernPFToEXO)
 
-[Мигриране на публични папки на Exchange Server 2010 за Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Мигриране на Exchange Server 2010 публични папки към Exchange Online](https://aka.ms/LegacyPFToEXO)
