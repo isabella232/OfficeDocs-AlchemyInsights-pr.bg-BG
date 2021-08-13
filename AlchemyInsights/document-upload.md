@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38a55a38e0a69334a60e8f1c84402e75eb5796035501d39c1f217fe194dae432
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965270"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Качване на файлове в OneDrive или SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload файлове в OneDrive или SharePoint
 
-1. Във вашия уеб браузър отидете на мястото, където искате да качите файловете.
+1. В уеб браузъра отидете на местоположението, където искате да качите файлове.
     
-2. Отворете файловия мениджър и отидете до файловете, които искате да качите.
+2. Отворете Файловия мениджър и отидете до файловете, които искате да качите.
     
-3. Изберете файловете и ги плъзнете до мястото в OneDrive или SharePoint. Забележка: Ако използвате Microsoft Edge, Mozilla FireFox или Google Chrome, можете също да качвате папка и всички файлове в нея.
+3. Изберете файловете и ги плъзнете до местоположението в OneDrive или SharePoint. Забележка: Ако използвате Microsoft Edge Mozilla FireFox или Google Chrome, можете също да качите папка и всички файлове в нея.
     
-**Бележки**
+**Бележки:**
 
 - Можете да качвате файлове с размер до 15 ГБ. 
-- Пълният път за файл (включително името на файла) не може да бъде по-дълъг от 400 знака. 
-- Ако трябва да качите повече от файловете на 100, [Използвайте клиента за синхронизиране на OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Пълният път за файл (включително името на файла) не може да бъде с дължина повече от 400 знака. 
+- Ако трябва да качите повече от 100 файла, [използвайте OneDrive Sync клиента](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
