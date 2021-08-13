@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a165a0fc5fb7baa7b02f3093f784ca17de2fc0d59332d2e70fb0f507bfeb221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980314"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Използване на изрезка & скициране за заснемане, маркиране и споделяне на изображения
 
 Скициране на екрана сега **се нарича изрезка & Скициране.** **За бързо изрязване:**
 
-1. Натиснете клавиша **с емблемата на Windows + Shift + S**. Ще видите, че екранът ви потъмнява и курсорът се показва като кръстче. 
+1. Натиснете **клавиша Windows с емблемата + Shift + S**. Ще видите, че екранът ви потъмнява и курсорът се показва като кръстче. 
 
 2. Изберете точка в края на областта, която искате да копирате, и щракнете с левия бутон върху курсора. 
 
