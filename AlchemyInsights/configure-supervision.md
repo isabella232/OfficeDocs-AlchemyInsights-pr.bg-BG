@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915432"
 ---
-# <a name="configure-supervision-policies"></a>Конфигуриране на правила за наблюдение
+# <a name="configure-supervision-policies"></a>Конфигуриране на правилата за надзор
 
-Правилата за контрол в Microsoft 365 ви позволяват да следите имейлите на Exchange, Skype за бизнеса онлайн, Microsoft Teams и съобщенията на трети страни, изпратени във и извън организацията ви. Определените проверяващи могат да преглеждат наблюдаваните съобщения, за да гарантират, че те са съвместими с правилата на вашата организация, управлението на рисковете и нормативните изисквания за съответствие и разрешават тяхното разрешаване с тип класификация.
+Правилата за надзор в Microsoft 365 ви позволяват да следите Exchange имейл, Skype за бизнеса онлайн, Microsoft Teams и комуникации на трети страни, изпратени във и извън вашата организация. Определените проверяващи могат да преглеждат наблюдаваните съобщения, за да се уверят, че съответстват на правилата, управлението на риска и стандартите за съответствие на вашата организация и да ги отстраняват с тип класификация.
 
-За да използвате правилата за контрол във вашата организация, трябва да:
+За да използвате правилата за надзор във вашата организация, трябва да:
 
-- Определяне на комуникациите за следене.
-- Решете кой ще извършва преглед на комуникациите.
-- Правила за контрол на настройката
+- Определете комуникациите, които да се следят.
+- Решете кой ще извърши преглед на комуникациите.
+- Правила за надзор на настройката
 
 Научете повече:
 
-- [Общ преглед на правилата за наблюдение](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Конфигуриране на правила за наблюдение](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Общ преглед на правилата за надзор](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Конфигуриране на правилата за надзор](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
