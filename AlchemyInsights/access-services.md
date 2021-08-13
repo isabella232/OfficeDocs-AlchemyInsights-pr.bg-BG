@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938648"
 ---
 # <a name="access-services"></a>Access Services
 
-Функцията за услуги на Access в SharePoint Online е в процес на оттегляне. Нови уеб приложения и уеб бази данни на Access, които вече не могат да бъдат създавани, и съществуващите уеб приложения и уеб бази данни ще бъдат закрити до април, 2018. Настолните бази данни на Access (. accdb) не са засегнати от тази промяна. Препоръчваме Microsoft PowerApps като алтернатива на уеб приложения и уеб бази данни на Access. 
+Функцията Access Services в SharePoint онлайн се оттегля. Вече не могат да се създават нови уеб приложения и уеб бази данни, базирани на Access, а съществуващите уеб приложения и уеб бази данни ще бъдат затворени до април 2018 г. Настолните бази данни на Access (.accdb) не се влияят от тази промяна. Препоръчваме Microsoft PowerApps като алтернатива на уеб приложенията и уеб базите данни на Access. 
   
 [Научете повече за Microsoft PowerApps](https://powerapps.microsoft.com/)
   

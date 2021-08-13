@@ -1,5 +1,5 @@
 ---
-title: Отзиви на Access
+title: Достъп до рецензиите
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938612"
 ---
-# <a name="access-reviews"></a>Отзиви на Access
+# <a name="access-reviews"></a>Достъп до рецензиите
 
-1. **Разрешаване на рецензии за достъп**: можете да разрешите коментарите, когато създавате нов пакет на Access или редактирате съществуващ пакет на Access. [Създаване на преглеждане на достъпа на пакет на Access в AZURE ad](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) Rights Management описва как да разрешите достъп до коментарите на пакети на Access.
+1. **Разрешаване на рецензии на Access:** Можете да разрешите рецензии, когато създавате нов пакет за достъп или редактирате съществуващ пакет за достъп. [Създаване на преглед на достъпа на пакет за достъп в управлението](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) на правата на Azure AD описва как да разрешите прегледите на достъпа до пакетите за достъп.
 
-1. **Преглед на Access**: Azure ad Rights Management опростява как предприятията управляват достъпа до групи, приложения и сайтове на SharePoint. [Преглед на достъпа до пакет за достъп в AZURE ad](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) Rights Management описва как да извършвате преглед на Access за други потребители, на които е присвоен пакет на Access като определен проверяващ.
+1. **Преглед на Access:** Управлението на правата на Azure AD опростява начина, по който предприятията управляват достъпа до групи, приложения и SharePoint сайтове. [Прегледът на достъпа до пакет за достъп в управлението](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) на правата на Azure AD описва как да извършвате прегледи на достъпа за други потребители, които са присвоени на пакет за достъп като определен проверяващ.
 
-1. **Преглед на достъпа за вас**: [самостоятелно преразглеждане на пакет за достъп в Azure ad](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) Rights Management описва как даден потребител извършва самостоятелно преразглеждане на присвоените от тях пакети на Access.
+1. **Прегледайте Access за себе си:** Самооценка на пакет за достъп в [управлението](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) на правата на Azure AD описва как потребителят извършва самооценка на възложените им пакети за достъп.
 
-1. В повечето случаи крайните потребители ще намират рецензия в очакване на отговора си в **панела на Access**. Това е приложимо само за прегледи на групи и приложения, а не за роли. За всички отзиви за достъп до ролите крайните потребители трябва да навигират в Azure AD поверително управление на самоличността (PIM), за да завършат прегледа си.
+1. В повечето случаи крайните потребители ще намерят преглед до отговора си в **панела на Access**. Това е приложимо само за рецензии на групи и приложения, а не за роли. За всички прегледи на ролите на Access крайните потребители трябва да навигират до Azure AD Privileged Identity Management (PIM), за да завършат своя преглед.
 
     1. Влезте в портала на Azure.
-    2. Придвижете се до Azure AD PIM.
-    3. В левия навигационния екран изберете **задачи**  >  **Преглед на Access**.
+    2. Отидете на Azure AD PIM.
+    3. В левия навигационен екран изберете Достъп за **преглед**  >  **на задачи**.
     
 За повече информация вижте:
 
-- [Извършете преглед на Access на моите Azure AD Directory роли в PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Извършете преглед на достъпа до моите ресурси на Azure в PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Извършване на преглед на достъпа на моите роли на указател на Azure AD в PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Извършване на преглед на достъпа на моите роли на ресурси на Azure в PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
