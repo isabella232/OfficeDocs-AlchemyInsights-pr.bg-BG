@@ -1,5 +1,5 @@
 ---
-title: Свързване на сайт на SharePoint към група
+title: Свързване сайт SharePoint сайт към група
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915396"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Свързване на сайт на SharePoint към група
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Свързване сайт SharePoint сайт към група
 
-Използвайте съветника за групова връзка, за да свържете сайт на SharePoint към група на Microsoft 365.
+Използвайте съветника за групова връзка, за да свържете SharePoint сайт към Microsoft 365 група.
 
-1. От сайта, който искате да се свържете с група, изберете Настройки  **(икона на зъбно колело)**.
-2. Изберете  **Свързване към нова група на Microsoft 365**.
+1. От сайта, който искате да се свържете с група, изберете Настройки **(икона на зъбно колело)**.
+2. Изберете **Свързване към нова Microsoft 365 група**.
 3. Следвайте съветника, за да завършите връзката.
 
-**Забележка:**  Ако "Свързване към нова група на Microsoft 365" не е налична, сайтът няма да поддържа връзка към група.
+**Забележка:**  Ако Свързване нова група Microsoft 365 не е налична, сайтът няма да поддържа връзка към група.
 
-За повече информация вижте  [Свързване към група на Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+За повече информация [вж. Свързване към Office 365 група](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

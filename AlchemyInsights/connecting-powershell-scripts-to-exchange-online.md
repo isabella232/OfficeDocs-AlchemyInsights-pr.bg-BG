@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6069"
 - "3500011"
-ms.openlocfilehash: 3a8383a57bc1267311daf03c78841070cca8fb8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ac6aa835123cb7557016edbc0ab9ef98763f64b36dbd29c744318e67416d5a92
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915360"
 ---
 # <a name="connecting-powershell-scripts-to-exchange-online"></a>Свързване на скриптове на PowerShell с Exchange Online
 
-Базовото удостоверяване в Exchange Online ще бъде отхвърлено и пътят напред е да се свържете, като използвате удостоверяване, базирано на сертификат за скриптове и неприсъствени задачи. За да научите повече, вижте [удостоверяване само за приложения за неприсъствени скриптове в модула за ЕКСО v2](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).
+Базовото удостоверяване в Exchange Online ще бъде прекратено, а пътят напред е да се свържете с помощта на удостоверяване, базирано на сертификат, за скриптове и ненаблюдаеми задачи. За да научите повече, вижте Удостоверяване само за [приложения за ненаблюдаеми скриптове в модула EXO V2](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).

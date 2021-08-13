@@ -1,5 +1,5 @@
 ---
-title: 2419 – неспособен за разрешаване – проверка
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007779"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Не можете да разрешите единни проверки
+# <a name="unable-to-enable-unified-auditing"></a>Не може да се разреши единно проверяване
 
-Когато се опитате да разрешите единно проверяване за вашата организация, е възможно да получите съобщение за грешка, подобно на следното:
+Когато се опитате да разрешите единно проверяване за вашата организация, може да получите грешка, подобна на следната:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-За да отстраните този проблем, изпълнете следните стъпки:
+За да разрешите този проблем, изпълнете следните стъпки:
 
-1. [Свързване към PowerShell на Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Свързване към Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Изпълнете следната кратка команда:
 
@@ -37,9 +37,9 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
    Enable-OrganizationCustomization
    ```
 
-3. Изчакайте 60 минути, за да влезе в сила предишната настройка.
+3. Изчакайте 60 минути, за да в сила предишната настройка.
 
-4. Изпълнете следната команда в PowerShell на Exchange Online:
+4. Изпълнете следната команда в Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -47,6 +47,6 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 За допълнителна информация вижте следните статии:
 
-- [Свързване с PowerShell на Exchange Online чрез многофакторно удостоверяване](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Свързване да Exchange Online PowerShell с помощта на многофакторно удостоверяване](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Включване или изключване на търсене в регистрационния файл за проверка](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [Включване или изключване на търсенето в регистрационен файл за проверка](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
