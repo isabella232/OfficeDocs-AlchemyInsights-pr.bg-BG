@@ -1,5 +1,5 @@
 ---
-title: Регистрация на приложения
+title: Регистриране на заявка
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969600"
 ---
-# <a name="application-registration"></a>Регистрация на приложения
+# <a name="application-registration"></a>Регистриране на заявка
 
-1. [Регистриране на приложение с Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): този урок описва как да регистрирате приложение с Azure Active Directory, което позволява на потребител с потребителски акаунт за Power Apps да се свърже с тяхната среда на Microsoft Dataverse от външни клиентски приложения чрез удостоверяване на OAuth.
-1. [Регистриране на приложение с платформата за самоличност на Microsoft](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): в този бърз старт можете да регистрирате приложение в портала на Azure, така че платформата за самоличност на Microsoft да може да предоставя услуги за удостоверяване и оторизиране за вашето приложение и за потребителите.
+1. [Регистриране на приложение с Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): Този урок описва как да регистрирате приложение с Azure Active Directory, което позволява на потребител с потребителски акаунт в Power Apps да се свързва към своята среда на Microsoft Dataverse от външни клиентски приложения с помощта на удостоверяване на OAuth.
+1. [Регистриране на приложение с Платформа за самоличност на Microsoft](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): В това бързо пускане можете да регистрирате приложение в портала на Azure, така че Платформа за самоличност на Microsoft да предоставя услуги за удостоверяване и удостоверяване за вашето приложение и неговите потребители.

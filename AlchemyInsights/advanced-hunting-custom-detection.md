@@ -1,5 +1,5 @@
 ---
-title: 9001220 advanced hunting custom detections
+title: 9001220 усъвършенствани откривания по избор за лов
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952274"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Advanced Hunting Custom detections
 
@@ -30,6 +30,6 @@ ms.locfileid: "52542990"
 - [Създаване на правила за откриване по избор](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Преглед и управление на правила за откриване по избор](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ако използвате Microsoft 365 defender, вижте следните теми за подробности: 
+Ако използвате Microsoft 365 Defender, вижте следните теми за подробности: 
 - [Общ преглед на откриването по избор](/microsoft-365/security/mtp/custom-detections-overview)
 - [Създаване и управление на правила за откриване по избор](/microsoft-365/security/mtp/custom-detection-rules)
