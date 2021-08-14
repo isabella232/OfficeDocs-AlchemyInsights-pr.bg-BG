@@ -1,5 +1,5 @@
 ---
-title: Справяне с фишинг в Outlook.com
+title: Работа с фишинг в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095891"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Как да се справяте с фишинг имейл
+# <a name="how-to-deal-with-a-phishing-email"></a>Как да се справите с фишинг имейл
 
-Фишинг измамата е имейл, който изглежда легитимен, но всъщност е опит да открадне вашата лична информация или пари. Измамниците могат също да използват техники, наречени измамнически, за да се появяват като че ли сте получили имейл от себе си.
+Фишинг измамата е имейл, който изглежда легитимен, но всъщност е опит да откраднете личните си данни или пари. Измамниците могат също да използват техника, наречена подпухване, за да изглеждат така, сякаш сте получили имейл от себе си.
 
-Ако получите имейл, който изглежда като фишинг измама, можете да съобщите за това, като изберете съобщението и след това изберете **нежелана поща**  >  **Phishing**.
+Ако получите имейл, който изглежда като фишинг измама, можете да съобщите за това, като изберете съобщението и след това изберете  >  **Нежелана фишинг**.
 
-*Забележка:* Когато маркирате дадено съобщение като фишинг, той съобщава само на подателя.Той не блокира този подател да ви изпраща съобщения в бъдеще. За да блокирате подателя, трябва да добавите подателя към списъка с блокирани податели. За повече информация вижте [блокиране на податели или разблокиране на податели в Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Забележка:* Когато маркирате съобщение като фишинг, то съобщава само подателя. Той не блокира изпращането на съобщения от този подател в бъдеще. За да блокирате подателя, трябва да добавите подателя към списъка с блокирани податели. За повече информация вижте [Блокиране на податели или разблокиране на податели в Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Научете как да се [справяте със злоупотреби, фишинг или измамнически в Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) и [Advanced Outlook.com Security за абонати на Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Научете как да се справите със злоупотребата, фишинга или измамниците [в Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) и [разширената защита на Outlook.com за Microsoft 365 абонати](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

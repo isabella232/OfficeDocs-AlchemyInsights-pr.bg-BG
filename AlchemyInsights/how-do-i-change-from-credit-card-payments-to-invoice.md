@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 2abdc805bf176eeac30e97b9cccf3cf9947b779abdae3c4566d354854a78b040
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501085"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868667"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Как да променя от плащания с кредитна карта към фактура?
 
@@ -34,4 +34,4 @@ ms.locfileid: "54501085"
 6. Въведете името, адреса и телефонния си номер. Можете също да добавите po номер, който да се показва във фактурата.
 7. Когато сте готови, изберете **Запиши**.
 
-За да научите повече, вижте [Как да платите за абонамента си.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+За да научите повече, вижте [Как да платите за абонамента си.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

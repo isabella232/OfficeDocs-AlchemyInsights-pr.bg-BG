@@ -1,5 +1,5 @@
 ---
-title: Синхронизиране на свойства на профил
+title: Синхронизиране на свойство на профил
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: 55d2b25747fe0f6239c1bf9feb4ca79ada49c54a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c22e08676272b3db7da0d7bfab64e6f5bfc979303b2a8e74958cd24c7007443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009777"
 ---
-# <a name="profile-property-synchronization"></a>Синхронизиране на свойства на профил
+# <a name="profile-property-synchronization"></a>Синхронизиране на свойство на профил
 
-Не е възможно да нанасяте допълнителни свойства за импортиране на реклами, за да синхронизирате от Azure Active Directory към приложението за потребителски профили. Импортирането на реклами се ограничава до предварително конфигуриран набор от свойства, за да се гарантира съгласуване на работата с таймера.
+Не е възможно да нанесете допълнителни свойства за импортиране на AD, за да се синхронизира от Azure Active Directory към приложението за потребителски профил. Импортирането на AD е ограничено до предварително конфигуриран набор от свойства, за да се гарантира съгласувана производителност на заданието на таймера.
   
-[Научете повече за свойствата на профилите, които се синхронизират](https://go.microsoft.com/fwlink/?linkid=875671)
+[Научете повече за свойствата на профила, които се синхронизират](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
