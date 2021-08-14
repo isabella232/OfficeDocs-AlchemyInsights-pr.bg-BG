@@ -1,5 +1,5 @@
 ---
-title: Порт на разширенията на Google Chrome към Microsoft Edge (Chromium)
+title: Порт на разширенията на Google Chrome Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973686"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Порт на разширенията на Google Chrome към Microsoft Edge (Chromium)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Порт на разширенията на Google Chrome Microsoft Edge (Chromium)
 
-Лесно е да се [пристоят разширенията на Google Chrome към Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) В повечето случаи са необходими само минимални промени, за да изпълните тези разширения в Microsoft Edge.
+Лесно е да [приканите разширенията на Google Chrome към Microsoft Edge (Chromium)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension). В повечето случаи са необходими само минимални промени, за да изпълните тези разширения Microsoft Edge.
 
-Api-тата за разширение и манифестните ключове, поддържани от Google Chrome, са съвместими с Microsoft Edge. Microsoft Edge обаче не поддържа API на разширението chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken и chrome.instanceID.
+Api-тата за разширение и манифестните ключове, поддържани от Google Chrome, са съвместими с Microsoft Edge. Обаче Microsoft Edge поддържа API на разширението chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken и chrome.instanceID.
