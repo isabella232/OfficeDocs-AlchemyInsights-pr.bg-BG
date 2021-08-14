@@ -1,5 +1,5 @@
 ---
-title: Съобщение за приложения на Microsoft 365 – за съжаление, друг акаунт от вашата организация вече е влезли
+title: Microsoft 365 приложения – за съжаление, друг акаунт от вашата организация вече е влезли
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974334"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Съобщение за приложения на Microsoft 365 – за съжаление, друг акаунт от вашата организация вече е влезли
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 приложения – за съжаление, друг акаунт от вашата организация вече е влезли
 
 За да коригирате грешката, използвайте стъпките по-долу:
 
@@ -33,7 +33,7 @@ ms.locfileid: "51836232"
 
 - Стартирайте приложението на Office и, ако е необходимо, влезте отново. 
 
-**Съвет** На компютри с Windows можем да диагностицираме и автоматично да коригираме няколко често срещани проблема с влизането в Office. Изтеглете и стартирайте  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашия автоматизиран инструмент.
+**Съвет** На Windows компютри можем да диагностицираме и автоматично да коригираме няколко често срещани Office за влизане. Изтеглете и стартирайте **[microsoft Помощник за поддръжка и възстановяване,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашия автоматизиран инструмент.
 
 Ако проблемът не е отстранен, опитайте следната стъпка: 
 

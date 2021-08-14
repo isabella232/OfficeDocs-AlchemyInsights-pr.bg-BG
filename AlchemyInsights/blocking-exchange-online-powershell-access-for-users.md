@@ -1,5 +1,5 @@
 ---
-title: 763 блокиране на достъпа на PowerShell на Exchange Online за потребители
+title: 763 Блокиране Exchange Online достъп на PowerShell за потребители
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931402"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Блокиране на достъпа на PowerShell на Exchange Online за потребители
-Като администратор, имате възможност да блокирате достъпа до PowerShell на Exchange Online за вашите потребители. За повече информация вижте следните теми:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Блокиране Exchange Online на PowerShell за потребители
+Като администратор имате възможност да блокирате достъпа до Exchange Online PowerShell за вашите потребители. За повече информация вижте следните теми:
 
-- [Разрешаване или забраняване на достъп до PowerShell на Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Разрешаване или забраняване на достъпа до Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Правилата за клиентски достъп в Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (потърсете протокола **RemotePowerShell** ) 
+- [Правила за клиентски достъп в Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (потърсете протокола **RemotePowerShell)** 
 
-**Забележка**: като описаната в темата, внимавайте да не блокирате достъпа до PowerShell за администратори на Exchange Online.
+**Забележка:** Както е описано в темата, внимавайте да не блокирате достъпа до Exchange Online PowerShell за администратори.

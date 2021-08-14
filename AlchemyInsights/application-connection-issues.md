@@ -1,5 +1,5 @@
 ---
-title: Проблеми при свързването на приложения
+title: Проблеми с връзката с приложението
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931512"
 ---
-# <a name="application-connection-issues"></a>Проблеми при свързването на приложения
+# <a name="application-connection-issues"></a>Проблеми с връзката с приложението
 
-[Уроци за интегриране на приложения с Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) – за да ви помогнем да интегрирате вашите приложения с Azure Active Directory, ние разработихме колекция от уроци, които ви превеждат през конфигурацията.
+[Уроци за интегриране на](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) приложения с Azure Active Directory – За да ви помогнем да интегрирате приложенията си с Azure Active Directory, разработихме колекция от уроци, които ще ви помогнат да направите конфигурацията.
 
-**Отстраняване на неизправности при свързващ агент на приложения**
+**Отстраняване на неизправности с конектора за прокси сървър на приложение**
 
-За помощ ако инсталирането на конектор е неуспешно, вижте [проблем при инсталиране на конектора на агента на приложението прокси](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
+За помощ, ако инсталирането на конектор е неуспешно, вижте Проблем [с инсталирането на конектора за прокси сървър на приложение](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
 
-Проблеми със свързването на [прокси сървъра на приложения](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) ви помага да отстранявате проблеми с конектори на Azure Active Directory (Azure ad). Ако използвате услугата за прокси сървър на приложението за отдалечен достъп до локално уеб приложение, но имате проблеми със свързването към приложението, използвайте тази блоксхема, за да трасирате проблеми при свързване.
+[Проблеми с конектора за прокси сървър на приложението](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) за отстраняване на грешки ви помагат да отстранявате проблеми с Azure Active Directory конектори за прокси сървър на приложения (Azure AD). Ако използвате услугата прокси сървър на приложение за отдалечен достъп до локално уеб приложение, но имате проблеми при свързването към приложението, използвайте тази блоксхема, за да отстранявате проблеми със конектора за отстраняване на грешки.
 
-[Никоя работна група за приложения, която не е намерена за приложение за прокси сървър](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) , помага за отстраняване на често срещани проблеми, когато не е открит конектор за приложение за прокси сървър за приложения, интегриран с Azure Active Directory.
+[Никоя работна група конектори,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) която е намерена за приложение за прокси сървър на приложение, не помага да се разрешат често срещаните проблеми, с които се сблъскват, когато не е открит конектор за приложение за прокси сървър на приложение, интегрирано с Azure Active Directory.
 
-**Отстраняване на неизправности при интегриране с Сиско AnyConnect**
+**Отстраняване на неизправности при интегриране с Cisco AnyConnect**
 
-За да научите как да интегрирате Cisco AnyConnect с Azure Active Directory (Azure AD), вижте [урок: интегриране с еднократна идентификация за Azure Active Directory (SSO) със Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).
+За да научите как да интегрирате Cisco AnyConnect с Azure Active Directory (Azure AD), вижте Урок: Azure Active Directory интегриране с Cisco AnyConnect с еднократната регистрация [(SSO).](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
