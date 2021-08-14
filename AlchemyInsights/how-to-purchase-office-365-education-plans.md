@@ -17,12 +17,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 47e00c8390c52dfe4ba1d8643601c113eea5591bed1248f8db6fe6d20cfa13c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868479"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Как да закупите Office 365 Education планове
 
@@ -38,4 +38,4 @@ ms.locfileid: "54501445"
 
 - Моля, вижте [Отдалечено преподаване и обучение в Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), за да научите за най-новите указания за организиране на планирането на уроци, виртуални събрания и споделяне на съдържание с ученици и студенти.
 
-- Има допълнителни ИТ указания в [Първи стъпки в Microsoft Teams за отдалечено обучение](/MicrosoftTeams/remote-learning-edu) и [Преход към отдалечено обучение](https://www.microsoft.com/education/remote-learning).
+- Има допълнителни ИТ указания в [Първи стъпки в Microsoft Teams за отдалечено обучение](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) и [Преход към отдалечено обучение](https://www.microsoft.com/education/remote-learning).

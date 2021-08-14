@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com реагират изскачащи
+title: 8000091 Outlook.com React изскачащ прозорец
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095711"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com е готов за Прайм Тайм
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com е готов за първостепенно време
 
-Ние сме наясно, че някои клиенти могат да видят изскачащите прозорци "Outlook.com е готов за Прайм Time" всеки път, когато влязат, и работим по корекция.
+Наясно сме, че някои клиенти може да виждат изскачащия прозорец "Outlook.com е готов за първокласно време" при всяко влизане и работим върху корекция.
 
 Съжаляваме за това.
 
