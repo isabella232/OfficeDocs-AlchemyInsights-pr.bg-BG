@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986691"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файлове, които не могат да бъдат качени в SharePoint online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файлове, които не могат да бъдат качени в SharePoint Онлайн
 
-Ако даден файл не се качи в SharePoint Online, се уверете, че:
+Ако даден файл няма да се качи в SharePoint онлайн, уверете се, че:
   
-- Размерът е по-малък от 15 ГБ.
+- Размерът му е по-малък от 15 ГБ.
     
-- Целият път, включително името на файла, е по-малко от 400 знака.
+- Целият път, включително името на файла, е по-малък от 400 знака.
     
 - Името на файла не съдържа знаците " \* : \< \> ? / \ | и не е в списъка с [невалидни имена](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Ако се опитвате да качите файла, като използвате настолното приложение OneDrive, вижте [ограничения, когато синхронизирате файлове и папки](https://go.microsoft.com/fwlink/p/?LinkID=717734) или [коригирате проблеми при синхронизиране с OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Ако се опитвате да качите файла с помощта на настолното приложение OneDrive, вижте Ограничения и ограничения, когато синхронизирате файлове и [папки](https://go.microsoft.com/fwlink/p/?LinkID=717734) или [коригирате OneDrive Sync проблеми](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

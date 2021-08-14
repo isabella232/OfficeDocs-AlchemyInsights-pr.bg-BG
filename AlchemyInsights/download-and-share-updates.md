@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b0248bdf39e083ddac2cfa84648c16a174147d97ede29e9b62e65ffd33d9f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004395"
 ---
 # <a name="download-and-share-updates"></a>Изтегляне и споделяне на актуализации
 
-Вместо да изтегляте актуализации поотделно, режим на изтегляне на оптимизиране на доставката позволява споделяне между няколко компютъра. За повече информация вижте [актуализации за оптимизиране на доставката за Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+Вместо да изтегляте актуализации поотделно, режимът на изтегляне на оптимизиране на доставянето позволява споделяне между няколко компютъра. За повече информация вижте Оптимизиране [на доставянето за Windows 10 актуализации.](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)  
 
 Наличните режими на изтегляне включват:  
-- Само HTTP  
+- САМО HTTP  
 - LAN  
 - Група  
 - Интернет  
-- Прост  
+- Просто  
 - Заобикаляне

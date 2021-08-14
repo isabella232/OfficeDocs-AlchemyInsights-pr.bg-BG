@@ -1,5 +1,5 @@
 ---
-title: Записване на Android Enterprise – общ преглед
+title: Записване за Предприятие за Android – общ преглед
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932878"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Записване на Android Enterprise – общ преглед
+# <a name="android-enterprise-enrollment---overview"></a>Записване за Предприятие за Android – общ преглед
 
-За да използвате Android Enterprise записвания във вашата организация, трябва първо да [се свържете с вашия акаунт за управление на вашия управляван акаунт за Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+За да използвате записване за Android Enterprise във вашата организация, [трябва първо да Свързване вашия акаунт за Intune към вашия акаунт за Управляван Google Play.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-След като сте се свързали успешно, можете да изберете подходящите стъпки за типа на записването на Android, което искате да следват вашите потребители:
+След успешно свързване можете да изберете подходящите стъпки за типа записване за Android, който искате да следват вашите потребители:
 
-- [Настройване на записване на устройства с Android Enterprise Work profile](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Настройване на записвания на устройства, посветени на Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Настройване на записвания за цялостно управляваните устройства с Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Настройване на записването на устройства с работен профил за Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Настройване на записването в Intune на специализирани устройства с Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Настройване на записването в Intune на напълно управлявани устройства с Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-За работен поток за настройване и записване на устройства с Android Enterprise, както и преглед на често задавани въпроси вижте [Конфигуриране и отстраняване на неизправности на устройства с Android Enterprise в Microsoft](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+За работен поток за настройване и записване на устройства с Android Enterprise заедно с преглед на ЧЗВ вж. Конфигуриране и отстраняване на неизправности с корпоративни устройства с [Android в Microsoft Intune.](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)
 
-За информация за отстраняване на неизправности при записване на устройства като цяло и за някои грешки при записване на Android вижте [отстраняване на неизправности при записване на устройство в Microsoft](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+За информация относно отстраняването на неизправности при записване на устройства като цяло и някои грешки при записване на Android вижте Отстраняване на неизправности при записване [на устройства в Microsoft Intune.](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-Ако се интересувате от програмата за записване на QR код за menthod за COSU устройства, вижте [този блог](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Ако се интересувате от menthod за записване на QR код за COSU устройства, вижте [този блог](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
 
-Можете също да използвате съдържанието, което описва командата за [отстраняване на неизправности](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , за да помогнете за идентифициране на проблемите, свързани с записването на вашите потребители.
+Можете също да използвате съдържанието, описващо острието за отстраняване на неизправности [в Intune,](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) за да определите какви проблеми с записването изпитват вашите потребители.
