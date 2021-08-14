@@ -1,5 +1,5 @@
 ---
-title: Ръководство за настройка на търсенето в Microsoft
+title: Microsoft Search за настройка
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975776"
 ---
-# <a name="microsoft-search-setup-guide"></a>Ръководство за настройка на търсенето в Microsoft
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search за настройка
 
-Използвайте [ръководството за настройка на търсенето в Microsoft](https://go.microsoft.com/fwlink/?linkid=2153798) , за да настроите и конфигурирате търсенето в Microsoft. Дали искате да го пилот към група от потребители или да го прехвърлите на всеки във вашата организация. Ще можете да присвоявате администратори за търсене и да използвате редактори за търсене и след това да персонализирате търсенето на вашите потребители с отговори и допълнителни опции, като например да добавите разширението на Bing към Chrome или да настроите Bing като търсачка по подразбиране.
+Използвайте ръководството [Microsoft Search настройка,](https://go.microsoft.com/fwlink/?linkid=2153798) за да настроите и конфигурирате Microsoft Search. Независимо дали искате да я пилотирате в група потребители, или да я разтените за всеки във вашата организация. Ще назначите администратори за търсене и редактори на търсене и след това ще персонализирате работата при търсене за вашите потребители с отговори и допълнителни опции, като например добавяне на разширението Bing към Chrome или настройването на Bing като търсеща машина по подразбиране.
