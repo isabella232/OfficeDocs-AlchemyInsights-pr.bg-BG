@@ -1,5 +1,5 @@
 ---
-title: Коригиране на неуспешно изтичане
+title: Коригиране на неуспешен поток
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945956"
 ---
-# <a name="fix-a-flow-that-failed"></a>Коригиране на неуспешно преливане
+# <a name="fix-a-flow-that-failed"></a>Коригиране на неуспешен поток
 
-1. Отидете на [Microsoft Flow](https://flow.microsoft.com/)и щракнете върху иконата за известия в горния десен ъгъл. (Или в мобилното приложение изберете раздела дейност.) Изберете потока, който не може да бъде прегледан по-подробно.
+1. Отидете на [Microsoft Flow](https://flow.microsoft.com/)и щракнете върху иконата Известия в горния десен ъгъл. (Или в мобилното приложение изберете раздела Дейност.) Изберете потока, който не успя да разгледа подробните данни.
     
-2. Намерете стъпката с Червената удивителна икона, за да видите съобщение за грешка за потока.
+2. Намерете стъпката с червената удивителна икона, за да видите съобщението за грешка за потока.
     
-3. В зависимост от съобщението за грешка би трябвало да можете да редактирате потока и да го поправите. 
+3. В зависимост от съобщението за грешка би трябвало да можете да редактирате потока и да го коригирате. 
     
-[Често срещани неизправности при потока](https://go.microsoft.com/fwlink/?linkid=872110)
+[Често срещани грешки в потока](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

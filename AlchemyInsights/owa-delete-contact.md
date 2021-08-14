@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 4c512d4f3454c8cdf84e7cab61ea10e054f6d897
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f8c5742570ea5e8728e6b546c9204f96515e5c8f2b47a0eaf1e05cfd2e2e58b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983154"
 ---
 # <a name="delete-a-contact"></a>Изтриване на контакт
 
@@ -25,4 +25,4 @@ ms.locfileid: "47671037"
  **Хора**.
 2. Изберете контакта, който искате да изтриете, и изберете **Изтрий**.
 
-Ако не можете да изберете **Изтрий**, е възможно контактът да е от Skype или свързан акаунт за социални мрежи. За да изтриете контакта, отидете в Skype или акаунта, в който се намира контактът.
+Ако не можете да изберете **Изтрий**, контактът може да е от Skype или свързан акаунт за социална мрежа. За да изтриете контакта, отидете Skype или акаунта, където се намира контактът.

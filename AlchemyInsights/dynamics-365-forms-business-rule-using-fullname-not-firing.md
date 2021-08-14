@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Forms Business Rule с помощта на поле Пълноиме не се изстрелва
+title: Бизнес правило за Dynamics 365 Forms с помощта на поле "Пълноиме", което не се използва
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947391"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Полето за пълно име не се поддържа с унифицирани приложения на inteface
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Полето "Пълно име" не се поддържа с единни приложения на inteface
 
-Действия или условия, които използват поле за **пълно име** (пълноиме), не се поддържат в приложения, базирани на единните интерфейси. Друга възможност е да използвате действия или условия с полета **собствено име** и фамилно **име** (фамилия).
+Действията или условията, които **използват поле "Пълно** име" (пълноиме), не се поддържат в приложенията въз основа на унифицирания интерфейс. Като алтернатива можете да използвате действия или условия с **полета собствено** име (собственоиме) **и** Фамилно име (фамилно име).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)
