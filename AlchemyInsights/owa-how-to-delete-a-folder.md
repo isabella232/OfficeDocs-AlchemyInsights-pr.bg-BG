@@ -1,5 +1,5 @@
 ---
-title: '8000016: как се изтрива папка'
+title: '8000016: Как да изтриете папка'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063221"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Как се изтрива папка в Outlook в уеб
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Как да изтриете папка в Outlook в уеб
 
-1. В екрана с папки щракнете с десния бутон върху папката или подпапката, която искате да изтриете.
+1. В екрана с папки щракнете с десния бутон върху папката или подпапките, които искате да изтриете.
 2. Изберете **Изтриване на папка**.
-3. Изберете **OK** , за да потвърдите.
+3. Изберете **OK, за** да потвърдите.
 
-За да научите повече, вижте [работа с папки за съобщения в Outlook в уеб](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+За да научите повече, вижте [Работа с папки за съобщения в Outlook в уеб](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

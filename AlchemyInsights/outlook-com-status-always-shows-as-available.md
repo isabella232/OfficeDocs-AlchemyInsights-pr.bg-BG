@@ -1,5 +1,5 @@
 ---
-title: Outlook.com състоянието винаги се показва като "наличен"
+title: Outlook.com винаги се показва като Наличен
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095135"
 ---
-# <a name="my-status-always-shows-as-available"></a>Моят статус винаги се показва като наличен
+# <a name="my-status-always-shows-as-available"></a>Моето състояние винаги се показва като "Налично"
 
-Всеки път, когато влезете в Outlook.com, състоянието на акаунта ви ще бъде нулирано до налично. Можете да предотвратите промяната на състоянието си, като не излезете от Outlook.com. За да останете влезли, когато затваряте браузъра си, поставете отметка в квадратчето **искам да остана влязъл** на страницата за влизане в Outlook.com.
+Всеки път, когато влезете в Outlook.com, състоянието на акаунта ви ще се нулира на Налично. Можете да предотвратите промяната на състоянието си, като не излезете от Outlook.com. За да останете влезли, когато  затваряте браузъра си, изберете полето Запази ме в профила си на страницата за влизане Outlook.com.
