@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972408"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Отстраняване на проблеми при импортиране на PST файлове
 
-- Ако импортирате в самия клиент на Outlook, вижте Коригиране на [проблеми при импортиране на .pst файл на Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Ако импортирате в самия клиент Outlook, вижте Коригиране на проблеми при [импортиране на Outlook .pst файл](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
 - Ако използвате услугата за импортиране и тя е блокирана, обърнете внимание, че всеки PST файл, който качвате в местоположението за съхранение в Azure, не трябва да е по-голям от 20 ГБ. PST файловете, по-големи от 20 ГБ, може да влияят върху производителността на процеса на импортиране чрез PST. За повече информация относно отстраняването на неизправности при задания за блокиране вижте [Проблеми, които засягат задачи за импортиране на PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
