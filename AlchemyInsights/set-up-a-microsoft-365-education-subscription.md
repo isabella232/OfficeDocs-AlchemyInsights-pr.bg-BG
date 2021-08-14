@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bfeac0a1ebe7597b148b0bbda4e866fc05cf9e4e044552f8e6fa0f4227df736
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921716"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Настройване на абонамент за Microsoft 365 Education
 
@@ -25,5 +25,5 @@ ms.locfileid: "51787450"
 
 **Повече чудесни ресурси**
 
-- Вижте [Създаване на вашия акаунт за клиент на Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) за общ преглед.
+- Вижте [Създаване на Office 365 на клиента](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) за общ преглед.
 - Вижте [първи стъпки в Microsoft 365 Education](https://docs.microsoft.com/education/) за ИТ администратори, разработчици и партньори.

@@ -1,5 +1,5 @@
 ---
-title: Клиентът за Teams е заседнал при зареждане
+title: Teams клиент е блокиран при зареждане
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50092940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981678"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Клиентът за Teams е заседнал при зареждане
+# <a name="teams-client-is-stuck-on-loading"></a>Teams клиент е блокиран при зареждане
 
-Microsoft е наясно с грешка в наскоро настолното приложение Teams, което не позволява на потребителите да влизат. Повлияни потребители вижте Зареждане на съобщение на Microsoft Teams, което се появява.
+Microsoft е наясно с грешка в скорошна компилация Teams настолното приложение, която не позволява на потребителите да влизат. Засегнатите потребители виждат съобщение за Microsoft Teams, което се появява.
 
-Най-лесното решение за момента е да използвате уеб приложението Teams <https://teams.microsoft.com/> .
+Най-простото заобиколно решение за момента е да използвате уеб приложението Teams в <https://teams.microsoft.com/> .
 
-За повече информация и текущото състояние вижте публикацията на таблото за изправност на услугите в <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+За повече информация и текущо състояние вижте публикацията табло за изтезания на услуги на <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

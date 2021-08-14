@@ -1,5 +1,5 @@
 ---
-title: Вашият сертификат за бутон Apple MDM е с изтекъл срок
+title: Срокът на вашия MDM push сертификат на Apple е изтекъл
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997411"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Вашият сертификат за бутон Apple MDM е с изтекъл срок
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Срокът на вашия MDM push сертификат на Apple е изтекъл
 
-Сертификатът за насочени известия на Apple MDM е валиден за една година и трябва да бъде подновяван ежегодно за поддържане на управлението на устройства с iOS и macOS. Ако сертификатът ви изтече, записаните устройства Apple не могат да се свържат и нови устройства не могат да бъдат записани.
+Сертификатът за насочени известия на Apple MDM е валиден за една година и трябва да бъде подновяван ежегодно за поддържане на управлението на устройства с iOS и macOS. Ако срокът на вашия сертификат изтече, записаните устройства на Apple не могат да се свържат с вас и новите устройства не могат да бъдат записани.
 
-За стъпки, за да подновите своя сертификат за Push на Apple MDM, вижте подновяване на вашия сертификат за [Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+За стъпки за подновяване на вашия MDM push сертификат на Apple вижте [Подновяване на apple MDM push certificate](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).

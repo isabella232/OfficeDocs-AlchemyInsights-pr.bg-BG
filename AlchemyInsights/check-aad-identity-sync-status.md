@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930754"
 ---
 # <a name="check-aad-identity-sync-status"></a>Проверка на състоянието на синхронизиране на самоличност на AAD
 
 Проверката на състоянието на синхронизиране е лесна:
   
-- Влезте в центъра за администриране на Microsoft 365 и изберете **Състояние на DirSync** на началната страница.
+- Влезте в Център за администриране на Microsoft 365 и изберете **Състояние на DirSync** на началната страница.
 
 - Можете също да отидете на Потребители Активни потребители и на страницата Активни потребители \> изберете Още синхронизиране на \> справочника.
 

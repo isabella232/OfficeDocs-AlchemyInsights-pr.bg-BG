@@ -1,5 +1,5 @@
 ---
-title: Страница за архивиране празно или не се зарежда под управление на информацията
+title: Страницата за архивиране е празна или не се зарежда под Управление на информацията
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997339"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Страница за архивиране празно или не се зарежда под управление на информацията
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Страницата за архивиране е празна или не се зарежда под Управление на информацията
 
-Ако страницата за **архивиране** под управление на информацията в центъра за защита и съответствие е празна или не се зарежда, използвайте опцията за **архивиране** в новия център за съответствие на M365 вместо това.
+Ако страницата **Архив** под Управление на информацията в центъра за защита и  съответствие е празна или не се зареди, вместо това използвайте опцията Архив в новия център за съответствие на M365.
 
 1. Отиди на [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Изберете управление на информация.
-1. След това щракнете върху опцията **архивиране** .
+1. Изберете Управление на информацията.
+1. След това щракнете върху **опцията Архивиране.**
 
 Или следвайте този URL адрес: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
