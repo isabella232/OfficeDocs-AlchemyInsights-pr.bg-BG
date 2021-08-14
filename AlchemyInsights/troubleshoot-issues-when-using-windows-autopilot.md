@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми при използване на автопилот на Windows
+title: Отстраняване на проблеми при използване Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008319"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Отстраняване на проблеми при използване на автопилот на Windows
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Отстраняване на проблеми при използване Windows AutoPilot
 
-Ако имате проблем с автопилота, вижте страницата за [отстраняване на неизправности при автопилоти](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) и [известни проблеми](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Ако имате проблем с AutoPilot, вижте страниците Отстраняване на [неизправности с autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [и Известни](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) проблеми.
 
-Ако имате проблем с автопилотния Windows, който спира по време на фазата на състоянието на записване (ESP), моля, прегледайте следния документ за съвети как да отстраните проблема си. [Разбиране и отстраняване на неизправности в страницата за състояние на записване](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Ако имате проблем с спирането на Windows AutoPilot по време на фазата На състоянието на записване (ESP), прегледайте следния документ за съвети как да отстраните проблема си. [Разбиране и отстраняване на неизправности на страницата "Състояние на записването"](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Ако търсите да изпробвате автопилот с устройства с Hololens 2, моля, прегледайте документацията "[автопилот за Windows за Hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) ". Това ще ви помогне да разберете предварителнните изисквания и препоръчваните стъпки за записване на Hololens 2 чрез автопилот  
+Ако искате да изпробвате Autopilot с устройства Hololens 2, трябва да прегледате документацията "[Windows Autopilot за HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Това ще ви помогне да разберете предварителните изисквания и препоръчителните стъпки за записване на Hololens 2 с помощта на Autopilot  
 
-За повече информация относно настройването на автопилот на Windows вижте [записване на устройства с Windows в съзвучие с помощта на автопилот на Windows](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+За повече информация относно настройването Windows Autopilot вижте Записване на Windows устройства в [Intune с помощта на Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

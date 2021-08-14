@@ -1,5 +1,5 @@
 ---
-title: изпратените имейл съобщения на 8000044 се връщат "Неуспешно доставяне" в Outlook.com
+title: 8000044 Изпратеният имейл се връща "неуспешно доставяне" в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942680"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Изпратено е съобщение "доставката е неуспешна"
+# <a name="sent-email-comes-back-delivery-failed"></a>Изпратеният имейл се връща "доставката е неуспешна"
 
-Неуспешно доставяне или имейл съобщения, които се връщат като недоставени, могат да се случат по много причини. За да научите повече за най-често срещаните съобщения за грешка, както и предлаганите решения, вижте [изпратените имейл съобщения в Outlook.com се връща "неуспех при доставка"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Неуспешно доставяне или имейл съобщения, които се връщат като неотделими, могат да се случат поради редица причини. За да научите повече за най-често срещаните съобщения за грешки, заедно с предложените решения, вижте Изпратените имейли [в Outlook.com се връщат "неуспешно доставяне".](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   
