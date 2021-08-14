@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981894"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Грешка "ИД на магазина е предоставен не е ИД на елемент"
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Грешка "Предоставеният ИД на магазина не е ИД на елемент"
 
-Ние сме наясно с тази грешка и изпускаме корекция, която би трябвало да бъде разрешена по-скоро.
+Наясно сме с тази грешка и започваме корекция, която трябва да я отстрани скоро.

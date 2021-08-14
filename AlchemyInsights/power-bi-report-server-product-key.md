@@ -1,5 +1,5 @@
 ---
-title: Продуктов ключ за сървъра за отчети на Power BI
+title: Сървър за отчети на Power BI Продуктов ключ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973254"
 ---
-# <a name="power-bi-report-server-product-key"></a>Продуктов ключ за сървъра за отчети на Power BI
+# <a name="power-bi-report-server-product-key"></a>Сървър за отчети на Power BI продуктов ключ
 
-Ако сте закупили Power BI Premium, в раздела **Настройки premium** на портала за администриране на Power BI имате достъп до своя продуктов ключ за Power BI Report Server. Това е налично само за глобални администратори или потребители, на които е присвоена ролята на администратор на услуга на Power BI.
+Ако сте закупили Power BI Premium, **в раздела настройки на Premium** на портала за администриране на Power BI имате достъп до вашия продуктов ключ Сървър за отчети на Power BI power BI. Това е налично само за глобални администратори или потребители, на които е присвоена ролята на администратор на услуга на Power BI.
 
-Избирането на **клавиша Power BI Report Server** показва диалогов прозорец, съдържащ вашия продуктов ключ. Можете да го копирате и да го използвате с инсталацията.
+Избирането **Сървър за отчети на Power BI показва** диалогов прозорец, съдържащ вашия продуктов ключ. Можете да го копирате и да го използвате с инсталацията.
 
-Ако имате споразумение за SQL Server Enterprise SA, можете да получите своя продуктов ключ от центъра за [услуги за корпоративно лицензиране](https://www.microsoft.com/Licensing/servicecenter/).
+Ако имате споразумение за SQL Server Enterprise SA, можете да получите своя продуктов ключ от центъра за услуги [за корпоративно лицензиране](https://www.microsoft.com/Licensing/servicecenter/).
 
 За повече информация: https://docs.microsoft.com/power-bi/report-server/install-report-server

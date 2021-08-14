@@ -1,5 +1,5 @@
 ---
-title: DLP правило за номер на кредитна карта не работи
+title: Правило за DLP за номер на кредитна карта не работи
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005079"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>DLP въпроси с номера на кредитни карти
+# <a name="dlp-issues-with-credit-card-numbers"></a>Проблеми с DLP с номера на кредитни карти
 
 **Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP въпроси с номера на кредитни карти**
+**Проблеми с DLP с номера на кредитни карти**
 
-Имате ли проблеми с **предотвратяване на загуба на данни (DLP)** , които не работят за съдържание, съдържащо **номер на кредитна карта** , когато се използва тип на DLP чувствителна информация в O365? Ако е така, трябва да се уверите, че вашето съдържание съдържа нужната информация, за да се задейства DLP правилата, когато бъдат оценени. Например за **правилата за кредитна карта** , конфигурирани с ниво на надеждност от 85%, следва да бъдат оценени следните неща и трябва да бъдат открити, за да се задейства правилото:
+Имате проблеми с предотвратяването на загуба на данни **(DLP)** не работи за съдържание, съдържащо номер на кредитна карта, когато използвате тип информация за DLP поверителна информация в O365?  Ако е така, уверете се, че съдържанието ви съдържа необходимата информация, за да задейства правилата за DLP, когато се оценява. Например за правила за **кредитна карта,** конфигурирани с доверително ниво от 85%, се оценяват следните и трябва да бъдат открити, за да задейства правилото:
   
-- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 цифри, които могат да бъдат форматирани или неформатирани (dddddddddddddddd) и трябва да изминат теста Luhn.
+- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 цифри, които могат да бъдат форматирани или неформатирани (dddddddddd) и трябва да преминат теста luhn.
 
-- **[Шарка:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Много сложна и здрава шарка, която открива картите от всички основни марки по целия свят, включително Visa, MasterCard, Discover Card, JCB, American Express, ваучери за подарък и вечеря.
+- **[Шарка:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Много сложен и стабилен модел, който открива карти от всички основни марки по целия свят, включително Visa, MasterCard, Discover Card, JCB, American Express, ваучери за подарък и картички за вечеря.
 
-- **[Контролна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Да, контролната сума за Luhn
+- **[Контролна карта:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Да, контролната карта на Лун
 
-- **[Дефиниция:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP правилата е 85% сигурни, че той е открил този тип поверителна информация, ако в близост до знаците на 300:
+- **[Дефиниция:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Правилата за DLP са 85% уверени, че са открити този тип поверителна информация, ако в близост до 300 знака:
 
-  - Функцията Func_credit_card намира съдържание, което съответства на шарката.
+  - Функцията Func_credit_card намира съдържание, което отговаря на шарката.
 
-  - Едно от следните е вярно:
+  - Едно от следните неща е вярно:
 
-  - Намерена е ключова дума от Keyword_cc_verification.
+  - Намерена е Keyword_cc_verification ключова дума от него.
 
-  - Намерена е ключова дума от Keyword_cc_name
+  - Намерена е Keyword_cc_name ключова дума
 
-  - Функцията Func_expiration_date намира дата в правилния формат за дата.
+  - Функцията Func_expiration_date намери дата в правилния формат за дата.
 
-  - Контролните пропуски
+  - Контролната карта преминава
 
-    Например примерът по-долу би предизвикал правила за номер за DLP кредитна карта:
+    Например следната извадка ще задейства правила за номер на DLP кредитна карта:
 
-  - Виза: 4485 3647 3952 7352
+  - Визи: 4485 3647 3952 7352
   
-  - Изтича: 2/2009
+  - Изтича на: 2.02.2009 г.
 
-За повече информация за това, което е необходимо за откриване на **номер на кредитна карта** за вашето съдържание, вижте раздела по-долу в тази статия: [какви типове чувствителна информация търсите за кредитна карта #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+За повече информация какво е  необходимо за откриване на номер на кредитна карта за вашето съдържание, вижте следващия раздел в тази статия: Какво търси типовете поверителна информация [за кредитна карта#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-С помощта на различен вграден тип чувствителна информация вижте статията по-долу за информация относно това, което е необходимо за други типове: [какви типове чувствителна информация търсите](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Като използвате различен вграден тип поверителна информация, вижте следната статия за информация какво е необходимо за други типове: [Какво търси типовете поверителна информация](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
