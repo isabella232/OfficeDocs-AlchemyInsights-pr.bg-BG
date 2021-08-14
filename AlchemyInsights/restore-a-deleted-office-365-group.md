@@ -1,5 +1,5 @@
 ---
-title: Възстановяване на изтрита група на Microsoft 365
+title: Възстановяване на изтрита Microsoft 365 група
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959015"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Възстановяване на изтрита група на Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Възстановяване на изтрита Microsoft 365 група
 
-Можете да възстановите изтрита група на Microsoft 365 или Microsoft Teams в рамките на 30 дни от изтриването.
+Можете да възстановите изтрита Microsoft 365 или да Microsoft Teams в рамките на 30 дни от изтриването.
 
-1. Отидете в центъра [за администриране на Microsoft 365,](https://aka.ms/RestoreDeletedGroup) за да влезете в списък с изтрити групи и екипи.
+1. Отидете на [Център за администриране на Microsoft 365,](https://aka.ms/RestoreDeletedGroup) за да влезете в списък на изтритите групи и екипи.
 
     **Забележка:** Влезте с помощта на акаунта, който е присвоен на администратора на клиента или ролята на администратор на групите.
 
-1. Изберете изтритата група на Microsoft 365/Teams, която да бъде възстановена, и щракнете върху **групата за възстановяване.**
+1. Изберете изтритата Microsoft 365/Teams, която да бъде възстановена, и щракнете върху **групата за възстановяване.**
 
     Ако групата не може да бъде възстановена поради конфликтен SMTP адрес, използвайте следната команда, за да намерите обекта, който причинява конфликт, и премахнете SMTP адреса:
 
@@ -37,4 +37,4 @@ ms.locfileid: "51645120"
 
     **Забележка:** В някои случаи може да отнеме до 24 часа, докато групата и всичките й данни бъдат възстановени.
 
-    За повече информация или за да научите как да възстановявате групи с помощта на PowerShell, вижте [Възстановяване на изтрита група на Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
+    За повече информация или за да научите как да възстановите групи с помощта на PowerShell, вижте [Възстановяване на изтрита Microsoft 365 група](https://go.microsoft.com/fwlink/?linkid=867802).
