@@ -1,5 +1,5 @@
 ---
-title: Липсват файлове на SharePoint
+title: SharePoint файлове липсват
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023289"
 ---
-# <a name="sharepoint-files-are-missing"></a>Липсват файлове на SharePoint
+# <a name="sharepoint-files-are-missing"></a>SharePoint файлове липсват
 
-Ако много от вашите файлове в OneDrive или SharePoint бъдат изтрити, презаписани, повредени или заразени от злонамерен софтуер, предоставяме на потребителите разнообразни опции за подпомагане на процеса на възстановяване.
+Ако много от вашите OneDrive или SharePoint файлове бъдат изтрити, презаписани, повредени или заразени от злонамерен софтуер, ние даваме на потребителите различни опции, които да ви помогнат в процеса на възстановяване.
 
-За повече информация вижте [как да възстановите липсващи, изтрити или повредени елементи в SharePoint online и OneDrive за бизнеса](https://go.microsoft.com/fwlink/?linkid=2110774).
+За повече информация вижте [Как да възстановите липсващи,](https://go.microsoft.com/fwlink/?linkid=2110774)изтрити или повредени елементи в SharePoint Онлайн и OneDrive за бизнеса .
