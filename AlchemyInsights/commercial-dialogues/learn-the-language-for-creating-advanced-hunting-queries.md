@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016761"
 ---
 # <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Научете езика за създаване на разширени заявки за лов
 
-Разширеното търсене се базира на [езика за заявки на Kusto](https://go.microsoft.com/fwlink/?linkid=2144620). Можете да използвате синтаксиса на Kusto и операторите, за да създадете заявки, които намират информация в [схемата](https://go.microsoft.com/fwlink/?linkid=2144621) , специално структурирана за разширено ловуване.
+Разширеното ловуване се базира на езика [на заявката kusto](https://go.microsoft.com/fwlink/?linkid=2144620). Можете да използвате синтаксиса и операторите на Kusto, за да изграждате заявки, които намират информация в [схемата,](https://go.microsoft.com/fwlink/?linkid=2144621) специално структурирана за разширено ловуване.
 
-За да научите повече, вижте изучаване [на езика за разширено](https://go.microsoft.com/fwlink/?linkid=2144518)търсене.
+За да научите повече, вижте [Научете езика на разширената заявка за лов](https://go.microsoft.com/fwlink/?linkid=2144518).

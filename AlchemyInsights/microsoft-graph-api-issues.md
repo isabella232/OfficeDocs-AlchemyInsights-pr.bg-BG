@@ -1,5 +1,5 @@
 ---
-title: Проблеми с API на Microsoft Graph
+title: Проблеми с API Graph microsoft Graph microsoft
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,93 +12,93 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7759"
-ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
-ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.openlocfilehash: 9df021211c8a65997889d9303dbf28a27104cfa95841d4cb810427c652ba0784
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50713360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975882"
 ---
-# <a name="microsoft-graph-api-issues"></a>Проблеми с API на Microsoft Graph
+# <a name="microsoft-graph-api-issues"></a>Проблеми с API Graph microsoft Graph microsoft
 
-Тази тема може да се приложи и за разработчиците, които все още използват Azure AD Graph API. Все пак **настоятелно** се препоръчва да използвате Microsoft Graph за всички сценарии на вашия указател, самоличност и управление на достъпа.
+Тази тема може да се отнася и за разработчици, които все още използват Azure AD Graph API. Настоятелно се препоръчва обаче **да използвате** Microsoft Graph за всички сценарии за управление на справочника, самоличността и достъпа.
 
-**Проблеми при удостоверяване или упълномощаване**
+**Проблеми с удостоверяването или удостоверяването**
 
-- Ако вашето приложение не е в **състояние да получи маркери** , за да се обадите на Microsoft Graph, изберете **проблем** , за да получите по-конкретна помощ и поддръжка на тази тема.
-- Ако вашето приложение **получава грешки за удостоверяване на 401 или 403** , когато се обаждате на Microsoft Graph, изберете категорията API за **получаване на отказан достъп (разрешение)** Microsoft Graph, за да получите по-конкретна помощ и поддръжка на тази тема.
+- Ако приложението ви **не** може да придобие маркери, за да се обади на Microsoft Graph, изберете Проблем с получаването на маркер за достъп **(удостоверяване)** категория на Microsoft Graph, за да получите по-конкретна помощ и поддръжка по тази тема.
+- Ако приложението ви получава **401 или 403** грешки при удостоверяване, когато се обажда на Microsoft Graph, изберете категорията Получаване на грешка отказан достъп **(удостоверяване)** на Microsoft Graph API, за да получите по-конкретна помощ и поддръжка по тази тема.
 
-**Искам да използвам Microsoft Graph, но не знам откъде да започна**
+**Искам да използвам Microsoft Graph, но не съм сигурен откъде да започна**
 
-- [Общ преглед на Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Обзор на управлението на самоличността и достъпа в Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Първи стъпки в създаването на приложения на Microsoft Graph](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** – Тествайте API за Microsoft Graph в своя клиент или клиент за демонстрация
+- [Общ преглед на microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Общ преглед на управлението на самоличност и достъп в Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Първи стъпки в изграждането на приложения Graph Microsoft](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** – тествайте API Graph microsoft във вашия клиент или демонстрационен клиент
 
-**Искам да използвам Microsoft Graph, но поддържа ли API за v 1,0 директорията, от която се нуждая?**
+**Искам да използвам Microsoft Graph, но поддържа ли API на указателя v1.0, които ми трябват?**
 
-Microsoft Graph представлява препоръчвания API за адресна книга, самоличност и управление на достъпа. Но все още има някои пропуски между това, което е възможно в Azure AD Graph и Microsoft Graph. Прегледайте статиите по-долу, които осветяват най-актуалните разлики, за да ви помогнат по ваш избор:
+Microsoft Graph е препоръчителният API за управление на справочника, самоличност и достъп. Въпреки това все още има няколко празнини между това, което е възможно в Azure AD Graph и Microsoft Graph. Прегледайте следните статии, които подчертават най-актуалните разлики, които да ви помогнат да изберете:
 
-- [Разлики между типовете ресурси между Azure AD Graph и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Разлики между свойствата между Azure AD Graph и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Разлики в методите между Azure AD и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Разлики в типа на ресурсите между Azure AD Graph и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Разлики в свойството между Azure AD Graph и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Разлики в метода между Azure AD и Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**API за обаждане не работи – къде мога да направя още тестване?**
+**API, на който се обаждам, не работи – къде мога да направя повече тестове?**
 
-**Microsoft Graph Explorer** – Тествайте API за Microsoft Graph в своя клиент или клиент за демо и също така разгледайте **примерните заявки** в Microsoft Graph Explorer.
+**Microsoft Graph Explorer** – тествайте API Graph microsoft във вашия клиент или демонстрационен клиент, а също и прегледайте **примерните** заявки в Microsoft Graph Explorer.
 
-**Приложението ми е твърде бавно и все още не може да се регулира. Какви подобрения мога да направя?**
+**Приложението ми е твърде бавно и също се затладява. Какви подобрения мога да направя?**
 
-В зависимост от сценария ви има редица опции, с които разполагате, за да направите приложението си по-съобразно и в някои случаи по-малко податливи на ограничаване на услугата (когато провеждате твърде много обаждания).
+В зависимост от вашия сценарий, има различни опции, с които разполагате, за да направите приложението по-изпълнително, а в някои случаи по-малко склонни към ограничаване от услугата (когато провеждате твърде много повиквания).
 
-- [Най-добри практики за Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Изисквания за дозиране](https://docs.microsoft.com/graph/json-batching)
-- [Следене на промените чрез Делта заявка](https://docs.microsoft.com/graph/delta-query-overview)
-- [Получаване на известие за промените чрез webhooks](https://docs.microsoft.com/graph/webhooks)
-- [Ограничаване на указания](https://docs.microsoft.com/graph/throttling)
+- [Най-Graph практики на Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Заявки за партиди](https://docs.microsoft.com/graph/json-batching)
+- [Проследяване на промените чрез делта заявка](https://docs.microsoft.com/graph/delta-query-overview)
+- [Получаване на известие за промени чрез уеб шлюзове](https://docs.microsoft.com/graph/webhooks)
+- [Указания за ограничаване](https://docs.microsoft.com/graph/throttling)
 
 **Къде мога да намеря повече информация за грешки и известни проблеми?**
 
-- [Информация за отговора на грешката на Microsoft Graph](https://docs.microsoft.com/graph/errors)
+- [Microsoft Graph за отговор на грешка](https://docs.microsoft.com/graph/errors)
 - [Известни проблеми с Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Къде мога да проверя състоянието на наличност и свързване на услугата?**
+**Къде мога да проверя състоянието на наличността и свързването на услугата?**
 
-Наличността на услугата и свързването на основните услуги, които са достъпни чрез Microsoft Graph, могат да окажат влияние върху цялостната достъпност и производителност на Microsoft Graph.
+Наличността и свързаността на услугите, до които се осъществява достъп чрез Microsoft Graph, могат да влияят върху цялостната наличност и производителност на Microsoft Graph.
 
-- За изправност на услугата Azure Active Directory Проверете състоянието на услугите за **защита + самоличност** , показани в [страницата за състояние на Azure](https://azure.microsoft.com/status/).
-- За услуги на Office, които допринасят за Microsoft Graph, проверете състоянието на услугите, които са посочени в [таблото за изправност на услугите на Office](https://portal.office.com/adminportal/home#/servicehealth).
+- За Azure Active Directory на услугата проверете състоянието на услугите **за защита + самоличност,** изброени на страницата [Състояние на Azure](https://azure.microsoft.com/status/).
+- За Office, които допринасят за Microsoft Graph, проверете състоянието на услугите, изброени [в таблото Office из изздрави услугата](https://portal.office.com/adminportal/home#/servicehealth).
 
-Грешките при удостоверяване на Microsoft Graph могат да се дължат на няколко различни проблема, като повечето от тях генерират грешка 401 или 403. Например следното може да доведе до грешки при удостоверяване:
+Грешките Graph удостоверяване на Microsoft могат да бъдат резултат от няколко различни проблема, повечето от които генерират грешка 401 или 403. Например всички по-долу могат да доведат до грешки при удостоверяване:
 
 - Неправилни [потоци на придобиване на маркери за достъп](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)
 - Неправилно конфигурирани [обхвати на разрешения](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)
 - Липса на [съгласие](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-**_Край на поддръжката за библиотеката за удостоверяване на Azure Active Directory (ADAL) и Azure AD Graph API (AAD Graph)_* _
+***Край на поддръжката за Azure Active Directory удостоверяване (ADAL) и Azure AD Graph API (AAD Graph)***
 
-_ * Започване на 30 юни 2020 * *, повече няма да добавяме нови функции към ADAL и Azure AD Graph. Ще продължим да предоставяме актуализации на техническата поддръжка и защитата, но повече няма да предоставяме актуализации на функции.
+**От 30 юни 2020 г.** вече няма да добавяме нови функции към ADAL и Azure AD Graph. Ще продължим да предоставяме актуализации на техническата поддръжка и защитата, но повече няма да предоставяме актуализации на функции.
 
-**Започвайки от 30 юни 2022**, ние ще прекратим ПОДДРЪЖКАТА за ADAL и Azure ad Graph и повече няма да предоставяме техническа поддръжка и актуализации на защитата.
+**От 30 юни 2022 г.** ще прекратим поддръжката за ADAL и Azure AD Graph и повече няма да предоставяме техническа поддръжка или актуализации на защитата.
 
-Приложенията, използващи ADAL за съществуващите версии на операционната система, ще продължат да работят след този час, но няма *да получат техническа поддръжка или актуализация на защитата*.
+Приложенията, които използват ADAL на съществуващи версии на операционната система, ще продължат да работят след този период, но няма да имат *никаква техническа поддръжка или актуализации на защитата.*
 
-Приложенията, използващи Azure AD Graph след този час, вече не могат да получават отговори от крайна точка на Azure AD Graph.
+Приложенията, които използват Azure AD Graph след този период, може вече да не получават отговори от крайната точка на Azure AD Graph.
 
-**ADALна миграция**
+**Мигриране на ADAL**
 
 Препоръчваме да актуализирате до [Библиотеката за удостоверяване на Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), в която има най-новите функции и актуализации на защитата.
 
-Ако използвате Microsoft Apps, Знайте, че Microsoft е в процес на мигриране на приложенията си към MSAL до крайния срок за поддръжка, за да се гарантира, че ще извлече полза от текущите подобрения в защитата и функциите на MSAL.
+Ако използвате приложения на Microsoft, знайте, че Microsoft е в процес на мигриране на неговите приложения към MSAL до крайния срок за прекратяване на поддръжката, като гарантира, че те ще се възползват от текущите подобрения в защитата и функциите на MSAL.
 
 1. [Прочетете ЧЗВ за ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [Научете как да мигрирате приложения на базата на платформа](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Ако имате нужда от помощ, за да разберете кой от вашите приложения използва ADAL, ви препоръчваме да прегледате всички изходния код на вашите приложения и ако е приложимо, да достигнете до всякакви доставчици на ISV или приложения. Поддръжката на Microsoft също може да ви предостави списък с всички приложения на ADAL, които не са на Microsoft, във вашия клиент.
+3. Ако имате нужда от помощ при разбирането кои от вашите приложения използват ADAL, ви препоръчваме да прегледате целия изходен код на вашите приложения и ако е приложимо, да се свържете с доставчиците на интернет услуги или приложения. Поддръжката на Microsoft също може да ви предостави списък с всички приложения на ADAL, които не са на Microsoft, във вашия клиент.
 
 **Мигриране на AAD Graph**
 
-За приложенията, които използват Azure AD Graph, следвайте нашите указания за [мигриране на приложенията на AZURE ad Graph към Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+За приложения, които използват Azure AD Graph, следвайте нашите указания, за да мигрирате [Azure AD Graph приложения към Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)
 
 1. [Нашият контролен списък за мигриране ви дава отправна точка](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).
-2. Вашият портал за регистрация на приложения на Azure показва кои приложения използват AAD Graph. Препоръчваме ви да прегледате изходния код на всички приложения и ако е приложимо, да се свържете с доставчици на интернет или приложения. Поддръжката на Microsoft може да ви предостави и списък на всички употреби на използването на пад във вашия клиент.
-3. За да получите достъп до данните в Microsoft Graph, потребителят или администраторът трябва да му предостави правилните разрешения чрез процеса на одобрение. [Справочникът за разрешения на Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) изброява разрешенията, свързани с всеки основен набор от API на Microsoft Graph. Освен това се предоставят насоки как да използвате разрешенията.
+2. Вашият портал за регистрация на приложения на Azure показва кои приложения използват AAD Graph. Препоръчваме ви да прегледате изходния код на всички приложения и ако е приложимо, да се свържете с доставчици на интернет или приложения. Поддръжката от Microsoft може също да ви предостави списък с всички Graph на AAD във вашия клиент.
+3. За да може вашето приложение да има достъп до данни Graph Microsoft, потребителят или администраторът трябва да му даде правилните разрешения чрез процес на съгласие. Препратката [към Graph разрешения на Microsoft](https://docs.microsoft.com/graph/permissions-reference) показва разрешенията, свързани с всеки основен набор от API Graph Microsoft. Той също така предоставя указания как да използвате разрешенията.

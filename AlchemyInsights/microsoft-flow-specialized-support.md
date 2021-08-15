@@ -1,5 +1,5 @@
 ---
-title: Специализиран поддръжка за Microsoft Flow
+title: Microsoft Flow Специализирана поддръжка
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975918"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Специализиран поддръжка за Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Специализирана поддръжка
 
-За специализиран поддръжка на Microsoft Flow отидете на новия [център за администриране на Power Platform](https://aka.ms/flowadminsupport). Новият портал предоставя по-директен път към асистираната поддръжка, която е оптимизирана за Microsoft Flow и други продукти на Power platform.
+За специализирана Microsoft Flow поддръжка отидете на новия център за администриране [на Power platform](https://aka.ms/flowadminsupport). Новият портал предоставя по-директен път към подпомогнатата поддръжка, която е оптимизирана за Microsoft Flow и други продукти на платформата Power.
 
 Научете повече:
-- [Информация за безплатните лицензи за Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Често задавани въпроси за потока във вашата организация](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Планове на Microsoft 365 и Dynamics 365, които включват Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Проблеми с фактурирането и отчитането на Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Информация за Microsoft Flow безплатни лицензи](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow ЧЗВ за вашата организация](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 и планове на Dynamics 365, които включват Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow за фактуриране и измерване](https://go.microsoft.com/fwlink/?linkid=2072612)
