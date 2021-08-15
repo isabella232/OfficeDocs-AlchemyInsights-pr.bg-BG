@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7e6ece7d9f60cf6cd52b46bf87d21a5049c5b3c17c7c1da2241cab0bff3264
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011505"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Няма достатъчно памет, за да завършите това действие
 
-Когато работите с файл на Microsoft Excel, получавате едно от следните съобщения:
+Когато работите с Microsoft Excel файл, получавате едно от следните съобщения:
 
 - Excel не може да изпълни тази задача с налични ресурси. Изберете по-малко данни или затворете други приложения.
 - "Извън паметта"
@@ -30,4 +30,4 @@ ms.locfileid: "51791113"
     - Използване на 64-битова версия на Microsoft Excel.
     - Добавяне на памет към вашето устройство.
 
-За да отстраните тези грешки, вижте [Как се отстраняват грешките "налични ресурси" в Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+За да отстраните тези грешки, вижте [Отстраняване на грешки при "налични ресурси" в Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)

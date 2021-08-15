@@ -1,5 +1,5 @@
 ---
-title: Списък с приложения в Teams
+title: Приложението "Списъци" в Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2a2bb2aa00c6dad8d8f8246dda5a74d7a6857270652d21fdbd4eb0a891dac0ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963020"
 ---
-# <a name="lists-app-in-teams"></a>Списък с приложения в Teams
+# <a name="lists-app-in-teams"></a>Приложението "Списъци" в Teams
 
-Приложението списъци в Microsoft Teams събира списъци в екипните сайтове на SharePoint в платно за съвместна работа и работа с екипни канали. Чрез това приложение крайните потребители могат да работят по своите любими списъци от Teams.
+Приложението Списъци в Microsoft Teams предоставя списъци в екипни SharePoint в сътрудничеството и платното за работа в екип с канали. С това приложение крайните потребители могат да работят по своите предпочитани списъци от Teams.
 
-Списъците е предварително инсталиран за всички потребители на Teams и се предлага директно в галерията с раздели на всеки екип и канал.
+Списъците са предварително инсталирани за всички потребители Teams и са налични директно в галерията с раздели на всеки екип и канал.
 
-Администраторите на екипи могат да управляват наличността на приложението чрез правилата за разрешения на Microsoft Teams. За повече информация вижте [управление на правилата за разрешения за приложения в Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
+Teams могат да контролират наличността на приложението с помощта на правилата Microsoft Teams разрешения. За повече информация вижте Управление на [правилата за разрешения за приложения в Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Тип на контролата:**  Управление на администратори на Teams  
+**Тип контрола:** Teams администраторска контрола    
 
 **Действие:**  Преглед и оценка
 
 За повече информация вижте:
 
-- [Обявяване на списъци на Microsoft – вашето приложение за проследяване на вашата Интелигентна информация в Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
-- [Списъци в документацията на крайния потребител на Teams](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
-- [Управление на приложението за списъци за вашата организация в Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-lists-app)
-- [Център за ресурси на Microsoft списъци](https://aka.ms/MSLists)
-- [Какво е новото в Microsoft Teams | Компилация Edition 2020](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-build-edition-2020/ba-p/1394224)
+- [Обявяване на списъци на Microsoft – вашето интелигентно приложение за проследяване на информация в Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
+- [Списъци в Teams на крайния потребител](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
+- [Управление на приложението "Списъци" за вашата организация в Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-lists-app)
+- [Център за ресурси на Microsoft Lists](https://aka.ms/MSLists)
+- [Какво е новото в Microsoft Teams | Компилация издание 2020](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-build-edition-2020/ba-p/1394224)
