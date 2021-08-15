@@ -1,5 +1,5 @@
 ---
-title: проблеми при споделяне с Outlook – клиент – Диспечер
+title: проблеми при споделяне с outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960104"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми при споделяне с Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми при споделянето с Outlook Customer Manager
 
-Ако имате проблеми със споделянето на Outlook Customer Manager, ви препоръчваме първо да изчиствате кеша на браузъра си. Например в Internet Explorer можете да направите следното:
+Ако имате проблеми със споделянето с Outlook customer Manager, ви препоръчваме първо да опитате да изчистите кеша на браузъра си. Например в Internet Explorer бихте:
 
-1. Отидете на **Настройки**  >  **Общи** настройки на > под  >  **кеширания и бази данни** за хронология на преглеждане.
+1. Отидете на **Настройки**  >  **общи > Настройки** под **Кешове и** бази данни в  >  **хронологията на браузъра**.
 2. Изтриване на кеш файлове за уеб сайта "outlookapps.com".
 3. Рестартирайте Outlook.
 
-За повече информация относно споделянето вижте [споделяне на информация в Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+За повече информация относно споделянето вижте [Споделяне на информация в Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

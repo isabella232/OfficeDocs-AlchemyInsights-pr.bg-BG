@@ -1,5 +1,5 @@
 ---
-title: Разрешения и свързани с браузъра изисквания за Microsoft 365 Defender
+title: Разрешения и изисквания, свързани с браузъра, за Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016581"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Разрешения и свързани с браузъра изисквания за Microsoft 365 Defender
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Разрешения и изисквания, свързани с браузъра, за Microsoft 365 Defender
 
-- Разрешения: за да включите Microsoft 365 Defender, трябва да сте глобален администратор или администратор на защитата в Azure Active Directory. За да видите списъка с ролите, които могат да използват Microsoft 365 Defender, и за да научите как се регулира достъпът до данните, вижте [управление на достъпа до Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
+- Разрешения: За да включите Microsoft 365 Defender, трябва да сте глобален администратор или администратор на защитата в Azure Active Directory. За да видите списъка с роли, които могат да използват Microsoft 365 Defender, и за да научите как се регулира достъпът до данни, вижте Управление [на достъпа до Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
 
-- Изисквания, свързани с браузъра: за да имате достъп до Microsoft 365 Defender в центъра за защита на Microsoft 365, използвайте Microsoft Edge, Internet Explorer 11 или HTML 5-съвместим уеб браузър.
+- Изисквания, свързани с браузъра: За достъп до Microsoft 365 Defender в центъра за Microsoft 365 за защита използвайте Microsoft Edge, Internet Explorer 11 или всеки уеб браузър, съвместим с HTML 5.

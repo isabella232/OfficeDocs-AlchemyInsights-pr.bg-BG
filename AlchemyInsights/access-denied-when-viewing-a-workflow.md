@@ -1,5 +1,5 @@
 ---
-title: Отказан достъп при преглед на работен поток
+title: Достъпът е отказан, когато преглеждате работен поток
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955190"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Отказан достъп при преглед на работен поток
+# <a name="access-denied-when-viewing-a-workflow"></a>Достъпът е отказан, когато преглеждате работен поток
 
-Работните потоци на SharePoint 2013, които се опитват да изпратят имейл до група на SharePoint, може да не успеят с съобщение за грешка "отказан достъп", ако членството в групата на SharePoint не е зададено на всеки.
+SharePoint 2013 работни потоци, които се опитват да изпратят имейл до група на SharePoint, могат да не успеят със съобщение за грешка "Отказан достъп", ако членството в групата SharePoint не е зададено на "Всеки".
   
- **За да отстраните този проблем, изпълнете следните стъпки:**
+ **За да разрешите този проблем, изпълнете следните стъпки:**
   
- 1. Позволете на всички да виждат членовете на групата на SharePoint.
+ 1. Позволете на всички да виждат членовете на SharePoint група.
   
- 2. Премахнете групата на SharePoint от реда "до" или "Як" на имейла.
+ 2. Премахнете групата SharePoint от реда До или ЯК на имейла.
   
- 3. Изрично добавете потребителите към реда "до" или "Як", ако видимостта на членството не може да бъде променена за групата на SharePoint.
+ 3. Изрично добавете потребителите към реда До или ЯК, ако видимостта на членството не може да бъде променена за SharePoint група.
   
-За да видите повече подробности, вижте [http неоторизирани за/_vti_bin/client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+За да видите повече подробности, вижте HTTP Неупълномощено на [/_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

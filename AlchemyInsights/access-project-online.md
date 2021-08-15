@@ -1,5 +1,5 @@
 ---
-title: Достъп до Project Online
+title: Достъп Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 36f9480cb4bf6e52f0f4cffaca6e5f328ed46cb7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 803c72aac296c1610702cf6bd31cc8b3fa50d0ffa5321a8637186992bd51de3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955118"
 ---
-# <a name="access-project-online"></a>Достъп до Project Online
+# <a name="access-project-online"></a>Достъп Project Online
 
-- За достъп до Project Online първо трябва да се абонирате за [Project Online,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) като го добавите към Office 365, след което се уверете, [че ви е даден лиценз.](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in)
-- Следвайте [тези стъпки,](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) за да добавите потребители към project Online [и да споделите Project Online](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) с тях.
+- За достъп Project Online, първо трябва да се абонирате [за Project Online,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) като го добавите към Office 365, след което се уверете, че [ви е присвоен лиценз](https://docs.microsoft.com/ProjectOnline/step-1-sign-up-for-project-online#next-make-sure-you-can-get-in).
+- Следвайте [тези стъпки,](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online) за да добавите потребители към project Online [и да Project Online с](https://docs.microsoft.com/ProjectOnline/step-2-add-people-to-project-online#4-finally-share-project-online-with-the-people-you-added) тях.
 
-За да дадете на потребителите достъп до сайт на Project Web App с помощта на режима на разрешения на SharePoint:
+За да дадете на потребителите достъп до Project web App, като използвате SharePoint режим на разрешение:
 
 1. Влезте в Project Online като администратор.
-2. На началната страница на Project Web App щракнете **върху Споделяне** в горния десен ъгъл.
-3. В диалоговия **прозорец Споделяне на Project Web App** въведете потребителското име на човека, на когото искате да дадете достъп, в полето **Поканване на** хора.
-4. Щракнете **върху Покажи опциите** и в **менюто Избор на ниво на разрешение** изберете Ръководители на проекти за Project Web **App**.
+2. На началната страница Project Web App щракнете **върху Споделяне** в горния десен ъгъл.
+3. В диалоговия **прозорец Споделяне Project уеб приложение** въведете потребителското име на човека, на когото искате да дадете достъп, в полето **Поканване на хора.**
+4. Щракнете **върху Покажи** опциите и в **менюто Избор на ниво на** разрешение изберете Project Ръководители за Project Web **App**.
 5. Щракнете **върху Споделяне**.
