@@ -11,17 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7433e42b879c21664b3ec681b2c74bd1016906c953cb7b5c60f8b4d57eb9540
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982434"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Планиране, разполагане и управление на Teams Rooms
 
-- [План](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  за Microsoft Teams Room. Това включва[актуализацията на лицензи](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing), [хардуерните изисквания и поддържаните системи за стаи на Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
-- [Конфигуриране на акаунти](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  за стая в Microsoft Teams.
-- [Управлявайте устройства](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  с помощта на центъра за администриране на Teams (трябва да имате администратор на услугата Teams или глобален администратор) и прегледайте [списък с известни проблеми](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
+- [План](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan) за Microsoft Teams стая. Това включва[актуализация на лицензирането,](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing) [хардуерни изисквания и поддържани Microsoft Teams room systems](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
+- [Конфигуриране на акаунти](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts) за Microsoft Teams стая.
+- [Управлявайте](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage) устройства с помощта Teams за администриране (трябва да имате Teams на услугата или роля на глобален администратор) и да [прегледате списък с известни проблеми](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-За повече информация относно планирането, разполагането и управлението на стаи на Microsoft Teams вижте [стая в Microsoft Teams](https://docs.microsoft.com/microsoftteams/rooms/).
+За повече информация относно планирането, разполагането и управлението на Microsoft Teams Rooms вж. [Microsoft Teams Стая](https://docs.microsoft.com/microsoftteams/rooms/).

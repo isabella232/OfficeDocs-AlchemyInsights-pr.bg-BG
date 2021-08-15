@@ -1,5 +1,5 @@
 ---
-title: Разполагане на Microsoft Edge за мобилни устройства за iOS/iPadOS или Android
+title: Разполагане Microsoft Edge за мобилни устройства за iOS/iPadOS или Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005439"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Разполагане на Microsoft Edge за мобилни устройства за iOS/iPadOS или Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Разполагане Microsoft Edge за мобилни устройства за iOS/iPadOS или Android
 
-Примерът с упътвания, обобщен по-долу, ще ви помогне да присвоите Microsoft Edge на потребители на устройства с iOS, iPadOS и Android. След като изпълните тези стъпки, правилата за настройване на Microsoft ще позволят следните функции на Microsoft Edge за бизнеса:
+Примерната ситуация, обобщена по-долу, ще ви помогне да Microsoft Edge на потребителите на устройства с iOS, iPadOS и Android. След като изпълните тези стъпки, Microsoft Intune правилата ще позволят следните функции на Microsoft Edge за бизнеса:
 
-- Dual самоличност
-- Интегриране с правилата за защита на приложения на Microsoft
-- Интегриране с прокси сървър на приложението Azure Active Directory
+- Двойна самоличност
+- Интегриране с правилата Microsoft Intune за защита на приложения
+- Интегриране с Azure Active Directory на приложението
 - Управлявани предпочитани и клавишни комбинации за началната страница
 
 > [!NOTE]
-> Ако сте блокирали потребители да записва мобилни устройства, този сценарий с упътвания няма да работи и потребителите ще трябва сами да инсталират Microsoft Edge.
+> Ако сте блокирали на потребителите да записват мобилни устройства, този ръководен сценарий няма да работи и потребителите ще трябва да инсталират Microsoft Edge сами.
 
-За да разположите Microsoft Edge за Mobile за iOS/iPadOS или Android, вижте:
+За да разположите Microsoft Edge за мобилни устройства за iOS/iPadOS или Android, вижте:
 
-1. [Предпоставки](https://go.microsoft.com/fwlink/?linkid=2133027)
-2. [Въвеждането](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Основите](https://go.microsoft.com/fwlink/?linkid=2133421)
+1. [Предварителни изисквания](https://go.microsoft.com/fwlink/?linkid=2133027)
+2. [Въведение](https://go.microsoft.com/fwlink/?linkid=2133520)
+3. [Основи](https://go.microsoft.com/fwlink/?linkid=2133421)
 4. [Конфигуриране](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Възложени задачи](https://go.microsoft.com/fwlink/?linkid=2132869)
+5. [Задачи](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Преглед и създаване](https://go.microsoft.com/fwlink/?linkid=2133522)

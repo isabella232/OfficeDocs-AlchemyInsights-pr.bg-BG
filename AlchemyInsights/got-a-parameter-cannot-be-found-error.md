@@ -1,5 +1,5 @@
 ---
-title: Има ли грешка "параметър не може да бъде намерен"?
+title: Имате грешка "Параметърът не може да бъде намерен"?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 82279e0b369d06277d83e0af686a46e1107dbabe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1771111b352ee442853db6882471822882521106ddb62ac4b82a2791a989e732
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964109"
 ---
 # <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Мигриране на имейл от IMAP имейл система към Microsoft 365
 
-За да мигрирате имейл от IMAP система за поща, моля, следвайте този процес: [IMAP мигриране в центъра за администриране на Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+За да мигрирате имейл от IMAP пощенска система, следвайте този процес: [IMAP мигриране в Център за администриране на Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Много големи организации ще трябва да планират внимателно за управление на очакванията на потребителите. Страницата [Какво трябва да знаете за мигрирането на вашите IMAP пощенски кутии към статията в Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) ще ви помогне да управлявате промяната. Имайте предвид, че [вече не е необходимо да се извършват миграции чрез IMAP](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
+Много големи организации ще трябва да планират внимателно, за да управляват очакванията на потребителите. Статията [Какво трябва да знаете за мигрирането](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) на вашите IMAP пощенски кутии Microsoft 365 ще ви помогне да управлявате промяната. Обърнете внимание, че мигрирането на G Suite (Google) [вече не е необходимо да се извършва чрез IMAP.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
 
-Моля, също така проверете [приема Microsoft 365 със](https://www.microsoft.com/fasttrack/microsoft-365/office-365) страницата на FastTrack за подпомогната помощ при мигриране, ако е допустима.
+Проверете също страницата [Приемай Microsoft 365 FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) за помощ при мигрирането, ако отговаряте на условията.
   

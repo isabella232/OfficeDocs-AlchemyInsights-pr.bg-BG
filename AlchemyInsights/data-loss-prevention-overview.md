@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005542"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Общ преглед на защитата от загуба на данни (DLP)
 
-Чрез DLP правила можете да направите следното:
+С правилата за DLP можете да:
 
-- Идентифицирате чувствителна информация в много местоположения, като например Exchange Online, SharePoint online и OneDrive за бизнеса.
-
-
-Например можете да идентифицирате всеки документ, съдържащ номер на кредитна карта, който се съхранява във всеки сайт на OneDrive за бизнеса, или можете да следите само сайтовете на OneDrive за определени хора.
-
-- Предотвратяване на случайно споделяне на поверителна информация.
+- Идентифицирайте поверителна информация на много места, като например Exchange Online, SharePoint онлайн и OneDrive за бизнеса.
 
 
-За повече информация вижте [статията](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)по-долу.
+Можете например да идентифицирате всеки документ, съдържащ номер на кредитна карта, който се съхранява във всеки OneDrive за бизнеса сайт, или можете да следите само OneDrive сайтове на определени хора.
+
+- Предотвратяване на случайното споделяне на поверителна информация.
+
+
+За повече информация прегледайте следната [статия.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 
