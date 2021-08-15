@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030225"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>Отговарящи на условията услуги и планове за FastTrack
 
-С помощта на центъра за FastTrack за Office 365 работите отдалечено със специалисти на FastTrack – без допълнителни разходи – за да получите своята среда на Office 365, която е готова за използване. Специалистите на FastTrack могат да ви помогнат, след като закупите поне лицензи за 150.
+С ползата от центъра на FastTrack за Office 365 можете да работите отдалечено със специалистите на FastTrack – без допълнително заплащане – за да подготвите вашата Office 365 среда за използване. Специалистите на FastTrack могат да ви помогнат, след като закупите най-малко 150 лиценза.
 
-За да получите помощ през портала на FastTrack, влезте в [портала на FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) и следвайте стъпките, за да изпълните **искането за помощ с Microsoft 365** Form.
+За да получите помощ чрез портала на FastTrack, влезте в [портала на FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) и следвайте стъпките, за да изпълните заявката **за помощ Microsoft 365** формуляр.
 
 > [!NOTE]
 > Ако имате проблеми с влизането или имате нужда от допълнителна помощ, изпратете имейл до [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-Има разнообразие от FastTrack планове за различните индустрии, от предприятията до учебните заведения.
+Има различни планове, отговарящи на условията за FastTrack, за различни отрасли – от корпоративни фирми до образователни институции.
 
-За да научите повече, вижте [избираеми планове на Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2125459).
+За да научите повече, вижте [Отговарящи на условията Microsoft 365 планове](https://go.microsoft.com/fwlink/?linkid=2125459).
 
-Има набор от отговарящите на условията услуги, от Exchange Online до Microsoft Teams, Microsoft 365 и Windows 10.
+Има асортимент от отговарящи на условията услуги – от Exchange Online до Microsoft Teams, Microsoft 365 и Windows 10.
 
-За пълен списък на услугите, които отговарят на условията, вижте [отговарящи на условията услуги](https://go.microsoft.com/fwlink/?linkid=2125636).
+За пълен списък на отговарящите на условията услуги вижте Отговарящи [на условията услуги](https://go.microsoft.com/fwlink/?linkid=2125636).

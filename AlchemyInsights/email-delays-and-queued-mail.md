@@ -1,5 +1,5 @@
 ---
-title: Виждате ли закъснения по имейл или поща на опашка?
+title: Виждате ли забавяния на имейла или поща в опашка?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030153"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Виждате ли закъснения по имейл или поща на опашка?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Виждате ли забавяния на имейла или поща в опашка?
 
-Наскоро започнахме да отбиваме по-стари SMTP крайни точки. Тези стойности за местоназначение са налични за използване в MX Records и смарт хостове преди 2012. Ако все още използвате една от тези по-стари стойности, ще трябва да актуализирате крайна точка до поддържана стойност. За повече информация вижте тази [поддръжка на KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Наскоро започнахме да обезценяваме по-стари SMTP крайни точки. Тези стойности на местоназначението са налични за използване в MX записи и интелигентни хостове преди 2012 г. Ако все още използвате една от тези по-стари стойности, ще трябва да актуализирате крайната точка до поддържана стойност. За повече информация вижте тази [база данни за поддръжка.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)
