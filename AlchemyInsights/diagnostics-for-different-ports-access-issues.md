@@ -1,5 +1,5 @@
 ---
-title: Диагностициране на проблеми с достъпа до различните портове
+title: Диагностика за различни проблеми с достъпа до портове
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030891"
 ---
-# <a name="diagnostics-for-different-ports-access-issues"></a>Диагностициране на проблеми с достъпа до различните портове
+# <a name="diagnostics-for-different-ports-access-issues"></a>Диагностика за различни проблеми с достъпа до портове
 
-За да разрешите различните проблеми с достъпа до портовете, изпълнете следните стъпки:
+За да отстраните различните проблеми с достъпа до порт, изпълнете следните стъпки:
 
-1. Спрете/деразпределите виртуалната машина (VM) от портала, Рестартирайте VM и Изпробвайте отново. 
-2. Проверете мрежовите настройки на вашата VM, за да определите дали имате блокиращи трафика групи за мрежова защита (NSGs). Можете също да използвате [инструмента за проверка на IP Flow за наблюдение на мрежата](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) , за да проверите за блокиран трафик на NSGs, User-Defined маршрути (UDRs) пренасочване на трафика ви обратно към локален ("маршрут по подразбиране" 0.0.0.0/0) или към мрежово устройство.
-Ако все още имате проблеми, след като сте изпробвали стъпките по-горе, моля, въведете името на VM и TCP порта, към който се опитвате да изпратите поща, за да направите по-нататъшни диагнози.
+1. Спрете/разпределете виртуалната машина (VM) от портала, рестартирайте VM и тествайте отново. 
+2. Проверете мрежовите настройки на вашата VM, за да определите дали имате блокиране на трафика на групите за защита на мрежата (NSGs). Можете също да използвате инструмента за проверка на IP потока на Network [Watcher,](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) за да проверите за NSGs, блокиращи трафика, User-Defined Маршрути (UDRs), които пренасочите трафика обратно към локалния (0.0.0.0/0 маршрут по подразбиране маршрут) или към мрежов уред.
+Ако все още имате проблеми, след като сте опитали стъпките по-горе, посочете името на VM и TCP порта, на който се опитвате да изпратите поща за по-нататъшно диагностициране.
 
 **Препоръчителни документи**
 
-[Ограничения и препоръки за изпращане на изходящи имейли през порт 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)
+[Ограничения и препоръки за изпращане на изходящ имейл през порт 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)
