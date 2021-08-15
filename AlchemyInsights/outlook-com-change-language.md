@@ -1,5 +1,5 @@
 ---
-title: Промяна на езика на вашия език, формат за дата и час или часова зона в Outlook.com
+title: Промяна на езика на вашия език, формат на дата и час или часова зона в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: cb3f720ec270a6bdc1a8ae7f817862e41f71f666
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 616ca679ed3f8d5f2fe5d63e2ee41789e08bcf4bc6809022991d1ede02d8cb49
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984162"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Промяна на езика, формата на датата и часа или часовата зона в Outlook.com
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Промяна на вашия език, формат на дата и час или часова зона в Outlook.com
 
-1. Отворете вашите [Настройки за език и час](https://go.microsoft.com/fwlink/?linkid=2085505).
+1. Отворете настройките [за език и час](https://go.microsoft.com/fwlink/?linkid=2085505).
 1. Изберете езика, формата на датата, формата на часа и часовата зона, които искате да използвате.
-1. Изберете **Запиши**.
+1. Изберете **Записване**.

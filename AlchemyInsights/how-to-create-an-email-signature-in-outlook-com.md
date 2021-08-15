@@ -1,5 +1,5 @@
 ---
-title: 8000047 как се създава имейл подпис в Outlook.com
+title: 8000047 Как да създадете имейл подпис в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,18 +14,18 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 8d1ecd2bf8adbce205ff54e10895f744cb718d52
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: fa0d579c3211c07f42d8ca959cb548579750fea227f6c4911cea099ca66c1bca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993486"
 ---
 # <a name="how-to-create-an-email-signature"></a>Как да създадете имейл подпис
 
-Отидете на вашите [Настройки за съставяне и отговор](https://go.microsoft.com/fwlink/?linkid=2006164) (**Настройки** \> **Преглед на всички настройки** \> **на Outlook съставяне и отговор**).
+Отидете на настройките [за съставяне и отговор](https://go.microsoft.com/fwlink/?linkid=2006164) (**Настройки** Преглед на всички \> **Outlook съставяне** и \> **отговор**).
   
- **Забележка:** Можете да имате само един подпис за един акаунт.
+ **Забележка:** Можете да имате само по един подпис на акаунт.
   
-Научете повече за това как да [създавате и добавяте подпис към имейл в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).
+Научете повече за това [как да създавате и добавяте имейл подпис в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).
 
