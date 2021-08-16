@@ -1,5 +1,5 @@
 ---
-title: Закупуване или изпробване на Microsoft Viva
+title: Закупуване или пробна Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996511"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Закупуване или изпробване на Microsoft Viva
+# <a name="buy-or-trial-microsoft-viva"></a>Закупуване или пробна Microsoft Viva
 
-Темите за Microsoft Viva са налични за закупуване или изпробване [тук](https://aka.ms/BuyVivaTopics).
+Теми на Microsoft Viva е налично за Закупуване или Пробна [версия тук](https://aka.ms/BuyVivaTopics).
 
-Организацията ви ще трябва да използва един от следните абонаменти:
+От вашата организация ще се изисква да използва един от следните абонаменти:
 
-Microsoft 365 F1, F3, E3, a3, E5, A5, Office 365 F3, E1, a1, E3, a3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium или SharePoint K, план 1 или лиценз за план 2, за да отговаряте на условията за теми за Microsoft Viva.
+Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium или SharePoint K, План 1 или План 2, за да отговарят на условията за Теми на Microsoft Viva.
