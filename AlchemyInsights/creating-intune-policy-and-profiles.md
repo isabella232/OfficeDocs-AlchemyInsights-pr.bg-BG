@@ -1,5 +1,5 @@
 ---
-title: Създаване на правила и профили за настройване
+title: Създаване на правила и профили в Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994170"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Създаване на правила за настройване и профили
+# <a name="creating-intune-policy-and-profiles"></a>Създаване на правила и профили в Intune
 
-В съзвучие можете да създавате правила и профили, които се занимават с различни неща.
+В Intune можете да създавате правила и профили, които правят различни неща.
 
-- **Профили за записване**: Конфигурирайте предварително вашите устройства по платформа, разрешете афинитета на потребителите, използвайте многофакторно удостоверяване и др.
+- **Профили за записване:** Преконфигуриране на вашите устройства по платформа, разрешаване на афинитета на потребителите, използване на многофакторно удостоверяване и др.
 
-  [Какво представлява записването на устройства](https://docs.microsoft.com/intune/device-enrollment)и създаването на профили за записване за [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)и [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) са добри ресурси.
+  [Какво е записване на устройства](https://docs.microsoft.com/intune/device-enrollment)и създаване на профили за записване за [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll) [и Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) са добри ресурси.
 
-- **Правила за съответствие**: Дефинирайте правилата и настройките, които трябва да следват устройствата, за да бъдат съвместими. Можете също да използвате правила за съответствие, за да следите устройства и да уведомявате потребителите за несъответствие.
+- **Правила за съответствие:** Дефиниране на правилата и настройките, които устройствата трябва да следват, за да отговарят на изискванията. Можете също да използвате правила за съответствие, за да наблюдавате устройства и да уведомявате потребителите за несъответствие.
 
-  Първи стъпки в [правилата за съответствие на устройства](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Правила за условен достъп**: помощ за защитени организационни ресурси в зависимост от въведените от вас условия. Например за устройства, които не са съвместими, използвайте условен достъп, за да ограничите достъпа до имейл и SharePoint.
+  Първи стъпки в правилата [за съответствие на устройствата](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Правила за условен** достъп: Помогнете за защита на организационните ресурси в зависимост от условията, които въвеждате. Например за устройства, които не отговарят на изискванията, използвайте условен достъп, за да ограничите достъпа до имейл и SharePoint.
 
-  [Какво е условен достъп](https://docs.microsoft.com/intune/conditional-access) и [често използвани начини за използване на условен достъп](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) са добри ресурси, за да започнете.
+  [Какво е условен достъп и](https://docs.microsoft.com/intune/conditional-access) [често срещани начини за използване на условен достъп](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) са добри ресурси, за да започнете.
 
-- **Профили за конфигуриране**: управление на функции и настройки на устройства, включително настройки на имейл, Добавяне на Wi-Fi мрежа, използване на вградени шаблони, управление на функции на устройства с IOS и MacOS и др.
+- **Профили за конфигуриране:** Управление на функции и настройки на устройства, включително настройки за имейл, добавяне на WiFi мрежа, използване на вградени шаблони, управление на функциите на устройства с iOS и macOS и др.
 
-  Първи стъпки в [профилите за конфигуриране на устройството](https://docs.microsoft.com/intune/device-profiles).
+  Първи стъпки в [профилите за конфигуриране на устройства](https://docs.microsoft.com/intune/device-profiles).
 
 Полезни връзки:
 
-- [Често срещани въпроси, проблеми и резолюции с правилата и профилите на устройството в съзвучие](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Често срещани въпроси, проблеми и решения с правила за устройства и профили в Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Отстраняване на проблеми с правилата и профилите](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Отстраняване на неизправности с правила и профили в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
