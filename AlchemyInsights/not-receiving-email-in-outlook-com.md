@@ -1,5 +1,5 @@
 ---
-title: 8000037 не получава имейл в Outlook.com
+title: 8000037 Не получавате имейл в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097331"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>Не получавате поща в Outlook.com
 
-Ако не получавате имейл от определен подател, като например банковите ви извлечения или съобщения за нулиране на паролата, ще трябва да се свържете с подателя, за да знаете, че не получавате имейл в своя акаунт за Outlook.com. Моля, прегледайте подателя [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , където те могат да намерят информация за най-добрите практики, Препоръчайте отстраняване на неизправности и връзка, за да се свържете с нашия екип за поддръжка на податели.
+Ако не получавате имейл от конкретен подател, като например вашите банкови извлечения или съобщения за нулиране на паролата, ще трябва да се свържете с подателя и да му уведомите, че не получавате имейл в акаунта си за Outlook.com. Обърнете се към подателя, където той може да намери информация за най-добрите практики, да препоръча отстраняване на неизправности и връзка, за да [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) се свържете с нашия екип за поддръжка на податели.
   
-Ако вашият акаунт за Outlook.com не получава имейл изобщо, вижте [отстраняване на проблеми при синхронизиране на имейл на Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Ако вашият акаунт за Outlook.com изобщо не получава имейл, вижте Коригиране [на проблеми при синхронизиране на Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 

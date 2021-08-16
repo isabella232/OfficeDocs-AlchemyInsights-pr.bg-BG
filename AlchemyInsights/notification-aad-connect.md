@@ -1,5 +1,5 @@
 ---
-title: Свързване чрез пад на известията
+title: Известие AAD Свързване
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097295"
 ---
-# <a name="notification-aad-connect"></a>Свързване чрез пад на известията
+# <a name="notification-aad-connect"></a>Известие AAD Свързване
 
-- Уверете се, че сте упълномощени за извършване на операцията. Глобалните администратори имат достъп по подразбиране. Освен това можете да използвате [управление на достъпа, базирано на роли](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) , за да предоставите разрешение за регистрация на представители.
-- Уверете се, че задължителните крайни точки са разрешени и не са блокирани поради защитната стена. За подробности вижте [изисквания](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Регистрирането може да се провали поради изходящата комуникация, която се подлага на SSL проверка от мрежовия слой.
-- Уверете се, че сте проверили настройките за известяване за Azure AD Connect Health и прегледайте настройката си. За да разберете как да конфигурирате настройките за известия за уведомления за Azure AD Connect Health, вижте това [ръководство](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
-- За да научите повече за отчета за здравословно синхронизиране на пад-свързване и как да го изтеглите, вижте [отчет за синхронизиране на ниво на обект](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Уверете се, че сте упълномощени да изпълните операцията. Глобалните администратори имат достъп по подразбиране. Освен това можете да използвате контролата за [достъп, базирана на роли, за](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) да делегирате разрешение за регистрация на сътрудник.
+- Уверете се, че задължителните крайни точки са разрешени и не са блокирани поради защитна стена. За подробности вижте [изисквания](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Регистрацията може да е неуспешна поради това, че изходящата комуникация е обект на SSL проверка от мрежовия слой.
+- Уверете се, че сте проверили настройките за известяване за Azure AD Свързване изцели и прегледайте настройката си. За да разберете как да конфигурирате настройките за известия за Azure AD Свързване из изказ, вижте това [ръководство.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)
+- За да научите повече за отчета за синхронизиране на Свързване из изтощиния и как да го изтеглите, вижте Отчет за синхронизиране [на ниво обект](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-За отстраняване на неизправности при известия за изправност на пад следвайте инструкциите [за отстраняване на неизправности за пад на известията за изправност на изправността](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) и често задавани въпроси вижте [Общи въпроси за инсталиране на здравето на пад](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+За отстраняване на неизправности с AAD Свързване предупреждения за изтръпване следвайте ръководството за отстраняване на неизправности за [AAD Свързване](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Предупреждения за свежестта на данните за из из здраве и за често задавани въпроси, вижте [Често срещани AAD Свързване Въпроси за инсталиране на изтръпване](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
