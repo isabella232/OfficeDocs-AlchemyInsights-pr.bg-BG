@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: efef5230aefde5a4d54ec9743cadb7ece78324c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f431fa0b25913719882a6b346b7ddb49e721a756eabf1859132c95ced41843c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010605"
 ---
 # <a name="add-emojis-or-gifs-in-outlook-on-the-web"></a>Добавяне на емоджита или GIF файлове в Outlook в уеб
 
-1. Отговаряте на съществуващ имейл или изберете **ново съобщение**.
-1. Изберете усмихнатото лице <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> в долната част на прозореца за съставяне на ново съобщение, за да отворите екрана изрази.
-1. Можете да потърсите и да изберете емотикон или GIF файл, който искате да вмъкнете.
+1. Отговорете на съществуващ имейл или изберете **Ново съобщение**.
+1. Изберете усмихнатото лице <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> в долната част на прозореца за съставяне, за да отворите екрана Изрази.
+1. Потърсете и изберете емоджито или GIF файла, които искате да вмъкнете.
 
-За повече информация вижте [Персонализиране на вашето имейл съобщение в Outlook в уеб](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).
+За повече информация вижте Персонализиране [на вашето имейл съобщение в Outlook в уеб](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).

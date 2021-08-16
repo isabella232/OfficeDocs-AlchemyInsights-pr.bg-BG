@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045625"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Сравнение на плановете на Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory на планове
 
-Azure Active Directory се предлага в четири издания: безплатно, приложения на Office 365, Premium P1 и Premium P2.
+Azure Active Directory се предлага в четири издания: безплатни, Office 365 приложения, Premium P1 и Premium P2.
 
-Безплатната версия е включена в абонамент за Azure. Първокласните издания са достъпни чрез своя представител на Microsoft, [програмата за отворени корпоративни лицензи](https://go.microsoft.com/fwlink/?linkid=2110873)и [програмите за доставчици на решения в облака](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Безплатното издание е включено в абонамент за Azure. Изданията Premium са достъпни чрез вашия представител на Microsoft, програмата [open Volume License и](https://go.microsoft.com/fwlink/?linkid=2110873)програмите "Доставчици на решения в [облака".](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Абонатите на Azure и Office 365 също могат да закупят Azure Active Directory Premium P1 и P2 онлайн. За да научите повече, вижте [функции и ценообразуване за Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081447).
+Абонатите на Azure Office 365 могат също да купуват Azure Active Directory Premium P1 и P2 онлайн. За да научите повече, [вижте Azure Active Directory функции и цени.](https://go.microsoft.com/fwlink/?linkid=2081447)
