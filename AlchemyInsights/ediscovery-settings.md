@@ -1,5 +1,5 @@
 ---
-title: Настройки за откриване на електронни данни
+title: Настройки на Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101219"
 ---
-# <a name="ediscovery-settings"></a>Настройки за откриване на електронни данни
+# <a name="ediscovery-settings"></a>Настройки на Ediscovery
 
-заявките за откриване на електронни данни/съдържание ви позволяват да търсите, държите и експортирате съдържание от пощенските кутии на Exchange Online, SharePoint online и OneDrive за бизнеса, разговори в Skype за бизнеса, Microsoft Teams и Microsoft 365 Groups.
+Търсения за откриване на електронни данни/съдържание ви позволяват да търсите, държите и експортирате съдържание от пощенски кутии на Exchange Online, SharePoint онлайн и OneDrive за бизнеса сайтове, Skype за бизнеса разговори, Microsoft Teams и Microsoft 365 групи.
 
-- Ако търсите опции на менюто за откриване на електронни данни или съдържание, вижте [въпроси за откриване](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)на електронни данни.
-- Запознайте се с разрешенията, необходими за извършване на търсене на електронни данни от [разрешения, необходими за търсенето на откриване на](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)електронни данни.
-- Ако търсенето не връща очакваните резултати, вижте [търсенето не връща очакваните резултати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ако търсите опциите за менюто "Откриване на електронни данни" или "Търсене на съдържание", вижте Проблеми [с откриване на електронни данни](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Научете повече за разрешенията, необходими за извършване на търсения за откриване на електронни данни от разрешения, необходими за [търсения в](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)откриване на електронни данни .
+- Ако търсенето не връща очакваните резултати, вижте Търсене, което [не връща очакваните резултати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-За повече информация относно откриването на електронни [данни вж.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+За повече информация относно ediscovery вж. [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

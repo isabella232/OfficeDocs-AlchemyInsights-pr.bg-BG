@@ -1,5 +1,5 @@
 ---
-title: Промяна на домейна за групата На Microsoft 365
+title: Промяна на домейна за Microsoft 365 група
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071033"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Промяна на домейна за групата на Microsoft 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>Промяна на домейна за Microsoft 365 група
 
-Ако искате да промените домейна за група на Microsoft 365 по време на създаването, следвайте стъпките в Избор на домейн, който да се използва при създаване на [групи на Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Ако искате да промените домейна за група на Microsoft 365 по време на създаването, следвайте стъпките в Изберете домейна, който да [използвате, когато създавате Microsoft 365 групи](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
-След като групата на Microsoft 365 вече е създадена, в момента няма начин да промените домейна. Единственият начин е да създадете нова група на Microsoft 365 и да изтриете старата, ако е необходимо (допълнителни имейл адреси могат да бъдат добавени чрез центъра [за администриране на Exchange](https://outlook.office365.com/ecp.aspx)).
+След като групата Microsoft 365 вече е създадена, в момента няма начин да промените домейна. Единственият начин е да създадете нова група Microsoft 365 и да изтриете старата, ако е необходимо (допълнителни имейл адреси могат да бъдат добавени [чрез центъра за администриране Exchange ).](https://outlook.office365.com/ecp.aspx)
