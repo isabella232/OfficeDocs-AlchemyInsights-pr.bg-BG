@@ -1,5 +1,5 @@
 ---
-title: Outlook.com за възстановяване на BitLocker
+title: Outlook.com BitLocker възстановяване
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025095"
 ---
 # <a name="bitlocker-recovery"></a>Възстановяване на BitLocker
 
-Отидете на [устройства](https://account.microsoft.com/devices/recoverykey) , за да видите вашите ключове за възстановяване на BitLocker.
+Отидете на [Устройства,](https://account.microsoft.com/devices/recoverykey) за да видите вашите ключове за възстановяване на BitLocker.
 
-Вижте [намиране на моя ключ за възстановяване на BitLocker](https://support.microsoft.com/help/4026181)   за повече информация.
+Вижте [Намиране на моя ключ за възстановяване на BitLocker](https://support.microsoft.com/help/4026181) за повече информация.
