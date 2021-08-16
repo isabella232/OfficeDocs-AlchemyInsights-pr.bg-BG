@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 748008f11b3b480a4003ae4c1e6562fa6f0ce358
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4298bbdb4d9e3f606c5bdf2bd0511ad56809bf616f1b02242519b2172c64e36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035535"
 ---
 # <a name="cant-create-a-team-in-teams"></a>Не можете да създадете екип в Teams
 
-Възможно е администраторът на Teams да не ви е дал необходимите разрешения за създаване на Teams.  
+Вашият Teams може да не ви е дал разрешенията, необходими за създаването на екипи.  
 
-Вижте администратора относно създаването или промяната на настройките на групата за защита на организацията в Microsoft 365. Ако сте добавени към групата за защита, можете да създадете Teams.
+Вижте администратора за създаването или промяната на настройките на групата за защита на организацията в Microsoft 365. Ако сте добавени към групата за защита, можете да създадете екипи.

@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 0c7be98650ca87f36b66f0bb38fb665fc81525b7f3410da14b99fb67468c1e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102560"
 ---
 # <a name="delete-or-restore-applications"></a>Изтриване или възстановяване на приложения
 
-**За да изтриете приложение от своя клиент на AZURE ad**:
+**За да изтриете приложение от вашия клиент на Azure AD:**
 
-1. В **портала на AZURE ad** изберете **корпоративни приложения**. След това намерете и изберете приложението, което искате да изтриете.
-2. В секцията **управление** в левия екран изберете **свойства**.
-3. Изберете **Изтрий**, след което изберете **да** , за да потвърдите, че искате да изтриете приложението от вашия клиент на Azure ad.
+1. В **портала на Azure AD** изберете **Корпоративни приложения**. След това намерете и изберете приложението, което искате да изтриете.
+2. В **секцията** Управление в левия екран изберете **Свойства**.
+3. Изберете **Изтрий** и след това изберете **Да,** за да потвърдите, че искате да изтриете приложението от вашия клиент на Azure AD.
 
-За повече информация как да изтриете приложение, вижте бърз [Старт: Изтриване на приложение от клиент на Azure Active Directory (AZURE ad)](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
+За повече информация как да изтриете приложение, вижте Бързо започване: Изтриване на приложение [от вашия клиент на Azure Active Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant)
 
-В PowerShell командата [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) премахва конфигурациите на прокси сървър за приложения от конкретно приложение в Azure Active Directory и може да изтрие напълно приложението, ако е зададено.
+В PowerShell кратката команда [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) премахва конфигурациите на прокси сървър на приложение от конкретно приложение в Azure Active Directory и може да изтрие приложението напълно, ако е зададено.
 
-Можете да **възстановите изтрито приложение** с помощта на PowerShell. След като приложението, което искате да възстановите, е идентифицирано, можете да го възстановите чрез [възстановяване на AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).
+Можете да **възстановите изтрито приложение с** помощта на PowerShell. След като приложението, което искате да възстановите, е идентифицирано, можете да го възстановите с [помощта на Restore-AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).

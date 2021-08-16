@@ -1,5 +1,5 @@
 ---
-title: Изтриване на потребител, който е сирак от локален сървър
+title: Изтриване на осиротели потребители от локалния сървър
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: 537ae7edebfa5a4ab71c2141d549d732ed4f883f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6af617fa4235868f0754ff4c06f4cc73b1700ef14ea449dd1886ab100ddd384
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102229"
 ---
-# <a name="delete-orphaned-user-from-on-premises-server"></a>Изтриване на потребител, който е сирак от локален сървър
+# <a name="delete-orphaned-user-from-on-premises-server"></a>Изтриване на осиротели потребители от локалния сървър
 
-За да премахнете потребител, който е сирак, изпълнете следните стъпки:
+За да премахнете осиротели потребители, изпълнете следните стъпки:
 
-1. Синхронизиране на форс справочен указател, като следвате инструкциите в [Какво е хибридна самоличност с Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
+1. Принудително синхронизиране на справочника, като следвате инструкциите в Какво е [хибридна самоличност с Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
 
-2. За проверка на синхронизирането на справочен указател вижте [Какво представлява хибридната самоличност с Azure Active Directory?](https://technet.microsoft.com/library/jj151797.aspx).
+2. За да проверите синхронизирането на [справочника, вижте Какво представлява хибридната самоличност с Azure Active Directory?](https://technet.microsoft.com/library/jj151797.aspx).
 
-3. Ако функциите за синхронизиране са правилни, но изтриването на обекти на Active Directory не се разпространява в Azure AD, ръчно премахнете обекта сираци с помощта на един от следните модули на Azure Active Directory за кратки команди на Windows PowerShell:
+3. Ако синхронизирането функционира правилно, но изтриването на обекти на Active Directory не се разпространява в Azure AD, премахнете ръчно сирацирания обект с помощта на един от следните кратки команди на Azure Active Directory на Windows PowerShell:
 
-    Премествам-MsolContact  
-    Премествам-MsolGroup  
-    Премествам-MsolUser
+    Remove-MsolContact  
+    Remove-MsolGroup  
+    Remove-MsolUser
 
-    Например за да премахнете осиротели потребителски ИД на john.smith@contoso.com, който първоначално е създаден с помощта на синхронизиране на справочен указател, изпълнете кратката команда:
+    Например за да премахнете загубени потребителски ИД john.smith@contoso.com, създадени първоначално с помощта на синхронизирането на справочника, изпълнете кратката команда:
 
-    Remove-MsolUser-UserPrincipalName John.Smith@Contoso.com
+    Remove-MsolUser –UserPrincipalName John.Smith@Contoso.com
