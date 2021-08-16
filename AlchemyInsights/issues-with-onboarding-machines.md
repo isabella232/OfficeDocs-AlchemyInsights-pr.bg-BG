@@ -1,5 +1,5 @@
 ---
-title: Проблеми с вградените машини за Microsoft Defender за крайни точки
+title: Проблеми с компютрите за табло към Microsoft Defender за крайни точки
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: 5f2ed08e32694a6d7293abbabb1eddd3d251ceddbd9debf6ec3143bb4fed86db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054679"
 ---
-# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Проблеми с вградените машини за Microsoft Defender за крайни точки
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Проблеми с компютрите за табло към Microsoft Defender за крайни точки
 
-Възможно е да имате проблеми с вградените машини в MDE услугата. Ако имате достъп до крайния потребител, изпълнете следните стъпки:
+Възможно е да имате проблеми с компютрите за табло към MDE услугата. Ако имате достъп до компютъра на крайния потребител, изпълнете следните стъпки:
 
-1. Изтеглете най-новата версия на предварителния преглед на инструмента за диагностика на [анализатори за клиента](https://aka.ms/betamdeanalyzer) .
-2. Щракнете с десния бутон върху **MDEClientAnalyzer. cmd** и изберете "Изпълнявай като администратор".
-3. Следвайте указанията, предложени в **MDEClientAnalyzer.htm**.
-4. За по-подробна информация за регистрите прегледайте създадената подпапка с име **MDEClientAnalyzerResult**.
-5. Ако са необходими допълнителни указания, се обърнете към [поддръжката на Microsoft Defender за крайна точка](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) и предоставете получения MDEClientAnalyzerResult.zip файл за анализ.
+1. Изтеглете най-новата версия за предварителен преглед на [диагностичния инструмент за анализатор на MDE](https://aka.ms/betamdeanalyzer) клиенти.
+2. Щракнете с **десния бутон върху MDEClientAnalyzer.cmd** и изберете "Изпълнявай като администратор".
+3. Следвайте всички указания, предложени **вMDEClientAnalyzer.htm**.
+4. За още многослоен регистрационен файл прегледайте създадената подпапка с име **MDEClientAnalyzerResult**.
+5. Ако са необходими допълнителни указания, се обърнете към [поддръжката на Microsoft Defender за крайна](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) точка и предооръжете получения MDEClientAnalyzerResult.zip файл за анализ.

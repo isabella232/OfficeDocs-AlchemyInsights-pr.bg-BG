@@ -1,5 +1,5 @@
 ---
-title: Преглед или промяна на правило за дневници
+title: Преглед или промяна на правило на дневник
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045085"
 ---
-# <a name="view-or-modify-a-journal-rule"></a>Преглед или промяна на правило за дневници
+# <a name="view-or-modify-a-journal-rule"></a>Преглед или промяна на правило на дневник
 
 Ето как:
 
-1. В [центъра за администриране на Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)отидете на правилата на дневника за управление на **съответствието**  >  .
-2. В списъчния изглед ще видите всички правила за дневници във вашата организация.
+1. В центъра [Exchange администриране отидете](https://go.microsoft.com/fwlink/p/?linkid=2059104)на правила за управление на **съответствието**  >  **в дневника**.
+2. В изгледа на списък ще видите всички правила на дневника във вашата организация.
 3. Щракнете двукратно върху правилото, което искате да прегледате или промените.
-4. В **правило за дневници** променете желаните настройки.
+4. В **правилото за дневник** променете настройките, които искате.
