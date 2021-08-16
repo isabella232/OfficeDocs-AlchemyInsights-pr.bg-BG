@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e4aa70aa22696bea42516b698d109a0c115d024468d4d8ab070b9c337c3e91fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066209"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Общ преглед на лицензирането на Microsoft Stream
 
-Microsoft Stream е услуга в облака, лицензирана на база абонамент за потребител. Предлага се като част от отговарящите на условията абонаменти за Microsoft 365. Вижте Цени на Microsoft 365 за информация за всеки тип абонамент.
+Microsoft Stream е услуга в облака, лицензирана на база абонамент за потребител. Предлага се като част от отговарящите на условията Microsoft 365 абонаменти. Вижте Microsoft 365 за информация за всеки тип абонамент.
 
 - [Общ преглед на лицензирането на Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
