@@ -1,5 +1,5 @@
 ---
-title: Разрешаване или забраняване на правило за дневници
+title: Разрешаване или забраняване на правило в дневника
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058819"
 ---
-# <a name="enable-or-disable-a-journal-rule"></a>Разрешаване или забраняване на правило за дневници
+# <a name="enable-or-disable-a-journal-rule"></a>Разрешаване или забраняване на правило в дневника
 
 Ето как:
 
-1. В [центъра за администриране на Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)отидете на правилата на дневника за управление на **съответствието**  >  .
-2. В списъчния изглед, в колоната " **в** " до името на правилото Поставете отметка в квадратчето, за да разрешите правилата или да го изчистите, за да забраните правилото.
+1. В центъра [Exchange администриране отидете](https://go.microsoft.com/fwlink/p/?linkid=2059104)на правила за управление на **съответствието**  >  **в дневника**.
+2. В изгледа на списък, в **колоната ON** до името на правилото поставете отметка в квадратчето, за да разрешите правилата или да ги изчистите, за да забраните правилото.
