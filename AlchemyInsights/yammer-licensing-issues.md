@@ -1,5 +1,5 @@
 ---
-title: Проблеми с лицензирането в Yammer
+title: Yammer проблеми с лицензирането
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ec764ece9cb7be933e9e2cd002379898522790528b0fa586ab501424b00cd7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989718"
 ---
-# <a name="yammer-licensing-issues"></a>Проблеми с лицензирането в Yammer
+# <a name="yammer-licensing-issues"></a>Yammer проблеми с лицензирането
 
-Всички потребители трябва да имат лиценз за използване на услугата Yammer Enterprise, но по подразбиране Yammer не изисква потребителите да имат лиценз за достъп до услугата. Когато администратор промени настройката за блокиране на потребители на Microsoft 365 без лицензи на Yammer, потребителите, на които не е даден лиценз за yammer Enterprise, нямат достъп до услугата Yammer. За повече информация вижте [управление на потребителските лицензи за Yammer в Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
+Всички потребители трябва да имат лиценз за използване Yammer Enterprise услугата, но по подразбиране Yammer не изисква потребителите да имат лиценз за достъп до услугата. Когато администратор промени настройката, за да блокира Microsoft 365 потребители без лицензи Yammer, потребителите, на които не е присвоен лиценз за Yammer Enterprise, няма да имат достъп до Yammer услугата. За повече информация вижте Управление [на Yammer потребителски лицензи в Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Когато лицензи се премахват от потребители, плочката Yammer вече не се показва и други услуги могат да използват премахването на лицензи, за да скриват функции. В други случаи функциите все още могат да се появяват, но изисква присвояване на лиценз за работа.  
+Когато лицензите се премахват от потребители, плочката Yammer вече не се показва, а други услуги могат да използват премахването на лицензи, за да скрият функциите. В други случаи функциите все още могат да се показват, но изискват назначаване на лиценз за работа.  
 
 **Лицензът не се актуализира за потребителя**  
 
-Понякога на даден потребител е присвоен лиценз, но все още не може да получи достъп до Yammer. Забавянето е по-вероятно да възникне, когато се изпълнява задача за масово лицензиране. Потребителите на Yammer може да не се актуализират по същия начин, по който се променят лицензите в Azure AD, тъй като системата се стартира асинхронно. Изчакайте до 24 часа, преди да отворите калъф за поддръжка, за да съобщите за проблеми при синхронизиране на лицензи.  
+Понякога на даден потребител се дава лиценз, но все още не може да получи достъп Yammer. Има по-голяма вероятност да възникнат закъснения, когато се в ход се присвояване на масов лиценз. Yammer може да не се актуализират в същия ред като лицензите в Azure AD, тъй като системата се изпълнява асинхронно. Изчакайте до 24 часа, преди да отворите случай на поддръжка, за да съобщите за проблеми със синхронизирането на лицензи.  
 
-**Присвояване на групови лицензи**  
+**Групово присвояване на лицензи**  
 
-Лицензи могат да бъдат присвоени чрез скриптове на центъра за администриране или PowerShell. За повече информация вижте даване [на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) и даване [на лицензи на потребителски акаунти с Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Лицензите могат да бъдат присвоени чрез центъра за администриране или скриптовете на PowerShell. За повече информация вижте [Дайте лицензи на потребители и](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) [Дайте лицензи на потребителски акаунти с Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
 
-Поддръжката на Microsoft не предоставя съдействие при създаването на скриптове, но документацията за даване на лиценз за Yammer е налична. За повече информация вижте [управление на лицензи за Yammer с помощта на Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Поддръжката на Microsoft не предоставя помощ при създаването на скриптове, но е налична документация Yammer на лицензи. За повече информация вижте Управление [на Yammer лицензи с помощта на Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
