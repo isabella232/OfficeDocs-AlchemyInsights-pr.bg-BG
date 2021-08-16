@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на неизправности при правилата и профилите за настройване
+title: Отстраняване на неизправности с правилата и профилите на Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058171"
 ---
-# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Отстраняване на неизправности при правилата и профилите за настройване
+# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Отстраняване на неизправности с правилата и профилите на Intune
 
-За да видите съществуващите правила, отстраняване на конфликти, преглед на данните в регистрационните файлове и виждане на често срещани въпроси и проблеми, следните ръководства могат да ви помогнат:
+За да видите съществуващите правила, да отстранявате конфликти, да преглеждате регистрационни данни и да виждате често срещани въпроси и проблеми, следните ръководства може да ви помогнат:
 
-- [Отстраняване на проблеми с правилата и профилите](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [Често срещани въпроси, проблеми и резолюции с правилата и профилите на устройството в съзвучие](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
-- [Наблюдение на профили на конфигурацията на устройството и преглед на конфликтите в настройка](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
-- [Отстраняване на неизправности при съответствие на устройства и условен достъп](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
-- [Следене на правилата за съответствие и преглед на конфликтите в съзвучие](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
+- [Отстраняване на неизправности с правила и профили в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Често срещани въпроси, проблеми и решения с правила за устройства и профили в Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [Следене на профилите за конфигуриране на устройства и преглед на конфликтите в Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
+- [Отстраняване на неизправности при съответствие с устройството и условен достъп в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Наблюдение на правилата за съответствие и преглед на конфликтите в Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 
 [Прочетете повече...](https://docs.microsoft.com/mem/intune/configuration/device-profiles)

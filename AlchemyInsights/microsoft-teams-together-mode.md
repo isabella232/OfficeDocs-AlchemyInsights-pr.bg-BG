@@ -1,5 +1,5 @@
 ---
-title: Режим на Microsoft Teams заедно
+title: Microsoft Teams Режим "Заедно"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012225"
 ---
-# <a name="microsoft-teams-together-mode"></a>Режим на Microsoft Teams заедно
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Режим "Заедно"
 
-Бутонът "заедно" съчетава десетилетия на изследване и разработване на продукти за участниците във видео разговор, за да изглежда, че са заедно във виртуалното пространство, като например аудитория, заседателна зала или кафе-бар. 
+Режимът "Заедно" комбинира десетки проучвания и разработване на продукти за участниците във видеоразбиране, за да изглежда, че са заедно във виртуално пространство, като например аудитория, зала за събрания или кафе-бар. 
 
-Новата функция изоставя традиционната мрежа от полета, като създава среда, в която потребителите казват, че има силно влияние върху Конференцията за видео и предоставя повече единство на групата. За да научите повече за режима за един и същи начин, вижте [как да се възползвате максимално от режима на свързване](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Новата функция режда традиционната мрежа от полета, създавайки среда, за която потребителите казват, че оказва дълбоко въздействие върху усещането на видеоконференцията и осигурява по-голямо сближаване за групата. За да научите повече за режима "Заедно", вижте [Как да получите максимума от режима "Заедно".](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)  
 
-За повече информация относно начина, по който режимът на съвместно ще бъде наличен за вашата организация, вижте пътната карта на Microsoft 365, [Microsoft Teams – съвместно режим](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+За повече информация кога режимът "Заедно" ще бъде наличен за вашата организация, вж. Microsoft 365 Пътна [карта, Microsoft Teams – режим "Заедно"](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

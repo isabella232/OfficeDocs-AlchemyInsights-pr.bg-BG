@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012153"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To do Cross-клиент споделяне
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do споделяне между клиента
 
-Microsoft To do поддържа споделяне на списък между лични и служебни акаунти. Това позволява на потребителите във вашата организация
+Microsoft To Do поддържа споделяне на списъци между лични и работни акаунти. Това позволява на потребителите във вашата организация
 
-да се присъединяват, преглеждат, променят и добавят данни към списъци, собственост на лични акаунти в Microsoft.
+да се присъединявате, преглеждате, променяте и добавяте данни към списъци, притежавани от лични акаунти в Microsoft.
 
-За администраторите е налична нова настройка на администратор, за да забраните тази функция, като премахнете отметката от опцията.
+За администраторите е налична нова настройка за администратор, за да забранят тази функция, като отмятат опцията.
 
-Администраторът може да намери тази настройка в портала за администратори под **Settings**  >  **Org Settings**  >  **Services** Settings  >  **Microsoft To do** .  
+Администраторът може да намери тази настройка в портала за **администриране под Настройки**  >  **Org Настройки**  >  **Services**  >  **Microsoft To Do**.  
 
 [Защо не мога да се присъединя към споделен списък?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
