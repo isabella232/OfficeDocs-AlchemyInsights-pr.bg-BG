@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004792"
 ---
 # <a name="download-and-install-office"></a>Изтегляне и инсталиране на Office
 
-Вашият **абонамент за Business Essentials** не включва приложенията на Microsoft 365. За да получите Office, ще трябва да надстроите до **абонамента за Business** **или Business Premium.** Прегледайте наличните абонаменти с Office тук: [Microsoft 365 за бизнеса](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Вашият **абонамент за Business Essentials** не включва Microsoft 365 приложения. За да получите Office, ще трябва да надстроите до абонамента **за** бизнес **Premium** бизнеса. Прегледайте наличните абонаменти с Office тук: [Microsoft 365 за бизнеса](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

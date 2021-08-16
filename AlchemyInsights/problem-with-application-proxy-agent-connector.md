@@ -1,5 +1,5 @@
 ---
-title: Имам проблем със свързващия агент на приложението пълномощник
+title: Имам проблем с конектора за прокси сървър на приложението
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49884781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039703"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Имам проблем със свързващия агент на приложението пълномощник
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Имам проблем с конектора за прокси сървър на приложението
 
-1. Конекторът за прокси сървър на приложението Microsoft Azure Active Directory е вътрешен компонент на домейн, който използва изходящи връзки, за да установи връзката от наличните в облака крайна точка към вътрешния домейн.
-1. Ако имате проблеми с инсталирането на конектора на прокси сървъра на приложението, следвайте [тези стъпки](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) , за да отстраните проблема.
-1. Ако използвате услугата за прокси сървър на приложението за отдалечен достъп до локално уеб приложение, но имате проблеми със свързването към приложението, използвайте [тази статия](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) , за да ви помогне да отстраните проблеми с конектори за прокси сървъри на Azure Active Directory (Azure ad).
+1. Microsoft Azure Active Directory Конекторът за прокси сървър на приложение е компонент на вътрешен домейн, който използва изходящи връзки, за да установи връзката от налична крайна точка в облака към вътрешния домейн.
+1. Ако имате проблеми с инсталирането на конектора за прокси сървър на приложение, следвайте тези [стъпки, за да отстраните](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) неизправностите.
+1. Ако използвате услугата прокси сървър за приложения за отдалечен достъп до локално уеб приложение, но [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) имате проблеми при свързването към приложението, използвайте тази статия, за да ви помогне да отстраните проблеми с конекторите за прокси сървър на приложение Azure Active Directory (Azure AD).

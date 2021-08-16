@@ -1,5 +1,5 @@
 ---
-title: Управление на Live надписи за образователни организации
+title: Управление на надписи на живо за организации в education
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066677"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Управление на Live надписи за образователни организации
+# <a name="managing-live-captions-for-education-organizations"></a>Управление на надписи на живо за организации в education
 
-Препоръчваме администраторите на образователната организация да използват пакети с правила за безопасност и преподаватели за учащи и преподаватели. За допълнителна информация вж:  
+Препоръчваме администраторите на образователни организации да обмислят използването на пакети с правила за безопасността и преподавателите на ученици и преподаватели. За допълнителна информация вж:  
 
 - [Пакети с правила в Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Правилата, които трябва да бъдат възложени за безопасността на учениците](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Правила, които трябва да бъдат зададени за безопасността на учениците.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Правилата, които трябва да бъдат възлагани за преподавателите](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Правила, които трябва да бъдат зададени за преподаватели.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Ако искате да управлявате само възможностите за разрешаването на живи надписи, вижте [Разрешаване на надписи на живо](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). За повече информация вижте [управление на правила за събрания в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Ако искате да управлявате само възможността за разрешаване на надписи на живо, вижте [Разрешаване на надписи на живо](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). За повече информация вижте Управление [на правилата за събрания в Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

@@ -1,5 +1,5 @@
 ---
-title: Повече информация за DLP проблемите
+title: Повече информация за проблеми с DLP
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030819"
 ---
 # <a name="information-about-dlp-issues"></a>Информация за DLP проблеми
 
 **Важно**: през тези безпрецедентни времена ние предприемаме стъпки, за да гарантираме, че услугите на SharePoint Online и OneDrive остават на пълно разположение – за повече информация посетете [Временни корекции на функции на SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Информация за DLP правила**
+**Информация за правилата за DLP**
 
-Чрез DLP правила можете да идентифицирате, наблюдавате и автоматично да защитавате поверителна информация в Microsoft 365.
+С правилата за DLP можете да идентифицирате, наблюдавате и автоматично да защитавате поверителна информация в Microsoft 365.
 
-Моля, посетете тези връзки за повече информация:
+Посетете тези връзки за повече информация:
 
-- [Общ преглед на защитата от загуба на данни](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Какви типове чувствителна информация търсите](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Създаване на тип чувствителна информация по избор](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Изпращане на известия по имейл и показване на съвети за правилата](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Защита на файлове на SharePoint online с етикети за съхранение и DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Общ преглед на предотвратяването на загуба на данни](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Какво търси типовете поверителна информация](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Създаване на тип поверителна информация по избор](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Изпращане на имейл известия и показване на съвети за правила](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Защита SharePoint онлайн файлове с етикети за съхранение и DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP и Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-За да тествате вашите данни с помощта на вграден или персонализиран тип информация, използвайте опцията **тип** на теста **под**  >  **типове чувствителна информация**. За повече информация вижте [проверка на типовете чувствителна информация по избор](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+За да тествате данните си с вграден или  персонализиран тип поверителна информация, използвайте опцията Тип тест под **Типове поверителна информация**  >  **за класификации.** За повече информация вижте Тестване на [типове поверителна информация по избор.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
