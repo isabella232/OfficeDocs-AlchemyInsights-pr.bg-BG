@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031395"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Разполагане на добавки за Приложения на Microsoft 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "52233502"
 **Забележка:** За да инсталирате добавки за Office като отделен потребител, вижте [Преглед, управление](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)и инсталиране на добавки в Office програми . Също така се уверете, че е разрешено индивидуално Office на добавки в магазина. За подробности вижте Предотвратяване на изтегляния на добавки, като изключите Office store за всички клиенти [(с изключение Outlook)](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook).
 
 1. Уверете се, че вашата среда отговаря на изискванията за разполагане на добавки с помощта на централизирано разполагане. За подробности вижте [Изисквания](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Отидете на **Настройки** Приложения Получаване на приложения  >    >   в центъра за Microsoft 365 за администриране, за да разположите добавки. 
+2. Отидете на **Настройки**  >  **Интегрирани приложения** Вземете  >  **приложения** в Център за администриране на Microsoft 365, за да разположите добавки. 
 
 Бележки: 
 
@@ -46,6 +46,6 @@ ms.locfileid: "52233502"
 [Разполагане на добавки в центъра за администриране](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Управление на добавки в центъра за администриране](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Използване на кратки команди на PowerShell за централизирано разполагане за управление на добавки](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Публикуване Office добавки с помощта на централизирано разполагане чрез центъра Microsoft 365 администриране](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Публикуване Office добавки чрез централизирано разполагане чрез Център за администриране на Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Отстраняване на неизправности: Потребител не вижда добавки](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Отстраняване на грешки на потребители Office добавки](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
