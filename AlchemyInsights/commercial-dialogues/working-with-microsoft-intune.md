@@ -1,5 +1,5 @@
 ---
-title: Работа в Microsoft за настройване
+title: Работа в Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069881"
 ---
-# <a name="working-in-microsoft-intune"></a>Работа в Microsoft за настройване
+# <a name="working-in-microsoft-intune"></a>Работа в Microsoft Intune
 
-Ето някои основи на настройването:
+Ето някои основни положения на Intune:
 
-- [Какво е ненастроие?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
-- [Как да се запиша за изпробване в настройка?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Настройване на "Настройка" за първи път](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Какво представлява записването на устройството?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Използвайте портала за отстраняване на неизправности, за да помогнете на потребителите във вашата фирма](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Какво представлява Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
+- [Как да се запишете за пробната версия на Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
+- [Настройване на Intune за първи път](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Какво представлява записването на устройство в Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Използване на портала за отстраняване на неизправности, за да помогнете на потребителите във вашата фирма](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Прочетете повече за Microsoft за настройване...](https://docs.microsoft.com/mem/intune/)
+[Прочетете повече за Microsoft Intune...](https://docs.microsoft.com/mem/intune/)
