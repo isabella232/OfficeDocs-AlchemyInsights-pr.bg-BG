@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998132"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Често срещани проблеми и решения на Visio
 
@@ -25,7 +25,7 @@ ms.locfileid: "51806575"
 
 **Опции за Visio Online**
 
-- Visio се продава като [самостоятелно приложение](https://products.office.com/visio/flowchart-software). Администраторите могат да [закупят абонамента за Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) от центъра за администриране на Microsoft 365.
+- Visio се продава като [самостоятелно приложение](https://products.office.com/visio/flowchart-software). Администраторите могат да [закупят Visio абонамента](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) от Център за администриране на Microsoft 365.
 
 - Visio предлага [различни абонаментни планове](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Ако не намирате функция във Visio, [сравнете опциите за Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), за да научите повече за разликите между план 1 и план 2.  Обърнете внимание, че Visio Online (план 1) не включва настолна версия на Visio.
 
