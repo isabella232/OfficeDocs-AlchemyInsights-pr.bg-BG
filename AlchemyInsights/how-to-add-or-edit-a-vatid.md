@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868371"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502165"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Как се добавя или редактира VatID
 
@@ -34,4 +34,4 @@ ms.locfileid: "57868371"
 3. На страницата с подробни данни за абонамента, в **секцията Адрес за използване** на услугата изберете **Редактиране на адрес за използване на услугата**.
 4. В екрана **Редактиране на адреса за използване на услугата** въведете своя ИД по ДДС в полето НОМЕР ПО **ДДС,** след което изберете **Запиши**. След като направите това, ДДС няма да бъде таксуван за следващата ви сметка.
 
-За да научите повече, [вижте Какъв данък ще таксувам за Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+За да научите повече, [вижте Какъв данък ще таксувам за Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com не може да получи кодове за проверка
+title: Outlook.com не може да получава кодове за потвърждение
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064193"
 ---
-# <a name="cant-get-verification-codes"></a>Не могат да се получат кодове за проверка
+# <a name="cant-get-verification-codes"></a>Не мога да получа кодове за потвърждение
 
-Ако не можете да получите достъп до своя алтернативен имейл адрес или телефонен номер, отидете на страницата си [Основи на защитата](https://account.microsoft.com/security) на вашия акаунт в Microsoft, изберете не **разполагам с никое от тези** на страницата за влизане, след което следвайте инструкциите, за да заместите вашата информация за защита.
+Ако нямате достъп до алтернативния си имейл или телефонен [](https://account.microsoft.com/security) номер, отидете  на страницата Основи на защитата на вашия акаунт в Microsoft, изберете Нямам такива на страницата за влизане и следвайте инструкциите, за да заместите вашата информация за защита.
 
-*Забележка:* [Приложението Microsoft Удостоверител](https://go.microsoft.com/fwlink/?linkid=2016117) не изисква интернет връзка, за да ви предостави код за проверка.
+*Забележка:* Приложението [Microsoft Authenticator не](https://go.microsoft.com/fwlink/?linkid=2016117) изисква интернет връзка, за да ви предостави код за потвърждение.
 
-За да научите повече, прочетете [информация за защита и кодове за проверка за акаунт в Microsoft](https://support.microsoft.com/help/12428/).
+За да научите повече, прочетете [информацията за защита на акаунта в Microsoft и кодовете за потвърждение.](https://support.microsoft.com/help/12428/)
