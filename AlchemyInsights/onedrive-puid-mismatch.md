@@ -1,5 +1,5 @@
 ---
-title: Несъответствие на OneDrive PUID
+title: OneDrive Несъответствие на PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096719"
 ---
-# <a name="onedrive-puid-mismatch"></a>Несъответствие на OneDrive PUID
+# <a name="onedrive-puid-mismatch"></a>OneDrive Несъответствие на PUID
 
-Изглежда, че имате [несъответствие с ИД](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive за бизнеса. За да ни разрешите да ви помогнем най-рано, направете следните стъпки:
+Изглежда, че имате несъответствие на [ИД в](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive за бизнеса. За да ни разрешите да ви помогнем най-рано, изпълнете следните стъпки:
 
-1. Щракнете върху  **Свързване с поддръжката**, след което изберете  **ново искане за обслужване**.
-2. Оставете заглавието и описанието като  **несъответствие на потребителски ИД за сайта на OneDrive**.
+1. Щракнете  **върху Връзка с поддръжката** и след това върху Ново искане за  **услуга**.
+2. Оставете заглавието и описанието **като несъответствие OneDrive потребителски ИД на сайт**.
 3. След като билетът е подаден, актуализирайте го със следната информация:
-    - URL адресът на сайта на OneDrive, който е засегнат.
+    - OneDrive на сайта, който е засегнат.
     - Основно потребителско име (UPN) на засегнатия потребител.

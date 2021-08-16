@@ -1,5 +1,5 @@
 ---
-title: Outlook.com промяна на облика на вашата пощенска кутия
+title: Outlook.com променете изгледа на пощенската си кутия
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096467"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Промяна на облика на вашата пощенска кутия на Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Промяна на изгледа на вашата пощенска кутия Outlook.com
 
-Можете да променяте облика на списъка със съобщения и екрана за четене в Outlook.com.
+Можете да промените облика на списъка със съобщения и екрана за четене в Outlook.com.
 
-- За да промените оформлението на прозореца на съобщението, Отворете опциите на [екрана за четене](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- За да промените начина на сортиране на имейла ви, в горната част на списъка със **Filter**съобщения изберете  >  **сортиране по** филтър и изберете как искате да сортирате имейла си.
-- За да групирате съобщенията по разговор, Отворете опциите за [организацията на съобщения](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- За да включите или изключите "фокусирани Входящи", отворете вашите опции за [оформление](https://outlook.live.com/mail/options/mail/layout/focused) .
+- За да промените оформлението на прозореца на съобщението, отворете [опциите на екрана за](https://outlook.live.com/mail/options/mail/layout/readingPane) четене.
+- За да промените начина на сортиране на вашия имейл, в горния край на списъка със съобщения изберете Филтриране на сортирането по и изберете как  >   искате да сортирате имейла си.
+- За да групирате съобщенията си по разговор, отворете опциите [на организацията за съобщения.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- За да включите или изключите "Фокусирани входящи", отворете опциите [за оформление.](https://outlook.live.com/mail/options/mail/layout/focused)
