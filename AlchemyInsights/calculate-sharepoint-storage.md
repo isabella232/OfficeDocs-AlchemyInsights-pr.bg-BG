@@ -1,5 +1,5 @@
 ---
-title: Изчисляване на мястото за съхранение в SharePoint
+title: Изчисляване SharePoint място за съхранение
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046417"
 ---
-# <a name="calculate-sharepoint-storage"></a>Изчисляване на мястото за съхранение в SharePoint
+# <a name="calculate-sharepoint-storage"></a>Изчисляване SharePoint място за съхранение
 
-**Формула за съхранение:** 1 ТБ плюс [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 10 ГБ на лиценз за закупен план, който отговаря на условията, плюс всяка закупена добавка за допълнително място за съхранение на файлове на **[Office 365.](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)**
+**Формула за съхранение:** 1 ТБ плюс [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 10 ГБ на лиценз за закупен план, **[който отговаря на условията, Office 365 Extra File Storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** всички закупени добавки.
 
-За повече информация вижте Ограничения за [място за съхранение на SharePoint по план](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+За повече информация вижте SharePoint [за съхранение по план](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).

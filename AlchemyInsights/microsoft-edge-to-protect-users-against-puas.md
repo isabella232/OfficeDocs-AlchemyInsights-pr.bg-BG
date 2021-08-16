@@ -1,5 +1,5 @@
 ---
-title: Използвайте Microsoft Edge, за да защитите потребителите от PUAs
+title: Използване Microsoft Edge за защита на потребителите от PUAs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000489"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Използвайте Microsoft Edge, за да защитите потребителите от PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Използване Microsoft Edge за защита на потребителите от PUAs
 
-Версиите Microsoft Edge 80.0.361.50 и по-нов блокират изтеглянето на потенциално нежелани приложения (PUAs) и свързаните URL адреси. За да включите тази функция, направете следното:
+Microsoft Edge версии 80.0.361.50 и по-нови блокират изтегляния на потенциално нежелани приложения (PUAs) и свързаните URL адреси. За да включите тази функция, направете следното:
 
-1. Отидете в   >  **поверителност и услуги** на настройки в браузъра.
+1. Отидете на **Настройки**  >  **поверителност и услуги** в браузъра.
 
-2. Превъртете надолу до секцията **услуги** и се уверете, че **Microsoft Defender SmartScreen** и **Блокирай потенциално нежелани приложения** , са активирани.
+2. Превъртете **надолу до** секцията Услуги **и се уверете, Microsoft Defender SmartScreen** и **Блокиране на потенциално нежелани приложения** са включени.
 
-    Следващият път, когато Microsoft Defender SmartScreen открие PUA, той ще го блокира и уведомява съответно за вас.
+    Следващия път, Microsoft Defender SmartScreen открие PUA, той ще го блокира и ще ви уведоми съответно.
 
-    За да научите повече, вижте [как да блокирате срещу свързаните с Pua URL адреси](https://go.microsoft.com/fwlink/?linkid=2133024).
+    За да научите повече, вижте [как да блокирате url адреси, свързани с PUA.](https://go.microsoft.com/fwlink/?linkid=2133024)
