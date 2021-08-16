@@ -1,5 +1,5 @@
 ---
-title: Блокиране на елементи в папка "нежелана поща"
+title: Блокиране на елементи в папката "Нежелана поща"
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e19036bfbcae2e79833d90ab3bb2ab2f1b308f21569c89a8c3ab2ac321c4214a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025059"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Блокиране на елементи във вашата папка "нежелана поща"
+# <a name="blocking-items-in-your-junk-email-folder"></a>Блокиране на елементи в папката "Нежелана поща"
 
-Блокирането на елемент, който вече е във вашата папка "нежелана поща", ще бъде изтрито. Елементите във вашата [папка "нежелана поща"](https://outlook.live.com/mail/junkemail) се изтриват автоматично след 30 дни. Изберете елемент във вашата папка "нежелана поща", за да видите кога ще бъде изтрит.
+Блокирането на елемент, който вече е в папката "Нежелана поща", ще го изтрие. Елементите във вашата [папка "Нежелана](https://outlook.live.com/mail/junkemail) поща" се изтриват автоматично след 30 дни. Изберете елемент в папката "Нежелана поща", за да видите кога ще бъде изтрит.
 
-Научете повече за това как да [блокирате податели или да маркирате имейлите като нежелана](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)поща.
+Научете повече за това как да [блокирате податели или да маркирате имейл като нежелана поща.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)

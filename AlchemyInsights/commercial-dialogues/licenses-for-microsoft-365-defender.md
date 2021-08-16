@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967970"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Лицензи за Microsoft 365 Defender
 
-Следните лицензи предоставят безплатен достъп до функциите на Microsoft 365 Defender в центъра за защита на Microsoft 365:
+Следните лицензи предоставят безплатен достъп до Microsoft 365 Defender функции в центъра за Microsoft 365 защита:
 
 - Microsoft 365 E5 или A5
 - Microsoft 365 E5 Security или A5 Security
@@ -30,12 +30,12 @@ ms.locfileid: "50743818"
 - Office 365 E5 или A5
 - Microsoft Defender за крайна точка
 - Microsoft Defender за самоличност
-- Защита на приложението в облака на Microsoft
+- Microsoft Cloud App Security
 - Microsoft Defender за Office 365 (план 2)
 
     > [!NOTE]
-    > В този момент пробните лицензи за Office 365 не предоставят достъп до Microsoft 365 Defender.
+    > Към момента пробните лицензи за Office 365 не предоставят достъп до Microsoft 365 Defender.
 
-За повече информация вижте сравнение на [плановете на Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/?linkid=2143458).
+За повече информация вижте сравнението [на Microsoft 365 Enterprise планове](https://go.microsoft.com/fwlink/?linkid=2143458).
 
-Все още нямате лиценз? [Изпробвайте или Купете абонамент за Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143625).
+Все още нямате лиценз? [Изпробвайте или купете Microsoft 365 абонамент](https://go.microsoft.com/fwlink/?linkid=2143625).

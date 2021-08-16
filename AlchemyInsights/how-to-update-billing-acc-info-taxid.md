@@ -1,5 +1,5 @@
 ---
-title: Актуализиране на информацията за акаунт за фактуриране
+title: Как да актуализирате информацията за акаунта за фактуриране
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015321"
 ---
-# <a name="how-to-update-billing-account-information"></a>Актуализиране на информацията за акаунт за фактуриране
+# <a name="how-to-update-billing-account-information"></a>Как да актуализирате информацията за акаунта за фактуриране
 
-Преди да закупите услуги, които имат такса, трябва да добавите или актуализирате фирмения адрес на вашата организация, имейл адреса на контакта и името на контакта.
+Преди да закупите услуги, които имат такса, трябва да добавите или актуализирате бизнес адреса на вашата организация, да се свържете с имейл адреса и името на контакта.
 
-Ние използваме фирмения адрес, за да изчислим данъка върху продажбите и ДДС. Ако искате да актуализирате своя данък/ДДС номер, той може да го стори, като следвате стъпките по-долу:
+Използваме адреса на бизнеса, за да изчислим данъка върху продажбите и ДДС. Ако искате да актуализирате своя НОМЕР ПО ДДС/ДДС, собственикът на акаунта за фактуриране за вашето споразумение с клиенти на Microsoft може да направи това, като следва следните стъпки:
 
-**За да актуализирате информацията за акаунт за фактуриране и да актуализирате данъчния си номер**:
+**За да актуализирате информацията за акаунта за фактуриране и да актуализирате своя ДАНЪЧЕН ИД:**
 
-1. Влезте в магазина на [Microsoft за фирми](https://businessstore.microsoft.com/).
-1. Щракнете върху **управление** на  >  **акаунт за фактуриране**.
-1. От **общ преглед** щракнете върху **Редактиране на информация за акаунт за фактуриране**.
-1. Направете своите актуализации и след това щракнете върху **Запиши**. 
+1. Влезте в [Microsoft Store за бизнеса](https://businessstore.microsoft.com/).
+1. Щракнете върху **Управление на** акаунти  >  **за фактуриране**.
+1. От **Общ преглед** щракнете върху Редактиране на информация за акаунт за **фактуриране**.
+1. Направете актуализациите си и след това щракнете върху **Запиши**. 
 
-**Препоръчвани документи**
+**Препоръчителни документи**
 
-- [Разберете вашата МСА фактура](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Разбиране на вашата фактура за MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Преглеждате и изтегляте данъчни документи за вашата фактура за Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Преглед и изтегляне на данъчни документи за вашата фактура в Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Актуализиране на настройките за акаунт за фактуриране](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Актуализиране на настройките на акаунта за фактуриране](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
