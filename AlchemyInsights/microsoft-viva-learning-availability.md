@@ -1,5 +1,5 @@
 ---
-title: Достъпност на Microsoft Viva Learning
+title: Обучение на Microsoft Viva Наличност
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097907"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Достъпност на Microsoft Viva Learning
+# <a name="microsoft-viva-learning-availability"></a>Обучение на Microsoft Viva Наличност
 
-Започвайки през февруари 2021, ние преглеждаме приложението Viva Learning за Teams с малък брой клиенти и партньори и очакваме да го направим общодостъпни по-късно тази година. Насърчаваме ви да се [регистрирате тук](https://aka.ms/VivaLearningSignup) , за да научите повече за Viva Learning, включително допълнителни подробности за нови преживявания, тъй като те стават достъпни.
+От февруари 2021 г. визуализираме приложението Viva Learning за Teams с малък брой клиенти и партньори и очакваме да го направим общодостъпно по-късно тази година. Препоръчваме ви да се [запишете тук,](https://aka.ms/VivaLearningSignup) за да научите повече за viva Learning, включително повече подробности за новите изживявания, когато станат достъпни.
 
-За повече информация вижте [обявяване на Microsoft Viva обучение за личен предварителен преглед](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+За повече информация вижте [Обявяване на Обучение на Microsoft Viva лична визуализация](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
