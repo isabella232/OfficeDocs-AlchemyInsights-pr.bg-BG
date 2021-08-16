@@ -1,5 +1,5 @@
 ---
-title: Съветник за Microsoft Defender за Office 365
+title: Microsoft Defender за Office 365 съветник
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098088"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Съветник за Microsoft Defender за Office 365
+# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender за Office 365 съветник
 
-[Съветникът за Microsoft Defender за Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) защитава организацията ви срещу злонамерени заплахи, които вашата среда може да срещне чрез имейл съобщения, връзки и инструменти за сътрудничество от други разработчици. Това ръководство ви предоставя ресурси и информация, които ще ви помогнат да подготвите и идентифицирате план на Microsoft Defender, за да отговаря на нуждите на вашата организация.
+Съветникът [на Microsoft Defender за Office 365 защитава](https://go.microsoft.com/fwlink/?linkid=2146614) вашата организация от злонамерени заплахи, на които вашата среда може да попадне чрез имейл съобщения, връзки и инструменти за сътрудничество на други разработчици. Това ръководство ви предоставя ресурсите и информацията, които да ви помогнат да подготвите и идентифицирате план на Microsoft Defender, който да отговаря на нуждите на вашата организация.

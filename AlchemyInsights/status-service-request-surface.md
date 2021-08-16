@@ -1,5 +1,5 @@
 ---
-title: Проверка на състоянието на заявка за поръчка за услуга за Surface или Xbox
+title: Проверка на състоянието на заявка за поръчка за обслужване за Surface или Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021513"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Проверка на състоянието на заявка за поръчка за услуга за Surface или Xbox
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Проверка на състоянието на заявка за поръчка за обслужване за Surface или Xbox
 
-Ако искате да видите подробните данни за поръчката за услуга (т. е. искания за поправка), изпълнете следните стъпки:
+Ако искате да прегледате подробните данни за поръчката за сервиз (т.е. заявки за поправка), изпълнете следните стъпки:
 
-1. Отидете на услуги на устройството.
+1. Отидете на Услуги за устройства.
 
-1. Изберете **Показване на подробни данни** , за да видите цялата хронология и последните актуализации.
+1. Изберете **Показване на подробни** данни, за да видите пълната хронология и най-новите актуализации.
 
