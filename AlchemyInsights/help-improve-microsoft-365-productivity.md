@@ -1,5 +1,5 @@
 ---
-title: Помогнете за подобряване на производителността на Microsoft 365
+title: Помогнете за подобряване Microsoft 365 продуктивност
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002181"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Помогнете за подобряване на производителността на Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Помогнете за подобряване Microsoft 365 продуктивност
 
-Оценка на продуктивността поддържа цифровата трансформация на вашата организация с прозрения за това как се използват продуктите на Microsoft 365, както и опитните технологии за тях.
+Резултатът от продуктивността поддържа цифровата трансформация на вашата организация с прозрения как се използват Microsoft 365 продукти и технологичните среди зад тях.
 
 За да научите повече, вижте:
 
-- [Как се изчислява резултатът](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [Как да се интерпретира резултатът на вашата организация](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [контроли за поверителност за резултат на продуктивността](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [как се изчислява резултатът](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [как да интерпретирате резултата на вашата организация](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [контроли за поверителност за оценка на продуктивността](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-За повече информация вижте [общ преглед на продуктивността на Microsoft](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+За повече подробности вижте Общ преглед на [производителността на Microsoft](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000345"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Мигриране от AIP към MIP/единно етикетиране в центъра за съответствие
 
@@ -25,11 +25,11 @@ ms.locfileid: "51825360"
 
 **Активиране на защитата от портала на Azure**
 
-1. Ако все още не сте го направили, отворете нов прозорец на браузъра и [влезте в портала на Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Навигирайте до **острието за защита на информацията в Azure.** Например в менюто концентратор щракнете върху **Всички услуги** и започнете да **въвеждате информация** в полето Филтър. Изберете **Защита на информацията в Azure**. Ако преди не сте осъществявали достъп до острието за защита на информацията в Azure, вижте едноличните допълнителни стъпки, [за](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) да добавите това острие към портала. За да отворите острието за защита на информацията в Azure, трябва да имате план [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) или план на Office 365, който включва управление на правата. Ако имате един от тези абонаменти, но видите съобщение, че не може да бъде намерен валиден абонамент, се [обърнете към поддръжката на Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) или използвайте стандартните канали за поддръжка.
+1. Ако все още не сте го направили, отворете нов прозорец на браузъра и [влезте в портала на Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Навигирайте до **острието за защита на информацията в Azure.** Например в менюто концентратор щракнете върху **Всички услуги** и започнете да **въвеждате информация** в полето Филтър. Изберете **Защита на информацията в Azure**. Ако преди не сте осъществявали достъп до острието за защита на информацията в Azure, вижте едноличните допълнителни стъпки, [за](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) да добавите това острие към портала. За да отворите острието за защита на информацията в Azure, трябва да имате план [за защита на информацията Premium Azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) или план за Office 365, който включва управление на правата. Ако имате един от тези абонаменти, но видите съобщение, че не може да бъде намерен валиден абонамент, се [обърнете към поддръжката на Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) или използвайте стандартните канали за поддръжка.
 
 2. Намерете **опциите на** менюто Управление и изберете **Активиране на защитата**. Щракнете **върху Активиране** и след това потвърдете действието. Когато активирането завърши, информационната лента показва **успешното активиране.**
 
-**Мигриране на етикети за защита на информацията на Azure към центъра за защита на Office 365 & съответствие**
+**Мигриране на етикети за защита на информацията на Azure към Office 365 за & съответствие**
 
 1. Уверете се, че сте влезли като потребител с разрешение на глобален администратор.
 
