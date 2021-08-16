@@ -1,5 +1,5 @@
 ---
-title: Нефиксирани на устройство
+title: Отписване на устройство
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101939"
 ---
-# <a name="device-writeback"></a>Нефиксирани на устройство
+# <a name="device-writeback"></a>Отписване на устройство
 
-Устройството нефиксирани се използва в следните сценарии:
+"Отписване на устройство" се използва в следните сценарии:
 
-- Разрешаване на [Windows Hello за бизнеса чрез хибридно разполагане на Trust сертификат](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Разрешаване на условен достъп на базата на устройства към ADFS (защитени приложения на 2012 R2 или по-нова версия)
+- Разрешаване [Windows Hello за бизнеса с помощта на хибридно разполагане на сертификат за сигурност](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Разрешаване на условен достъп на базата на устройства към защитени приложения на ADFS (2012 R2 или по-нова версия) (доверяващи се страни)
 
     > [!NOTE]
-    > За устройството нефиксирани се изисква абонамент за Azure AD Premium.
+    > Необходим е абонамент за Azure AD Premium за отписване на устройства.
 
-Това осигурява допълнителна защита и увереност, че достъпът до приложенията е разрешен само за надеждни устройства. За повече информация относно условния достъп вижте [управление на риска с условен достъп](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) и [Настройка на локален условен достъп чрез регистрацията на устройства с Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Това осигурява допълнителна защита и сигурност, че достъпът до приложения се предоставя само на надеждни устройства. За повече информация относно условен достъп вижте Управление на риска с [условен достъп](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) и настройване на [локалния](https://docs.microsoft.com/azure/active-directory/devices/overview)условен достъп чрез Azure Active Directory на устройства .
 
-За повече информация относно разрешаването на нефиксирани на устройства за устройствата вижте [Разрешаване на Device нефиксирани](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+За повече информация относно разрешаването на отписване на устройство за устройства вж. [Разрешаване на отписване на устройство](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

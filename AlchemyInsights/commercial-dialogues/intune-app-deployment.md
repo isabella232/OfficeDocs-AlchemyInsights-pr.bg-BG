@@ -1,5 +1,5 @@
 ---
-title: Настройване на процеса на разполагане на приложения
+title: Процес на разполагане на приложението Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034419"
 ---
-# <a name="intune-app-deployment-process"></a>Настройване на процеса на разполагане на приложения
+# <a name="intune-app-deployment-process"></a>Процес на разполагане на приложението Intune
 
-Разполагането на приложения чрез настройване следва процеса по-долу:
+Разполагането на приложения с Intune следва процеса по-долу:
 
-- Добавяне на приложение – можете да добавите приложение от магазина за приложения или да качите линия на Business App.
-- Присвояване на приложение – определя обхвата на разполагането на приложението.
-- Наблюдение на приложения – преглед на състоянието на инсталиране на приложения, списък с открити приложения и управление на приложения, закупени от магазини за приложения.
-- [Приложението е въвело добавката SDK. За списък с приложения, които поддържат SDK, вижте защитени приложения на Microsoft](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Добавяне на приложение – Можете да добавите приложение от app Store или да качите приложение Line of Business.
+- Назначаване на приложение – Определяне на обхвата на разполагане на приложението.
+- Наблюдение на приложения – Преглед на състоянието на инсталиране на приложения, списък с открити приложения и управление на приложения, закупени от магазини за приложения.
+- [Приложението е внедрило SDK на Intune. За списък с приложения, които поддържат SDK, вж. Microsoft Intune приложения.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Прочетете повече за настройването и управлението на приложения...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Прочетете повече за разполагането и управлението на приложението Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)

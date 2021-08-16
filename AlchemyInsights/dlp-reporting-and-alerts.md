@@ -1,5 +1,5 @@
 ---
-title: DLP отчети и предупреждения
+title: DLP отчитане и известявания
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 562537f0a8d53cf1526c6a9069b1f98721a90538
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6ad924147812186610fdef8bf443c76f6663ec35e5e38720783fd4b0369bc579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101867"
 ---
-# <a name="dlp-reporting-and-alerts"></a>DLP отчети и предупреждения
+# <a name="dlp-reporting-and-alerts"></a>DLP отчитане и известявания
 
-**DLP отчитане**: [Преглед на отчетите за предотвратяване на загуба на данни – Microsoft 365 съответствие | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
+**DLP отчитане:** [Преглед на отчетите за предотвратяване на загуба на данни – Microsoft 365 съответствие | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
 
-**Известявания**: [Конфигуриране и преглед на известявания за DLP правила (предварителен преглед)-съвместимост с Microsoft 365 | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
+**Известия:** Конфигуриране [и преглеждане на предупреждения за DLP правила (предварителен преглед) – Microsoft 365 съответствие | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
 
- Ако имате достъп до 365 DLP, можете също да получите достъп до таблото за управление на DLP известия.  За конфигуриране на определени типове предупреждения вижте тези лицензионни изисквания в [Конфигуриране и преглед на известявания за DLP правила (предварителен преглед)-Microsoft 365 съответствие | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
+ Ако имате достъп до 365 DLP , можете също да получите достъп до таблото за управление на DLP известявания.  За конфигуриране на определени типове предупреждения вижте тези изисквания за лиценз в Конфигуриране и преглед на предупреждения за DLP правила [(предварителен преглед) – Microsoft 365 съответствие | Документи на Microsoft](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
 
-За да видите таблото за управление на DLP известия:
+За да видите таблото за управление на DLP известявания:
 
-1. В центъра за съответствие на Microsoft 365 отидете на **предотвратяване на загуба на данни**.
-1. Изберете раздела **предупреждения (предварителен преглед)** , за да видите таблото за DLP предупреждения.
+1. В Център за съответствие на Microsoft 365 отидете на Защита **от загуба на данни**.
+1. Изберете раздела **Известия(предварителен преглед),** за да видите таблото за предупреждения на DLP.
