@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984630"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Не можете да излезете от Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Не може да излезете от Outlook.com
 
-За да излезете от Outlook.com, изберете своето име или снимка в горния десен ъгъл на екрана, след което изберете **излизане**.
+За да излезете от Outlook.com, изберете името или картината си в горния десен ъгъл на екрана, след което **изберете Излизане**.
 
-Ако не виждате снимката си в горната част на екрана, проверете дали блокирането на реклами е включено. Понякога това не позволява на картината да се показва.
+Ако не виждате картината си в горната част на екрана, проверете дали блокирането на реклами е включено. Понякога това не позволява на картината да се показва.
 
-Ако все още не можете да излезете от Outlook.com, щракнете върху  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) затваряне на всички прозорци на браузъра.
+Ако все още не можете да излезете от Outlook.com, щракнете върху Затвори [https://login.live.com/logout.srf](https://login.live.com/logout.srf) всички прозорци на браузъра.

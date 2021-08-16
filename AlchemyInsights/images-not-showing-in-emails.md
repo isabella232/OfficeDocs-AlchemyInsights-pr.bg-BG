@@ -1,5 +1,5 @@
 ---
-title: Изображенията не се показват в имейли
+title: Изображения, които не се показват в имейли
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987492"
 ---
-# <a name="images-not-showing-in-emails"></a>Изображенията не се показват в имейли
+# <a name="images-not-showing-in-emails"></a>Изображения, които не се показват в имейли
 
-Наясно сме за проблем, при който някои клиенти не могат да виждат изображения или картини в имейлите си. Извиняваме се за причиненото неудобство.
+Наясно сме с проблем, при който някои клиенти не могат да виждат изображения или картини в имейлите си. Нашите извинения за неудобството.

@@ -1,5 +1,5 @@
 ---
-title: Програма за отстраняване на неизправности при заетост в 607
+title: 607 "Отстраняване на неизправности при заетост"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987672"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Стъпки за отстраняване на неизправности при достъпност на календар (заетост)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Стъпки за отстраняване на неизправности при наличност на календара (заетост)
 
-Обикновено най-добрият инструмент за отстраняване на проблеми с заетостта е [анализаторът за отдалечено свързване на Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , за да видите къде е неуспешно. RCA ще ви даде подробен запис какво е работило и какво е неуспешно с определени съобщения за грешка, които можете да потърсите, за да намерите решения. Има и връзка към [помощника за поддръжка и възстановяване на Microsoft](https://diagnostics.office.com/).
+Обикновено най-добрият инструмент за отстраняване на проблеми със заетостта е Exchange за отдалечено свързване [(RCA),](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) за да видите къде не работи. RCA ще ви даде подробен запис за това, което е работило, и какво не е успешно с конкретни съобщения за грешки, които можете да търсите, за да намерите решения. Той също така има връзка към [microsoft Помощник за поддръжка и възстановяване](https://diagnostics.office.com/).
 
-Друг добър инструмент за изпробване е [Инструментът за проверка на календар за Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , ако потребителят има Outlook.
+Друг добър инструмент за изпробване е [инструментът за проверка на Outlook,](https://www.microsoft.com/download/details.aspx?id=28786) ако потребителят има Outlook.

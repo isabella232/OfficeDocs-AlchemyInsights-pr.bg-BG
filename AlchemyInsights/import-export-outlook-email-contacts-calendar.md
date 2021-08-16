@@ -1,5 +1,5 @@
 ---
-title: 1221-Импорт-Експорт-Outlook-имейл-контакти – календар
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987348"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Импортиране и експортиране на имейл, контакти и календар на Outlook
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778932"
 
     Това действие стартира съветника за импортиране и експортиране.
 
-За пълен набор от инструкции за импортиране и експортиране за Outlook вижте  [тази статия](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+За пълен набор от инструкции за импортиране и експортиране за Outlook вижте [тази статия.](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-Ако сте администратор и искате да импортирате групово няколко PST файла в пощенските кутии на Microsoft 365, вижте [тази статия](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Ако сте администратор и искате групово да импортирате няколко PST файла в пощенските кутии Microsoft 365, вижте [тази статия](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
