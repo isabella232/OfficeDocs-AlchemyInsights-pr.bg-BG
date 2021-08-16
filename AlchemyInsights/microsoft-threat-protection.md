@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026787"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
 - [Общ преглед на MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Предпоставки](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Изисквания за лицензиране](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Практически указания за разрешаване на MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [Отстраняване на неизправности при MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Предварителни изисквания](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Изисквания към лиценза](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Разрешаване на MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Отстраняване на неизправности с MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Как да проверите лицензирането: трябва да ви бъдат присвоени ролята на администратор на фактуриране или глобален четец в Azure AD, за да видите лиценза си. Отидете в [центъра за администриране](https://admin.microsoft.com/) и се придвижете до лицензи за **Фактуриране** ,  >  **Licenses** за да видите съществуващите си лицензи.
+Как да проверите лицензирането: Трябва да ви бъде възложена роля на администратор на фактуриране или глобален четец в Azure AD, за да видите лиценза си. Отидете в центъра за [администриране и отидете](https://admin.microsoft.com/) на **Лицензи за**  >  **фактуриране, за** да видите съществуващите си лицензи.
