@@ -1,5 +1,5 @@
 ---
-title: Коригиране на приложенията на Microsoft 365 Вашият акаунт е в съобщение за лошо състояние
+title: Коригиране на Microsoft 365 приложения Вашият акаунт е в съобщение за лошо състояние
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 4654b49289a455c1e6641f47fae573d2fcebc717
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 68c4dfcc0500761f8ce5090fddb9f2ad58af77bc411c9e714b14c383fef177de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068225"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Коригиране на грешката в приложенията на Microsoft 365 "Вашият акаунт е в лошо състояние"
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Коригиране на Microsoft 365 "Акаунтът ви е в лошо състояние" грешка
 
 За да коригирате тази грешка, опитайте следните опции на засегнатия компютър:
 

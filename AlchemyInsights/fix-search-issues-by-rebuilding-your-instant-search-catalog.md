@@ -1,5 +1,5 @@
 ---
-title: отстраняване на проблеми с търсенето в 1800005 чрез възстановяване на вашия каталог за незабавно търсене
+title: 1800005 коригиране на проблеми с търсенето, като възстановите каталога си за незабавно търсене
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068494"
 ---
-# <a name="troubleshoot-search-issues"></a>Отстраняване на проблеми с търсенето
+# <a name="troubleshoot-search-issues"></a>Отстраняване на проблеми при търсене
 
 Ако имате проблеми с търсенето в Outlook, вижте връзките по-долу за помощ и отстраняване на неизправности.
 
-Това са най-често срещаните проблеми и са добро начало за започване на работа:
+Това са най-често срещаните проблеми и са добро място за стартиране:
 
-- [Търсенето в Outlook връща без резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Търсенето в Outlook връща незавършени резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Търсенето в Outlook не може да намери по-стари имейли](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook не връща никакви резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook връща непълни резултати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook търсене не може да намери по-стари имейли](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-Възможни решения за по-редки проблеми можете да намерите тук:
+Възможни решения за по-рядко срещани проблеми можете да намерите тук:
 
-- [Само за Outlook 2016: Разделът ' ' търсене ' ' е в сиво](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Споделена пощенска кутия: проблеми с резултатите от търсенето](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Грешка: производителността на търсенето ще бъде повлияна поради проблем с начина, по който Outlook е конфигуриран](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Папките за търсене показват неочаквани PersonMetadata елементи без тема](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook само за 2016 г.: Разделът "Търсене" е в сиво](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Споделена пощенска кутия: Проблеми с резултатите от търсенето](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Грешка: Производителността на търсенето ще бъде повлияла поради проблем с това как Outlook е конфигуриран](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Папките за търсене показват неочаквани елементи на PersonMetadata без тема](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

@@ -1,5 +1,5 @@
 ---
-title: Настройване на вашия абонамент за Business Premium за O365
+title: Настройване на вашия абонамент за Premium O365 Business
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,14 +11,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0253198b20f32497f1316284017a6d337c3d88c64fba9a3c8e05c0057b655d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023475"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a>Настройване на вашия абонамент за Business Premium за O365
+# <a name="setting-up-your-o365-business-premium-subscription"></a>Настройване на вашия абонамент за Premium O365 Business
 
-Ако имате нужда от помощ при настройването на вашия абонамент за Microsoft 365, следвайте стъпките в [тази статия](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) , за да завършите настройването.
+Ако имате нужда от помощ при настройването на Microsoft 365, следвайте стъпките в тази [статия, за](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) да завършите настройката.
   

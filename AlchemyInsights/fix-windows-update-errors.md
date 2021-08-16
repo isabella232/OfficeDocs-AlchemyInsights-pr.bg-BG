@@ -1,5 +1,5 @@
 ---
-title: Коригиране на грешки в Windows Update
+title: Коригиране Windows "Актуализиране"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068261"
 ---
-# <a name="fix-windows-update-errors"></a>Коригиране на грешки в Windows Update
+# <a name="fix-windows-update-errors"></a>Коригиране Windows "Актуализиране"
 
-Ако получите код на грешка по време на изтеглянето и инсталирането на актуализацията на Windows, програмата за отстраняване на неизправности **при актуализиране** може да помогне за разрешаването на проблема.
+Ако получите код на грешка при изтегляне и инсталиране на Windows, програмата за отстраняване на неизправности **при актуализиране** може да помогне за разрешаването на проблема.
 
-- [Изтегляне на програмата за отстраняване на неизправности при актуализиране за Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Изпълнете програмата за отстраняване на неизправности. Когато сте готови, най-добре е да рестартирате устройството си. След това проверете за нови актуализации, като изберете [Старт > Настройки > Актуализиране & защита > Windows Update](ms-settings:windowsupdate).
+- [Изтегляне на програмата за отстраняване на неизправности при актуализиране Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Изпълнете програмата за отстраняване на неизправности. Когато сте готови, най-добре е да рестартирате устройството си. След това проверете за нови актуализации, като изберете [Старт > Настройки > Актуализирай & защита > Windows Актуализирай](ms-settings:windowsupdate).
 
-Ако те все още не работят, прегледайте [Windows Update: ЧЗВ](https://support.microsoft.com/help/12373/windows-update-faq) за повече информация.
+Ако те все още не работят, прегледайте [Windows: ЧЗВ](https://support.microsoft.com/help/12373/windows-update-faq) за повече информация.

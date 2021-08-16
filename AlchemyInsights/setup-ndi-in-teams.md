@@ -1,5 +1,5 @@
 ---
-title: Включване на технология НДИ
+title: Включване на NDI технологията
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023511"
 ---
-# <a name="turn-on-ndi-technology"></a>Включване на технология НДИ
+# <a name="turn-on-ndi-technology"></a>Включване на NDI технологията
 
-НДИ технология изисква две стъпки, които трябва да бъдат включвани за потребител:
+Технологията NDI изисква две стъпки да бъдат включени за потребител:
 
-1. Администраторът на клиент трябва да разреши свойството "AllowNDIStreaming" в CsTeamsMeetingPolicy.
+1. Администраторът на клиента трябва да разреши свойството "AllowNDIStreaming" в CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. След като тази промяна бъде запълнена, крайният потребител трябва да включи НДИ® технология за своя конкретен клиент от **настройките > разрешения**.
+2. След като тази промяна е попълнена, крайният потребител трябва да включи NDI® технология за своя конкретен **клиент от Настройки > разрешения**.
 
-За повече информация вижте [използване на технология на НДИ в Microsoft Teams](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+За повече информация вижте [Използване на NDI технология в Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
