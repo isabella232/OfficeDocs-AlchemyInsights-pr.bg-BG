@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1a21101602f47dcb5c9b607d7bbccfacec00f43a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 753e0201363f3bf7c60c5b69df76176ad58e1b7a643f79f169c71af20b0a35d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035067"
 ---
 # <a name="enable-the-custom-domain-for-dkim"></a>Разрешаване на домейна по избор за DKIM
 
@@ -26,7 +26,7 @@ ms.locfileid: "50743348"
 
 За да разрешите домейна, изпълнете следните стъпки:
 
-1. Отидете в [центъра за администриране на Exchange](https://outlook.office365.com/ecp/).
-2. В левия екран изберете **защита > DKIM**.
-3. Изберете домейна и след това под **подписване на съобщения за този домейн с DKIM подписи** щракнете върху **Разреши**. Повторете тази стъпка за всеки домейн.
+1. Навигирайте [до Exchange център за администриране](https://outlook.office365.com/ecp/).
+2. В левия екран изберете защита **> dkim**.
+3. Изберете домейна и след това под **Подписване на съобщения за този домейн с DKIM подписи** щракнете върху **Разреши**. Повторете тази стъпка за всеки домейн.
 
