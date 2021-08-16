@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory (защита и самоличност
+title: Azure Active Directory (защита и самоличност)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995430"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (защита и самоличност)
 
-Изберете един от следните ръководства за инсталиране:
+Изберете едно от следните ръководства за настройка:
 
-- **Azure Active Directory свържете** [Синхронизиране на потребители със своя справочен указател, за да](https://go.microsoft.com/fwlink/?linkid=2071310) конфигурирате синхронизиране на хеширане на парола или преотстъпване на удостоверяване, така че потребителите да могат да влизат в своя имейл и в локалния ви Active Directory (домейнов контролер), като използват една и съща парола. Можете също да настроите влизане на Федерацията с помощта на услугите на Active Directory (AD FS).
+- **Azure Active Directory Свързване** [Синхронизирайте](https://go.microsoft.com/fwlink/?linkid=2071310) потребителите с вашия справочник Конфигуриране на синхронизиране на пароли за хашта или удостоверяване чрез преминаване, така че вашите потребители да могат да впишат в своя имейл и в локалния ви Active Directory (домейн контролер), като използват една и съща парола. Можете също да настроите влизане за федерации с услугите за федерации на Active Directory (AD FS).
 
-- **Настройка на Azure функции** [ръководство за настройка на Azure ad](https://go.microsoft.com/fwlink/?linkid=2134390) Настройте разширените функции, налични в Azure Active Directory Premium, като многофакторно удостоверяване, регистриране на устройства и наблюдение на защитата.
+- **Настройване на Azure функции Ръководство** за настройка на Azure [AD](https://go.microsoft.com/fwlink/?linkid=2134390) Настройване на разширените функции, налични в Azure Active Directory Premium, като многофакторно удостоверяване, регистриране на устройства и наблюдение на защитата.

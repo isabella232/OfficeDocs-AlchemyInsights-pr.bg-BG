@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027885"
 ---
 # <a name="issues-with-certificates"></a>Проблеми със сертификатите
 
-За насоки относно отстраняване на проблеми, свързани със сертификатите, вижте следните статии:
+За указания относно отстраняването на проблеми, свързани със сертификати, вижте следните статии:
 
-- [Първи стъпки с удостоверяване, базирано на сертификат в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  – стъпки за конфигуриране и използване на удостоверяване, базирано на сертификат, за потребители на клиенти в Office 365 Enterprise, Business, EDUCATION и US правителствени планове.
+- [Първи стъпки в удостоверяването,](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) базирано на сертификат, в Azure Active Directory – Стъпки за конфигуриране и използване на удостоверяване, базирано на сертификат, за потребители на клиенти в Office 365 Enterprise, бизнес, образование и планове на правителството на САЩ.
 
-- [Отстраняване на проблеми с удостоверяването на AZURE AD Certificate-Based](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – информация, която да ви помогне да отстраните проблеми при удостоверяване, базирани на сертификат.
+- [Отстраняване на неизправности с Azure AD Certificate-Based за удостоверяване](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – информация, която да ви помогне да отстранявате проблеми със удостоверяването, базирано на сертификат.
 
-- [Управлявайте сертификатите за външно еднократна идентификация в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  – често задавани въпроси и информация, свързани със сертификатите, които Azure Active Directory (Azure ad) създава, за да установите външни еднократна идентификация (SSO) на вашия софтуер като приложения на услугата (SaaS).
+- [Управление на сертификати](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) за федерирани еднократна регистрация в Azure Active Directory – често срещани въпроси и информация, свързани със сертификати, които Azure Active Directory (Azure AD) създава, за да установи федерирани приложения за еднократна регистрация (SSO) към вашия софтуер като приложения на услуга (SaaS).
 
-- [Разширени опции за подписване на сертификат в SAML маркер за приложения на Gallery в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  – Научете за трите опции за подписване на Azure ad.
+- [Разширени опции за подписване на сертификати в маркера SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) за приложения на галерията в Azure Active Directory – Научете повече за трите опции за подписване на сертификати на Azure AD.
