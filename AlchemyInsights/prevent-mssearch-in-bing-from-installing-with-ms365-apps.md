@@ -1,5 +1,5 @@
 ---
-title: Предотвратяване на инсталирането на Microsoft Search в Bing чрез приложенията на Microsoft 365
+title: Предотвратяване Microsoft Search Bing инсталиране с Приложения на Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040099"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Предотвратяване на инсталирането на Microsoft Search в Bing чрез приложенията на Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Предотвратяване Microsoft Search Bing инсталиране с Приложения на Microsoft 365
 
-За да попречите на услугата за фон за Microsoft Search в Bing да се инсталира с приложенията Microsoft 365 за Enterprise, използвайте една от следните опции:
+За да предотвратите инсталирането Microsoft Search фоновата услуга Bing в Приложения на Microsoft 365 за предприятия, използвайте една от следните опции:
 
-- Инструмент за разполагане на Office или групови правила
-- Диспечер за конфигуриране на крайна точка на Microsoft (текущия клон) или Microsoft за настройка
+- Инструментът Office за разполагане или груповите правила
+- Microsoft Endpoint Configuration Manager (текущ клон) или Microsoft Intune
 
-За да научите повече, вижте [как да попречите на услугата за фон за Microsoft Search в Bing да се инсталира с приложенията на microsoft 365 за Enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+За да научите повече, вижте Как да предотвратите инсталирането [на фоновата услуга Microsoft Search Bing в](https://go.microsoft.com/fwlink/?linkid=2151946)Приложения на Microsoft 365 за предприятия .
