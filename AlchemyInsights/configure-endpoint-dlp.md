@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
-ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
+ms.openlocfilehash: 4a4dbd60f98e86cf2a4d861a763f75ada04f9e500164c01cb858a1537148a62f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657918"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892788"
 ---
 # <a name="configure-endpoint-dlp"></a>Конфигуриране на DLP на крайна точка
 
-DLP на крайна точка на Microsoft ви позволява да разширите възможностите за DLP защита и наблюдение за чувствителна информация на устройства с Windows 10. След като устройствата се регистрират в управлението на устройства, можете да създадете DLP правила, за да приложите защитни действия върху елементи. „Преглед на дейността“ може да се използва за наблюдение на дейността при чувствителни елементи. За повече информация вж. [Регистриране на устройства в управлението на устройства](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+DLP на крайна точка на Microsoft ви позволява да разширите възможностите за DLP защита и наблюдение за чувствителна информация на устройства с Windows 10. След като устройствата се регистрират в управлението на устройства, можете да създадете DLP правила, за да приложите защитни действия върху елементи. „Преглед на дейността“ може да се използва за наблюдение на дейността при чувствителни елементи. За повече информация вж. [Регистриране на устройства в управлението на устройства](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
 За да започнете с DLP за крайна точка:
 
-- Уверете се, че имате съответния лиценз за ИЕ/абонамент. За повече информация вж. [лицензи за ИЕ/абонаменти](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- Проверете разрешенията, необходими за разрешаване на управлението на устройства, достъпа до страницата за регистриране или включване/изключване на наблюдението на устройства. За повече информация вж. [Разрешения](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Регистрирайте устройствата в управлението на устройства, като се следвате процедурата за регистриране на устройства. За повече информация вж. [Регистриране на устройства](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Създайте DLP правила, за да защитите своите чувствителни елементи. За информация вж. [Сценарии за DLP правила за крайна точка](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
+- Уверете се, че имате съответния лиценз за ИЕ/абонамент. За повече информация вж. [лицензи за ИЕ/абонаменти](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- Проверете разрешенията, необходими за разрешаване на управлението на устройства, достъпа до страницата за регистриране или включване/изключване на наблюдението на устройства. За повече информация вж. [Разрешения](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Регистрирайте устройствата в управлението на устройства, като се следвате процедурата за регистриране на устройства. За повече информация вж. [Регистриране на устройства](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Създайте DLP правила, за да защитите своите чувствителни елементи. За информация вж. [Сценарии за DLP правила за крайна точка](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
-За повече информация относно DLP за крайна точка на Microsoft вж. [Научете за защитата от загуба на данни на крайна точка на Microsoft 365 (предварителен преглед)](/microsoft-365/compliance/endpoint-dlp-learn-about).
+За повече информация относно DLP за крайна точка на Microsoft вж. [Научете за защитата от загуба на данни на крайна точка на Microsoft 365 (предварителен преглед)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Важни стъпки за събиране на данни, ако е необходима поддръжка:**
 

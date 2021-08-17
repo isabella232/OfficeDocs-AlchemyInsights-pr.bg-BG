@@ -1,5 +1,5 @@
 ---
-title: Възстановяване на вашия OneDrive
+title: Възстановяване на OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109337"
 ---
-# <a name="restore-your-onedrive"></a>Възстановяване на вашия OneDrive
+# <a name="restore-your-onedrive"></a>Възстановяване на OneDrive
 
-Ако много от вашите файлове в OneDrive бъдат изтрити, overwritted, повредени или заразени от злонамерен софтуер, можете да възстановите целия си OneDrive до предишен час в рамките на последните 30 дни.
+Ако много от вашите OneDrive бъдат изтрити, презаписвани, повредени или заразени от злонамерен софтуер, можете да възстановите целия си OneDrive до предишен час в рамките на последните 30 дни.
   
-1. Отидете в своя OneDrive в своя уеб браузър.
+1. Отидете на вашия OneDrive в уеб браузъра.
     
-2. Щракнете върху иконата за настройки в горния десен ъгъл и след това изберете **възстановяване на вашия OneDrive**.
+2. Щракнете върху Настройки в горния десен ъгъл и след това изберете **Възстановяване на OneDrive.**
     
 3. Изберете дата от списъка или изберете **Дата и час по избор**.
     
-4. Щракнете върху **възстановяване** , за да отмените всички дейности след избраната от вас дата. 
+4. Щракнете **върху Възстановяване,** за да отмените всички дейности след датата, която сте избрали. 
     
-[Още помощ при използване на възстановяването на файлове](https://go.microsoft.com/fwlink/?linkid=872874)
+[Още помощ за използването на "Възстановяване на файлове"](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

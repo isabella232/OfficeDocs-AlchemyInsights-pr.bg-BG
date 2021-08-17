@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: f16a13eca800044fa0e6a40e3f085a21196e625d00f7898cdc0f5a20a218b170
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d33c4cf06e6812bca2d02122fad429c82f54dc47f9147e13cc57c7b1bff689f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813917"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892728"
 ---
 # <a name="debug-webview2-apps"></a>Приложения за отстраняване на грешки в WebView2
 
-Когато разработвате вашето приложение WebView2, не забравяйте да отстранявате грешки в приложението си. За повече информация относно инструментите за отстраняване на грешки както на уеб, така и на основен код във вашето приложение WebView2 вижте Първи стъпки в отстраняването на грешки [в приложенията webView2](/microsoft-edge/webview2/how-to/debug).
+Когато разработвате вашето приложение WebView2, не забравяйте да отстранявате грешки в приложението си. За повече информация относно инструментите за отстраняване на грешки както на уеб, така и на основен код във вашето приложение WebView2 вижте Първи стъпки в отстраняването на грешки [в приложенията webView2](https://docs.microsoft.com/microsoft-edge/webview2/how-to/debug).

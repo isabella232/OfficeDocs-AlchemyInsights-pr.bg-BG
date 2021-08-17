@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917700"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893088"
 ---
 # <a name="auditing-results-are-blank"></a>Резултатите от проверката са празни
 
- **Отчети за проверка за класически сайтове**
+**Отчети за проверка за класически сайтове**
   
-За да прегледате отчет за проверка за SharePoint от сайтове, трябва да сте администратор за колекцията от сайтове. За да добавите себе си като администратор, вижте [Добавяне на администратори на колекция от сайтове като глобален или SharePoint администратор](https://go.microsoft.com/fwlink/?linkid=869390). За информация относно работата с регистрационния файл за проверка вж. Преглед на [отчети от регистрационни файлове за проверка](https://go.microsoft.com/fwlink/?linkid=395237). 
+За да прегледате отчет за проверка за SharePoint от сайтове, трябва да сте администратор за колекцията от сайтове. За да добавите себе си като администратор, вижте [Управление на администраторите на сайтове](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators). За информация относно работата с регистрационния файл за проверка вж. Преглед на [отчети от регистрационни файлове за проверка](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527).
   
- **Търсене в регистрационния файл за проверка**
+**Търсене в регистрационния файл за проверка**
   
-Трябва да сте глобален администратор, за да работите с регистрационния файл за проверка в центъра [за съответствие &amp; на защитата.](https://protection.office.com) Преди да започнете, включете регистрирането на проверката. След това можете да изпълните търсене в регистрационен файл за проверка. 
+Трябва да сте глобален администратор, за да работите с регистрационния файл за проверка в Център за съответствие на Microsoft 365 или <https://compliance.microsoft.com/auditlogsearch> в Microsoft 365 Defender портала на <https://security.microsoft.com/auditlogsearch> . Преди да започнете, включете регистрирането на проверката. След това можете да изпълните търсене в регистрационен файл за проверка.
   
-[Научете как да търсите в регистрационния файл за проверка](https://go.microsoft.com/fwlink/?linkid=708432).
-  
-
+[Научете как да търсите в регистрационния файл за проверка](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

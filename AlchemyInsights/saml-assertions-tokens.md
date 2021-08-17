@@ -1,5 +1,5 @@
 ---
-title: SAML твърдения (жетони)
+title: SAML твърдения (маркери)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49884862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109229"
 ---
-# <a name="saml-assertions-tokens"></a>SAML твърдения (жетони)
+# <a name="saml-assertions-tokens"></a>SAML твърдения (маркери)
 
-1. Твърдения за коректура на езика на SAML По подразбиране SAML маркери за Windows Communication Foundation (WCF), използвани във външните сценарии за защита, се издават маркери. За повече информация вижте [SAML жетони и рекламации](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. Платформата за самоличност на Microsoft излъчва няколко типа маркери за защита в обработката на всеки поток на удостоверяване. [Справка за претенции за SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) описва формата, характеристиките за защита и съдържанието на SAML 2,0 жетони.
-3. Следвайте указанията в конфигуриране на [Токена за цял живот в платформата за самоличност на Microsoft,](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) за да разберете как да конфигурирате маркери за живот.
-4. Следвайте стъпките, описани в [тази статия](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) , за да разберете как да конфигурирате шифроване на маркери на AZURE ad SAML.
-5. В Azure AD можете да настроите опции за подписване на сертификат и алгоритъм за подписване на сертификат. За повече информация вижте [Разширени опции за подписване на сертификат в SAML маркер за приложения на Gallery в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. Маркерите за език за коректура за защита (SAML) са XML представяния на искове. По подразбиране маркерите на SAML Windows за комуникация (WCF) използва във федерирани сценарии на защита, се издават маркери. За повече информация вижте [SAML Маркери и искове](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
+2. Програмата Платформа за самоличност на Microsoft няколко типа маркери за защита при обработката на всеки поток на удостоверяване. [Препратката към исковете за маркери на SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) описва формата, характеристиките за защита и съдържанието на SAML 2,0 маркери.
+3. Следвайте указанията в [конфигурируемите животи на маркерите в Платформа за самоличност на Microsoft,](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) за да разберете как да конфигурирате животите на маркерите.
+4. Следвайте стъпките, описани в тази [статия, за](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) да разберете как да конфигурирате шифроването на SAML маркери на Azure AD.
+5. В Azure AD можете да настроите опциите за подписване на сертификати и алгоритъма за подписване на сертификат. За повече информация вижте Разширени [опции за подписване на сертификат в маркера SAML за приложения на галерия в Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)
