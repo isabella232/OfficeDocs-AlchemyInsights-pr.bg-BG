@@ -1,5 +1,5 @@
 ---
-title: календар на 1081 – RBA CatchAll
+title: 1081 Календар – RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059359"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Създаване и управление на пощенски кутии на стаи
 
-За да създадете и промените пощенските кутии в центъра за администриране на Exchange, вижте [Създаване и управление на пощенски кутии за зали](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+За да създавате и променяте пощенски кутии на стаи в центъра Exchange за администриране, вижте [Създаване и управление на пощенски кутии на стаи](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-За да научите повече за пощенските кутии за зали и оборудване (известни също като пощенски кутии за ресурси), вижте [пощенските кутии за зали и оборудване](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+За да научите повече за пощенските кутии на стаи и оборудване (известни също като пощенски кутии на ресурси), вижте [Пощенски кутии на стая и оборудване.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

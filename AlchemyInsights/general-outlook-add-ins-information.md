@@ -1,5 +1,5 @@
 ---
-title: Общи данни за добавките на Outlook
+title: Обща Outlook за добавки
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116933"
 ---
-# <a name="general-outlook-add-ins-information"></a>Общи данни за добавките на Outlook
+# <a name="general-outlook-add-ins-information"></a>Обща Outlook за добавки
 
-Посетете този уеб сайт за всички ресурси за документация по отношение на [изграждането на добавки на Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Посетете този уеб сайт за ресурсите за документация за всички, [свързани със Outlook добавки](https://docs.microsoft.com/office/dev/add-ins/outlook/).
 
-За допълнителни ресурси относно управлението, разполагането и разрешаването на добавки вижте:
+За допълнителни ресурси по отношение на управлението, разполагането и разрешаването на добавки вижте:
 
-- [Определете дали централизираното разполагане на добавки работи за вашата организация](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Определете дали централизирано разполагане на добавки работи за вашата организация.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Управление на разполагането на добавки в Центъра за администриране на Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Указване на администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Задайте администраторите и потребителите, които могат да инсталират и управляват добавки за Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

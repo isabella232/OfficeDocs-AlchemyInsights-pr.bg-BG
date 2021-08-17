@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116897"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Получаване на копие на вашата сметка или използване
 
-**Изтегляне на вашата фактура в Azure (.pdf)**
+**Изтегляне на вашата фактура за Azure (.pdf)**
 
-1. Изберете абонамента си от страницата [Абонаменти в](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) портала на Azure [като потребител с достъп до фактури и](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) след това изберете **Фактури**
-2. Щракнете **върху Изтегляне на** фактура, за да видите копие на вашата PDF фактура. Ако се казва **Не е** [налично , вижте Защо не виждам фактура за последния период на фактуриране?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Можете също да преглеждате ежедневната си употреба, като щракнете върху периода на фактуриране За да получите PDF файл на фактурата си и копие на вашия подробен файл за ежедневна употреба (. CSV): Получаване [на данни за фактура и използване](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Изберете абонамента си от [страницата "Абонаменти"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) в портала на Azure като [потребител с достъп до фактури](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), след което изберете **Фактури**.
+2. Щракнете върху **Изтегляне на фактура**, за да прегледате копие на вашата фактура в PDF формат. Ако се появи съобщение **Не е налична**, вижте [Защо не виждам фактура за последния период на фактуриране?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Можете също да видите ежедневното използване, като щракнете върху "Период на фактуриране". За да получите фактурата си в PDF формат, както и копие от подробния файл за ежедневното използване (.CSV): [Получаване на фактура и данни за използването](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Получаване на вашата фактура в имейл (.pdf)**
 
@@ -50,11 +50,11 @@ ms.locfileid: "51812350"
 - Търсене в **Управление на разходите + Фактуриране**. Изберете профил **за фактуриране**. Под Настройки изберете **Свойства**
 - Под Имейл фактура изберете Актуализиране на **предпочитание за имейл фактура**. Изберете Записване. Щракнете върху **Актуализиране**
 
-**Корпоративно споразумение (EA)**
+**служебно споразумение (EA)**
 
 За да преглеждате и изтегляте данни за използване като клиент на EA, трябва да сте корпоративен администратор, собственик на акаунт или администратор на отдел с разрешени правила за таксуване на изгледа.
 
-- Влезте в портала на Azure. Търсене в **Управление на разходите + Фактуриране**. Избор на профил за фактуриране
+- Влезте в портала Azure. Търсене в **Управление на разходите + Фактуриране**. Избор на профил за фактуриране
 - Изберете Използване + такси. За месеца, който искате да изтеглите, изберете Изтегляне
 
 **MOSP абонамент за Azure**  

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059179"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft Azure Active Directory (Azure AD) е базирана на облака услуга за самоличност и управление на достъпа, която помага на служителите да влизат и да получават достъп до ресурсите външно и вътрешно. За да научите повече, вижте следните ресурси:
+Microsoft Azure Active Directory (Azure AD) е базирана на облака услуга за управление на самоличност и достъп, която помага на служителите да впишат и да получат достъп до ресурсите както външно, така и вътрешно. За да научите повече, прегледайте следните ресурси:
 
-- [Какво представлява Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [Какво е Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
 - [Интегриране на Azure с Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Безплатна пробна версия на Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Azure Active Directory безплатна пробна версия](https://go.microsoft.com/fwlink/?linkid=2081144)
