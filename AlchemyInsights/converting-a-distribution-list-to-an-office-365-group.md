@@ -1,5 +1,5 @@
 ---
-title: 712 Преобразуване на списък за разпространение в група на Microsoft 365
+title: 712 Преобразуване на списък за разпространение в Microsoft 365 група
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
+ms.openlocfilehash: 3193dfa1223f91533e17f31f6db4061d09266a6f2e4f1b46fffc40f8fb50fda1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51897302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081131"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Преобразуване на група за разпространение в група на Microsoft 365
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Преобразуване на група за разпространение в Microsoft 365 група
 
-Можете да конвертирате групи за разпространение в групи на Microsoft 365, ако отговарят на определени критерии. За да конвертирате група или да отстраните проблеми с конвертирането, вижте [Надстройване на списъци за разпространение в групи на Microsoft 365 в Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+Можете да преобразувате групи за разпространение в Microsoft 365 групи, ако отговарят на определени критерии. За да конвертирате група или да отстраните проблеми с конвертирането, вижте Надстройване на [списъци за разпространение Microsoft 365 групи в Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
 
-Също така имаме скрипт, който можете да изпълните, за да ви помогнем с проверката на допустимостта на групата за [разпространение за надстройка до групата на Microsoft 365.](https://aka.ms/DLToM365Group)
+Също така имаме скрипт, който можете да изпълните, за да ви помогнем с [проверката](https://aka.ms/DLToM365Group)на допустимостта на групата за разпространение за надстройка до Microsoft 365 група .
