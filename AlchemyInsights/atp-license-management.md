@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 515263d56b147f0f0e0f47b779394f5bec50df89ab1ea93fc1042384270a2ba3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313877"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894584"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender за управление Office 365 лицензи
 
@@ -29,6 +29,6 @@ Microsoft Defender за Office 365 управление на лицензи мо
 - За да закупите Microsoft Defender за Office 365:
     1. Отидете на **Услуги за закупуване** на  >  [плащания](https://go.microsoft.com/fwlink/p/?linkid=868433).
     2. В долната част на страницата **изберете Добавки**.
-    3. На страницата **Закупуване на услуги** изберете плана microsoft Defender за Office 365, който искате да закупите, въведете броя на потребителите, които се нуждаят от лиценз, след което изберете **Прегледайте сега**. За повече информация вижте [Закупуване на добавка](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+    3. На страницата **Закупуване на** услуги изберете плана microsoft Defender за Office 365, който искате да закупите, въведете броя на потребителите, които се нуждаят от лиценз, след което изберете **Прегледайте сега**. За повече информация вижте [Закупуване на добавка](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
 - За да присвоите microsoft Defender за Office 365 лицензи, отидете на  >  **Лицензи за фактуриране.** За повече информация вижте [Присвояване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- За да добавите или премахнете лицензи от Microsoft Defender за Office 365, отидете на **Фактуриране На**  >  **вашите продукти**. Изберете абонамента, който искате да актуализирате, след което изберете **Закупуване на лицензи** **или Премахване на лицензи**. За повече информация вижте Закупуване [или премахване на лицензи за абонамент.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- За да добавите или премахнете лицензи от Microsoft Defender за Office 365, отидете на **Фактуриране На**  >  **вашите продукти**. Изберете абонамента, който искате да актуализирате, след което изберете **Закупуване на лицензи** или **Премахване на лицензи**. За повече информация вижте Закупуване [или премахване на лицензи за абонамент.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

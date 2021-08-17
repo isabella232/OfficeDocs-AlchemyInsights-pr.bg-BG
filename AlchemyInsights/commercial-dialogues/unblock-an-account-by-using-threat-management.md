@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894996"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Деблокиране на акаунт с помощта на управлението на заплахи
 
-Ето как да направите това: 
+Ето как да направите това:
 
-1. Отидете в центъра [за Office 365 защита & съответствие](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Изберете Преглед **на управлението**  >  **на заплахите**. На страницата **Преглед** изберете **[Ограничени потребители](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Ако компрометираният акаунт се покаже в списъка, щракнете върху **Разблокиране на акаунт**. Акаунтът трябва да може да изпраща съобщения отново, обикновено в рамките на един час.
+1. Отидете на портала Microsoft 365 Defender имейл на <https://security.microsoft.com> \> **& за преглед на** \>  \> **сътрудничеството Ограничени потребители.**
+
+   За да отидете директно на **страницата Ограничени потребители,** използвайте <https://security.microsoft.com/restrictedusers> .
+
+2. Ако потребителят е в списъка, изберете потребителя и след това изберете **Разблокиране**. Следвайте стъпките в екрана с допълнителни менюта и след това изберете **Да, за да** потвърдите.
+
+   Акаунтът трябва да може да изпраща съобщения отново, обикновено в рамките на един час.
+
+За повече информация вижте Премахване [на блокирани потребители от портала "Ограничени потребители".](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

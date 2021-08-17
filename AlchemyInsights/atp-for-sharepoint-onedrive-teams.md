@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314951"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender за Office 365 за SharePoint, OneDrive и Microsoft Teams
 
@@ -28,8 +28,8 @@ ms.locfileid: "53997123"
 
 3. Изберете **Включване на defender за Office 365 за SharePoint, OneDrive и Microsoft Teams**.
 
-4. [Създайте правила за известяване за дейност,](/microsoft-365/compliance/create-activity-alerts) за да получавате известия, когато откриваме злонамерени файлове.
+4. [Създайте правила за известяване за дейност,](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) за да получавате известия, когато откриваме злонамерени файлове.
 
-За пълни инструкции вижте това [Включване на Сейф Прикачени файлове за SharePoint, OneDrive и Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+За пълни инструкции вижте това [Включване на Сейф Прикачени файлове за SharePoint, OneDrive и Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Забележка:** По проект Microsoft Defender за Office 365 не сканира всеки един файл в SharePoint Online, OneDrive за бизнеса или Microsoft Teams. Файловете се сканират асинхронно от процес, който използва споделяне на дейност, дейност на гост и сигнали за заплахи за идентифициране на злонамерени файлове. За повече информация [вж. Сейф Прикачени файлове за SharePoint, OneDrive и Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Забележка:** По проект Microsoft Defender за Office 365 не сканира всеки един файл в SharePoint Online, OneDrive за бизнеса или Microsoft Teams. Файловете се сканират асинхронно от процес, който използва споделяне на дейност, дейност на гост и сигнали за заплахи за идентифициране на злонамерени файлове. За повече информация [вж. Сейф Прикачени файлове за SharePoint, OneDrive и Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
