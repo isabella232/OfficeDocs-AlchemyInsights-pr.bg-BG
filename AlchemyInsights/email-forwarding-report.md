@@ -1,5 +1,5 @@
 ---
-title: Отчет за препращане на имейли
+title: Отчет за автоматично препратени съобщения
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030117"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891440"
 ---
-# <a name="email-forwarding-report"></a>Отчет за препращане на имейли
+# <a name="auto-forwarded-messages-report"></a>Отчет за автоматично препратени съобщения
 
-За да видите отчет за това колко автоматично препратени съобщения има във вашата организация, проверете [прозренията](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) за автоматично препратени съобщения в центъра за & съответствие [в центъра за съответствие Microsoft 365 защита. &amp; ](https://protection.office.com/#/homepage)
-  
-Забележка: Ако това е първият път, когато влизате в центъра за защита и съответствие, може да се наложи да обновите браузъра след няколко минути, за да видите всички налични опции.
+За да видите отчет колко автоматично препратени съобщения има [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) във вашата организация, проверете отчета За автоматично препратени съобщения в центъра за администриране на Exchange (EAC) в <https://admin.exchange.microsoft.com/> \> **"Поща за** \> **отчети".** Или, за да отидете директно на страницата **"Автоматично препратени съобщения",** използвайте <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   
