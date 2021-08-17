@@ -16,12 +16,12 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 01048236f5278d9c0c866e64b2f01e221f9e12d530b795467c638387b111d85e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502705"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889751"
 ---
 # <a name="past-due-account"></a>Минал дължим акаунт?
 
@@ -29,8 +29,8 @@ ms.locfileid: "54502705"
 
 1. В центъра за администриране отидете на **Фактуриране > продукти & [услуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 Намерете абонамента с неизплатеното салдо. В **секцията Фактуриране,** до абонамента има дължимо плащане, щракнете върху Разплащане, за **да** платите цялото дължимо салдо.
-2. Ако притежавате кредитната карта, можете да промените датата на изтичане, да изберете друга карта или [да добавите нова карта](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
-3. Ако не притежавате кредитната карта, можете да изберете друга кредитна карта или [да добавите нова карта](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+2. Ако притежавате кредитната карта, можете да промените датата на изтичане, да изберете друга карта или [да добавите нова карта](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+3. Ако не притежавате кредитната карта, можете да изберете друга кредитна карта или [да добавите нова карта](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 4. След като приключите с актуализациите, щракнете върху **Запиши**.
 
 **Забележка:** След като е направено плащане, последното дължимо известие все още може да е видимо за кратък период от време. Изчакайте поне **48 часа, преди да се** свържете с поддръжката.

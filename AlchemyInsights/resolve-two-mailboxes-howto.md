@@ -1,5 +1,5 @@
 ---
-title: 1374 разрешаване на два пощенски кутии HOWTO
+title: 1374 Разрешаване на две пощенски кутии howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110057"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Потребителят има два пощенски кутии
+# <a name="a-user-has-two-mailboxes"></a>Потребителят има две пощенски кутии
 
-Хибридна среда, която използва Azure Active Directory Connect (пад Connect) или отстъпи, може случайно да накара потребителя да има два пощенски кутии: един локален и един в облака. Можете да създадете дублирана пощенска кутия на всяко от тях.
+Хибридните среди, които използват Azure Active Directory Свързване (AAD Свързване) или DirSync, може случайно да доведат до това потребителят да има две пощенски кутии: една локална и една в облака. Дублирана пощенска кутия може да бъде създадена и на двете места.
 
-За да отстраните този проблем, вижте [как да се възстановите при съществуваща пощенска кутия в Exchange Online и локално](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ако искате да научите повече за това как да избегнете това в бъдеще, вижте [Моят потребител има пощенска кутия, както локално, така и в Exchange Online. Помощ!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+За да разрешите този проблем, вижте Как да възстановите, когато пощенска [кутия съществува както Exchange Online, така и локално](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ако искате да научите повече за това как да избегнете това в бъдеще, вижте Моят потребител има пощенска кутия както локална, така [и в Exchange Online. Помощ!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
