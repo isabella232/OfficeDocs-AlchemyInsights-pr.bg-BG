@@ -1,5 +1,5 @@
 ---
-title: Инсталиране на приложения на Microsoft Office на устройство с Android
+title: Инсталиране Microsoft Office приложения на устройство с Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078035"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Инсталиране на приложения на Microsoft Office на устройство с Android
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Инсталиране Microsoft Office приложения на устройство с Android
 
-На своя Chromebook или телефон или таблет с Android можете да инсталирате приложенията на Microsoft Office като отделни приложения или като пакет.
+На вашия Chromebook или телефон или таблет с Android можете да инсталирате Microsoft Office като отделни приложения или като пакет.
 
-- [Инсталиране на приложението на Office (пакета) от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Инсталиране на приложението на Office (пакет) от уеб магазина на Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Инсталиране на Microsoft Word от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Инсталиране на Microsoft Excel от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Инсталиране на приложение Office (пакет) от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Инсталирайте приложение Office (пакет) от Уеб магазин на Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Инсталиране Microsoft Word от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Инсталиране Microsoft Excel от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
 - [Инсталиране на Microsoft PowerPoint от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Инсталиране на Microsoft OneNote от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Инсталиране Microsoft OneNote от магазина на Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-За да научите повече, вижте [Инсталиране и настройване на Office на Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+За да научите повече, [вижте Инсталиране и настройване на Office на Android](https://go.microsoft.com/fwlink/?linkid=2135287).

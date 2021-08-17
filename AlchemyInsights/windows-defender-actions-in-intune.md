@@ -1,5 +1,5 @@
 ---
-title: Действия за Windows Defender в съзвучие
+title: Windows Defender действия в Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 732b7450121f85416bb0f1868b3722899bee8194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af9e8e16fe96b7460b19481900e4c46d0a2a27f73293f81b5af86131af40287a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047353"
 ---
-# <a name="windows-defender-actions-in-intune"></a>Действия за Windows Defender в съзвучие
+# <a name="windows-defender-actions-in-intune"></a>Windows Defender действия в Intune
 
-Можете да използвате функцията за включване, за да задействате актуализацията на сигнатурата за сканиране и вируса на вирус за Windows Defender на отделни устройства.
+Intune може да се използва за активиране на актуализация на сканиране при поискване и вирусен подпис за Windows Defender на отделни устройства.
 
-След успешното задействане на отдалечено действие дейността се отразява в регистъра на събитията на Windows Defender.
+След успешно задействане на отдалечено действие дейността се отразява в регистрационния файл на Windows Defender събития.
 
-Правилата за защита на крайна точка на Windows позволява допълнителни настройки за функции за Windows Defender, които да бъдат създадени в настройка и приложени към набори от устройства.
+Windows Правилата за защита на крайни точки позволяват допълнителни настройки Windows Defender функции, които да се създават в Intune и да се прилагат към набори от устройства.
 
-За повече информация относно активирането на действия с Windows Defender вижте [Конфигуриране и изпълнение на сканиране за Microsoft Defender Antivirus](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).
+За повече подробности относно активирането Windows Defender действия вижте Конфигуриране и изпълнение на Microsoft Defender Antivirus [при поискване.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus)

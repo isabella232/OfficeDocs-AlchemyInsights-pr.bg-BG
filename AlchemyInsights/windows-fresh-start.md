@@ -1,5 +1,5 @@
 ---
-title: Нов старт в Windows
+title: Windows Fresh Start
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047281"
 ---
-# <a name="windows-fresh-start"></a>Нов старт в Windows
+# <a name="windows-fresh-start"></a>Windows Fresh Start
 
-Действието за стартиране на устройства с Windows Fresh предлага алтернатива на изтриването на устройството и действията за оттегляне на устройството, както и опцията за запазване на състоянието, в което се записва устройството, както и приложенията и настройките на потребителските папки.
+Windows Действието "Fresh Start device" предлага алтернатива на действията "Изтриване на устройството" и "Оттегляне на устройството" заедно с опцията за запазване на състоянието на записване на устройството заедно с приложенията и настройките на домашната папка на потребителя.
 
-За повече информация вижте [използване на прясно Начало за нулиране на устройства с Windows 10 с настройка](https://docs.microsoft.com/intune/device-fresh-start).
+За повече информация вижте Използване на ["Първоначален старт", за да нулирате Windows 10 устройства с Intune](https://docs.microsoft.com/intune/device-fresh-start).

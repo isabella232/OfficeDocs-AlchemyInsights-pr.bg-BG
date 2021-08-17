@@ -1,5 +1,5 @@
 ---
-title: Смени на Teams
+title: Teams Смени
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106461"
 ---
-# <a name="using-teams-shifts"></a>Използване на смени на Teams
+# <a name="using-teams-shifts"></a>Използване Teams смени
 
-За информация за управлението на приложението Shifts, включително за това как да настроите смените, разрешете смени за потребители и управлявайте приложението Shifts вижте:
+За информация относно управлението на приложението Shifts, включително как да настроите смени, разрешаване на смени за потребители и управление на приложението Shifts, вижте:
  
-- [Управлявайте приложението смени за вашата организация в Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Разрешаване или забраняване на смени за определени потребители във вашата организация](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Управление на приложението Shifts за вашата организация в Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Разрешаване или забраняване на смени за определени потребители във вашата организация.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-За да научите повече за смените за Teams, включително управлението на график на промените, вижте [смени за Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+За да научите повече за "Смени" Teams, включително управлението на график за смени, вж. Смени [за Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Ефективно 30 юни 2020**, Microsoft Staffhub е пенсиониран. За повече информация вижте [Microsoft StaffHub е пенсиониран](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**В сила от 30 юни 2020 г.** Microsoft Staffhub е оттегален. За повече информация вижте [Оттегляне на Microsoft StaffHub.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 
