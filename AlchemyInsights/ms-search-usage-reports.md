@@ -1,5 +1,5 @@
 ---
-title: Първи стъпки в използването на отчети за използването на Microsoft Search
+title: Първи стъпки в използването на отчети за Microsoft Search използване
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077279"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Първи стъпки в използването на отчети за използването на Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Първи стъпки в използването на отчети за Microsoft Search използване
 
-Отчетите за използването на Microsoft Search предоставят прозрения за начина, по който търсенето функционира във вашата организация. Тези прозрения ще ви помогнат да намерите съдържание и да направите търсенето по-полезно и възхитително за потребителите във вашите организации.
+Microsoft Search използване предоставят прозрения за начина, по който търсенето функционира във вашата организация. Тези прозрения ще ви помогнат да намерите съдържание и да направите търсенето по-полезно и възхитително за потребителите във вашите организации.
 
-За да научите повече, вижте [Отчети за използване на търсенето на Microsoft](https://go.microsoft.com/fwlink/?linkid=2152048).
+За да научите повече, [вижте Microsoft Search за използване.](https://go.microsoft.com/fwlink/?linkid=2152048)
