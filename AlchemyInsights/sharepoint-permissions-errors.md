@@ -1,5 +1,5 @@
 ---
-title: Грешки в разрешенията на SharePoint
+title: SharePoint разрешения за грешки
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107636"
 ---
-# <a name="sharepoint-permissions-errors"></a>Грешки в разрешенията на SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint разрешения за грешки
 
 Има много сценарии, които могат да подканят едно от тези съобщения. Най-често разрешенията за потребителя или администратора са конфигурирани неправилно или изобщо не са конфигурирани. 
 
-За повече информация вижте "Достъпът е отказан", "Имате нужда от разрешение за достъп до този сайт" или грешките "Потребител не е намерен в указателя" в[SharePoint Online и OneDrive за бизнеса.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+За повече информация вж. "Достъпът е отказан", "Имате нужда от разрешение за достъп до този сайт" или грешките "Потребител не е намерен в[указателя" в SharePoint Online и OneDrive за бизнеса](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).

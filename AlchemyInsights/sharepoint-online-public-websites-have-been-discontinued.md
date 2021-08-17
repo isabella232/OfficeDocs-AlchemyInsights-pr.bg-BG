@@ -1,5 +1,5 @@
 ---
-title: Непрекратени са публичните уеб сайтове на SharePoint online
+title: SharePoint Онлайн публичните уеб сайтове се прекратяват
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051223"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Бяха прекратени публичните уеб сайтове на SharePoint online
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Онлайн публичните уеб сайтове са прекратени
 
-Публични уеб сайтове на SharePoint online бяха прекратени.
+SharePoint Публичните онлайн уеб сайтове са прекратени.
 
-Ако сте създали публичен уеб сайт на SharePoint Online, можете да продължите да го използвате до 31 март, 2018. Ако искате да продължите да имате публичен уеб сайт, трябва да създадете нов с нов доставчик. Съдържанието във вашия публичен уеб сайт на SharePoint Online е изтрито.
+Ако сте създали публичен SharePoint онлайн, можете да продължите да го използвате до 31 март 2018 г. Ако искате да продължите да имате публичен уеб сайт, трябва да създадете нов с нов доставчик. Съдържанието на вашия SharePoint онлайн публичен уеб сайт е изтрито.
 
-За повече информация относно прекратяването на публичния уеб сайт вижте [подробности за процеса на прекъсване на функцията](https://go.microsoft.com/fwlink/?linkid=866980).
+За информация относно прекратяването на публичен уеб сайт вижте [Подробни данни за процеса на прекратяване на функциите.](https://go.microsoft.com/fwlink/?linkid=866980)

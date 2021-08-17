@@ -1,5 +1,5 @@
 ---
-title: Съветите за правила за DLP не работят
+title: Правилата за DLP Съвети не работят
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079655"
 ---
 # <a name="dlp-policy-tip-issues"></a>Проблеми с съвет за правила за DLP
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958691"
 
 - Уверете се, че съдържанието ви отговаря на това, което е необходимо, за да се задейства правилото, описано в Дефиниции [на обект с тип поверителна информация.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Съветите за правилата се показват както в OWA, така и в Outlook. Когато обаче използвате Outlook 2013 или по-нова версия, съветите за правила се показват само при определени условия. За списъка с конкретни условия вижте [Поддържани условия за Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)или по-нова версия за показване на съвети за правила.
+- Съветите за правила се показват както в OWA, така и в Outlook. Когато обаче използвате Outlook 2013 или по-нова версия, съветите за правила се показват само при определени условия. За списъка с конкретни условия вижте Поддържани условия за [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)или по-нова версия за показване на правила Съвети .
 
-За информация относно съветите за правилата за DLP вижте [Справка за съветите](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) за правила на DLP и [матрицата за поддръжка за съвети за правила за DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
+За информация относно съветите за DLP правила вж. [DLP правила Съвети справка](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) и [матрица за поддръжка за съвети за DLP правила.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
