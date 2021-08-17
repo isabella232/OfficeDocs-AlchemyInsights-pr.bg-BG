@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080339"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Създаване на релация между организацията, за да позволите на вашите потребители да си сътрудничат с друга организация
 
-1. От таблото на центъра за администриране на Microsoft 365 отидете на **Exchange за**  >  **администриране.**
-2. Отидете на споделяне **на**  >  **организацията**.
+1. От таблото на центъра за администриране на Microsoft 365 отидете на **Администратор** > **Exchange**.
+2. Отидете на **споделяне в** > **организацията**.
 3. Под **Споделяне на организация** щракнете върху **Нов** .
 4. В **нова организационна релация** в полето **Име на релация** въведете приятелско име за релацията на организацията.
-5. В полето **Домейни, с** които да споделяте, въведете домейна за външната локална организация на Office 365 или Exchange, с който искате да позволите да виждате календарите си. Ако трябва да въведете повече от един домейн, отделете имената на домейните със запетая. Например contoso.com service.contoso.com.
+5. В полето **Домейни,** с които да споделяте, въведете домейна за външната Office 365 или Exchange локална организация, с която искате да позволите да виждате календарите си. Ако трябва да въведете повече от един домейн, отделете имената на домейните със запетая. Например contoso.com service.contoso.com.
 6. Поставете отметка **в квадратчето Разрешаване на споделянето на информация** за заетост в календара, за да включите споделянето на календара с домейните, които сте изброили. Задайте нивото на споделяне за информация за заетост в календара и задайте кои потребители могат да споделят информация за заетост в календара.  
 
 За да зададете нивото на достъп за заетост, изберете едно от следните неща:
 
-- **Информация за заетост в календара само с време**
+- **Информация за заетост от календара само с час**
 - **Календар за заетост с време, тема и местоположение**  
 
  За да зададете кои потребители ще споделят информация за заетост в календара, изберете едно от следните неща:
@@ -46,6 +46,6 @@ ms.locfileid: "51816117"
 
 **За пълно разбиране на тази тема прочетете:**
 
-- [Създаване на организационна релация в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Промяна на релация на организация в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Създаване на релация между организацията в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Промяна на релация между организация в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
 - [Премахване на релация на организация в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

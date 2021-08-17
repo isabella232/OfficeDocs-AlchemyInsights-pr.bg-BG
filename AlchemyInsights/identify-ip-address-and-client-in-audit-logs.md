@@ -1,5 +1,5 @@
 ---
-title: Идентифициране на IP адрес и клиент в регистрационни файлове за проверка
+title: Идентифициране на IP адрес и клиент в регистрационните файлове за проверка
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014889"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887489"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Идентифициране на IP адрес и клиент в регистрационни файлове за проверка
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Идентифициране на IP адрес и клиент в регистрационните файлове за проверка
 
 IP адресът, който съответства на дейност от потребител Microsoft 365 или администратор, се показва в регистрационните файлове за проверка. Информацията за клиента също се записва. Ето стъпките за идентифициране на такава информация
 
@@ -36,4 +36,4 @@ IP адресът, който съответства на дейност от п
 
 В резултатите можете да видите IP адреса за тази дейност в екрана с резултати. Изберете записа за проверка, за  да видите подробна информация в допълнителната информация (например Клиент, Потребител, извършил действие и т.н.).
 
-За повече информация вижте Намиране [на IP адреса на компютъра, използван за достъп до компрометиран акаунт.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+За повече информация вижте Намиране [на IP адреса на компютъра, използван за достъп до компрометиран акаунт.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

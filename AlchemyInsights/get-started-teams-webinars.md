@@ -1,5 +1,5 @@
 ---
-title: Първи стъпки в Teams уебинари
+title: Първи стъпки в Teams Webinars
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964406"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888231"
 ---
-# <a name="getting-started-with-teams-webinars"></a>Първи стъпки в Teams уебинари
+# <a name="getting-started-with-teams-webinars"></a>Първи стъпки в Teams Webinars
 
 Уебинарите са структурирани събрания, където инструкторите и участниците имат ясни роли, често използвани за целите на обучението или сценарии за продажби и маркетингово генериране на потенциалния клиент.
 
@@ -27,4 +27,4 @@ ms.locfileid: "53964406"
 
 **Забележка:** Функционалността на Уебинар все още е в процес на Microsoft 365 клиенти. 
 
-За повече информация как да настроите и конфигурирате Teams уебинари, вижте Настройване за [уебинари в Microsoft Teams](/microsoftteams/set-up-webinars).
+За повече информация как да настроите и конфигурирате Teams уебинари, вижте Настройване за [уебинари в Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).

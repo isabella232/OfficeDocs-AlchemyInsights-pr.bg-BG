@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: df62d965e0dc2ddb656571af99b1e4c3cb52ea35
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676076"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887429"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Индикаторите не работят с помощта на браузъра Edge
 
-След като сте създали индикатор, не е зачетен от Edge (Smartscreen). За повече информация вижте Създаване [на индикатори за ИД и URL адреси/домейни.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+След като сте създали индикатор, не е зачетено от Edge (Smartscreen). За повече информация вижте Създаване [на индикатори за ИД и URL адреси/домейни.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 
 ## <a name="step-1-ensure-the-following"></a>Стъпка 1: Уверете се, че:
 
@@ -34,7 +34,7 @@ ms.locfileid: "52676076"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Стъпка 2: Отстраняване на потенциалния проблем
 
-- Уверете се, че клиентът отговаря на изискванията. За подробности вижте Създаване [на индикатори за ИД и URL адреси/домейни.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+- Уверете се, че клиентът отговаря на изискванията. За подробности вижте Създаване [на индикатори за ИД и URL адреси/домейни.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 - Уверете се, че използвате най-новата версия на браузъра Edge. За да разберете най-новата версия, [вижте Разберете коя версия на Microsoft Edge имате](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Рестартирайте браузъра Edge.
 - Навигирайте до сайта, за който имате настройка на индикатор. Ако сайтът не се показва по очаквания начин, продължете със стъпка 3. 

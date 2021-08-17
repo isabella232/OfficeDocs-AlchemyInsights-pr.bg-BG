@@ -1,5 +1,5 @@
 ---
-title: Актуализации на Outlook.com
+title: Outlook.com актуализации
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053491"
 ---
-# <a name="outlookcom-updates"></a>Актуализации на Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com актуализации
 
-**Последни актуализации**
+**Най-новите актуализации**
 
-- Получете повече от вашия имейл с новия Outlook.com. Оптимизирани сме за търсене, за да е по-лесно от всякога да намерите това, което търсите. Нови функции, като например визуализации на снимки и прикачени файлове, ви позволяват да виждате своите снимки и документи, без да излизате от папката "Входящи" И сега можете да добавяте емоджита и GIF файлове към своите съобщения.  [Научете повече за новия Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Получете повече информация за вашия имейл с новия Outlook.com. Оптимизирахме търсенето, за да улесним от всякога намирането на това, което търсите. Новите функции, като например "Снимки" и визуализации на прикачени файлове, ви позволяват да виждате картините и файловете си, без да излизате от папката "Входящи". И сега можете да добавяте емоджита и GIF файлове към вашите съобщения. [Научете повече за новия Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Актуализации по имейл**
+**Актуализации на имейл**
 
-- Ако вашата пощенска кутия на Outlook.com не се актуализира, вижте [отстраняване на проблеми при синхронизиране на имейл на Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ако вашата пощенска кутия Outlook.com не се актуализира, вижте Коригиране [на проблеми при синхронизиране на Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)

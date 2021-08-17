@@ -1,5 +1,5 @@
 ---
-title: поддръжка на приложението за 1800009 на Outlook for Mac
+title: 1800009 Outlook за Mac в приложението
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33ec262ed3f6bd45424476fded5d88b62f59cdf31542e675923a030f1d6b8fa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053455"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Поддръжка в приложението в Outlook for Mac
 
-За да получите поддръжка в приложението за проблеми в Outlook for Mac, отворете Outlook и щракнете върху **помощ** за \> **Свързване с поддръжката**. Въведете въпроса си и член на екипа за поддръжка на Outlook for Mac ще се свърже с вас. 
+За да получите поддръжка в приложението за проблеми Outlook Mac, отворете Outlook щракнете върху Помощ за **връзка с** \> **поддръжката**. Въведете въпроса си и член на екипа за поддръжка Outlook за Mac ще се свърже с вас. 
 
-Научете повече: [обърнете се към поддръжката в Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Научете повече: [Свържете се с поддръжката в Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
