@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948944"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894384"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Изследване на фишинг, нежелана поща или неправилно филтриран имейл
 
 Използвайте Explorer за подаване, за да изпратите съобщението на Microsoft. Ще получите незабавна обратна връзка за филтрирането на съобщения и причината за проблема. Ето резюме на стъпките:
 
-1. Отидете в центъра [за Office 365 защита & съответствие,](https://go.microsoft.com/fwlink/p/?linkid=2077143)изберете Подавания за управление на заплахи и след   >  това **изберете +Ново подаване.**
-2. Задайте подробните данни в **допълнителното означение "Ново** подаване".
-3. Информирайте потребителите си, че трябва да съобщават за подозрителни имейли на Microsoft и че добавката "Съобщение за [отчет"](https://go.microsoft.com/fwlink/?linkid=2092385) е инструментът, който трябва да използват за тази цел.
+1. В портала Microsoft 365 Defender отидете <https://security.microsoft.com> на Изпращане на имейл & **за** \> **сътрудничество**.
+
+   За да отидете директно на **страницата "Подавания",** използвайте <https://security.microsoft.com/reportsubmission> .
+
+2. На страницата **Подавания** проверете дали е **избран разделът Подадени** за анализ, след което щракнете **върху + Подай на Microsoft за анализ.**
+
+3. Ще се покаже допълнително меню с опцията за подаване на имейл, URL адрес или файл. За повече информация вижте Използване на подаване на администратор за подаване на предполагаем [спам, фиш, URL адреси и файлове в Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+
+4. Информирайте потребителите си, че трябва да съобщават за подозрителни съобщения в своята папка "Входящи" с помощта на добавката "Съобщение за отчет" или [добавката "Фишинг за отчети".](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

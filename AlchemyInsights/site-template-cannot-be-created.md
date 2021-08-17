@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c928d2fef83f2ae93aa764078739def8e1ec9f9d5cf3d9f11e22cd20702d4ddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084740"
 ---
 # <a name="site-template-cannot-be-created"></a>Шаблонът за сайт не може да бъде създаден
 
@@ -27,6 +27,6 @@ ms.locfileid: "51786874"
 
 - Сайтът може да използва твърде много ресурси и следователно шаблонът за сайт надхвърля ограничението от 50 МБ.
 
-- Има проблеми с показването на данни от списък, който използва справочна колона. За повече информация вижте [Генериран от шаблон списък не показва данни от правилния справочен списък в SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Има проблеми с показването на данни от списък, който използва справочна колона. За повече информация вижте Генериран от шаблон списък не показва данни [от правилния справочен списък в SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 За по-подробна информация за често срещани проблеми и решения вижте [Създаване и използване на шаблони за сайтове](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

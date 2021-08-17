@@ -1,5 +1,5 @@
 ---
-title: Разрешаване на Microsoft Defender за Office 365 за SharePoint онлайн, OneDrive и Microsoft Teams
+title: Разрешаване Сейф прикачени файлове за SharePoint онлайн, OneDrive и Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058855"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894452"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Разрешаване на Microsoft Defender за Office 365 за SharePoint онлайн, OneDrive и Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Разрешаване Сейф прикачени файлове за SharePoint онлайн, OneDrive и Microsoft Teams
 
-1. Като използвате своите идентификационни данни за глобален администратор или администратор на защита, [влезте в Office 365 за защита и съответствие.](https://protection.office.com/)
-2. Изберете **Управление на заплахи** в левия екран и след това изберете Правила **Сейф** прикачени  >  [файлове.](https://protection.office.com/safeattachment)
-3. Изберете **Включване на Microsoft Defender за Office 365 за SharePoint, OneDrive** и Microsoft Teams и след това изберете **Запиши**.
+1. Като използвате своите идентификационни данни за глобален администратор или администратор на защита, отворете портала Microsoft 365 Defender и след това отидете на Правила & правила за заплахи Сейф Прикачени файлове <https://security.microsoft.com> в  \>  \>  **раздела** Правила
+
+   За да отидете директно на **страницата Сейф Прикачени файлове,** използвайте <https://security.microsoft.com/safeattachmentv2> .
+
+2. На страницата **Сейф Прикачени файлове** щракнете върху Глобални **настройки**.
+3. В менюто, което се появява, изберете Включване на Microsoft Defender за Office 365 за **SharePoint, OneDrive и Microsoft Teams** и след това изберете **Запиши**.
+
     > [!TIP]
     >
-    > - Като глобален администратор или администратор на SharePoint Online изпълнете следната кратка команда на PowerShell с **параметъра DisallowInfectedFileDownload,** зададен на *true:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Настройване на известия за открити файлове](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Направете следните стъпки, за да подобрите защитата на Сейф прикачени файлове SharePoint, OneDrive и Microsoft Teams:
+    >
+    > - За да предотвратите изтеглянето на злонамерени файлове от потребителите, използвайте стойността за параметъра `$true` *DisallowInfectedFileDownload* на кратката команда **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** в SharePoint Online PowerShell. За повече информация вижте [Използване на SharePoint PowerShell, за да предотвратите изтеглянето на злонамерени файлове от потребителите.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Създаване на правила за известяване за открити файлове](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-За повече информация вижте [Microsoft Defender за Office 365 за SharePoint, OneDrive и Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+За повече информация [вж. Сейф Прикачени файлове за Office 365 за SharePoint, OneDrive и Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).
