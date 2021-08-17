@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 159d993f9a54fabc4ed16791e9892bd6f2a268784e06b2c3bccdcab39544349d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053995"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Управление на синхронизирани потребителски акаунти
 
-Обикновено използвате центъра за администриране на Microsoft 365, за да добавяте и променяте потребителски акаунти. Не можете обаче да го използвате, ако са разрешени справочната сихронизация или SSO. Вместо това управлявайте потребителите си с Windows PowerShell, както е описано в [Конфигуриране на свойства на потребителски акаунт с Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
+Обикновено използвате функцията за Център за администриране на Microsoft 365, за да добавяте и променяте потребителски акаунти. Не можете обаче да го използвате, ако са разрешени справочната сихронизация или SSO. Вместо това управлявайте потребителите си с Windows PowerShell, както е описано в [Конфигуриране на свойствата на потребителския акаунт Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

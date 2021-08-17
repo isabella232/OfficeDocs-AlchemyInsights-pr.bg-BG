@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2aba4611863c8d3617fa682219c298ed00949739f5425ccd2b8f6bba18b28a1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108329"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Настройване на аудиоконференции за Teams
 
@@ -43,4 +43,4 @@ ms.locfileid: "51828465"
 
 7. Изберете въпросния потребител и проверете дали потребителят има **Платен номер по подразбиране**.
 
-За повече информация вижте Планове за обаждания [на Microsoft Teams за Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) или се обадете на екипа за фактуриране на Microsoft Commerce за помощ за въпроси, свързани с лицензирането.
+За повече информация вижте Планове за Microsoft Teams обаждания за Microsoft 365 или се [обадете](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) на екипа за фактуриране на Microsoft Commerce за помощ за въпроси, свързани с лицензирането.

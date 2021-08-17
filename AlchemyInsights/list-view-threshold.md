@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: a92bb161142f79a4288aa8f3b456b5223a90bc51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f4456a4cc8b835e46fc82b6112e0829f561d6a8f4be80091b7f328c5f29ee8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054067"
 ---
 # <a name="list-view-threshold"></a>Праг за списъчен изглед
 
-Прагът за списъчен изглед е налице, за да се поддържа производителността на услугата. Прагът не може да се промени в SharePoint online. За да избегнете натискането на този праг, вижте [управление на големи списъци и библиотеки в SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
+Прагът на списъчен изглед е на мястото за поддържане на производителността на услугата. Прагът не може да бъде променен в SharePoint Онлайн. За да избегнете попадане на този праг, вижте Управление на [големи списъци и библиотеки в SharePoint.](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
 
-Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка. Вижте [споделяне на грешки/прекъсване на наследяването](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
+Можете да получите тази грешка и когато се опитвате да споделите или прекъснете наследяването на папка. Вижте [Споделяне/прекъсване на наследяването на грешки](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
