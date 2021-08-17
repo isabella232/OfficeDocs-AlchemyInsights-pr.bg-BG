@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026211"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892036"
 ---
-# <a name="missing-emails-in-quarantine"></a>Липсващи имейли под карантина"
+# <a name="missing-emails-in-quarantine"></a>Липсващи имейли под карантина
 
-Администраторите могат [да преглеждат, пускат или изтриват тези съобщения.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Администраторите могат [да преглеждат, пускат или изтриват тези съобщения](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-За да отворите центъра за & за съответствие, отидете на [https://protection.office.com](https://protection.office.com/) . За да отворите страницата Карантина директно, отидете на [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+В портала Microsoft 365 Defender отидете на <https://security.microsoft.com> Преглед на **карантината.** \>  Или, за да отидете директно на страницата **Карантина,** използвайте <https://security.microsoft.com/quarantine> .  
 
-Можете да търсите по следните стойности:  
-
-- **ИД на** съобщение: Глобално уникалният идентификатор на съобщението. Ако изберете съобщение в списъка, стойността на  **ИД**  на съобщението се показва в екрана с допълнителни  **данни,**  който се появява. Администраторите могат да използват [проследяване на съобщения,](/microsoft-365/security/office-365-security/message-trace-scc) за да намират съобщения и съответните им стойности за ИД на съобщение.
-- **Имейл адрес на подателя:** Имейл адрес на един подател.
-- **Имейл адрес на** получателя: Имейл адрес на един получател.
-- **Тема:** Използвайте цялата тема на съобщението. Търсенето не е с малки и главни букви.
-
-След като сте въвели критериите за търсене, щракнете върху бутона ![ ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Обнови, за** да филтрирате резултатите.
+За повече информация относно стойностите за търсене/филтриране, които можете да използвате, вижте Управление на съобщения и файлове под карантина [като администратор в EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 
 Кратките команди, които използвате за преглед и управление на съобщения и файлове под карантина, са:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Експортиране-карантинаMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage:](/powershell/module/exchange/preview-quarantinemessage)Обърнете внимание, че тази кратка команда е само за съобщения, а не за злонамерени файлове от Microsoft Defender за Office 365 за SharePoint Online, OneDrive за бизнеса или Teams.
-- [Съобщение за карантинаMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Експортиране-карантинаMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Обърнете внимание, че тази кратка команда е само за съобщения, а не за файлове от Сейф Прикачени файлове за SharePoint, OneDrive или Microsoft Teams.
+- [Съобщение за карантинаMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

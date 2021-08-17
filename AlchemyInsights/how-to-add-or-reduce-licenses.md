@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501805"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892184"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Добавяне или премахване на лицензи за вашия абонамент
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501805"
 4. За да закупите или премахнете лицензи, **под Ново** количество **в полето** Общо лицензи въведете общия брой лицензи, които искате за този абонамент. Ако например имате 100 лиценза и искате да добавите още 25, въведете 125. Ако искате да премахнете 25 лиценза, въведете 75.
 5. Изберете **Записване**.
 
-За информация как да дадете лицензи, вижте [Назначаване на лицензи на потребители](/microsoft-365/admin/manage/assign-licenses-to-users).
+За информация как да дадете лицензи, вижте [Назначаване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Ресурси**
   
-- [Закупуване или премахване на лицензи](/microsoft-365/commerce/licenses/buy-licenses)
-- [Отмяна Microsoft 365 за бизнеса](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Изпробване или закупуване на Microsoft 365 за бизнеса](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Отмяна Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Изпробвайте или купете Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

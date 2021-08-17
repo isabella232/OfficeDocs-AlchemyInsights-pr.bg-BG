@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918420"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891744"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Импортиране на услуга
 
@@ -31,11 +31,11 @@ ms.locfileid: "53918420"
 
 1. На страницата **Импортиране** изберете Ново **задание за импортиране**. Въведете име на задание и изберете **Напред**.
 
-1. Изберете **Upload данни, за** да използвате опцията за качване в мрежата за тип задание за **импортиране**. За подробни стъпки вижте Използване на качване в мрежата за импортиране на PST файловете на [вашата организация в Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
+1. Изберете **Upload данните си, за** да използвате опцията за качване в мрежата за тип задание за **импортиране**. За подробни стъпки вижте Използване [на качване в мрежата за импортиране на PST файловете на вашата организация в Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
 
-За достъп до **страницата** Импортиране се уверете, че са ви присвоени съответните разрешения. За повече информация вижте Използване на [качване в мрежата за импортиране на PST файлове.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
+За достъп до **страницата** Импортиране се уверете, че са ви присвоени съответните разрешения. За повече информация вижте Използване на [качване в мрежата за импортиране на PST файлове.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Ако искате да импортирате PST файл в пощенската си кутия, вижте Импортиране на [имейл, контакти и календар от Outlook .pst файл](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ако искате да импортирате PST файл в пощенската си кутия, вижте Импортиране на имейл, контакти [и календар от Outlook .pst файл](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
 
-Ако имате проблем с импортирането, вижте Проблеми, които засягат задачи [за импортиране на PST](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+Ако имате проблем с импортирането, вижте Проблеми, които засягат задачи [за импортиране на PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 

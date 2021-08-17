@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013125"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320744"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Решения за проблеми при инсталиране на Office
 
@@ -30,7 +30,8 @@ ms.locfileid: "54013125"
 - Изчистете всички предишни следи от Office и преинсталирайте с помощта на помощника за поддръжка и възстановяване (SaRA). 
 
     - Изтегляне и инсталиране на [Помощника за поддръжка и възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy). Когато се отвори, от **Деинсталирайте продукти на Office** изберете версията, която искате да деинсталирате (ако има такава), след което щракнете върху **Напред**. Продължете да преминавате през екраните и рестартирайте компютъра си, когато получите подкана. След рестартирането SaRA се отваря автоматично, за да завърши процеса на деинсталиране.
-    - Използвайте SaRA, за да [преинсталирате Office](https://aka.ms/sara-officeinstall). **Забележка**: за настройване на Visio или Project чрез SaRA използвайте [Инсталиране на Visio](https://aka.ms/SaRA-VisioSetupScenario) или [Инсталиране на Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Използвайте SaRA, за да [преинсталирате Office](https://aka.ms/sara-officeinstall). 
+    **Забележка**: за настройване на Visio или Project чрез SaRA използвайте [Инсталиране на Visio](https://aka.ms/SaRA-VisioSetupScenario) или [Инсталиране на Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Използвайте офлайн инсталиращата програма](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA), за да инсталирате Office.
 
