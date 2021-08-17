@@ -1,5 +1,5 @@
 ---
-title: Преглед на отчети за дейността и употребата на OneDrive
+title: Преглед на отчети за OneDrive дейност и използване
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037309"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Преглед на отчети за дейността и употребата на OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Преглед на отчети за OneDrive дейност и използване
 
-Отидете на [страницата с отчети за използване в центъра за администриране на Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Под **Изберете отчет** изберете дейността или отчета за използването на OneDrive.
+Отидете на страницата [Отчети за използване в Център за администриране на Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Под **Избор на отчет** изберете отчета OneDrive дейност или използване.
 
-За повече информация вижте [за отчетите в OneDrive](https://go.microsoft.com/fwlink/?linkid=875239).
+За повече информация вижте [Информация за OneDrive отчети](https://go.microsoft.com/fwlink/?linkid=875239).

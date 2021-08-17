@@ -1,5 +1,5 @@
 ---
-title: Използване на набора с инструменти за готовност на Office
+title: Използване на набора Office "Готовност"
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072905"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Използване на набора с инструменти за готовност на Office
+# <a name="using-the-office-readiness-toolkit"></a>Използване на набора Office "Готовност"
 
-За информация относно използването на набора с инструменти за готовност за Office вижте [използване на набора с инструменти за готовност за оценка на съвместимостта на приложения за приложенията на Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+За информация относно използването на набора Office инструменти за готовност вижте Използване на набора с инструменти за готовност, за да оцените съвместимостта на [приложенията за Приложения на Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
 
-Ако имате обратна връзка или въпроси относно инструментариума за проверка на готовността, моля, изпратете ни имейл на адрес ReadyForOffice@microsoft.com.
+Ако имате обратна връзка или въпроси относно набора с инструменти за готовност, изпратете ни имейл на ReadyForOffice@microsoft.com.
