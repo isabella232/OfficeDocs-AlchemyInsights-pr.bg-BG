@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499069"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313723"
 ---
 # <a name="buy-additional-licenses"></a>Закупуване на допълнителни лицензи
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499069"
 3. Под **Ново количество** в полето Общо **лицензи** въведете общия брой лицензи, които искате за този абонамент. Ако например имате 100 лиценза и искате да добавите още 25, въведете 125.
 4. Изберете **Записване**.
 
-За да научите повече, вижте [Закупуване или премахване на лицензи](/microsoft-365/commerce/licenses/buy-licenses).
+За да научите повече, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Допълнителни ресурси**
 
-[Дайте лицензи на потребители в Microsoft 365 за бизнеса](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Дайте лицензи на потребители в Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

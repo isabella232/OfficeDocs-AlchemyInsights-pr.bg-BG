@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891668"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312676"
 ---
 # <a name="alert-policies"></a>Правила за известяване
 
-Microsoft 365 по подразбиране [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) съдържа правила за известяване по подразбиране, които задействат известия за организации с абонамент за Microsoft 365 Enterprise или Microsoft 365 на правителството на САЩ E1/G1, E3/G3 или E5/G5. Следователно администраторите може да получат известие по имейл за известие, изпратено от Office365Alerts@microsoft.com с тема, като например "Известие с ниска степен на сериозност: име на правилата *за известяване".* Известията за известяване се изпращат, когато се активират предупреждения за често срещани дейности, например когато потребителите:
+Microsoft 365 по [подразбиране](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) съдържа правила за известяване по подразбиране, които задействат известия за организации с абонамент за Microsoft 365 Enterprise или Microsoft 365 на правителството на САЩ E1/G1, E3/G3 или E5/G5. Следователно администраторите може да получат известие по имейл за известие, изпратено от Office365Alerts@microsoft.com с тема, като например "Известие с ниска степен на сериозност: *име на правилата за известяване".* Известията за известяване се изпращат, когато се активират предупреждения за често срещани дейности, например когато потребителите:
 
 - Създайте правила за папка "Входящи", които препращат имейли.
 - Присвояване на разрешения на пощенската им кутия.
@@ -33,7 +33,7 @@ Microsoft 365 по подразбиране [](https://docs.microsoft.com/micros
 
 1. Изпълнете една от следните стъпки:
    - В Център за съответствие на Microsoft 365 в <https://compliance.microsoft.com> отидете на **Известия**. Или, за да отидете директно на **страницата Известия,** използвайте <https://compliance.microsoft.com/compliancealerts> .
-   - В портала Microsoft 365 Defender <https://security.microsoft.com> в отидете на Инциденти & **известия** \> **Известия**. Или, за да отидете директно на **страницата Известия,** използвайте <https://security.microsoft.com/alerts> .
+   - В портала Microsoft 365 Defender , <https://security.microsoft.com> отидете на Инциденти & **известия** \> **Известия**. Или, за да отидете директно на **страницата Известия,** използвайте <https://security.microsoft.com/alerts> .
 2. Щракнете върху известие, за да покажете страница с допълнително меню с информация за известието.
 
 Можете да предприемете действия по известие, като например премахване на [подозрително правило за папка "Входящи".](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Или можете просто да затворите известието, като щракнете **върху Разреши** на страницата с известие.

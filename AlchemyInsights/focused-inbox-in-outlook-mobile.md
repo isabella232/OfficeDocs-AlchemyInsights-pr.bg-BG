@@ -1,5 +1,5 @@
 ---
-title: 1800019 "фокусирани Входящи" в Outlook Mobile
+title: 1800019 "Фокусирани входящи" в Outlook мобилни устройства
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117041"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Фокусирани Входящи за Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>Фокусирани входящи за Outlook мобилни устройства
 
-[Какво представлява "фокусирани Входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Какво е "Фокусирани входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Как да редактирам правилата, в които се мести Моят имейл във и извън "фокусирани Входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Как да редактирам правилата, които преместват моя имейл във и извън "Фокусирани входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Как да изключа "фокусирани Входящи" или промяна на броя на моите знаци и уведомленията за синхронизиране с "фокусирани Входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Как да изключа "Фокусирани входящи" или да променя дали броят на значката и известията ми се синхронизират с "Фокусирани входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Как да изключа "фокусирани Входящи" или да променя дали уведомленията се синхронизират с "фокусирани Входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Как да изключа "Фокусирани входящи" или да променя дали известията се синхронизират с "Фокусирани входящи"?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Как мога да превключвам между "фокусирани" и "други"?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Как да превключвам между "Фокусирани" и "Други"?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Научете повече: [получаване на помощ в приложението за Outlook за IOS и Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Научете повече: [Получаване на помощ в приложението за Outlook за iOS и Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   
