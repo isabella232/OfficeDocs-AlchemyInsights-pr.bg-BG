@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500005"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895480"
 ---
 # <a name="change-payment-method"></a>Промяна на метода на плащане
 
@@ -36,6 +36,6 @@ ms.locfileid: "54500005"
 6. В екрана **Добавяне на метод на** плащане въведете информацията за акаунта, след което изберете **Запиши**. Трябва да използвате метод на плащане от същата страна като вашия клиент.
 7. Новият метод на плащане вече е избран в падащия списък. Изберете **Замести**.
 
-За да научите как да добавяте, актуализирате, замествате или изтривате методи на плащане, вижте [Управление на методите на плащане](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+За да научите как да добавяте, актуализирате, замествате или изтривате методи на плащане, вижте [Управление на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-За да научите как да промените методите на плащане, вижте [Как да платите за абонамента си.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+За да научите как да промените методите на плащане, вижте [Как да платите за абонамента си.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

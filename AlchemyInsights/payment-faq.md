@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310920"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895696"
 ---
 # <a name="payment-faq"></a>ЧЗВ за плащане
 
 Управление на плащания в **Център за администриране на Microsoft 365**.
 
 - Отидете на **Фактуриране > [вашите продукти, за да присвоите](https://go.microsoft.com/fwlink/p/?linkid=842054)** или промените методите на плащане за абонамент.
-- Отидете на **Методи > [плащане, за](https://go.microsoft.com/fwlink/p/?linkid=2018806)** да добавяте, актуализирате, замествате или изтривате методи на плащане.
+- Отидете на **Методи > [плащане,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** за да добавяте, актуализирате, замествате или изтривате методи на плащане.
 
 - **Методи на плащане** – ако плащате с кредитна карта или банкова сметка, методът на плащане, който е свързан с абонамента ви (ите), се таксува в рамките на няколко дни след създаването на фактурата. Ако плащането е неуспешно, актуализирайте метода на плащане. За повече информация вижте Управление [на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

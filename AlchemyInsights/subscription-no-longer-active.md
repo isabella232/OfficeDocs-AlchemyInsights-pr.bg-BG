@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890387"
 ---
 # <a name="subscription-no-longer-active"></a>Абонаментът вече не е активен
 
-Ако се [покаже съобщение за абонамент,](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) когато се отвори приложение на Microsoft, вероятно трябва да активирате отново абонамента си.
+Ако се [покаже известие за абонамент,](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) когато се отвори приложение на Microsoft, вероятно трябва да активирате отново абонамента си.
 
 **Повторно активиране на абонамент**
 
@@ -32,4 +32,4 @@ ms.locfileid: "53909671"
 3. В екрана **Повторно активиране на този абонамент** изберете метод на плащане от падащия списък или изберете Добавяне на метод на **плащане**.
 4. Изберете **Записване**.
 
-За да научите повече, вижте [Повторно активиране на вашия абонамент](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+За да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

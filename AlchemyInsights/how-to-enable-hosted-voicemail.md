@@ -1,5 +1,5 @@
 ---
-title: Как се разрешава хоствана гласова поща
+title: Как да разрешите хостваната гласова поща
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055543"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Как се разрешава хоствана гласова поща
+# <a name="how-to-enable-hosted-voicemail"></a>Как да разрешите хостваната гласова поща
 
-За да разрешите гласовата поща, **HostedVoicemail** трябва да бъде настроено на $True.
+За да разрешите гласовата поща, **HostedVoicemail** трябва да е настроен на $true.
 
-Свойството **HostedVoicemail** на потребителя чрез отдалечен POWERSHELL (RPS).
+Свойството **HostedVoicemail** на потребителя чрез отдалечен PowerShell (RPS).
 
-За повече информация относно свързването с RPS вижте [общ преглед на Microsoft Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) за повече информация относно свързването с RPS.
+За повече информация относно свързването към RPS вж. Microsoft Teams общ преглед на [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) за повече информация относно свързването към RPS.
 
-1. Администраторът на Teams трябва да бъде влязъл в отдалечен PowerShell за Teams.
-1. От PowerShell подкана администраторът на Teams може да изпълни **Set-csuser user@contoso.com-HostedVoiceMail $True** , където SIP URI е от въпросния потребител.
+1. Администраторът Teams трябва да е влязъл в Отдалечен PowerShell за Teams.
+1. От подканата на PowerShell администраторът на Teams може да изпълнява **set-csuser user@contoso.com -HostedVoiceMail $true** където sip uri е на въпросния потребител.
 
 > [!NOTE]
-> Промените в правилата могат да са необходими до 24 часа, за да се копират.
+> Промените в правилата могат да отнемат до 24 часа, за да се възпроизвеждат.

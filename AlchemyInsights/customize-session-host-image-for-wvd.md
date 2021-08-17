@@ -1,5 +1,5 @@
 ---
-title: Персонализиране на изображение на хост за сесия за виртуален работен плот на Windows
+title: Персонализиране на изображение на хост на сесия за Windows виртуален работен плот
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118625"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Персонализиране на изображение на хост за сесия за виртуален работен плот на Windows
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Персонализиране на изображение на хост на сесия за Windows виртуален работен плот
 
-Има два начина, по които да подготвите виртуална машина (VM), като използвате образ за виртуален твърд диск за Windows Virtual Desktop:
+Има два начина за подготовка на виртуална машина (VM) с помощта на образец на изображение на виртуален твърд диск за Windows виртуален работен плот:
 
-1. [СЪЗДАЙТЕ VM от управлявано изображение в Azure](https://go.microsoft.com/fwlink/?linkid=2127906)и след това преминете към [подготовка и инсталиране на софтуера](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Създайте изображението локално](https://go.microsoft.com/fwlink/?linkid=2128065) , като изтеглите изображението, осигурите [ХИПЕР-V VM](https://go.microsoft.com/fwlink/?linkid=2127907)и след това го персонализирате така, че да отговаря на нуждите ви.
+1. [Създайте VM от управлявано изображение в Azure](https://go.microsoft.com/fwlink/?linkid=2127906)и след това преминете напред към [подготовката и инсталирането на софтуер.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Създайте изображението локално чрез](https://go.microsoft.com/fwlink/?linkid=2128065) изтегляне на изображението, осигуряване на [Hyper-V V VM](https://go.microsoft.com/fwlink/?linkid=2127907)и след това персонализирането му така, че да отговаря на вашите нужди.
 
-За да научите повече, вижте [подготовка и персонализиране на образец за VHD изображение](https://go.microsoft.com/fwlink/?linkid=2127838).
+За да научите повече, вижте [Подготовка и персонализиране на образец на VHD изображение](https://go.microsoft.com/fwlink/?linkid=2127838).

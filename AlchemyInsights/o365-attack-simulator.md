@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065273"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895780"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Атака на тренажор в Microsoft 365
 
 - Липсва ли ви таен тренажор? Симулаторът на атаки **изисква Microsoft Defender Office 365 план 2** или Office 365 Enterprise **E5**. Симулаторът на **атаки не** е включен в Microsoft Defender за Office 365 план 1, Office 365 Enterprise E3 или Приложения на Microsoft 365 за бизнеса абонаменти.
 
-- Акаунтът, който използвате за стартиране на симулирани атаки, изисква разрешения на глобален администратор или администратор на защитата и многофакторно удостоверяване (MFA). За повече информация относно изискванията за таен тренажор [за атаки вж. тази тема.](/microsoft-365/security/office-365-security/attack-simulator)
+- Акаунтът, който използвате за стартиране на симулирани атаки, изисква разрешения на глобален администратор или администратор на защитата и многофакторно удостоверяване (MFA). За повече информация относно изискванията за таен тренажор [за атаки вж. тази тема.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Важни неща, които трябва да знаете за **симулации за атака с** парола на Brute Force:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065273"
 
   - По проект не можете да предоставите стойност по избор за URL адрес на сървъра за **фишинг влизане.**
 
-  - Ако получателят използва добавката [Разреши](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) съобщението за отчет, за да съобщи за съобщението като фишинг, е възможно да не получавате известия за съобщението (тъй като това е симулирана атака).
+  - Ако получателят използва добавката [Разреши](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) съобщението за отчет, за да съобщи за съобщението като фишинг, е възможно да не получавате известия за съобщението (тъй като това е симулирана атака).
 
 - Отчети: След като симулираната атака завърши, можете да щракнете върху Подробни данни **за атаката,** за да видите отчета.
 
-- За подробни инструкции и нови функции в симулатора на атаки вижте [Симулатор на атаки в Microsoft 365.](/microsoft-365/security/office-365-security/attack-simulator)
+- За подробни инструкции и нови функции в симулатора на атаки вижте [Симулатор на атаки в Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)

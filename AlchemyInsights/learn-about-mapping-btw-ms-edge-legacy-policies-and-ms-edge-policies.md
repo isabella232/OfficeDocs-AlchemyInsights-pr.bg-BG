@@ -1,5 +1,5 @@
 ---
-title: Научете за съпоставянето между правилата за наследство на Microsoft Edge и правилата за Microsoft Edge
+title: Научете повече за съпоставянето между наследена версия на Microsoft Edge правила и Microsoft Edge правила
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087377"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Научете за съпоставянето между правилата за наследство на Microsoft Edge и правилата за Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Научете повече за съпоставянето между наследена версия на Microsoft Edge правила и Microsoft Edge правила
 
-Груповите правила на Microsoft Edge Legacy (версии 45 и по-стари) и настройки на управлението на мобилни устройства (MDM) се съпоставят със съответните правила на Microsoft Edge версия 80. За да научите повече, вижте [наследени Microsoft Edge за съпоставяне на правилата за Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Груповите правила на наследена версия на Microsoft Edge (версии 45 и по-стари версии) и настройките за управление на мобилни устройства (MDM) се съпотано със съответните правила на Microsoft Edge версия 80. За да научите повече, [вижте наследена версия на Microsoft Edge за Microsoft Edge на правилата](https://go.microsoft.com/fwlink/?linkid=2141665).

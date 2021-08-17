@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481042"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890587"
 ---
 # <a name="run-a-message-trace"></a>Изпълнение на проследяване на съобщение
 
-Проследяването на съобщения се изпълнява в секцията "пощенски поток" на центъра за администриране на & на Office 365.
+Можете да изпълните проследяване на съобщение от **Exchange проследяване на съобщения** в портала Microsoft 365 Defender в <https://security.microsoft.com> .
 
-За да научите как да изпълнявате проследяване на съобщение, вижте [проследяване на съобщения в центъра за защита на & на Office 365](https://go.microsoft.com/fwlink/?linkid=2103855).
+За повече информация вижте Проследяване [на съобщения в Microsoft 365 Defender портала](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

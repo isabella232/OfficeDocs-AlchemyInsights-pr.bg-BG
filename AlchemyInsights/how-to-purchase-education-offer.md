@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 028ae1b86a98c8dab1940b715c266f3d481c71ef1ec84e932e9c74817bccdef5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895816"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>Как да закупите предложение за образование
 
@@ -34,4 +34,4 @@ ms.locfileid: "54503245"
 
 Ако искате да закупите абонамент, различен от вашия пробен абонамент, отидете на страницата **Услуги за** \> [закупуване на](https://go.microsoft.com/fwlink/p/?linkid=868433) плащания. Под **Планове за** образование изберете плана, който искате.
 
-За да научите повече, вижте [Закупуване на абонамент от вашата безплатна пробна версия.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+За да научите повече, вижте [Закупуване на абонамент от вашата безплатна пробна версия.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)

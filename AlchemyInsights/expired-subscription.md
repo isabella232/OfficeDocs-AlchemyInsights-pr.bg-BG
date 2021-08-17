@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029721"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895876"
 ---
 # <a name="expired-subscription"></a>Изтекъл абонамент
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029721"
 3. В екрана **Повторно активиране на този абонамент** изберете метод на плащане от падащия списък или изберете Добавяне на метод на **плащане**.
 4. Изберете **Записване**.
 
-За да научите повече, вижте [Повторно активиране на вашия абонамент](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+За да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Извършване на нова покупка**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029721"
 3. Въведете броя на лицензите, които ви трябват, и изберете дали да плащате всеки месец, или за цялата година. Изберете дали искате автоматично да давате лицензи на всеки, който в момента няма лиценз. След това **изберете Прегледайте сега**.
 4. Следвайте останалите стъпки, за да завършите напускането.
 
-За да научите повече, вижте [Закупуване на друг абонамент](/microsoft-365/commerce/buy-another-subscription).
+За да научите повече, вижте [Закупуване на друг абонамент](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
