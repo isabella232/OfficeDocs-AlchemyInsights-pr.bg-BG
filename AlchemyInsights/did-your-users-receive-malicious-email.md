@@ -14,34 +14,34 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893392"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Потребителите ви получили ли са злонамерен имейл?
 
-- Сега можете да съобщите за злонамерения имейл на Microsoft с помощта на подавания [на администратори в центъра за & съответствие.](https://sip.protection.office.com/reportsubmission)
+Сега можете да съобщите за злонамерения имейл на Microsoft [с помощта на "Подавания" Microsoft 365 Defender портала](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
-Съобщенията, които са подадени в [подавания от администратор,](https://sip.protection.office.com/reportsubmission) се сканират и в допълнителната информация се показват **следните** резултати:
+Съобщенията, които са подадени в [подавания от](https://security.microsoft.com/reportsubmission?viewid=admin) администратор, се сканират и се показват следните резултати в подробното листовка:
 
 - Ако е имало грешка в удостоверяването на имейла на подателя към момента на доставянето.
 - Информация за всички посещения на правила, които може да са засегнали или заместили решението на съобщението.
 - Текущи резултати от детонацията, за да видите дали URL адресите или файловете, съдържащи се в съобщението, са злонамерени или не.
 - Обратна връзка от класьори
 
-Ако е намерено заместване, повторното сканиране трябва да завърши след няколко минути. Ако не е имало проблем в удостоверяването на имейл или ако доставянето не е било засегнато от заместване, обратната връзка от завършващите може да отнеме до един ден.
+Ако е намерено заместване, повторното сканиране трябва да завърши след няколко минути. Ако няма проблем в удостоверяването на имейл или ако доставянето не е било засегнато от заместване, обратната връзка от завършващите може да отнеме до един ден.
 
-Ако не сте съгласни с окончателната присъда за съобщение, URL адрес или файл (блокирано спрямо блокирано, не е блокирано), изпратете съобщението отново след един ден за повторно сканиране. Шансовете са високи, че решението ще се промени след изпращането на съобщението отново.
+Ако не сте съгласни с окончателната присъда за съобщение, URL адрес или файл (блокирано спрямо блокирано, не е блокирано), изпратете съобщението отново след ден за повторно сканиране. Шансовете са високи, че решението ще се промени след повторното изпращане на съобщението.
 
 Междувременно можете да премахнете злонамерените имейли от потребителските входящи, като следвате инструкциите в [тази статия.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
 
 - Клиентите с Microsoft Defender за Office 365 могат:
-    - използване на [Threat Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [използване Сейф връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до злонамерен URL адрес
-    - проследяване на потребители, които са щракнали и са осъществявали достъп до злонамерени URL адреси: Преглед на URL адрес за фишинг и щракване върху [пресъдени данни](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - ръчно [стартиране на автоматизирано разследване](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Използване на [Threat Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Използване Сейф връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) до злонамерен URL адрес
+  - Проследяване на потребители, които са щракнали и са осъществявали достъп до злонамерени URL адреси: Преглед на URL адреса за фишинг и щракване върху [пресъдени данни](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Ръчно [стартиране на автоматизирано разследване](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Можете също да защитите от злонамерени файлове и URL адреси, като следвате инструкциите в [Защита от злонамерени URL адреси и файлове.](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)
