@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Advanced hunting споделени заявки
+title: 9001220 споделени заявки за разширено ловуване на mdatp
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042109"
 ---
 # <a name="sharing-advanced-hunting-queries"></a>Споделяне на разширени заявки за лов
 
-Разширените заявки за лов могат да бъдат споделени между потребители в една и съща организация. Можете също така да намерите заявките, споделени публично за GitHub. Тези заявки ви позволяват бързо да преследвате специфични сценарии за лов на заплахи, без да се налага да въвеждате заявки от нулата.
+Заявките за разширено търсене могат да се споделят между потребители в една и съща организация. Можете също да намирате заявки, споделени публично GitHub. Тези заявки ви позволяват бързо да следвате конкретни сценарии за лов на заплахи, без да се налага да пишете заявки от самото начало.
   
-За подробности вижте [използване на споделени заявки в Разширено търсене](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+За подробности вижте [Използване на споделени заявки в разширеното ловуване](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).

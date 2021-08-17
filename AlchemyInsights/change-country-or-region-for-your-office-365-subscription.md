@@ -1,5 +1,5 @@
 ---
-title: Промяна на страната или региона за вашия абонамент за Microsoft 365
+title: Промяна на страната или региона за вашия Microsoft 365 абонамент
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001671"
 - "3738"
-ms.openlocfilehash: 62eead6a4a2d06652c0218738c417f2c6aa0159c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c903f34db5f47854f7cb6a0174d9bd5d82b561f9a71f3dccf18c9147698824b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103613"
 ---
-# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Промяна на страната или региона за вашия абонамент за Microsoft 365
+# <a name="change-the-country-or-region-for-your-microsoft-365-subscription"></a>Промяна на страната или региона за вашия Microsoft 365 абонамент
 
 Не **можете да промените страната** или региона за абонамента си. Това е така, защото страната или регионът, където се намира седалището на вашата организация, определя кои услуги са достъпни за вас, данъците и валутата на фактуриране и местоположението на центъра за данни. За да промените страната или региона на вашата организация, се запишете за нов акаунт, изберете желаната страна или регион и закупете нов абонамент.
 
