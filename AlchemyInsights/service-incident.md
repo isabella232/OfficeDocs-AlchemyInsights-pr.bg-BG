@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108941"
 ---
 # <a name="emerging-issue"></a>Възникващ проблем
 
-Няколко клиенти оплакват проблема, подобно на това, което съобщавате. Търсим този проблем.
+Няколко клиенти са се оплакали от проблем, подобен на това, което съобщавате. Ние се заним с този проблем.
 
-Моля, проверете [таблото за изправност на услугите](https://admin.microsoft.com/adminportal/home#/servicehealth) , за да сте информирани за всяка услуга, която оказва влияние върху инцидентите.
+Проверете таблото за [изсъхване на услугите,](https://admin.microsoft.com/adminportal/home#/servicehealth) за да бъдете актуализирани за всички услуги, които оказват въздействие върху инциденти.
