@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 8c32ffd60ffbc9868e845df154fee309b96fabcc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 473cce984384a79e68b2e7b4f82ccfd6fd5cf867f12875973e2d8e11425824c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103505"
 ---
 # <a name="buy-a-new-domain-from-microsoft"></a>Закупуване на нов домейн от Microsoft
 
 За да закупите нов домейн от Microsoft, изпълнете следните стъпки:
 
-1. Придвижете се до **настройка > домейни** и щракнете върху **закупуване на домейн**. 
+1. Отидете до **Настройка > домейни и щракнете** върху Закупуване на **домейн**. 
 2. Следвайте инструкциите в съветника.

@@ -1,5 +1,5 @@
 ---
-title: Създаване или добавяне на външен домейн
+title: Създаване или добавяне на федерирани домейни
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6160"
 - "9003238"
-ms.openlocfilehash: adaf30f1426d73dd843fbc9bb1c571599f5ef394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d2b317921303a62c83969d811ddbd0d8254a28185773778cd0432e7d5ce7eb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103253"
 ---
-# <a name="creating-or-adding-a-federated-domain"></a>Създаване или добавяне на външен домейн
+# <a name="creating-or-adding-a-federated-domain"></a>Създаване или добавяне на федерирани домейни
 
-За инструкции как да създадете или добавите външен домейн, вижте [Добавяне на външен домейн](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-management#addfeddomain).
+За инструкции за създаване или добавяне на федерирани домейни вижте [Добавяне на федерирани домейни](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-management#addfeddomain).
