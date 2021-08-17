@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042907"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Как да влезете в или да излезете от Outlook.com
 
-Ако не можете да влезете в своя имейл акаунт за Outlook.com, Hotmail, Live или MSN или не сте сигурни как да влезете или да излезете, [Ето някои решения](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Ако не можете да влезете в своя имейл акаунт за Outlook.com, Hotmail, Live или MSN или не сте сигурни как да влезете или излезете, [ето някои решения.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
-Ако все още имате проблеми с влизането, вижте [кога не можете да влезете в своя акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Ако все още имате проблеми с влизането, вижте Кога не можете да влезете [в акаунта си в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).

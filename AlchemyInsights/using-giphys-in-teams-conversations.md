@@ -1,5 +1,5 @@
 ---
-title: Използване на Гифчета в разговорите в Teams
+title: Използване на Giphys Teams разговори
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104297"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Използване на Гифчета в разговорите в Teams
+# <a name="using-giphys-in-teams-conversations"></a>Използване на Giphys Teams разговори
 
-Достъпът до гифчета в чата на Teams е разрешен по подразбиране. Като администратор можете да управлявате дали Гифчета са достъпни за потребителите чрез [Задаване на правила за съобщения](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) и гарантиране, че **използването на гифчета в разговорите** е **включено**.
+Достъпът до Giphys в Teams чат е разрешен по подразбиране. Като администратор можете да контролирате дали Giphys [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) е наличен за потребителите, като зададете правила за съобщения и гарантирате, че **Използването на Giphys в разговорите** е **На**.
 
-Ако GIF файловете не работят по очаквания начин в разговорите в Teams, проверете следното:
+Ако GIF файлове не работят по очаквания начин в Teams разговори, проверете:
 
-[Правилата за съобщения](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) трябва да позволяват на гифчета. За да проверите с помощта на кратки команди на PowerShell:
+Правилата [за съобщения трябва](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) да позволяват Giphys. За да проверите с помощта на кратки команди на PowerShell:
 
-- Проверете дали можете да [управлявате Teams с PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Изпълнете командата PowerShell [get-CsTeamsMessagingPolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) и проверете дали **AllowGiphy** е зададено на **TRUE**.
-- Ако " **AllowGiphy** " е зададено на **FALSE** , изпълнете следния команден набор на PowerShell [– CsTeamsMessagingPolicy-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Уверете се, че можете [да управлявате Teams с PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- Изпълнете командата PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) и проверете дали **AllowGiphy** е зададен на **TRUE.**
+- Ако **AllowGiphy** е зададено на **FALSE**, изпълнете следната команда на PowerShell [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-[Опционалните свързани преживявания](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) трябва да са разрешени за разрешаване на достъпа до URL адреса на Giphy.
+[Незадължителни свързани](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) изживявания трябва да бъдат разрешени, за да се разреши достъп до URL адреса на Giphy.
 
 > [!NOTE]
-> Ако имате няколко правила за съобщения, конфигурирани за вашия клиент, можете да определите самоличността на правилата, присвоени на засегнатия потребител, с помощта на командата PowerShell [get-CsOnlineUser-самоличност](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Изберете TeamsMessagingPolicy.
+> Ако имате няколко правила за Teams съобщения, конфигурирани за вашия клиент, можете да определите самоличността на правилата, присвоени на засегнатия потребител, с командата [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Изберете TeamsMessagingPolicy.
