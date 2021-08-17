@@ -1,5 +1,5 @@
 ---
-title: 8000031 не може да изтрие снимките от файлове
+title: 8000031 Не можете да изтривате снимки от файлове
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104945"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Не можете да изтриете снимки от файлове
+# <a name="unable-to-delete-photos-from-files"></a>Не може да се изтрият снимки от файлове
 
-За да изтриете снимките от файлове в Outlook.com:
+За да изтриете снимките от "Файлове" в Outlook.com:
   
-1. Отидете в папката си **"Входящи" или "** **изпратени елементи** " и изтрийте имейл съобщението, към което са прикачени.
+1. Отидете в **папката "Входящи"** **или "Изпратени"** и изтрийте имейл съобщението, към което са прикачени.
 
-2. Премахнете елементите от **изтритите елементи**.
+2. Премахнете елементите от изтритите **елементи**.
 
-За повече информация прочетете [как да изтривате файлове или снимки в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+За повече информация прочетете [Как да изтриете файлове или снимки в Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   
