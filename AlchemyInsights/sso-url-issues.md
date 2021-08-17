@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049963"
 ---
 # <a name="sso-url-issues"></a>Проблеми с URL адреса на SSO
 
-1. [User-генериране на SSO URL](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) -извлича URL адрес за пренасочване, съдържащ маркер за удостоверяване за подписване на даден потребител в портала за разработчици.
-2. Вижте [проблеми, когато щракнете върху хипервръзка към SSO уеб сайт в документ](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) , ако бъдете пренасочени към страница за влизане или страница за грешка или получавате подкана за информация за удостоверяване, когато щракнете върху хипервръзка към SSO уеб сайт в документ на Office.
-3. Нанесете [тази статия](https://docs.microsoft.com/azure/active-directory/develop/reply-url) за списък на URL адресите за пренасочващи отговори и ограничения.
+1. [Потребител – Генериране на URL адрес на SSO](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) – Извлича URL адрес за пренасочване, съдържащ маркер за удостоверяване за влизане на даден потребител в портала за разработчици.
+2. Вижте [Проблеми,](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) когато щракнете върху хипервръзка към уеб сайт на SSO в документ, ако сте пренасочени към страница за влизане или страница за грешка, или получавате подкана за информация за удостоверяване, когато щракнете върху хипервръзка към SSO уеб сайт в документ на Office.
+3. Вижте [тази статия](https://docs.microsoft.com/azure/active-directory/develop/reply-url) за списък с ограничения и ограничения за пренасочване на URI (URL адрес на отговор).
