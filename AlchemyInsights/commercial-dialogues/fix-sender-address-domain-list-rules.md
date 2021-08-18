@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896100"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320478"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Коригиране на правила за адрес на подателя/списък с домейни
 
 Една от вашите правила за борба със спам засегна това съобщение. Подателят на съобщението е намерен в списък Разреши или Блокиране. За да прегледате правилата, изпълнете следните стъпки:
 
-1. В портала Microsoft 365 Defender отидете на Имейл & за сътрудничество & Правила за нежелана поща в раздела Правила за нежелана <https://security.microsoft.com/>  \>  \>  \>  поща. 
+1. В портала Microsoft 365 Defender , отидете на Имейл & правила за сътрудничество & Правила за нежелана поща в <https://security.microsoft.com/>  \>  \>  \>  раздела Правила **за нежелана** поща.
 
    За да отидете директно на **страницата Правила за защита от спам,** използвайте <https://security.microsoft.com/antispam> .
 

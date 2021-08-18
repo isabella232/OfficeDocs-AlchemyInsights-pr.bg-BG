@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916404"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321274"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Конфигуриране и проверка на изключения за MDATP на компютър с Linux
 
@@ -25,5 +25,4 @@ ms.locfileid: "53916404"
 
 За да научите повече, вижте [Конфигуриране и проверка на изключения за MDATP за Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
 
-> [!IMPORTANT]
-> Изключенията, описани в тази статия, не се отнасят за други възможности на MDATP за Linux, включително endpoint detection and response (EDR). Файловете, които изключвате с помощта на методите, описани в тази статия, все още могат да задействат EDR предупреждения и други възможности за откриване.
+**Важно:** Изключенията, описани в тази статия, не се отнасят за други възможности на MDATP за Linux, включително endpoint detection and response (EDR). Файловете, които изключвате с помощта на методите, описани в тази статия, все още могат да задействат EDR предупреждения и други възможности за откриване.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994854"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320345"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Задаване на ClientAccessServerEnabled на True
 
@@ -26,11 +26,10 @@ ms.locfileid: "53994854"
 
 1. Свързване да Exchange Online PowerShell.
 
-> [!NOTE]
-> За да се свържете Exchange Online PowerShell, трябва да влезете с помощта на глобален администратор или Exchange администраторски акаунт.
+    **Забележка:** За да се свържете Exchange Online PowerShell, трябва да влезете с помощта на глобален администратор или Exchange администраторски акаунт.
 
    a. Отворете Windows PowerShell и след това изпълнете следната команда:`$UserCredential = Get-Credential`
-b. В диалоговия **Windows PowerShell искане за идентификационни данни** въведете своя работен или учебен акаунт и парола, c. Щракнете върху **OK**. 
+   b. В диалоговия **Windows PowerShell искане за идентификационни данни** въведете своя работен или учебен акаунт и парола, c. Щракнете върху **OK**. 
 
 2. Изпълнете следната команда, за да създадете нова сесия:
 
@@ -46,8 +45,7 @@ b. В диалоговия **Windows PowerShell искане за идентиф
 
     a. Ако **настройката ClientAccessServerEnabled** е **зададена** на False , изпълнете следната кратка команда: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Винаги затваряйте сесията на Powershell със следната команда: `Remove-PSSession $Session`
+**Съвет:** Винаги затваряйте сесията на Powershell със следната команда: `Remove-PSSession $Session`
 
 За повече информация вж. [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 
