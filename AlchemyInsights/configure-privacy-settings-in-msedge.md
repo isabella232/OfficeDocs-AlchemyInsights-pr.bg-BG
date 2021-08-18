@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090287"
 ---
 # <a name="configure-privacy-settings-in-microsoft-edge"></a>Конфигуриране на настройките за поверителност в Microsoft Edge
 
-По подразбиране, ако Microsoft Edge е разположен на платформи, които не са на Windows, диагностичните данни и информацията за сайта не се изпращат на Microsoft. Ако обаче Microsoft Edge е разположен в Windows 10, диагностичните данни и информацията за сайта се изпращат според настройките на диагностичните данни [на Windows на потребителите.](https://go.microsoft.com/fwlink/?linkid=2132472)
+По подразбиране, ако Microsoft Edge е разположена на платформи, които не са Windows, диагностичните данни и информацията за сайта не се изпращат на Microsoft. Ако обаче Microsoft Edge в Windows 10, диагностичните данни и информацията за сайта се изпращат според настройките [на Windows диагностични данни](https://go.microsoft.com/fwlink/?linkid=2132472)на потребителите.
 
 За да конфигурирате как Microsoft Edge обработва събирането на данни за вашата организация, използвайте следните групови правила:
 - [МетрикиReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) включва отчитането на данни, свързани с използването и сривовете.
-- [SendSiteInfoToImproveServices изпраща информация](https://go.microsoft.com/fwlink/?linkid=2132470) за сайта, използвана за подобряване на услугите на Microsoft.
+- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) изпраща информация за сайта, използвана за подобряване Услуги на Microsoft.
 
 За да научите повече, вижте [Конфигуриране на настройките на правилата](https://go.microsoft.com/fwlink/?linkid=2132577).

@@ -1,5 +1,5 @@
 ---
-title: Грешка на DLP за лицензиране на крайна точка
+title: Грешка за DLP лицензиране на крайна точка
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090117"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Грешка на DLP за лицензиране на крайна точка
+# <a name="endpoint-dlp-licensing-error"></a>Грешка "DLP лицензиране на крайна точка"
 
-Когато се опитвате да настроите точка DLP, ако получите следната грешка:
+Когато се опитвате да настроите Endpoint DLP, ако получите следната грешка:
 
 `Your organization is missing the licenses required to manage these devices`.
 
@@ -30,12 +30,12 @@ ms.locfileid: "49564384"
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- Съответствие на Microsoft 365 E5
-- Съответствие на Microsoft 365 A5
-- Microsoft 365 E5 Protection и управление на информацията
-- Защита и управление на информацията за Microsoft 365 A5
+- Microsoft 365 E5 съответствие
+- Microsoft 365 A5 съответствие
+- Microsoft 365 E5 на информацията и управлението
+- Microsoft 365 A5 на информацията и управлението
 
 > [!NOTE]
-> Това няма да работи за комбинации от лицензи, като например: Win E5 + O365 E5 + EMS E5. Трябва да имате чист лиценз за M365 E5, за да настроите тази функция.
+> Това няма да работи за комбинации от лицензи като: Win E5 + O365 E5 + EMS E5. Трябва да имате чист лиценз за M365 E5, за да настроите тази функция.
 
-За повече информация за характеристиките на DLP за лицензиране вижте " [крайна точка](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management) за лицензиране"
+За повече информация за лицензирането на DLP за крайна точка вижте [Лицензиране на DLP за крайна точка.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

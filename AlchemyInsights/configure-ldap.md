@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004394"
 - "7923"
-ms.openlocfilehash: b6e89bca4e924c5570123194cb26358ba2c162ce
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 3f1f9728cdcfbe5676e5afc45b2afe82836fed9c8907df3559ac7daec21194ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090401"
 ---
 # <a name="configure-ldap"></a>Конфигуриране на LDAP
 
 За да конфигурирате LDAP, направете следното:
 
-1. Проверете състоянието на вашия домейн в [портала на Azure](https://aka.ms/aadds-health).
-1. Уверете се, че е наличен валиден абонамент за Azure AD, и услугите за домейни на Azure AD са разрешени.
-1. Сертификатът, който е необходим за разрешаване на защитен LDAP, трябва да бъде получен от надежден публичен сертифициращ орган или да бъде самостоятелно подписан сертификат.
-1. Проверете дали сертификатът следва необходимите [указания](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-admin-guide-configure-secure-ldap#requirements-for-the-secure-ldap-certificate).
+1. Проверете изздраве на вашия домейн в [портала на Azure](https://aka.ms/aadds-health).
+1. Уверете се, че е наличен валиден абонамент за Azure AD и azure AD Domain Services е разрешен.
+1. Сертификатът, необходим за разрешаване на защитена LDAP, трябва да бъде получен от надежден публичен сертифициращ орган или да бъде самозаписан сертификат.
+1. Уверете се, че сертификатът следва [задължителните указания.](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-admin-guide-configure-secure-ldap#requirements-for-the-secure-ldap-certificate)
 
 **Невалиден сертификат**
-1. За да подновите сертификат, следвайте стъпките, за да създадете нов сертификат и повторно качване: [конфигурирайте LDAP](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-ldaps?WT.mc_id=Portal-Microsoft_Azure_Support).
-1. За да отстраните известен проблем със защитени LDAP предупреждения в Azure Active Directory Domain Services, вижте [Разрешаване на LDAP известявания](https://docs.microsoft.com/azure/active-directory-domain-services/alert-ldaps?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. За да подновите сертификат, следвайте стъпките, за да създадете нов сертификат и да презаредите: [Конфигуриране на LDAP](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-ldaps?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. За да разрешите известен проблем със защитени LDAP предупреждения в домейнови услуги на Azure Active directory, вижте [Разрешаване на LDAP предупреждения](https://docs.microsoft.com/azure/active-directory-domain-services/alert-ldaps?WT.mc_id=Portal-Microsoft_Azure_Support).
