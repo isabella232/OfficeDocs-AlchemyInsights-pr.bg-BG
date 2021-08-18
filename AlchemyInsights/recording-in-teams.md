@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: bf17bb3ed8bab2379b4435d23e5cc0e2491580a6128780b1e6166513e54c6abd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9f6d700ad3fe35c10bcee198ee46cc7892c09eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901281"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329539"
 ---
 # <a name="recording-in-teams"></a>Записване в Teams
 
-Ако бутонът **"Старт"** на потребителя е в сиво или липсва в събрание на Teams, опитайте да изпълните диагностиката на записването на събранието, като въведете **Diag: Записване на** събрание в полето по-горе. 
+Ако бутонът **"Старт"** на потребителя е в сиво или липсва в събрание на Teams, опитайте да изпълните диагностиката на записването на събранието, **като въведете Diag: Записване на** събрание в полето по-горе. 
 
-Microsoft Teams на събрания вече могат да се съхраняват в OneDrive Sharepoint. Преместването на местоположението на мястото OneDrive и SharePoint коригира проблема, при който записите на събранието не работят, защото "Поток" не е наличен във вашия регион. За повече информация вижте ЧЗВ [за Microsoft Stream](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
+Microsoft Teams на събрания вече могат да се съхраняват в OneDrive Sharepoint. Преместването на местоположението на мястото за OneDrive и SharePoint коригира проблема, при който записите на събранията не работят, защото "Поток" не е наличен във вашия регион. За повече информация вижте ЧЗВ [за Microsoft Stream](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
 За повече информация относно записването на записи на събрания вижте публикацията в центъра за [съобщения: (актуализиран) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)записи на събрания, записани в OneDrive и Sharepoint .
 

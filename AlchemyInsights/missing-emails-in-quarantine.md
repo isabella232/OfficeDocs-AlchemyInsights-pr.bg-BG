@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892036"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329651"
 ---
 # <a name="missing-emails-in-quarantine"></a>Липсващи имейли под карантина
 
 Администраторите могат [да преглеждат, пускат или изтриват тези съобщения](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-В портала Microsoft 365 Defender отидете на <https://security.microsoft.com> Преглед на **карантината.** \>  Или, за да отидете директно на страницата **Карантина,** използвайте <https://security.microsoft.com/quarantine> .  
+В портала Microsoft 365 Defender отидете на <https://security.microsoft.com> Преглед на **карантината** \> . Или, за да отидете директно на страницата **Карантина,** използвайте <https://security.microsoft.com/quarantine> .  
 
 За повече информация относно стойностите за търсене/филтриране, които можете да използвате, вижте Управление на съобщения и файлове под карантина [като администратор в EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 

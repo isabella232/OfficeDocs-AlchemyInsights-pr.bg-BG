@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998932"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328279"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Управление на абонаменти – искания за защита и съответствие – акредитиране на съответствието на azure industry
 
@@ -38,19 +38,17 @@ ms.locfileid: "53998932"
 
 - **Съответствие с ОРЗД:** Ако имате въпроси относно споразумението за обработка на данни, вижте "Условия за защита на данните", започвайки от страница 7 в "Условия за онлайн услуги". OST включва основните условия за обработка на данни, но е включен в стандартния търговски договор. Наред с други неща, той предоставя договорен ангажимент по отношение на нашите задължения по ОРЗД. Освен това вижте специфичните за ОРЗД условия в края на договора в "Прикачен файл 4", започвайки от страница 42. Тези раздели обхващат задълженията на Microsoft за GDPR като обработващ данни и като подпроцесор към друг обработващ данни.
 
-> [!NOTE]
-> Настоятелно се препоръчва да използвате Adobe Acrobat Reader, за да отваряте PDF документи, тъй като са отбелязани проблеми с други зрители на PDF файлове. Препоръчва се също да изтеглите файла локално, вместо да го отваряте в прозорец на браузъра, тъй като това може да доведе до грешки.
+**Забележка:** Настоятелно се препоръчва да използвате Adobe Acrobat Reader за отваряне на PDF документи, тъй като са отбелязани проблеми с други зрители на PDF файлове. Препоръчва се също да изтеглите файла локално, вместо да го отваряте в прозорец на браузъра, тъй като това може да доведе до грешки.
 
 - **Съответствие с HDS:** Azure вече е "Хостинг на здравни данни", сертифициран в съответствие с френските изисквания. За повече информация вижте "Microsoft Azure вече е сертифициран да хоства поверителни здравни данни във Франция".
 
-- **Тестване на проникването:** Целият процес на подаване на заявка за тестване на проникването е процес на самостоятелно обслужване на клиента в "pentest".
+- **Тестване на проникването:** Целият процес на подаване на заявка за тест за проникване е клиент за самозаснижаващ се процес в "pentest".
 
 За повече подробности относно тестването на проникване вижте [Тестване на проникването.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
 
 - **Известия на клиенти за промени на подпроцесора:** Можете да се включите да получавате известия за промени в списъка на подпроцесорите на личните данни на Microsoft.
 
-> [!NOTE]
-> Клиентските данни на онлайн услугите и известието за списък с лични данни са напълно автоматизирани. За повече информация вижте Ресурси за защита на данните на Microsofts.
+**Забележка:** Клиентските данни за онлайн услуги и известието за списък с лични данни са напълно автоматизирани. За повече информация вижте Ресурси за защита на данните на Microsofts.
 
 **Препоръчителни документи**
 
@@ -59,7 +57,7 @@ ms.locfileid: "53998932"
 - [Azure Active Directory на риска](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Потребители, изложени на риск](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Рисковано влизане](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Какво са Azure Active Directory отчети?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Какво Azure Active Directory отчети?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 - [Microsoft и HIPAA и HITECH act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
 - [Документация за временно упълномощаване на министерството на отбраната на САЩ (DOD) на IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 

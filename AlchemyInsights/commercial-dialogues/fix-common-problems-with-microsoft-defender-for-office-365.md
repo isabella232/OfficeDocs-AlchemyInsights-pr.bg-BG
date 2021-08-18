@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898233"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330049"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Коригиране на често срещани проблеми с Microsoft Defender за Office 365
 
@@ -33,7 +33,7 @@ ms.locfileid: "57898233"
 
 - **Разрешаване Сейф на връзката:**
 
-  1. В портала Microsoft 365 Defender , отидете на Имейл & за сътрудничество & правила за <https://security.microsoft.com/>  \>  \>  \> **заплахи Сейф връзки** в **раздела** Правила.
+  1. В портала Microsoft 365 Defender отидете на Имейл & за сътрудничество & правила за <https://security.microsoft.com/>  \>  \>  \> **заплахи Сейф връзки** в **раздела** Правила.
 
      За да отидете директно на **страницата Сейф връзки,** използвайте <https://security.microsoft.com/safelinksv2> .
 

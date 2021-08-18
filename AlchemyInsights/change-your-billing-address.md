@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330397"
 ---
 # <a name="change-your-billing-address"></a>Промяна на адреса ви за фактуриране
 
@@ -39,7 +39,7 @@ ms.locfileid: "57898881"
 
 **Промяна на информацията за акаунта за фактуриране**
 
-1. В центъра за администриране отидете на Акаунти **за фактуриране > [фактуриране](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. В центъра за администриране отидете на Фактуриране **> [акаунти за фактуриране](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Изберете **Редактиране на информацията за акаунта за фактуриране**.
 3. Актуализирайте информацията за акаунта за фактуриране, след което щракнете **върху Запиши > Готово**.
 

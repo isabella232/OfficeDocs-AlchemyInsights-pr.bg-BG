@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913992"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330361"
 ---
 # <a name="device-in-pending-state"></a>Устройство в чакащо състояние
 
@@ -35,13 +35,12 @@ ms.locfileid: "53913992"
 
 Ето разбивка на това, което се случва по време на процеса на регистрация:
 
-1. Windows 10 открива записа на точката на свързване на услугата (SCP), когато потребителят влиза в устройството.
+1. Windows 10 открива запис на точка на свързване на услугата (SCP), когато потребителят влиза в устройството.
 
     1. Устройството първо се опитва да извлече информация за клиента от SCP на клиента в системния регистър [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. За повече информация вж. [документ](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Ако е неуспешно, устройството комуникира с локалния Active Directory, за да получи информация за клиента от SCP. За да проверите SCP, вижте [този документ](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
-    > [!NOTE]
-    > Препоръчваме да разрешите SCP в Active Directory и да използвате само SCP от страната на клиента за първоначална проверка.
+    **Забележка:** Препоръчваме да разрешите SCP в Active Directory и да използвате само SCP на клиента за първоначална проверка.
 
 2. Windows 10 се опитва да комуникира с Azure AD под контекста на системата, за да се удостовери срещу Azure AD.
 
@@ -55,11 +54,9 @@ ms.locfileid: "53913992"
 
 6. При следващото потребителско влизане в Windows 10 регистрацията ще бъде завършена.
 
-    > [!NOTE]
-    > Ако сте във VPN и излизането/влизането прекратява свързването на домейна, можете да задействате регистрацията ръчно. За да направите това:
-    >
-    > `dsregcmd /join`Изложете локално подкана за администратор или отдалечено чрез PSExec на вашия компютър.
-    >
-    > Например: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Забележка:** Ако сте във VPN и излизането/влизането прекратява връзката с домейна, можете да задействате регистрацията ръчно. За да направите това:
+    
+    Издавайте `dsregcmd /join` локално подкана за администратор или отдалечено чрез PSExec на вашия компютър.\
+    Например: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 За често срещани проблеми с Azure Active Directory на устройства вижте [ЧЗВ за устройства.](https://docs.microsoft.com/azure/active-directory/devices/faq)
