@@ -1,5 +1,5 @@
 ---
-title: Outlook.com абонаменти за имейл
+title: Outlook.com имейл абонаменти
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111893"
 ---
-# <a name="email-subscriptions"></a>Имейл абонаменти
+# <a name="email-subscriptions"></a>Абонаменти за имейл
 
-Защо виждам имейли в списъците си за абонаменти?
+Защо виждам имейли в списъците си с абонаменти?
 
-Outlook.com е открил, че имейл съобщението съдържа информация за абонамент, включително "отмяна на абонамент" в съобщението. Outlook.com не ви е абонирал автоматично за каквито и да е бюлетини.
+Outlook.com е открил, че имейл съобщението съдържа информация за абонамента, включително "Отписване" в съобщението. Outlook.com не ви е абонирал автоматично за бюлетини.
 
-Ако искате да престанете да получавате бюлетини или промоции, има два начина, по които можете да отмените абонамента си с помощта на Outlook.com:
-1. Във вашата папка "Входящи" изберете бюлетин или промоционален имейл. В горния край на екрана за четене изберете отмяна на **абонамента**.
-2. Отворете вашите настройки за абонаменти за [Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) и изберете отмяна на **абонирането**.
+Ако искате да спрете да получавате бюлетини или промоции, има два начина, по които можете да отмените абонамента си чрез Outlook.com:
+1. В папката "Входящи" изберете бюлетин или промоционален имейл. В горната част на екрана за четене изберете **Отписване**.
+2. Отворете настройките [за Outlook.com Абонаменти](https://go.microsoft.com/fwlink/?linkid=2110887) и изберете **Отписване**.
 
-Забележки: ще виждате тази функция само ако сте получили имейл от дружеството, което е изпратило абонираните имейли.
-Ако заявката ви е за Microsoft 365 платени абонаменти, отидете на [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   или [Научете повече за Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Бележки: Ще видите тази функция само ако сте получили имейл от фирмата, която изпраща абонирани имейли.
+Ако вашата заявка е за Microsoft 365 платени абонаменти, отидете на [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) или [Научете повече за Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

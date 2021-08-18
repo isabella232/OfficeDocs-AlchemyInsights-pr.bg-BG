@@ -1,5 +1,5 @@
 ---
-title: Често срещани проблеми и резолюции на SharePoint online
+title: SharePoint Често срещани проблеми и решения онлайн
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085793"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>Често срещани проблеми и резолюции на SharePoint online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Често срещани проблеми и решения онлайн
 
-Ето някои често задавани теми за проблемите в SharePoint Online:
+Ето някои често изисквани теми за SharePoint онлайн проблеми:
 
-- **Първи стъпки**: използвайте [изгледа на SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , за да създадете красив и мощен интранет, свързващ работното ви място. Вижте [примери](https://lookbook.microsoft.com/) и получете [указания за проектиране](https://spdesign.azurewebsites.net/). Вижте [Въведение в SharePoint online](https://docs.microsoft.com/sharepoint/introduction) за цялостно Въведение в SharePoint online.
+- **Първи стъпки:** Използвайте ["SharePoint", за](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) да създадете красив, мощен интранет, който свързва работното място. Вижте [примери и получете](https://lookbook.microsoft.com/) указания [за проектиране](https://spdesign.azurewebsites.net/). Вижте [Въведение в SharePoint онлайн за](https://docs.microsoft.com/sharepoint/introduction) цялостно въведение в SharePoint онлайн.
 
-- **Разрешения**: [Изградете стратегия за разрешения](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) и [разберете нивата на разрешение](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Разрешения: Създаване** [на стратегия за разрешения и разбиране](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) на нивата на [разрешение.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Споделяне**: [споделяне с други хора](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) в организацията ви или [с други хора извън вашата организация](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Споделяне:** [Споделяне с други хора](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) във вашата организация или с други хора извън вашата [организация.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Работа с файлове на документи**: Научете повече за [качването](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)на файлове, [изтеглянето](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)на файлове, [редактирането](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)на файлове и текущите [ограничения за файлове](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **Работа с файлове с документи:** Научете повече за [качването на](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)файлове, [изтеглянето](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)на файлове, [редактирането на](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)файлове и [текущите ограничения на файловете](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Място за съхранение**: Научете как да управлявате своите потребители за място за съхранение в OneDrive </a> , като например [управление на място за съхранение](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) за вашия абонамент и [разбиране на всички ограничения](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Място** за съхранение: Научете как да управлявате вашите потребители OneDrive място за съхранение, като например управление на мястото за съхранение на </a> сайта за вашия абонамент и разбиране на всички [ограничения.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) [](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-- **Преименуване на клиент**: вижте [Промяна на името на вашия домейн в SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) за повече информация.
+- **Преименуване на клиент:** Вижте [Промяна на SharePoint име на домейн](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) за повече информация.
 
-- **Модернизиране на SharePoint**: Прегледайте [справочника за съвременната среда за работа в SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) и [Модернизирайте класическите си сайтове на SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , за да започнете да местите.
+- **Модернизирайте SharePoint:** Прегледайте ръководството за [модерното](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) изживяване в SharePoint и модернизирайте своите [класически SharePoint сайтове,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) за да започнете преместването.
 
-**Забележка:** За по-конкретен отговор за проблем в SharePoint, можете накратко да перифразирате въпроса си и да включите всякакви грешки, които виждате или функции, които използвате.
+**Забележка:** За по-конкретен отговор за SharePoint проблем, накратко препратете въпроса си и включете всички грешки, които виждате, или функциите, които използвате.

@@ -15,22 +15,22 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499017"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896920"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Как да направите Microsoft 365 покупка
 
-Можете да закупите абонамент Microsoft 365 в центъра за администриране.
+Можете да закупите абонамент Microsoft 365 за администриране в центъра за администриране.
   
 - За да закупите план, отидете на страницата **Услуги за** \> **[закупуване на](https://go.microsoft.com/fwlink/p/?linkid=868433)** плащания.
 - За да закупите допълнителни лицензи, отидете на страницата **Фактуриране** \> **[на вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти. Изберете абонамента, който искате да промените, след което изберете **Закупуване на лицензи**.\
 **ГЛЕДАЙте видео,** което показва как да направите това: [Закупуване на нови лицензи](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-За да научите повече, вижте [Закупуване или премахване на лицензи](/microsoft-365/commerce/licenses/buy-licenses).
+За да научите повече, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Отстраняване на неизправности**
 
@@ -38,5 +38,5 @@ ms.locfileid: "54499017"
 
 **Допълнителни ресурси**
   
-- [Дайте лицензи на потребители в Microsoft 365 за бизнеса](/microsoft-365/admin/add-users/add-users)
-- [Отмяна Microsoft 365 за бизнеса](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Дайте лицензи на потребители в Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Отмяна Microsoft 365 за бизнеса](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

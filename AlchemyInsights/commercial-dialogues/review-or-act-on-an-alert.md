@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016437"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897032"
 ---
 # <a name="review-or-act-on-an-alert"></a>Преглед или действие по известие
 
 Изпълнете следните стъпки:
 
-1. Отидете в центъра [за & съответствие](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Щракнете **върху Известия Преглед** на  >  **[предупрежденията](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Щракнете върху известие. В екрана с подробни данни вижте какво е задействало известието.
-1. Щракнете върху предоставената връзка близо до подробните данни, ако искате да предприемете действия по известието.
-1. Щракнете **върху Разрешаване**, ако искате да затворите известието.
+1. Направете едно от следните действия:
+   - В Център за съответствие на Microsoft 365 в <https://compliance.microsoft.com> отидете на **Известия**. Или отворете страницата направо в <https://compliance.microsoft.com/compliancealerts> .
+   - В портала Microsoft 365 Defender в <https://security.microsoft.com> отидете **на Известия**. Или отворете страницата направо в <https://security.microsoft.com/alerts> .
+2. Изберете известие. В допълнителната информация, която се показва, вижте какво е активирало известието.
+3. Щракнете върху предоставената връзка, ако искате да предприемете действия по известието.
+4. Щракнете **върху Разрешаване**, ако искате да затворите известието.
 
-За да научите повече за управлението на предупреждения, вижте [Правила за известяване в центъра за защита и съответствие.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+За да научите повече за управлението на предупреждения, вижте [Правила за известяване в Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

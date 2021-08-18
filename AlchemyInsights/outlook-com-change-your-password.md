@@ -1,5 +1,5 @@
 ---
-title: Промяна на вашата парола в Outlook.com
+title: Промяна на паролата ви в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112181"
 ---
-# <a name="change-your-password"></a>Промяна на вашата парола
+# <a name="change-your-password"></a>Промяна на паролата
 
-Паролата за вашата Outlook.com е същата като паролата за вашия акаунт в Microsoft.
+Паролата Outlook.com е същата като паролата за вашия акаунт в Microsoft.
   
-За да смените паролата си, отидете на [защита на акаунт в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) и изберете защита с **парола**.
+За да промените паролата си, отидете на [Защита на акаунта в Microsoft](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) и изберете Защита с **парола**.
   
-Ако сте забравили паролата си, отидете на страницата [възстановяване на вашия акаунт](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Ако сте забравили паролата си, отидете на страницата [Възстановяване на вашия](https://go.microsoft.com/fwlink/p/?linkid=841909) акаунт.
   
-За да научите повече, вижте [Смяна на вашата парола в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+За да научите повече, вижте [Промяна на паролата в Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
