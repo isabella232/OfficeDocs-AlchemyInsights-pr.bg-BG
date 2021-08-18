@@ -1,5 +1,5 @@
 ---
-title: Грешка при влизане в OneDrive AADSTS50011
+title: OneDrive за влизане AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112901"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Грешка при влизане в OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive за влизане AADSTS50011
 
-Ако получите съобщение за грешка "AADSTS50011: URL адресът на отговора, зададен в искането, не съответства на отговора" при влизане в приложението OneDrive, проверете за следното:
+Ако получите грешка "AADSTS50011: URL адресът на отговора, зададен в искането, не отговаря на отговора", когато влезете в приложението OneDrive, проверете за следното:
 
-Вашата версия на OneDrive трябва да е равна или по-голяма от версия 20.052. XXXX. XXXX. За да проверите своята версия, щракнете върху синята икона на OneDrive в областта за уведомяване, изберете **помощ за настройките за & > >**.
+Вашата OneDrive версия трябва да е равна или по-голяма от версия 20.052.XXXX.XXXX. За да проверите вашата версия, щракнете върху синята OneDrive в областта за уведомяване, изберете **Помощ & Настройки > Настройки > За**.
 
-Вашата мрежа може да блокира трафика към **g.Live.com** и **oneclient.SFX.MS**. Ако този трафик е блокиран, OneDrive не може да се актуализира. Работете със своя мрежов администратор, за да сте сигурни, че имате достъп до тези URL адреси. [Тези крайни точки](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) трябва да бъдат достъпни за клиенти, използващи планове на Microsoft 365.
+Вашата мрежа може да блокира трафика **g.live.com и** **oneclient.sfx.ms**. Ако този трафик е блокиран, OneDrive не може да се актуализира. Работете с вашия мрежов администратор, за да се уверите, че имате достъп до тези URL адреси. [Тези крайни точки трябва](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) да са достъпни за клиенти, които използват Microsoft 365 планове.
 
-Ако трябва ръчно да получите актуална версия на OneDrive, посетете [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Ако трябва ръчно да получите текуща версия на OneDrive, посетете [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .

@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899321"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316347"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Известяване на имейл съобщения от правилата за "Фишинг, доставен поради заместване на клиент или потребител"
 
-Правилата за известяване **по** подразбиране с име Фиш Доставени поради клиент или потребителски приоритет са налични в организации с лицензи за Microsoft Defender за Office 365 P1 и P2. Ако сте получили това известие, ето стъпките, които трябва да проучите:
+Правилата за известяване по **подразбиране,** наречени "Фишинг доставяни" поради заместване на клиент или потребител, са налични в организации с лицензи на Microsoft Defender за Office 365 P1 и P2. Ако сте получили това известие, ето стъпките, които трябва да проучите:
 
-1. От предупредителното съобщение щракнете върху **Преглед на предупреждението,** за да **отидете на страницата** Известия в Microsoft 365 Defender портала.
+1. От предупредителното съобщение щракнете върху **Преглед на** предупреждението, за да отидете **на страницата** Известия в Microsoft 365 Defender портала.
 
 2. Изберете известието, за да видите опцията за Преглед **на списъка със съобщения** или Преглед на съобщения в **Explorer**. И двете опции ще ви откарат до подробностите за съобщението, което включва ИД на съобщението. Обърнете внимание, че връзката Threat Explorer автоматично ще филтрира съобщенията, които отговарят на критериите за известяване. Може да се наложи да настроите филтъра за дата в Threat Explorer.
 
@@ -35,4 +35,4 @@ ms.locfileid: "57899321"
 
 Ако смятате, че съобщението е маркирано неправилно като фишинг, използвайте подаване [на администратор, за](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) да съобщите съобщението на Microsoft.
 
-Потребителите могат да използват [добавката "Съобщение за](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) отчет" или добавката "Фишинг за отчети" в Outlook да подадат примери за съобщения на Microsoft.
+Потребителите могат да използват [добавката "Съобщение за](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) отчет" или добавката "Фишинг на отчети" в Outlook, за да подадат образци на съобщения до Microsoft.

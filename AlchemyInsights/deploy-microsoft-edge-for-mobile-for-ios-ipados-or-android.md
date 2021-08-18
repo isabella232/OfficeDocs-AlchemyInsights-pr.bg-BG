@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005439"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315609"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Разполагане Microsoft Edge за мобилни устройства за iOS/iPadOS или Android
 
-Примерната ситуация, обобщена по-долу, ще ви помогне да Microsoft Edge на потребителите на устройства с iOS, iPadOS и Android. След като изпълните тези стъпки, Microsoft Intune правилата ще позволят следните функции на Microsoft Edge за бизнеса:
+Примерната ситуация, обобщена по-долу, ще ви помогне да Microsoft Edge на потребителите на устройства с iOS, iPadOS и Android. След като изпълните тези стъпки, Microsoft Intune правила ще позволят следните функции на Microsoft Edge за бизнеса:
 
 - Двойна самоличност
-- Интегриране с правилата Microsoft Intune за защита на приложения
+- Интегриране с Microsoft Intune за защита на приложения
 - Интегриране с Azure Active Directory на приложението
 - Управлявани предпочитани и клавишни комбинации за началната страница
 
-> [!NOTE]
-> Ако сте блокирали на потребителите да записват мобилни устройства, този ръководен сценарий няма да работи и потребителите ще трябва да инсталират Microsoft Edge сами.
+**Забележка:** Ако сте блокирали на потребителите да записват мобилни устройства, този ръководен сценарий няма да работи и потребителите ще трябва да инсталират Microsoft Edge сами.
 
 За да разположите Microsoft Edge за мобилни устройства за iOS/iPadOS или Android, вижте:
 

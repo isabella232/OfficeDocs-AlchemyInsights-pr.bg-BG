@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959456"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897301"
 ---
 # <a name="reactivate-your-subscription"></a>Повторно активиране на вашия абонамент
 
@@ -33,16 +33,16 @@ ms.locfileid: "53959456"
 3. В екрана **Повторно активиране на този абонамент** изберете метод на плащане от падащия списък или изберете Добавяне на метод на **плащане**.
 4. Изберете **Записване**.
 
-За да научите повече, вижте [Повторно активиране на вашия абонамент](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+За да научите повече, вижте [Повторно активиране на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Подновяване на абонамента**
 
 За да управлявате месечно или годишно фактурирането, можете да включите или изключите **Периодичното фактуриране**.
 
 1. В центъра за администриране отидете на страницата **Фактуриране**  >  [На вашите](https://go.microsoft.com/fwlink/p/?linkid=842054) продукти.
-2. В раздела **Продукти** изберете абонамента, който искате да промените.
+2. В **раздела Продукти** изберете абонамента, който искате да промените.
 3. На страницата с подробни данни за абонамента, **под Настройки за абонамент и плащане** изберете Редактиране на **повтарящо се фактуриране**.
 4. В екрана **Редактиране на повтарящи се настройки за** фактуриране изберете **Включи**, **Включи, но подновете** веднъж или **Изключете**.
 5. Изберете **Записване**.
 
-За повече информация вж. [Изключване или включване на периодично фактуриране](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+За повече информация вж. [Изключване или включване на периодично фактуриране](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

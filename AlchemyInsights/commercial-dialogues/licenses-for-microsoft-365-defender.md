@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967970"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315675"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Лицензи за Microsoft 365 Defender
 
@@ -33,8 +33,7 @@ ms.locfileid: "53967970"
 - Microsoft Cloud App Security
 - Microsoft Defender за Office 365 (план 2)
 
-    > [!NOTE]
-    > Към момента пробните лицензи за Office 365 не предоставят достъп до Microsoft 365 Defender.
+    **Забележка:** Към момента пробните лицензи за Office 365 не предоставят достъп до Microsoft 365 Defender.
 
 За повече информация вижте сравнението [на Microsoft 365 Enterprise планове](https://go.microsoft.com/fwlink/?linkid=2143458).
 
