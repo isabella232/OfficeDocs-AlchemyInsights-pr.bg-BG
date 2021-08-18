@@ -16,15 +16,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: b41ef411c52adbb6dff597642ef9ee948ad62ab52963cc21a542aadfc2e2acbe
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f8d8f11f70fbe4dbfe5e17c15e35b2573fc2c8b3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500221"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332852"
 ---
 # <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 организации с нестопанска цел – в процес на преглед
 
 Отговаряте на условията за организация с нестопанска цел на **Microsoft.** Можете да очаквате да получите известие относно определянето на вашата допустимост **48 часа** от момента на подаването. Изчакайте поне **48 часа**, за да получите това известие, преди да отворите искане за обслужване. 
 
-За повече информация вж. [Microsoft 365 организации с нестопанска цел](https://www.microsoft.com/nonprofits/microsoft-365). 
+За повече информация [вж. Microsoft 365 организации с нестопанска цел](https://www.microsoft.com/nonprofits/microsoft-365). 

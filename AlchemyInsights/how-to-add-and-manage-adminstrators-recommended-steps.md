@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963776"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339021"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Как да добавяте и управлявате администратори – препоръчителни стъпки
 
@@ -26,10 +26,10 @@ ms.locfileid: "53963776"
 
 **Редактиране на администратора на абонамента или съ администратора**
 
-- Администраторът на акаунта може да редактира и двете роли, докато администраторът на абонамента може да променя само съ администраторите в [портала на Azure.](https://ms.portal.azure.com/#home)
+- Администраторът на акаунт може да редактира и двете роли, докато администраторът на абонамента може да променя само съ администраторите в [портала на Azure.](https://ms.portal.azure.com/#home)
 - [Добавяне или промяна на администратори на абонаменти за Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Актуализиране на абонаментния администратор или Co-Administrator за вътрешни (AIRS) абонаменти**
+**Актуализиране на администратора на абонамент или Co-Administrator за вътрешни (AIRS) абонаменти**
 
 Администраторът на услугата или съ администраторът могат самостоятелно да служат на това действие с помощта на следните стъпки:
 
@@ -43,7 +43,7 @@ ms.locfileid: "53963776"
 
 1. Влезте в портала [на Azure](https://ms.portal.azure.com/#home) като администратор на услугата.
 2. Отворете [Абонаменти](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) и изберете абонамент. (Съ-администраторите могат да бъдат присвоявани само в обхвата на абонамента.)
-3. Отидете до Управление на **Access (IAM)** Класически администратори Добавяне на съ-администратор, за да отворите екрана Добавяне на съ-администратор (Ако опцията Добавяне на  >    >    >   съ-администратор е забранена, тя означава, че не разполагате с разрешения). 
+3. Отидете до Управление на **Access (IAM)** Класически администратори Добавяне на съ администратор, за да отворите екрана Добавяне на съ-администратор (Ако опцията Добавяне на съ администратор е  >    >    >   забранена, тя означава, че не разполагате с разрешения). 
 4. Изберете потребителя, когото искате да добавите, и щракнете върху **Добави**.
 
 **Научете повече:**
@@ -57,7 +57,7 @@ ms.locfileid: "53963776"
 
 Можете да добавяте нови потребители или да изтривате съществуващи потребители от вашата Azure Active Directory (Azure AD):
 
-1. За да добавите нов потребител, влезте в [портала на Azure](https://ms.portal.azure.com/#home) като администратор на потребителя за организацията.
+1. За да добавите нов потребител, влезте в портала [на Azure](https://ms.portal.azure.com/#home) като администратор на потребителя за организацията.
 2. Изберете **Azure Active Directory**, изберете **Потребители и** след това щракнете върху Нов **потребител**.
 3. На страницата **Потребител** попълнете необходимата информация. Щракнете **върху Създаване**. Потребителят се създава и добавя към вашия клиент на Azure AD.
 
@@ -75,7 +75,7 @@ ms.locfileid: "53963776"
 - [Урок: Предоставяне на достъп за потребител с помощта на RBAC и портала на Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Отстраняване на неизправности с RBAC в Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Организиране на ресурсите с групи за управление на Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Как да поискате копие на фактура на Azure по имейл](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Как да поискате копие на фактура на Azure по имейл](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Как да добавите, актуализирате или премахнете кредитна или дебитна карта от Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Абонамент за управление (повторно активиране/отказ/превключване)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

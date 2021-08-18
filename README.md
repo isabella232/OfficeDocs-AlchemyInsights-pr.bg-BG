@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Кодекс на поведение с отворен код на Microsoft
 Този проект е приела [Кодекса за поведение с отворен код на Microsoft](https://opensource.microsoft.com/codeofconduct/).
-За повече информация вижте [ЧЗВ за кодекса на поведение или](https://opensource.microsoft.com/codeofconduct/faq/) се [свържете opencode@microsoft.com](mailto:opencode@microsoft.com) с допълнителни въпроси или коментари.
+За повече информация вижте [ЧЗВ за кодекса на поведение](https://opensource.microsoft.com/codeofconduct/faq/) или се [свържете opencode@microsoft.com](mailto:opencode@microsoft.com) с допълнителни въпроси или коментари.

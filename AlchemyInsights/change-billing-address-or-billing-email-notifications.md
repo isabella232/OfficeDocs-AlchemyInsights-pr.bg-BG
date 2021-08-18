@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897405"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332470"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Промяна на адреса за фактуриране или имейл известията за фактуриране
 
 **Промяна на вашия Bill-To адрес**
 
-1. В центъра за администриране отидете на страницата **Методи > [плащане.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. В центъра за администриране отидете на страницата **Методи на плащане > [](https://go.microsoft.com/fwlink/p/?linkid=2018806)** плащане.
 
 2. Изберете кредитната карта или банковата сметка, която искате да промените.
 
