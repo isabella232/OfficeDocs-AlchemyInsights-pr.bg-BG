@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897785"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316281"
 ---
 # <a name="set-up-exchange-online-protection"></a>Настройване на Exchange Online Protection
 
 Microsoft Exchange Online Защита (EOP) е базирана на облака услуга за филтриране на имейл за защита срещу нежелана поща, злонамерен софтуер и подложка с функции, които предпазват вашата организация от нарушения на правилата за съобщения.
 
-Използвайте [ръководството Exchange Online Protection настройка, за](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) да настроите EOP, като изберете сред трите сценария за разполагане, които най-добре отговарят на вашата организация:
+Използвайте [ръководството Exchange Online Protection настройка, за](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) да настроите EOP, като изберете сред трите сценария на разполагане, които най-добре отговарят на вашата организация:
 
 - Всички локални пощенски кутии.
 - Хибридна (комбинация от локални и пощенски кутии в облака

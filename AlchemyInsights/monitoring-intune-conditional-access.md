@@ -1,5 +1,5 @@
 ---
-title: Наблюдение на настройването на условен достъп
+title: Наблюдение на условен достъп в Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113369"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Отстраняване на проблеми с Microsoft за настройване
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Отстраняване на проблеми с Microsoft Intune
 
 Прегледайте ресурсите, изброени по-долу, за да решите проблема си сега.
   
-1. Използвайте [портала за отстраняване на неизправности](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , за да диагностицирате и отстраните някои често срещани грешки. Прегледайте [този документ ](https://docs.microsoft.com/intune/help-desk-operators)за повече подробности.
+1. Използвайте [Портала за отстраняване на неизправности на Intune,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) за да диагностицирате и отстраните някои често срещани грешки. Прегледайте [този документ ](https://docs.microsoft.com/intune/help-desk-operators)за повече подробности.
     
-2. Прегледайте [TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)за намиране на отговори и решения на често срещани проблеми.
+2. Прегледайте [Intune TechNet, ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)за да намерите отговори и решения на често срещани проблеми.
     
-3. Проверете за [изправност на услугите](https://portal.office.com/AdminPortal/Home#/servicehealth) , за да видите състоянието на услугата. 
+3. Прегледайте [Изздрави услугата,](https://portal.office.com/AdminPortal/Home#/servicehealth) за да видите състоянието на услугата. 
     
-4. Прегледайте [документацията за пренастройване](https://docs.microsoft.com/intune/) за планиране, практически съвети, отстраняване на неизправности и др. 
+4. Прегледайте [документацията на Intune](https://docs.microsoft.com/intune/) за планиране, как да, статии за отстраняване на неизправности и др. 
     
 
