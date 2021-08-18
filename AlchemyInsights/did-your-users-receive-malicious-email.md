@@ -14,16 +14,16 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326647"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Потребителите ви получили ли са злонамерен имейл?
 
-Сега можете да съобщите за злонамерения имейл на Microsoft [с помощта на "Подавания" Microsoft 365 Defender портала](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
+Сега можете да съобщите за злонамерения имейл на Microsoft [с помощта на "Подавания" Microsoft 365 Defender портала.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
 Съобщенията, които са подадени в [подавания от](https://security.microsoft.com/reportsubmission?viewid=admin) администратор, се сканират и се показват следните резултати в подробното листовка:
 
@@ -38,7 +38,7 @@ ms.locfileid: "57893392"
 
 Междувременно можете да премахнете злонамерените имейли от потребителските входящи, като следвате инструкциите в [тази статия.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
 
-- Клиентите с Microsoft Defender за Office 365 могат:
+- Клиентите с Microsoft Defender за Office 365 могат да:
   - Използване на [Threat Explorer за намиране и изтриване на подозрителни имейли](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
   - [Използване Сейф връзки за блокиране на достъпа](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) до злонамерен URL адрес
   - Проследяване на потребители, които са щракнали и са осъществявали достъп до злонамерени URL адреси: Преглед на URL адреса за фишинг и щракване върху [пресъдени данни](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
