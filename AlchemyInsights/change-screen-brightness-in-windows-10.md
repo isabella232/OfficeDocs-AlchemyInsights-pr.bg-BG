@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119743"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Промяна на яркостта на екрана в Windows 10
 
-Ако вашият Windows 10 е по-нов от версия 1903, той **има плъзгач Яркост** в работния център. За да отворите работния център, щракнете **върху** бутона Известие от дясната страна на лентата на задачите или натиснете Windows home **+ A** на клавиатурата.
+Ако вашият Windows 10 по-нов от версия 1903, той има плъзгач **Яркост** в работния център. За да отворите работния център, щракнете върху бутона **Известие** от най-дясната страна на лентата на задачите или натиснете Windows начало **+ A** на клавиатурата.
 
 ![Плъзгач за яркост](media/brightness-slider.png)
 
-Ако вашият Windows 10 е по-стара версия, можете да намерите плъзгача за яркост, като отворите **[Настройки > System > Display](ms-settings:display?activationSource=GetHelp)**.
+Ако вашият Windows 10 е по-стара версия, можете да намерите плъзгача за яркост, **[като отворите Настройки > System > Display](ms-settings:display?activationSource=GetHelp)**.
 
 **Бележки**:
 

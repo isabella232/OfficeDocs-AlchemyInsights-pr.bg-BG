@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003558"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325452"
 ---
 # <a name="enable-cost-management"></a>Разрешаване на управлението на разходите
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003558"
 2. Изберете **Фактури и** след това Достъп до **фактури**.
 3. Включете достъпа, последван от записване на промените, за да позволите на потребителите в роли с обхват на абонамента да изтеглят фактури.
 
-> [!NOTE]
-> Администраторът на акаунта може също да конфигурира да изпраща фактури по имейл. За да научите повече, вижте [Получаване на вашата фактура в имейл](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Забележка:** Администраторът на акаунта може също да конфигурира да изпраща фактури по имейл. За да научите повече, вижте [Получаване на вашата фактура в имейл](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Как да добавите потребители към ролята на четец на плащания**
 
@@ -43,7 +42,7 @@ ms.locfileid: "54003558"
 2. Изберете **Access control (IAM) и** след това щракнете върху **Добави**.
 3. Изберете **Четец** за фактуриране **в страницата Избор на** роля.
 4. Въведете имейла на потребителя, който искате да поканите, и след това щракнете върху **OK,** за да изпратите поканата.
-5. Следвайте инструкциите, предоставени в имейла за покана, за да влезете като четец за фактуриране. За повече информация вижте Предоставяне [на достъп до фактурирането](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+5. Следвайте инструкциите, предоставени в имейла за покана, за да влезете като четец за фактуриране. За повече информация вижте Предоставяне [на достъп до фактуриране](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
 
 **Препоръчителни документи**
 
