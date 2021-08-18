@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899529"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318939"
 ---
 # <a name="cancel-power-bi"></a>Отмяна на Power BI
 
@@ -33,7 +33,6 @@ Power BI може да бъде отменен в Център за админи
 
 **Възстановяване на сума: Всеки процензиран кредит ще ви бъде върнат в рамките на следващия цикъл на фактуриране.**
 
-> [!NOTE]
-> Ако не виждате опцията за отмяна, изберете абонамента, за да видите страницата с подробни данни. В **секцията Настройки за абонамент и плащане** изберете Отмяна на **абонамент**.
+**Забележка:** Ако не виждате опцията за отмяна, изберете абонамента, за да видите страницата с подробни данни. В **секцията Настройки за абонамент и плащане** изберете Отмяна на **абонамент**.
 
 За да научите повече, вижте [Отмяна на абонамента ви](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

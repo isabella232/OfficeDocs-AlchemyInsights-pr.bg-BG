@@ -1,5 +1,5 @@
 ---
-title: На устройство с Windows 10 за разширена защита от заплахи за Microsoft Defender (MDATP)
+title: Onboard a Windows 10 към Microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091043"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>На устройство с Windows 10 за разширена защита от заплахи за Microsoft Defender (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Onboard a Windows 10 към Microsoft Defender Advanced Threat Protection (MDATP)
 
 MDATP поддържа следните инструменти и методи за разполагане за Windows 10:
 
 - Групови правила
 - Microsoft Endpoint Configuration Manager
-- Управление на мобилни устройства, включително Microsoft за настройване
+- Управление на мобилни устройства, включително Microsoft Intune
 - Локални скриптове
 
-За да научите повече, вижте [инструменти за внедряване и методи за устройства с Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
+За да научите повече, вижте [Инструменти и методи за Windows 10 устройства](https://go.microsoft.com/fwlink/?linkid=2143460).

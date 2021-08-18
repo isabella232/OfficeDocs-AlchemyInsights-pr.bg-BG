@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055543"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318637"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Как да разрешите хостваната гласова поща
 
@@ -29,7 +29,6 @@ ms.locfileid: "54055543"
 За повече информация относно свързването към RPS вж. Microsoft Teams общ преглед на [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) за повече информация относно свързването към RPS.
 
 1. Администраторът Teams трябва да е влязъл в Отдалечен PowerShell за Teams.
-1. От подканата на PowerShell администраторът на Teams може да изпълнява **set-csuser user@contoso.com -HostedVoiceMail $true** където sip uri е на въпросния потребител.
+1. От powerShell подкани администраторът на Teams може да изпълнява **set-csuser user@contoso.com -HostedVoiceMail $true** където sip uri е на въпросния потребител.
 
-> [!NOTE]
-> Промените в правилата могат да отнемат до 24 часа, за да се възпроизвеждат.
+**Забележка:** Промените в правилата могат да отнемат до 24 часа, за да се възпроизвеждат.

@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896920"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318551"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Как да направите Microsoft 365 покупка
 
-Можете да закупите абонамент Microsoft 365 за администриране в центъра за администриране.
+Можете да закупите абонамент Microsoft 365 в центъра за администриране.
   
 - За да закупите план, отидете на страницата **Услуги за** \> **[закупуване на](https://go.microsoft.com/fwlink/p/?linkid=868433)** плащания.
 - За да закупите допълнителни лицензи, отидете на страницата **Фактуриране** \> **[на вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти. Изберете абонамента, който искате да промените, след което изберете **Закупуване на лицензи**.\

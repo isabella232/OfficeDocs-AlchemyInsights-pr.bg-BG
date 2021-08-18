@@ -12,18 +12,18 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab1d8283bcd537cf666dd60b3a23459d4d1dfa8aa5167e2d6fb2a9b779b4b3e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115493"
 ---
 # <a name="information-about-gdpr"></a>Информация за ОРЗД
 
-- [Опростен ОРЗД: Ръководство за вашата малка фирма](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [Опростен ОРЗД: Ръководство за вашата малка фирма](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Първи стъпки с портала [за сигурност на услугите.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Първи стъпки с портала [за сигурност на услугата.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
 - За всичко, свързано със **Споразумението за обработка на** данни (DPA), прегледайте:
 
@@ -31,7 +31,7 @@ ms.locfileid: "57899425"
 
   - [Отчети за проверка](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Информация за **искания за субекти на данни** (DSR) – откриване, достъп, коригиране, ограничаване, изтриване, експортиране е [тук.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Информация за **искания за субекти на данни** (DSR) – откриване, достъп, коригиране, ограничаване, изтриване, експортиране е [тук.](/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Информацията за **известието за нарушаване на сигурността на данните** е [тук.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
