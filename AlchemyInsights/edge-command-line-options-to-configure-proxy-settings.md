@@ -1,5 +1,5 @@
 ---
-title: Използване на опции за команден ред за конфигуриране на настройките за прокси сървър в Microsoft Edge
+title: Използвайте опциите за команден ред, за да конфигурирате настройките за прокси Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118399"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Използване на опции за команден ред за конфигуриране на настройките за прокси сървър в Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Използвайте опциите за команден ред, за да конфигурирате настройките за прокси Microsoft Edge
 
-Във версии 77 и по-нови версии на Microsoft Edge мрежовият стек използва мрежовите настройки на системата по подразбиране. В хибридни сценарии, при които потребителите поискат алтернатива, Microsoft Edge поддържа опции за команден ред за конфигуриране на потребителски настройки на прокси сървър. За подробности вижте:
+В Microsoft Edge 77 и по-нови версии мрежовият стек използва мрежовите настройки на системата по подразбиране. В хибридни сценарии, при които потребителите изискват алтернатива, Microsoft Edge поддържа опции за команден ред за конфигуриране на потребителски настройки на прокси сървър. За подробности вижте:
 
 1. [Настройки на системната мрежа](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Опции за команден ред за настройките на прокси сървъра](https://go.microsoft.com/fwlink/?linkid=2134292)

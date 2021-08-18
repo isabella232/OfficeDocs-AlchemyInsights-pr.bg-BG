@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896704"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323275"
 ---
 # <a name="create-user"></a>Създаване на потребител
 
@@ -37,5 +37,5 @@ ms.locfileid: "57896704"
 1. Вижте имената [на домейните](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) за azure AD.
 1. Прегледайте [регистрационните файлове за](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) проверка, за да видите по-подробна информация за наскоро създаден или изтрит потребител, като например кой е изпълнил действието и кога.
 1. За повече информация относно добавянето на нови потребители вижте [Използване на портала на Azure за създаване на нов потребител във вашата Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Административни роли на Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Разрешения за роля на администратор в Azure Active Directory
+1. [Административни роли на Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Разрешения за роли на администратор в Azure Active Directory
 1. Можете също да [използвате Azure AD PowerShell, за да създадете нов потребител.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

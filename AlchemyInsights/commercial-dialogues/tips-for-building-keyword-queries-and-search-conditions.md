@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 8d653e97e1a95ac14e49bfe6e03af0b65da5a4c7
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 59c7a2d9d6484bbaa1103fb13a3aa4fbd5e2ab745208e9474362029cf6406234
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119093"
 ---
 # <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Съвети за създаване на заявки за ключови думи и условия за търсене
 
-Ето някои съвети за създаване на заявка за търсене и получаване на по-точни резултати:
+Ето някои съвети за изграждане на вашата заявка за търсене и получаване на по-точни резултати:
 
-1. Използвайте [езика за заявки на ключови думи (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) за синтаксиса на заявката.
-1. Използвайте [булеви оператори](https://go.microsoft.com/fwlink/?linkid=2101592) като и, или не.
-1. Използвайте [условията за търсене](https://go.microsoft.com/fwlink/?linkid=2102410) , като например дата, подател/автор, и подлежи на по-лесно намаляване на търсенето.
-1. Можете да търсите свойства на имейл съобщение, като например " **СК** " и " **Як**". Можете също да търсите свойства на SharePoint и OneDrive за бизнеса
+1. Използвайте [езика на заявката за ключови думи (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) за синтаксиса на заявката.
+1. Използвайте [булева оператори като](https://go.microsoft.com/fwlink/?linkid=2101592) AND, OR, NOT.
+1. Използвайте [условия за търсене,](https://go.microsoft.com/fwlink/?linkid=2102410) като например "Дата", "Подател/автор" и "Тема", за да стесните търсенето.
+1. Можете да търсите свойства на имейл съобщение, като **например bcc** и **cc**. Можете също да търсите SharePoint и OneDrive за бизнеса свойства
 
-За да научите повече, вижте [заявки за ключови думи и условия за търсене за търсене на съдържание](https://go.microsoft.com/fwlink/?linkid=2102411).
+За да научите повече, вижте [Заявки за ключови думи и условия за търсене на съдържание.](https://go.microsoft.com/fwlink/?linkid=2102411)
