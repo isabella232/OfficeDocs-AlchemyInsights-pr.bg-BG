@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317465"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Как да извършвате търсения на съдържание и откриване на електронни данни
 
@@ -31,13 +31,12 @@ ms.locfileid: "54086801"
 4. Въведете необходимите условия за търсене, включително ключови думи и местоположения на съдържанието.
 5. Изберете **Запиши &, за** да наимените търсенето, да го стартирате и след това да визуализирате резултатите.
 
-> [!NOTE]
-> В **Microsoft 365 решения на** центъра за съответствие разгънете откриване на електронни данни и изберете желания от вас инструмент за откриване на електронни  >  данни. 
+**Забележка:** **В Microsoft 365 решения** на центъра за съответствие разгънете откриване на електронни данни и изберете желания от  >  вас инструмент за откриване на електронни данни. 
 
-За подробни инструкции за търсения на съдържание, експортиране на резултати и създаване на случаи на откриване на електронни данни за задържане на данни вижте [Търсене](/microsoft-365/compliance/content-search) на съдържание и случаи на откриване [на електронни данни.](/microsoft-365/compliance/ediscovery-cases)
+За подробни инструкции за търсения на съдържание, експортиране на резултати и създаване [](https://docs.microsoft.com/microsoft-365/compliance/content-search) на случаи на откриване на електронни данни за задържане на данни вижте Търсене на съдържание и случаи на откриване [на електронни данни.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 **Повече информация**:
 
-- За повече информация относно инструментите за откриване на електронни данни в Microsoft 365 вижте [Откриване на електронни данни](/microsoft-365/compliance/ediscovery).
-- Научете повече за разрешенията, изискванията и ограниченията, необходими [](/microsoft-365/compliance/assign-ediscovery-permissions) за извършването на търсения за откриване на електронни данни от разрешения, необходими за търсения и изисквания и ограничения за откриване [на електронни данни.](/microsoft-365/compliance/limits-for-content-search)
-- Ако отстранявате проблеми с откриване на електронни данни, вижте Откриване на електронни данни Отстраняване на често [срещани проблеми](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) и [проучване на частично индексирани елементи](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- За повече информация относно инструментите за откриване на електронни данни в Microsoft 365 вижте [Откриване на електронни данни](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Научете повече за разрешенията, изискванията и ограниченията, необходими [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) за извършването на търсения за откриване на електронни данни от разрешения, необходими за търсения и изисквания и ограничения за откриване [на електронни данни.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Ако отстранявате проблеми с откриване на електронни данни, вижте Откриване на електронни данни Отстраняване на често [срещани проблеми](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) и [проучване на частично индексирани елементи](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

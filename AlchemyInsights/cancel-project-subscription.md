@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071393"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900417"
 ---
 # <a name="cancel-project-subscription"></a>Отмяна Project абонамент
 
@@ -32,4 +32,4 @@ ms.locfileid: "54071393"
 
 **Възстановяване на сумата:** Всеки процензиран кредит ще ви бъде върнат в рамките на следващия цикъл на фактуриране.
 
-За да научите повече, вижте [Отмяна на абонамента ви](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+За да научите повече, вижте [Отмяна на абонамента ви](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

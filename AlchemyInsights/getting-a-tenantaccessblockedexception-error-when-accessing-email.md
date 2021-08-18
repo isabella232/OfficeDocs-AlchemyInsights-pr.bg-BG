@@ -1,5 +1,5 @@
 ---
-title: 127 получавате съобщение за грешка, когато TenantAccessBlockedException за достъп до имейл?
+title: 127 Получаване на грешка TenantAccessBlockedException при достъп до имейл?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089429"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Получавате грешка в TenantAccessBlockedException при достъп до имейл?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Получавате грешка tenantAccessBlockedException при достъп до имейл?
 
 Има няколко различни причини, поради които може да получите тази грешка. Например:
 
-- Проверете дали абонаментът ви е валиден за страницата **Фактуриране** на \> **[вашите продукти](https://portal.office.com/adminportal/home#/subscriptions)** в центъра за администриране на Microsoft 365.
+- Уверете се, че абонаментът ви е валиден **на** \> **[страницата Фактуриране Вашите](https://portal.office.com/adminportal/home#/subscriptions)** продукти в Център за администриране на Microsoft 365.
 
-- Проверете за каквито и да е минали дължини на фактурите за **плащане** \> **[& payments](https://portal.office.com/adminportal/home#/billoverview)** в центъра за администриране на Microsoft 365.
+- Проверете за минали дължими известия на страницата **Фактуриране на** \> **[& плащания](https://portal.office.com/adminportal/home#/billoverview)** в Център за администриране на Microsoft 365.
 
-- Ако данните за фактуриране и абонамент за вашия акаунт са наскоро актуализирани, може да е необходимо известно време, за да се разпространят промените. Опитайте отново след няколко минути и ако проблемът продължава, свържете се с нас.
+- Ако фактурирането и абонаментите за вашия акаунт са актуализирани наскоро, може да е необходимо време, за да се разпространяват промените. Опитайте отново след няколко минути и ако проблемът продължава, свържете се с нас.
