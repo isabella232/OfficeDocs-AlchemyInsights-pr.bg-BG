@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316629"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Експортиране на елементи в архивен файл в Outlook for Mac
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100391"
 
 1. В раздела **Инструменти** щракнете върху **Експортиране**.
 
-> [!NOTE]
-> Не виждате бутона **Експортиране?** Уверете се, че имате най-новата версия на Outlook. В менюто Outlook **помощ** щракнете върху **Проверка за актуализации**. Ако всички Outlook се прилагат и все още не  виждате бутона Експортиране, потърсете Експортиране **в** менюто Outlook **файл.**
+    **Забележка:** Не виждате бутона **Експортиране?** Уверете се, че имате най-новата версия на Outlook. В менюто Outlook **помощ** щракнете върху **Проверка за актуализации**. Ако всички Outlook се прилагат и все още не  виждате бутона Експортиране, потърсете Експортиране **в** менюто Outlook **файл.**
 
 2. В полето **Експортиране в архивен файл (.olm)** поставете отметка в елементите, които искате да експортирате, и щракнете върху **Продължи**.
 
@@ -33,7 +32,7 @@ ms.locfileid: "54100391"
 
 4. След като данните ви бъдат експортирани и получите известие, щракнете върху **Готово**.
 
-За информация как да получите достъп до данните, които сте записали във файл с данни на Outlook for Mac (.olm), вижте Импортиране на имейл съобщения, контакти и други елементи [в Outlook 2016 for Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+За информация как да получите достъп до данните, които сте записали във файл с данни на Outlook for Mac (.olm), вижте Импортиране на имейл съобщения, контакти и други [елементи в Outlook 2016 for Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
 
 **Искам да експортирам в iCloud или в друг тип архивен файл**
 

@@ -1,5 +1,5 @@
 ---
-title: Проблеми при влизане в приложения на Microsoft 365
+title: Проблеми при влизане в Microsoft 365 приложения
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087989"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Проблеми при влизане в приложенията на Microsoft 365
+# <a name="issues-signing-into-microsoft-365-apps"></a>Проблеми при влизане в Приложения на Microsoft 365
 
-За да коригирате проблеми с влизането с приложенията на Microsoft 365, изпробвайте следните опции на засегнатия компютър:  
+За да коригирате проблеми с влизането Microsoft 365 приложения, изпробвайте следните опции на засегнатия компютър:  
 
-- За Windows вижте [Препоръки за отстраняване на често срещани проблеми при влизане](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- За Mac вижте  [Не можете да влезете в приложение на Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- За Windows вижте [Препоръки разрешаването на често срещани](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) проблеми при влизане
+- За Mac вижте [Не може да влезете в приложение Office 2016 for Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Съвет** На компютри с Windows можем да диагностицираме и автоматично да коригираме няколко често срещани проблема с влизането в Office. Изтеглете и стартирайте  **[помощника за поддръжка и възстановяване на Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашия автоматизиран инструмент.
+**Съвет** На Windows компютри можем да диагностицираме и автоматично да коригираме няколко често срещани Office за влизане. Изтеглете и стартирайте **[microsoft Помощник за поддръжка и възстановяване,](https://aka.ms/SaRA-OfficeSignInScenario)** за да използвате нашия автоматизиран инструмент.
 
-**Забележка:** Забраняването на модерното удостоверяване (ADAL) или управлението на уеб акаунти (WAM) за отстраняване на проблеми с влизането или активирането **не се препоръчва.** Ако възникнат грешки при свързване с Microsoft 365 с помощта на Office 2013, уверете се, че [разрешавате модерно удостоверяване за](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  клиент на Office.
+**Забележка:** Забраняването на модерното удостоверяване (ADAL) или управлението на уеб акаунти (WAM) за отстраняване на проблеми с влизането или активирането **не се препоръчва.** Ако възникнат грешки при свързване към Microsoft 365 с Office 2013, уверете [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) се, че разрешавате модерно удостоверяване за Office клиент.
 
 За конкретни действия за отстраняване на неизправности вижте:
 
-[Проблеми с връзката при влизане след актуализация до компилация на Office 2016 16.0.7967 на Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[Проблеми с връзката при влизане след актуализация до Office 2016 компилация 16.0.7967 на Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Не можете да влезете в своя организационно акаунт, като например Office 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Не можете да влезете във вашия организационно акаунт, като Office 365, Azure или Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
 [Как да отстранявате неизправности с приложения, които не са браузъри, които не могат да впишат в Office 365, Azure или Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 

@@ -15,19 +15,18 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986727"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316439"
 ---
 # <a name="license-or-subscription-faq"></a>ЧЗВ за лиценз или абонамент
 
 - За да намерите абонаментите или лицензите, притежавани от вашата организация, отидете на **Фактуриране**  >  [на вашите продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 - [Добавяне или премахване на лицензи](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) от абонамент.
-    > [!NOTE]
-    > Все още се таксувате за лицензи, които не са присвоени на потребители. За да предотвратите нежелани такси, премахнете лицензите, за да намалите броя на лицензите.
+    **Забележка:** Все още се таксувате за лицензи, които не са присвоени на потребители. За да предотвратите нежелани такси, премахнете лицензите, за да намалите броя на лицензите.
 . [Прехвърляне на лицензи между акаунти](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants).
 - [Повторно активиране на изтекъл или забранен абонамент.](https://go.microsoft.com/fwlink/p/?linkid=2117519)
 - [Редактирайте метода на плащане, използван за плащане за абонамента.](https://go.microsoft.com/fwlink/p/?linkid=2117167)
