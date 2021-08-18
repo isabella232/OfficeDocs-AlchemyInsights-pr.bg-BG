@@ -1,5 +1,5 @@
 ---
-title: Първи стъпки в инструментите за разработчици в Microsoft Edge (хром)
+title: Първи стъпки в инструментите за разработчици в Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116357"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Първи стъпки в инструментите за разработчици в Microsoft Edge (хром)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Първи стъпки в инструментите за разработчици в Microsoft Edge (Chromium)
 
-Microsoft Edge е приел проекта с отворен код на хром, който има за цел да направи уеб по-малко фрагментиран и уеб платформите по-съвместими. Тази промяна ще ви позволи да използвате Microsoft Edge, за да създавате и тествате уеб сайтовете, които работят в други браузъри, базирани на хром.
+Microsoft Edge е приела проекта Chromium с отворен код, който има за цел да направи уеб по-малко фрагментирани и уеб платформи по-съвместими. Тази промяна ще ви даде възможност да използвате Microsoft Edge, за да създавате и тествате уеб сайтовете си, които работят Chromium базирани браузъри.
 
-Microsoft Edge (хром) предлага и [най-важните инструменти за разработчици](https://go.microsoft.com/fwlink/?linkid=2134941) , които трябва да ви бъдат познати и съвместими с инструментите, които вече използвате.
+Microsoft Edge (Chromium) също така предоставя [най-добрите](https://go.microsoft.com/fwlink/?linkid=2134941) инструменти за разработчици в класа, които трябва да са ви познати и съвместими с инструментите, които вече използвате.
 
-За да научите повече, вижте [Какво е новото в Microsoft Edge (хром) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+За да научите повече, вижте [Какво е новото в Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

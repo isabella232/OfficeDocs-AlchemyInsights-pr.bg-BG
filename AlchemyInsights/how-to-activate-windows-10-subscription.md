@@ -1,5 +1,5 @@
 ---
-title: Как да активирате абонамент за Windows 10
+title: Как да активирате Windows 10 абонамент
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5718008132a47db113411856de4c4b75d7ac2ed97e5a06c796c5be06c535b932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116141"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Активиране на абонаменти за Windows 10
 
-Microsoft 365 Business Premium, Office 365 Education, Microsoft 365 и Enterprise предоставят цифрови лицензи за Windows 10 като част от абонамента. За да активирате абонамента, вашето устройство трябва вече да има активиран Windows 10 Pro (1703 или по-нова версия). За да видите пълен списък с изисквания за активиране на абонамент за Windows 10, вижте Изисквания за [активиране на абонамент за Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+Microsoft 365 Business Premium, Office 365 Education, Microsoft 365 и Enterprise предоставят цифрови лицензи за Windows 10 като част от абонамента. За да активирате абонамента, вашето устройство трябва вече да има активиран Windows 10 Pro (1703 или по-нова версия). За да видите пълен списък с изисквания за активиране на абонамент Windows 10 вижте [Windows 10 за активиране на абонамент.](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)

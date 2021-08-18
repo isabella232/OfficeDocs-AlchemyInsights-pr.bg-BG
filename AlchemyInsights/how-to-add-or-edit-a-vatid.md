@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502165"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319489"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Как се добавя или редактира VatID
 
-> [!NOTE]
-> Ако сте в страна, която използва данък добавена стойност (ДДС), като например Обединеното кралство, Microsoft Invoicing изчислява ДДС за вас и прилага сумата към вашите фактури. За повече информация вижте [Отказ от отговорност на VIES,](https://go.microsoft.com/fwlink/p/?LinkID=841741) публикуван от Европейската комисия.
+**Забележка:** Ако сте в страна, която използва данък добавена стойност (ДДС), като например Обединеното кралство, Microsoft Invoicing изчислява ДДС за вас и прилага сумата към вашите фактури. За повече информация вижте [Отказ от отговорност на VIES,](https://go.microsoft.com/fwlink/p/?LinkID=841741) публикуван от Европейската комисия.
 
 **Добавяне или редактиране на VatID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502165"
 3. На страницата с подробни данни за абонамента, в **секцията Адрес за използване** на услугата изберете **Редактиране на адрес за използване на услугата**.
 4. В екрана **Редактиране на адреса за използване на услугата** въведете своя ИД по ДДС в полето НОМЕР ПО **ДДС,** след което изберете **Запиши**. След като направите това, ДДС няма да бъде таксуван за следващата ви сметка.
 
-За да научите повече, [вижте Какъв данък ще таксувам за Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+За да научите повече, [вижте Какъв данък ще таксувам за Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

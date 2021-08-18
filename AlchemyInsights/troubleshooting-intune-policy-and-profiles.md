@@ -1,5 +1,5 @@
 ---
-title: Отстраняване на проблеми с правилата и профилите
+title: Отстраняване на неизправности с правила и профили в Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092399"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Отстраняване на проблеми с правилата и профилите
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Отстраняване на неизправности с правила и профили в Intune
 
-За да видите съществуващите правила, отстраняване на конфликти, преглед на данните в регистрационните файлове и виждане на често срещани въпроси и проблеми, следващите водачи може да ви помогнат.
+За да видите съществуващите правила, да отстранявате конфликти, да преглеждате регистрационни данни и да виждате често срещани въпроси и проблеми, може да ви помогнат следните ръководства.
 
-- [Отстраняване на проблеми с правилата и профилите](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Отстраняване на неизправности с правила и профили в Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Често срещани въпроси, проблеми и резолюции с правилата и профилите на устройството в съзвучие](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Често срещани въпроси, проблеми и решения с правила за устройства и профили в Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Наблюдение на профили на конфигурацията на устройството и преглед на конфликтите в настройка](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Следене на профилите за конфигуриране на устройства и преглед на конфликтите в Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Отстраняване на неизправности при съответствие на устройства и условен достъп](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Отстраняване на неизправности при съответствие с устройството и условен достъп в Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Следене на правилата за съответствие и преглед на конфликтите в съзвучие](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Наблюдение на правилата за съответствие и преглед на конфликтите в Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Изпращане на данни от регистрационния файл в Azure, центрове за събития или анализи на регистрационни файлове](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Изпращане на данни от регистрационния файл на Intune към място за съхранение в Azure, центрове за събития или анализи на регистрационни файлове](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Вижте Обзор, за да [конфигурирате устройства](https://docs.microsoft.com/intune/device-profiles) или да [използвате правила за съответствие](https://docs.microsoft.com/intune/device-compliance-get-started).
+Вижте общ преглед, за [да конфигурирате устройства или](https://docs.microsoft.com/intune/device-profiles) да използвате правила за [съответствие.](https://docs.microsoft.com/intune/device-compliance-get-started)
