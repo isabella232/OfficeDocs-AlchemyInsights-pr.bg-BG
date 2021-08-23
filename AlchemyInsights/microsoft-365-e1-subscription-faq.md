@@ -3,7 +3,7 @@ title: Често задавани въпроси за абонамент за M
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 0a93db6dff637d4f930e11645edb194a36ed0b1164474d8a2d69ee97d5d5a6c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 970055eec05fd2ed096a8da6bddd1669f0d0da9a
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925046"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451047"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Често задавани въпроси за абонамент за Microsoft 365 E1 и управлението на лицензи
 
 - За да сравните Microsoft 365 E1, E3, E5, вижте [Сравняване на плановете на Office 365 Enterprise](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans).
 - За да **закупите** план Е1, отидете на **Фактуриране > [Закупуване на услуги](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Използвайте полето за търсене, за да търсите в "E1", изберете плана и броя потребители. [Закупуване на друг абонамент](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - За да **промените плана**, вижте [Надстройване до друг план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- За **да присвоите** лицензи за E1 на потребители, отидете **на Фактуриране > [лицензи](https://go.microsoft.com/fwlink/p/?linkid=842264)**. За повече информация вижте [Даване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- За **да присвоите** лицензи за E1 на потребители, отидете **на Фактуриране > [Лицензи](https://go.microsoft.com/fwlink/p/?linkid=842264)**. За повече информация вижте [Даване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - За **да закупите или премахнете** лицензи за E1, отидете на Фактуриране > Вашите **[продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)** За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- За **да** отмените абонамент за E1, **отидете на Фактуриране >[Вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти , изберете абонамента и в **секцията Настройки** на абонамента и плащане изберете Отмяна на **абонамент**. За повече информация, вижте [Отмяна на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- За **да** отмените абонамент за E1, **отидете на Фактуриране >[Вашите](https://go.microsoft.com/fwlink/p/?linkid=842054)** продукти , изберете абонамента и в секцията **Настройки** на абонамента и плащане изберете Отмяна **на абонамент**. За повече информация, вижте [Отмяна на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - За **да активирате** абонамент за E1, вижте Активиране на вашия [абонамент.](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)
 - За **да активирате отново абонамент** за E1, вижте Повторно активиране на вашия [абонамент.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
 - За **да удължите** пробна версия на E1, вижте [Удължаване на пробната версия](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

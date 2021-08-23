@@ -3,8 +3,7 @@ title: Предплатена карта на дребно
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,16 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320978"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451911"
 ---
 # <a name="retail-prepaid-card"></a>Предплатена карта на дребно
 
-Ако сте закупили Microsoft 365 Business Standard от магазин за продажби на дребно, използвайте следните стъпки, за да удължите срока на валидност или да добавите лиценз към съществуващ абонамент.
+Ако сте закупили Microsoft 365 Business Standard от магазин за продажба на дребно, използвайте следните стъпки, за да удължите срока на валидност или да добавите лиценз към съществуващ абонамент.
 
 **Забележка:** За да използвате продуктов ключ, за да удължите срока на валидност или да добавите лиценз към вашия съществуващ абонамент за Microsoft 365 Business Standard, ви трябва нов и неизползван ключ за същия Microsoft 365 абонамент. Въвеждането на първоначалния Microsoft 365 продуктов ключ няма да работи, защото ключ, който вече е бил използван, не може да се използва отново.
 

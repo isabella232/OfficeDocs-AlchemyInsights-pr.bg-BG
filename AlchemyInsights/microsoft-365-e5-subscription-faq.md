@@ -3,7 +3,7 @@ title: Често задавани въпроси за абонамент за M
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 53f94337d3c6ad032e21bc4e8e9484ee937a0c3153543558e960c8f96c838569
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b3a0969b21b4a904b211b6fae135895e760d4290
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925010"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450867"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Често задавани въпроси за абонамент за Microsoft 365 E5 и управлението на лицензи
 
@@ -27,10 +27,10 @@ ms.locfileid: "53925010"
 - За да **закупите** план Е5, отидете на **Фактуриране > [Закупуване на услуги](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Използвайте полето за търсене, за да търсите в "Е5", изберете плана и броя потребители. [Закупуване на друг абонамент](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - За да **промените плана**, вижте [Надстройване до друг план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - За **да присвоите** лицензи за E5 на потребители, отидете **на Фактуриране > [Лицензи.](https://go.microsoft.com/fwlink/p/?linkid=842264)** За повече информация вижте [Даване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- За **да закупите или премахнете** лицензи за E5, отидете на Фактуриране > Вашите **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**. За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- За **да закупите или премахнете** лицензи за E5, отидете на Фактуриране > Вашите **[продукти.](https://go.microsoft.com/fwlink/p/?linkid=842054)** За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - За **да** отмените абонамент за E5, отидете **на Фактуриране >Вашите [продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**, изберете абонамента и в **секцията Настройки** на абонамента и плащане изберете Отмяна на **абонамент**. За повече информация, вижте [Отмяна на вашия абонамент](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- За **да активирате** абонамент за E5, вижте Активиране на вашия [абонамент](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- За **да активирате отново абонамент** за E5, вижте Повторно активиране на [абонамента ви.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
+- За **да активирате** абонамент за E5, вижте Активиране на вашия [абонамент.](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)
+- За **да активирате отново абонамент** за E5, вижте Повторно активиране на вашия [абонамент.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
 - За **да удължите** пробна версия на E5, вижте [Удължаване на пробната версия](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
 За повече информация, вижте [Закупуване или премахване на лицензи](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
