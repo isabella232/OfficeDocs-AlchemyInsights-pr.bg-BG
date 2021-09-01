@@ -3,6 +3,7 @@ title: Активиране или повторно активиране на а
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314301"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842863"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Активиране или повторно активиране на абонамент
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314301"
 
 - За да дадете на потребителите достъп до услугата, им дайте лиценз. За да научите как, вижте [Даване на лицензи на потребители](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Ако вече имате присвоен лиценз, можете да намерите приложения, които можете да изтеглите от страницата [Моят акаунт](https://portal.office.com/account/#installs). Тази страница предоставя списък с приложенията, които са налични за изтегляне въз основа на присвоените лицензи.
-- Ако вече сте изтеглили приложенията Office, може да се наложи да влезете в приложенията със своя работен или учебен акаунт. Можете да направите това във всяко приложение Office (Word, Excel и т.н.), като щракнете   >  **върху Файл Office акаунт** (близо до дъното). Под **Информация за потребителя** изберете Превключване на **акаунт**. За повече информация вижте [Инсталиране Office приложения](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ако вече сте изтеглили приложенията Office, може да се наложи да влезете в приложенията със своя работен или учебен акаунт. Можете да направите това във всяко Office (Word, Excel и т.н.), като щракнете   >  **върху Файл Office акаунт** (близо до дъното). Под **Информация за потребителя** изберете Превключване на **акаунт**. За повече информация вижте [Инсталиране Office приложения](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Повторно активиране на абонамент**
 
