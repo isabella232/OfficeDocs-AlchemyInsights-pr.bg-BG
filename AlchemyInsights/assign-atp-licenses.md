@@ -3,7 +3,6 @@ title: Назначаване на Microsoft Defender за Office 365 лицен
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 39f8e86e9b7c766ca4a901717c00a472e73288a3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328091"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845167"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Назначаване на Microsoft Defender за Office 365 лицензи
 
-Microsoft Defender за Office 365 могат да бъдат присвоени на потребители в Администриране на Microsoft 365 център.
+Microsoft Defender за Office 365 може да бъде присвоен на потребители в Администриране на Microsoft 365 център.
 
 1. Отидете на  >  [Лицензи за фактуриране](https://go.microsoft.com/fwlink/p/?linkid=842264).
 2. Изберете продукт, за който искате да дадете лицензи.
