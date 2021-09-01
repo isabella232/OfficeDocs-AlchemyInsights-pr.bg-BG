@@ -3,7 +3,6 @@ title: Помогнете за разбирането на вашата смет
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +14,20 @@ ms.custom:
 - commerce_billing
 - "267"
 - "1500005"
+ms.date: 04/21/2020
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bc7efe00f9b7719753ad269f511a34af1f2df1200575a43f61b916a2a735ae12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 18f78073f963778b163835989f93f79309f451bb
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893340"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842070"
 ---
 # <a name="help-understanding-your-bill"></a>Помогнете за разбирането на вашата сметка
 
 Сумата, таксувана за вашия абонамент, отразява цената на лиценза, умножена по броя закупени лицензи и всички необходими данъци/такси.
   
-Ако таксуваната сума е различна, тогава се очаква, има няколко причини, поради които това може да се случи:
+Ако таксуваната сума е различна след това очаквана, има няколко причини, поради които това може да се случи:
   
 - Лицензите са добавени или премахнати от вашия абонамент. Когато лицензите се променят в средата на срока, това се отразява на следната фактура. Можете да видите кредит и нова сметка за предишния период на услугата, за да се отчете тази промяна.
 

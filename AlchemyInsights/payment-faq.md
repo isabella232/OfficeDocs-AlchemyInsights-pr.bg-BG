@@ -3,7 +3,6 @@ title: ЧЗВ за плащане
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +13,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895696"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841890"
 ---
 # <a name="payment-faq"></a>ЧЗВ за плащане
 
 Управление на плащания в **Център за администриране на Microsoft 365**.
 
 - Отидете на **Фактуриране > [вашите продукти, за да присвоите](https://go.microsoft.com/fwlink/p/?linkid=842054)** или промените методите на плащане за абонамент.
-- Отидете на **Методи > [плащане,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** за да добавяте, актуализирате, замествате или изтривате методи на плащане.
+- Отидете на **Фактуриране > [за плащане,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** за да добавяте, актуализирате, замествате или изтривате методи на плащане.
 
 - **Методи на плащане** – ако плащате с кредитна карта или банкова сметка, методът на плащане, който е свързан с абонамента ви (ите), се таксува в рамките на няколко дни след създаването на фактурата. Ако плащането е неуспешно, актуализирайте метода на плащане. За повече информация вижте Управление [на методите на плащане](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
