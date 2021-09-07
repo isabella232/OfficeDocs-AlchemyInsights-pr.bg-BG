@@ -1,5 +1,5 @@
 ---
-title: Връзки на Microsoft Viva Наличност
+title: Настройване на настолното приложение Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000453"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923687"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Връзки на Microsoft Viva Наличност
+# <a name="set-up-the-viva-connections-desktop-app"></a>Настройване на настолното приложение Viva Connections
 
-Връзки на Microsoft Viva ще бъдат налични за работния плот през първата половина на 2021 г. и за мобилни устройства през лятото на 2021 г. Допълнителни функции ще бъдат внедро в течение на 2022 г.
+Има две основни изисквания за Viva Connections за Teams настолната версия. 
 
-За повече информация вижте как Връзки на Microsoft Viva [помага на всеки да остане ангажиран и информиран.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Лентата SharePoint приложения трябва да бъде включена и разрешена, за да може клиентът да получи пълните предимства на Viva Connections. Настоятелно се препоръчва да използвате домашния сайт като място за кацане в Teams. 
+- Първата версия на Viva Connections може да бъде осигурена чрез центъра на Microsoft за изтегляния с помощта на PowerShell (използвайте най-актуалната версия [на SharePoint PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps)). След това Viva Connections се качва като приложение в центъра Teams администриране. Скриптът на PowerShell е наличен от 31 март 2021 г. Изтеглете настолната версия на Viva Connections от официалния [център на Microsoft за изтегляния.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+За повече информация вижте Добавяне на [viva връзки за Microsoft Teams настолната](https://docs.microsoft.com/SharePoint/viva-connections) [версия Microsoft Teams общ преглед на PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
