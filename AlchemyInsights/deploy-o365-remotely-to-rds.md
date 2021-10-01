@@ -13,39 +13,48 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
+ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
 ms.translationtype: MT
 ms.contentlocale: bg-BG
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325592"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040995"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Разполагане Приложения на Microsoft 365 за предприятия за споделена употреба на RDS, терминален сървър или VDI
 
-За да разположите Приложения на Microsoft 365 за предприятия с помощта на услуги за отдалечен работен плот (RDS), наречени преди терминални услуги:
+За да разположите Приложения на Microsoft 365 с помощта на услуги за отдалечен работен плот (RDS), бивши терминални услуги, трябва:
 
-- Трябва да имате план Microsoft 365 за бизнеса или план за Office 365, който включва Приложения на Microsoft 365 за предприятия, като например Office 365 Enterprise E3 или Enterprise E5.
-   **Забележка:** Плановете Приложения на Microsoft 365 за бизнеса и Microsoft 365 Business Standard не включват Приложения на Microsoft 365 за предприятия.
-- Трябва да разрешите [активирането на споделен компютър](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Използвайте лесната корекция, за да разрешите TLS 1.2 по подразбиране, ако използвате по-стара версия на Windows (например Windows 7 SP1, Windows Server 2008 R2). За лесна корекция и повече информация вижте Актуализиране, за да [разрешите TLS 1.1 и TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)като защитени протоколи по подразбиране в WinHTTP в Windows. 
+- Имате план, който включва Приложения на Microsoft 365 за предприятия (преди Office 365 Plus). Например Office 365 E3 или Microsoft 365 E5 или план, който включва настолната версия на Project или Visio, като например Project (план 3) или Visio (план 2), или плана на Microsoft 365 Business Premium, който включва и Приложения на Microsoft 365 за бизнеса.
+- Разрешаване на активирането на споделен компютър. За повече информация вижте Общ [преглед на активирането на споделен компютър за Приложения на Microsoft 365](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Забележка:** Можете също да изтеглите и изпълните [microsoft Помощник за поддръжка и възстановяване,](https://aka.ms/SaRA_OfficeSCA_M365Portal) за да инсталирате Приложения на Microsoft 365 за предприятия в режим на активиране на споделен компютър.
+**Забележка:** За да Приложения на Microsoft 365 в режим на активиране на споделен компютър, изтеглете и изпълнете [microsoft Помощник за поддръжка и възстановяване.](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds) За подробности относно предварителните изисквания, инструкциите за настройка и указанията за персонализиране на инсталациите с помощта на инструмента за разполагане на Office вижте [Разполагане на Приложения на Microsoft 365 с помощта на услуги за отдалечен работен плот](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
-За повече информация относно предварителните изисквания, инструкциите за настройка и указанията за персонализирани инсталации с помощта на инструмента за разполагане на Office вижте [Разполагане на Приложения на Microsoft 365 за предприятия с помощта на услуги за отдалечен работен плот](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+За да коригирате грешки, свързани с активирането на споделен компютър, вижте:
 
-За да коригирате грешки, свързани с активирането на споделен компютър:
+- [Отстраняване на проблеми с активирането на споделен компютър за Приложения на Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Начално състояние Приложения на Microsoft 365 за предприятия на активиране](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- Вижте [Отстраняване на проблеми с активирането на споделен компютър за Приложения на Microsoft 365 за предприятия](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Вижте [Нулиране на приложенията на Microsoft 365 за състоянието на корпоративно активиране](https://go.microsoft.com/fwlink/?linkid=2109218).
+Ако искате да инсталирате Приложения на Microsoft 365 на RDS от Център за администриране на Microsoft 365, който използва настройките за инсталиране по подразбиране, изпълнете следните стъпки:
 
-Ако искате да инсталирате Приложения на Microsoft 365 за предприятия на RDS от Център за администриране на Microsoft 365, който използва настройките ***за инсталиране по подразбиране,*** използвайте следните стъпки:
+1. Проверете какъв Microsoft 365 план имате. За повече информация вижте [Какъв абонамент имам?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 
-1. Проверете какъв абонамент имате. [Научете как](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2. Ако е необходимо, преминете към друг абонамент. [Научете как](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. Ако Office вече е инсталиран на RDS сървъра с помощта на други абонаменти на Microsoft, деинсталирайте го. Например, като отивате в **Контролен**  >  **панел Деинсталиране на програма**. Деинсталирайте [с помощта Помощник за поддръжка и възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy) Microsoft, ако срещате проблеми.
-4. На RDS сървъра влезте в Център за администриране на Microsoft 365 с вашия акаунт на администратор и [инсталирайте Приложения на Microsoft 365 за предприятия.](https://portal.office.com/OLS/MySoftware.aspx)
-5. След Office е инсталиран, не отваряйте и ***не влизайте*** в никакви Office приложения.
-6. На RDS сървъра разрешете активирането на споделен компютър, като редактирате системния регистър, като изпълните следните стъпки:
+1. Ако е необходимо, превключете на друг Microsoft 365 план. За повече информация вижте [Надстройване до друг план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+
+1. Ако Приложения на Microsoft 365 вече е инсталиран на RDS сървъра с помощта на други несъвместими планове, деинсталирайте го, като **отивате в Контролен**  >  **панел Деинсталиране на програма**. Ако имате проблеми, деинсталирайте, като изтеглите [Microsoft Помощник за поддръжка и възстановяване](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. На RDS сървъра влезте в Център за администриране на Microsoft 365 вашия акаунт на администратор и [инсталирайте Office.](https://portal.office.com/OLS/MySoftware.aspx)
+
+   След Office е инсталиран, не отваряйте и не влизайте в никакви Office приложения.
+
+1. На RDS сървъра разрешете активирането на споделен компютър, като редактирате системния регистър:
+
    1. Щракнете с десния бутон Windows бутона в долния ляв ъгъл на екрана и изберете **Изпълнение**. В полето Отвори въведете **regedit** и след това изберете **OK**.
-   2. Изберете **Да,** когато получите подкана да разрешите на редактора на системния регистър да прави промени във вашето устройство.
-   3. В редактора на системния регистър добавете стойност на низ на **SharedComputerLicensing** с настройка 1 под HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. На RDS сървъра влезте като ***краен потребител*** и се уверете, че активирането на споделен [компютър е разрешено за Приложения на Microsoft 365 за предприятия.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
+
+   1. Когато получите подкана да разрешите на редактора на системния регистър да прави промени на вашето устройство, изберете **Да**.
+
+   1. В редактора на системния регистър, под HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration добавете стойност на низ на **SharedComputerLicensing** с настройка **1** .
+
+1. На RDS сървъра влезте като краен потребител и се уверете, че активирането на споделен компютър е разрешено за Приложения на Microsoft 365. 
+
+   За подробности вижте Проверка дали [активирането на споделен компютър е разрешено за Приложения на Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
